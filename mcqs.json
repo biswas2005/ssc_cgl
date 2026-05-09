@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "question": "What is the value of 2 + 2?",
+    "options": [
+      "A. 2",
+      "B. 3",
+      "C. 4",
+      "D. 5"
+    ],
+    "answer": "C",
+    "description": "2 + 2 equals 4."
+  },
+  {
+    "id": 2,
+    "question": "Who is known as the Father of the Nation?",
+    "options": [
+      "A. Nehru",
+      "B. Gandhi",
+      "C. Patel",
+      "D. Bose"
+    ],
+    "answer": "B",
+    "description": "Mahatma Gandhi is called the Father of the Nation in India."
+  }
+]

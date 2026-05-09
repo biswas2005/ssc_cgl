@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SSC CGL MCQs</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+            background-color: #f4f4f4;
+        }
+
+        .mcq {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            margin: 8px 0;
+        }
+
+        .answer {
+            color: green;
+            font-weight: bold;
+        }
+
+        .description {
+            margin-top: 10px;
+            color: #555;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>SSC CGL MCQs</h1>
+
+{{range .}}
+<div class="mcq">
+
+    <h2>Q{{.ID}}. {{.Question}}</h2>
+
+    <ul>
+        {{range .Options}}
+        <li>• {{.}}</li>
+        {{end}}
+    </ul>
+
+    <p class="answer">
+        Correct Answer: {{.Answer}}
+    </p>
+
+    <p class="description">
+        Explanation: {{.Description}}
+    </p>
+
+</div>
+{{end}}
+
+</body>
+</html>
