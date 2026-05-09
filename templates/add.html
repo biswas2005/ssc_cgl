@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add MCQ</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            margin: 40px;
+            background: #f4f4f4;
+        }
+
+        form {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            width: 500px;
+        }
+
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            margin-top: 10px;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+<h1>Add New MCQ</h1>
+
+<form action="/submit" method="POST">
+
+    <label>Question</label>
+    <textarea name="question" required></textarea>
+
+    <label>Option 1</label>
+    <input type="text" name="option1" required>
+
+    <label>Option 2</label>
+    <input type="text" name="option2" required>
+
+    <label>Option 3</label>
+    <input type="text" name="option3" required>
+
+    <label>Option 4</label>
+    <input type="text" name="option4" required>
+
+    <label>Correct Answer</label>
+    <input type="text" name="answer" required>
+
+    <label>Explanation</label>
+    <textarea name="description" required></textarea>
+
+    <button type="submit">
+        Save MCQ
+    </button>
+
+</form>
+
+</body>
+</html>
