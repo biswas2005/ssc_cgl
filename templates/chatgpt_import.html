@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Import From ChatGPT</title>
+
+    <style>
+
+        body {
+            font-family: Arial;
+            margin: 40px;
+            background: #f4f4f4;
+        }
+
+        textarea {
+            width: 100%;
+            height: 500px;
+            padding: 10px;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<h1>Import MCQs From ChatGPT</h1>
+
+<label>Subject</label>
+
+<select name="subject" required>
+    <option value="Algebra">Algebra</option>
+    <option value="Trigonometry">Trigonometry</option>
+    <option value="Geometry">Geometry</option>
+    <option value="History">History</option>
+    <option value="Affairs">Affairs</option>
+    <option value="Polity">Polity</option>
+    <option value="English">English</option>
+    <option value="Number_system">Number_system</option>
+    <option value="FOA">FOA</option>
+    <option value="Mensuration">Mensuration</option>
+    <option value="Stats_Prob">Stats_Prob</option>
+    <option value="Computers">Computers</option>
+</select>
+
+<form action="/chatgpt-submit" method="POST">
+
+    <textarea
+        name="mcqs"
+        placeholder="Paste ChatGPT MCQs here..."
+        required></textarea>
+
+    <br>
+
+    <button type="submit">
+        Import MCQs
+    </button>
+
+</form>
+
+</body>
+</html>
