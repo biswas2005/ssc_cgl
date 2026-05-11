@@ -10,6 +10,7 @@ import (
 
 type MCQ struct {
 	ID          int      `json:"id"`
+	Subject     string   `json:"subject"`
 	Question    string   `json:"question"`
 	Options     []string `json:"options"`
 	Answer      string   `json:"answer"`
@@ -41,9 +42,21 @@ func saveMCQs() {
 }
 
 func homeHandler(w http.ResponseWriter, r *http.Request) {
-	tmpl := template.Must(template.ParseFiles("templates/index.html"))
+	subjectFilter := r.URL.Query().Get("subject")
+	var filteredMCQs []MCQ
 
-	err := tmpl.Execute(w, mcqs)
+	if subjectFilter == "" {
+		filteredMCQs = mcqs
+	} else {
+		for _, mcq := range mcqs {
+			if mcq.Subject == subjectFilter {
+				filteredMCQs = append(filteredMCQs, mcq)
+			}
+		}
+	}
+
+	tmpl := template.Must(template.ParseFiles("templates/index.html"))
+	err := tmpl.Execute(w, filteredMCQs)
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 	}
@@ -64,6 +77,7 @@ func addMCQHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
+	subject := r.FormValue("subject")
 	question := r.FormValue("question")
 
 	option1 := r.FormValue("option1")
@@ -76,6 +90,7 @@ func addMCQHandler(w http.ResponseWriter, r *http.Request) {
 
 	newMCQ := MCQ{
 		ID:       len(mcqs) + 1,
+		Subject:  subject,
 		Question: question,
 		Options: []string{
 			option1,

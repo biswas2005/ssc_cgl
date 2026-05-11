@@ -1,26 +1,41 @@
 [
-  {
-    "id": 1,
-    "question": "What is the value of 2 + 2?",
-    "options": [
-      "A. 2",
-      "B. 3",
-      "C. 4",
-      "D. 5"
-    ],
-    "answer": "C",
-    "description": "2 + 2 equals 4."
-  },
-  {
-    "id": 2,
-    "question": "Who is known as the Father of the Nation?",
-    "options": [
-      "A. Nehru",
-      "B. Gandhi",
-      "C. Patel",
-      "D. Bose"
-    ],
-    "answer": "B",
-    "description": "Mahatma Gandhi is called the Father of the Nation in India."
-  }
+ {
+  "id": 1,
+  "subject": "Algebra",
+  "question": "What is the value of 2 + 2?",
+  "options": [
+   "A. 2",
+   "B. 3",
+   "C. 4",
+   "D. 5"
+  ],
+  "answer": "C",
+  "description": "2 + 2 equals 4."
+ },
+ {
+  "id": 2,
+  "subject": "History",
+  "question": "Who is known as the Father of the Nation?",
+  "options": [
+   "A. Nehru",
+   "B. Gandhi",
+   "C. Patel",
+   "D. Bose"
+  ],
+  "answer": "B",
+  "description": "Mahatma Gandhi is called the Father of the Nation in India."
+ },
+ {
+  "id": 3,
+  "subject": "FOA",
+  "question": ". The following table shows the marks (out \r\nof 100) obtained by five students in five \r\ndifferent subjects.\r\nStudent\r\n/Subject\r\nTarun Rohit Mohit Shobhit Sumit\r\nMaths 65 69 73 76 90\r\nPhysics 80 76 84 85 88\r\nChemistry 75 84 77 76 78\r\nEnglish 85 88 90 86 82\r\nPhysical\r\nEducation\r\n90 94 95 78 68\r\nWho obtained 72% marks in all the subjects \r\ntaken together",
+  "options": [
+   "a) Rohit",
+   "b) Tarun",
+   "c) Mohit",
+   "d) Sumit"
+  ],
+  "answer": "b) Tarun",
+  "description": " 65 80 75 85 90 100\r\n500\r\n++++ ×\r\n395 79% marks\r\n5 = "
+ }
 ]
