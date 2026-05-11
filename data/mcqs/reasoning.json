@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Book : Reading :: Fork : ?",
+    "choices": ["Eating", "Cooking", "Stirring", "Cutting"],
+    "correct_index": 0,
+    "explanation": "This is a tool-to-purpose analogy. A book is used for reading, similarly a fork is primarily used for eating."
+  },
+  {
+    "question": "Find the missing number in the series: 2, 6, 12, 20, ?",
+    "choices": ["28", "30", "32", "36"],
+    "correct_index": 1,
+    "explanation": "The pattern follows n × (n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20. Next is 5×6 = 30. Alternatively, the difference increases by 2 each time (+4, +6, +8, +10)."
+  },
+  {
+    "question": "If 'CAT' is coded as '3120', how will 'DOG' be coded? (Using A=1, B=2... Z=26)",
+    "choices": ["4157", "4156", "3157", "4167"],
+    "correct_index": 0,
+    "explanation": "Each letter is replaced by its alphabetical position: D=4, O=15, G=7. Concatenating them gives 4157."
+  },
+  {
+    "question": "Identify the odd one out: Square, Triangle, Circle, Rectangle",
+    "choices": ["Square", "Triangle", "Circle", "Rectangle"],
+    "correct_index": 2,
+    "explanation": "Square, Triangle, and Rectangle are polygons with straight sides and corners. A circle is a curved shape with no sides or angles."
+  },
+  {
+    "question": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is the woman in the photograph related to the man?",
+    "choices": ["Sister", "Aunt", "Mother", "Cousin"],
+    "correct_index": 0,
+    "explanation": "My grandfather's only son = My father. The daughter of my father = My sister."
+  }
+]

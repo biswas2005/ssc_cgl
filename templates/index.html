@@ -1,142 +1,107 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>SSC CGL MCQs</title>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSC Preparation</title>
     <style>
-        body {
-            font-family: Arial;
-            margin: 40px;
-            background-color: #f4f4f4;
-        }
-
-        .mcq {
-            background: white;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-radius: 10px;
-        }
-
-        h2 {
-            color: #333;
-        }
-
-        ul {
-            list-style-type: none;
+        /* Base Reset & Layout */
+        * {
+            margin: 0;
             padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background-color: #f4f6f9;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 2rem;
         }
 
-        li {
-            margin: 8px 0;
+        /* Heading */
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 2rem;
+            color: #2c3e50;
+            text-align: center;
         }
 
-        .answer {
-            color: green;
-            font-weight: bold;
+        /* Table Layout */
+        table {
+            width: 100%;
+            max-width: 850px;
+            border-collapse: separate;
+            border-spacing: 12px;
+        }
+        td {
+            width: 33.33%;
+            vertical-align: top;
         }
 
-        .description {
-            margin-top: 10px;
-            color: #555;
+        /* Button Styling */
+        .subject-btn {
+            display: block;
+            padding: 1.2rem 1rem;
+            background-color: #ffffff;
+            color: #333333;
+            text-align: center;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 1rem;
+            border: 2px solid #e1e5eb;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+        }
+        .subject-btn:hover {
+            background-color: #3498db;
+            color: #ffffff;
+            border-color: #3498db;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(52, 152, 219, 0.2);
+        }
+        .subject-btn:active {
+            transform: translateY(0);
+        }
+
+        /* Mobile Responsiveness */
+        @media (max-width: 600px) {
+            table, tbody, tr, td {
+                display: block;
+                width: 100%;
+            }
+            td {
+                margin-bottom: 10px;
+            }
         }
     </style>
 </head>
-
 <body>
-
-<h1>SSC CGL MCQs</h1>
-<div style="margin-bottom: 20px;">
-
-    <a href="/">
-        <button>All</button>
-    </a>
-
-    <a href="/?subject=Algebra">
-        <button>Algebra</button>
-    </a>
-
-    <a href="/?subject=Trigonometry">
-        <button>Trigonometry</button>
-    </a>
-
-    <a href="/?subject=History">
-        <button>History</button>
-    </a>
-
-    <a href="/?subject=Geography">
-        <button>Geography</button>
-    </a>
-
-    <a href="/?subject=Geometry">
-        <button>Geometry</button>
-    </a>
-
-    <a href="/?subject=Affairs">
-        <button>Affairs</button>
-    </a>
-
-    <a href="/?subject=Polity">
-        <button>Polity</button>
-    </a>
-
-    <a href="/?subject=English">
-        <button>English</button>
-    </a>
-
-    <a href="/?subject=Number_system">
-        <button>Number_system</button>
-    </a>
-
-    <a href="/?subject=FOA">
-        <button>FOA</button>
-    </a>
-
-    <a href="/?subject=Mensuration">
-        <button>Mensuration</button>
-    </a>
-
-    <a href="/?subject=Stats_prob">
-        <button>Stats_prob</button>
-    </a>
-
-    <a href="/?subject=Computers">
-        <button>Computers</button>
-    </a>
-
-</div>
-
-<a href="/add">
-    <button>Add New MCQ</button>
-</a>
-
-<a href="/chatgpt-import">
-    <button>Import From ChatGPT</button>
-</a>
-
-{{range .}}
-<div class="mcq">
-    <p>
-         <strong>Subject:</strong> {{.Subject}}
-    </p>
-
-    <h2>Q{{.ID}}. {{.Question}}</h2>
-
-    <ul>
-        {{range .Options}}
-        <li>• {{.}}</li>
-        {{end}}
-    </ul>
-
-    <p class="answer">
-        Correct Answer: {{.Answer}}
-    </p>
-
-    <p class="description">
-        Explanation: {{.Description}}
-    </p>
-
-</div>
-{{end}}
-
+    <h1>SSC</h1>
+    <table>
+        <tr>
+            <td><a href="/mathematics" class="subject-btn">Mathematics</a></td>
+            <td><a href="/english" class="subject-btn">English</a></td>
+            <td><a href="/general-science" class="subject-btn">General Science</a></td>
+        </tr>
+        <tr>
+            <td><a href="/history" class="subject-btn">History</a></td>
+            <td><a href="/geography" class="subject-btn">Geography</a></td>
+            <td><a href="/polity" class="subject-btn">Indian Polity</a></td>
+        </tr>
+        <tr>
+            <td><a href="/economics" class="subject-btn">Economics</a></td>
+            <td><a href="/reasoning" class="subject-btn">Reasoning</a></td>
+            <td><a href="/computer" class="subject-btn">Computer Knowledge</a></td>
+        </tr>
+        <tr>
+            <td><a href="/current-affairs" class="subject-btn">Current Affairs</a></td>
+            <td><a href="/general-awareness" class="subject-btn">General Awareness</a></td>
+            <td><a href="/quantitative-aptitude" class="subject-btn">Quantitative Aptitude</a></td>
+        </tr>
+    </table>
 </body>
 </html>

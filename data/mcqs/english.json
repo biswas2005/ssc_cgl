@@ -1,0 +1,37 @@
+[
+  {
+    "question": "Choose the correct synonym of 'Benevolent':",
+    "choices": ["Cruel", "Kind", "Angry", "Selfish"],
+    "correct_index": 1,
+    "explanation": "'Benevolent' means well-meaning, kindly, or charitable. 'Kind' is the closest synonym among the options."
+  },
+  {
+    "question": "Identify the error in the sentence: 'She don't like coffee.'",
+    "choices": [
+      "She",
+      "don't",
+      "like",
+      "No error"
+    ],
+    "correct_index": 1,
+    "explanation": "The subject 'She' is third-person singular, so the correct auxiliary verb is 'doesn't', not 'don't'. Correct sentence: 'She doesn't like coffee.'"
+  },
+  {
+    "question": "What is the antonym of 'Transparent'?",
+    "choices": ["Clear", "Opaque", "Visible", "Bright"],
+    "correct_index": 1,
+    "explanation": "'Transparent' means allowing light to pass through so objects can be seen clearly. 'Opaque' means not allowing light to pass through — the direct opposite."
+  },
+  {
+    "question": "Select the correctly spelled word:",
+    "choices": ["Accomodate", "Acommodate", "Accommodate", "Acomodate"],
+    "correct_index": 2,
+    "explanation": "The correct spelling is 'Accommodate' — it has two 'c's and two 'm's. A common trick: 'accommodate' is big enough to accommodate double letters!"
+  },
+  {
+    "question": "Fill in the blank: 'He has been working here _____ 2020.'",
+    "choices": ["for", "since", "from", "in"],
+    "correct_index": 1,
+    "explanation": "We use 'since' with a specific point in time (e.g., 2020, January, last year) when using present perfect continuous tense. 'For' is used with duration (e.g., for 3 years)."
+  }
+]

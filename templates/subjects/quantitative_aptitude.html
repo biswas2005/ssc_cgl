@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quantitative Aptitude MCQs</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f7fa;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .mcq-card {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .question {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 15px;
+        }
+
+        .choice {
+            padding: 10px;
+            margin: 8px 0;
+            background: #eef2f7;
+            border-radius: 6px;
+        }
+
+        .correct {
+            background: #c8f7c5;
+        }
+
+        .explanation {
+            margin-top: 15px;
+            color: #444;
+        }
+        .mcq-card button:hover {
+            opacity: 0.9;
+        }
+
+    </style>
+</head>
+<body>
+
+    <h1>Quantitative Aptitude MCQs</h1>
+
+    <div id="mcq-container"></div>
+
+    <script>
+async function loadData() {
+    try {
+        const response = await fetch("/api/mcqs/quantitative_aptitude");
+
+        const data = await response.json();
+
+        const output = document.getElementById("mcq-container");
+
+        data.forEach(mcq => {
+
+            // Main card
+            const card = document.createElement("div");
+            card.className = "mcq-card";
+
+            // Question
+            const question = document.createElement("h3");
+            question.innerText = mcq.question;
+
+            // Options container
+            const optionsContainer = document.createElement("div");
+
+            // Explanation
+            const explanation = document.createElement("p");
+            explanation.style.display = "none";
+            explanation.innerHTML = `
+                <b>Explanation:</b> ${mcq.explanation}
+            `;
+
+            // Prevent answering multiple times
+            let answered = false;
+
+            // Generate options
+            mcq.choices.forEach((choice, index) => {
+
+                const option = document.createElement("button");
+
+                option.innerText = choice;
+
+                option.style.display = "block";
+                option.style.margin = "10px 0";
+                option.style.padding = "10px";
+                option.style.width = "100%";
+                option.style.cursor = "pointer";
+                option.style.border = "1px solid #ccc";
+                option.style.borderRadius = "5px";
+                option.style.background = "#f4f4f4";
+
+                option.addEventListener("click", () => {
+
+                    if (answered) return;
+
+                    answered = true;
+
+                    // Correct Answer
+                    if (index === mcq.correct_index) {
+
+                        option.style.backgroundColor = "#4CAF50";
+                        option.style.color = "white";
+
+                    } else {
+
+                        // Wrong selected answer
+                        option.style.backgroundColor = "#f44336";
+                        option.style.color = "white";
+
+                        // Highlight correct answer
+                        const correctBtn =
+                            optionsContainer.children[mcq.correct_index];
+
+                        correctBtn.style.backgroundColor = "#4CAF50";
+                        correctBtn.style.color = "white";
+                    }
+
+                    // Show explanation
+                    explanation.style.display = "block";
+                });
+
+                optionsContainer.appendChild(option);
+            });
+
+            card.appendChild(question);
+            card.appendChild(optionsContainer);
+            card.appendChild(explanation);
+
+            // Styling
+            card.style.background = "white";
+            card.style.padding = "20px";
+            card.style.marginBottom = "20px";
+            card.style.borderRadius = "10px";
+            card.style.boxShadow = "0 2px 8px rgba(0,0,0,0.1)";
+
+            output.appendChild(card);
+        });
+
+    } catch (err) {
+        console.error(err);
+    }
+}
+
+loadData();
+</script>
+
+</body>
+</html>

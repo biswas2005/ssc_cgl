@@ -2,254 +2,120 @@ package main
 
 import (
 	"encoding/json"
-	"log"
+	"fmt"
+	"io"
 	"net/http"
 	"os"
-	"regexp"
+	"path/filepath"
 	"strings"
-	"text/template"
 )
 
-type MCQ struct {
-	ID          int      `json:"id"`
-	Subject     string   `json:"subject"`
-	Question    string   `json:"question"`
-	Options     []string `json:"options"`
-	Answer      string   `json:"answer"`
-	Description string   `json:"description"`
-}
-
-var mcqs []MCQ
-
-func loadMCQs() {
-	file, err := os.ReadFile("mcqs.json")
-	if err != nil {
-		log.Fatal("Error reading JSON file:", err)
-	}
-	err = json.Unmarshal(file, &mcqs)
-	if err != nil {
-		log.Fatal("Error parsing JSON:", err)
-	}
-}
-
-func saveMCQs() {
-	data, err := json.MarshalIndent(mcqs, "", " ")
-	if err != nil {
-		log.Fatal(err)
-	}
-	err = os.WriteFile("mcqs.json", data, 0644)
-	if err != nil {
-		log.Fatal(err)
-	}
-}
-
-func homeHandler(w http.ResponseWriter, r *http.Request) {
-	subjectFilter := r.URL.Query().Get("subject")
-	var filteredMCQs []MCQ
-
-	if subjectFilter == "" {
-		filteredMCQs = mcqs
-	} else {
-		for _, mcq := range mcqs {
-			if mcq.Subject == subjectFilter {
-				filteredMCQs = append(filteredMCQs, mcq)
-			}
-		}
-	}
-
-	tmpl := template.Must(template.ParseFiles("templates/index.html"))
-	err := tmpl.Execute(w, filteredMCQs)
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
-	}
-}
-
-func addPageHandler(w http.ResponseWriter, r *http.Request) {
-	tmpl := template.Must(template.ParseFiles("templates/add.html"))
-
-	err := tmpl.Execute(w, nil)
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
-	}
-}
-
-func addMCQHandler(w http.ResponseWriter, r *http.Request) {
-	if r.Method != http.MethodPost {
-		http.Redirect(w, r, "/add", http.StatusSeeOther)
-		return
-	}
-
-	subject := r.FormValue("subject")
-	question := r.FormValue("question")
-
-	option1 := r.FormValue("option1")
-	option2 := r.FormValue("option2")
-	option3 := r.FormValue("option3")
-	option4 := r.FormValue("option4")
-
-	answer := r.FormValue("answer")
-	description := r.FormValue("description")
-
-	newMCQ := MCQ{
-		ID:       len(mcqs) + 1,
-		Subject:  subject,
-		Question: question,
-		Options: []string{
-			option1,
-			option2,
-			option3,
-			option4,
-		},
-		Answer:      answer,
-		Description: description,
-	}
-	mcqs = append(mcqs, newMCQ)
-	saveMCQs()
-	http.Redirect(w, r, "/", http.StatusSeeOther)
-}
-
-func chatGPTImportPageHandler(w http.ResponseWriter, r *http.Request) {
-
-	tmpl := template.Must(
-		template.ParseFiles("templates/chatgpt_import.html"),
-	)
-
-	err := tmpl.Execute(w, nil)
-
-	if err != nil {
-		http.Error(w, err.Error(), http.StatusInternalServerError)
-	}
-}
-
-func chatGPTSubmitHandler(w http.ResponseWriter, r *http.Request) {
-
-	optionRegex := regexp.MustCompile(
-		`^(\(?[A-Da-d1-4]\)|[A-Da-d1-4]\.|[•\-\*])\s*(.+)`,
-	)
-
-	answerMap := map[string]int{
-		"A": 0,
-		"B": 1,
-		"C": 2,
-		"D": 3,
-
-		"a": 0,
-		"b": 1,
-		"c": 2,
-		"d": 3,
-
-		"1": 0,
-		"2": 1,
-		"3": 2,
-		"4": 3,
-
-		"(A)": 0,
-		"(B)": 1,
-		"(C)": 2,
-		"(D)": 3,
-	}
-
-	if r.Method != http.MethodPost {
-		http.Redirect(w, r, "/chatgpt-import", http.StatusSeeOther)
-		return
-	}
-
-	rawText := r.FormValue("mcqs")
-
-	// Split by numbered questions
-	re := regexp.MustCompile(`(?m)^\d+\.`)
-
-	parts := re.Split(rawText, -1)
-
-	for _, part := range parts {
-
-		part = strings.TrimSpace(part)
-
-		if part == "" {
-			continue
-		}
-
-		lines := strings.Split(part, "\n")
-
-		var mcq MCQ
-
-		mcq.ID = len(mcqs) + 1
-
-		var options []string
-
-		for i, line := range lines {
-
-			line = strings.TrimSpace(line)
-
-			// First line = Question
-			if i == 0 {
-				mcq.Question = line
-				continue
-			}
-
-			// Detect Answer
-			if strings.HasPrefix(line, "Answer:") {
-
-				answerKey := strings.TrimSpace(
-					strings.TrimPrefix(line, "Answer:"),
-				)
-
-				if idx, ok := answerMap[answerKey]; ok &&
-					idx < len(options) {
-
-					mcq.Answer = options[idx]
-				}
-
-				continue
-			}
-
-			// Detect Explanation
-			if strings.HasPrefix(line, "Explanation:") {
-
-				mcq.Description = strings.TrimSpace(
-					strings.TrimPrefix(line, "Explanation:"),
-				)
-
-				continue
-			}
-
-			// Detect Options
-			matches := optionRegex.FindStringSubmatch(line)
-
-			if len(matches) > 2 {
-
-				optionText := strings.TrimSpace(matches[2])
-
-				options = append(options, optionText)
-			}
-		}
-
-		mcq.Options = options
-
-		// Default Subject
-		mcq.Subject = "General"
-
-		if mcq.Question != "" {
-			mcqs = append(mcqs, mcq)
-		}
-	}
-
-	http.Redirect(w, r, "/", http.StatusSeeOther)
+// Fixed list of subjects. Acts as an allowlist to prevent file traversal or mixing.
+var allowedSubjects = map[string]bool{
+	"mathematics":           true,
+	"english":               true,
+	"general-science":       true,
+	"history":               true,
+	"geography":             true,
+	"polity":                true,
+	"economics":             true,
+	"reasoning":             true,
+	"computer":              true,
+	"current-affairs":       true,
+	"general-awareness":     true,
+	"quantitative-aptitude": true,
 }
 
 func main() {
-	loadMCQs()
+	// 1. Serve static assets (CSS/JS)
+	fs := http.FileServer(http.Dir("./static"))
+	http.Handle("/static/", http.StripPrefix("/static/", fs))
 
-	http.HandleFunc("/", homeHandler)
-	http.HandleFunc("/add", addPageHandler)
-	http.HandleFunc("/submit", addMCQHandler)
-	http.HandleFunc("/chatgpt-import", chatGPTImportPageHandler)
-	http.HandleFunc("/chatgpt-submit", chatGPTSubmitHandler)
+	// 2. Homepage
+	http.HandleFunc("/", indexHandler)
 
-	log.Println("Server running at http://localhost:8080")
-
-	err := http.ListenAndServe(":8080", nil)
-	if err != nil {
-		log.Fatal(err)
+	// 3. Explicitly register each subject route & API endpoint
+	for subject := range allowedSubjects {
+		http.HandleFunc("/"+subject, subjectPageHandler)
+		http.HandleFunc("/api/mcqs/"+subject, mcqAPIHandler)
 	}
+
+	fmt.Println("SSC Prep Server running at http://localhost:8080")
+	http.ListenAndServe(":8080", nil)
 }
+
+func indexHandler(w http.ResponseWriter, r *http.Request) {
+	if r.URL.Path != "/" {
+		http.NotFound(w, r)
+		return
+	}
+	http.ServeFile(w, r, "templates/index.html")
+}
+
+func subjectPageHandler(w http.ResponseWriter, r *http.Request) {
+	subject := strings.TrimPrefix(r.URL.Path, "/")
+
+	// Serve the subject's HTML template
+	templatePath := filepath.Join("templates", "subjects", subject+".html")
+	if _, err := os.Stat(templatePath); os.IsNotExist(err) {
+		http.Error(w, "Subject page not found", http.StatusNotFound)
+		return
+	}
+	http.ServeFile(w, r, templatePath)
+}
+
+func mcqAPIHandler(w http.ResponseWriter, r *http.Request) {
+	// Extract subject from URL: /api/mcqs/mathematics -> "mathematics"
+	subject := strings.TrimPrefix(r.URL.Path, "/api/mcqs/")
+	subject = strings.ToLower(strings.TrimSpace(subject))
+
+	// Security: Validate against allowlist
+	if !allowedSubjects[subject] {
+		writeJSONError(w, "Invalid subject requested", http.StatusNotFound)
+		return
+	}
+
+	// Map to isolated JSON file
+	jsonPath := filepath.Join("data", "mcqs", subject+".json")
+
+	// Extra safety: prevent directory traversal
+	cleanPath := filepath.Clean(jsonPath)
+	if !strings.HasPrefix(cleanPath, "data"+string(filepath.Separator)) {
+		writeJSONError(w, "Invalid file path", http.StatusBadRequest)
+		return
+	}
+
+	// Read & validate JSON
+	file, err := os.Open(cleanPath)
+	if err != nil {
+		writeJSONError(w, "MCQ data not found for this subject", http.StatusNotFound)
+		return
+	}
+	defer file.Close()
+
+	raw, err := io.ReadAll(file)
+	if err != nil {
+		writeJSONError(w, "Failed to read MCQ data", http.StatusInternalServerError)
+		return
+	}
+
+	// Validate JSON structure
+	var data []map[string]interface{}
+	if err := json.Unmarshal(raw, &data); err != nil {
+		writeJSONError(w, "Malformed JSON in MCQ file", http.StatusInternalServerError)
+		return
+	}
+
+	// Serve data
+	w.Header().Set("Content-Type", "application/json")
+	w.Header().Set("Cache-Control", "no-cache")
+	w.Write(raw)
+}
+
+// Helper to return standardized JSON errors
+func writeJSONError(w http.ResponseWriter, message string, code int) {
+	w.Header().Set("Content-Type", "application/json")
+	w.WriteHeader(code)
+	json.NewEncoder(w).Encode(map[string]string{"error": message})
+}
+

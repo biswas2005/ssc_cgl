@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "correct_index": 2,
+    "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere. Oxygen is second at about 21%, while other gases like argon and CO₂ are present in trace amounts."
+  },
+  {
+    "question": "What is the chemical formula of common salt?",
+    "choices": ["NaCl", "KCl", "CaCl₂", "MgCl₂"],
+    "correct_index": 0,
+    "explanation": "Common salt is Sodium Chloride, with the chemical formula NaCl. It is formed by the ionic bonding of sodium (Na⁺) and chloride (Cl⁻) ions."
+  },
+  {
+    "question": "Which part of the human body produces insulin?",
+    "choices": ["Liver", "Kidney", "Pancreas", "Stomach"],
+    "correct_index": 2,
+    "explanation": "The pancreas produces insulin, a hormone that regulates blood sugar levels. Dysfunction of the pancreas can lead to diabetes."
+  },
+  {
+    "question": "What is the SI unit of force?",
+    "choices": ["Joule", "Watt", "Newton", "Pascal"],
+    "correct_index": 2,
+    "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton. 1 Newton = 1 kg·m/s². Joule is for energy, Watt for power, Pascal for pressure."
+  },
+  {
+    "question": "Which vitamin is produced when human skin is exposed to sunlight?",
+    "choices": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "correct_index": 2,
+    "explanation": "Vitamin D is synthesized in the skin when exposed to UV-B rays from sunlight. It is essential for calcium absorption and bone health."
+  }
+]
