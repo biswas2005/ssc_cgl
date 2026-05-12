@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mock Test</title>
+
+<style>
+
+body{
+    font-family: Arial;
+    background:#f4f6f9;
+    padding:20px;
+}
+
+h1{
+    text-align:center;
+}
+
+#timer{
+    position:fixed;
+    top:20px;
+    right:20px;
+    background:#222;
+    color:white;
+    padding:10px 20px;
+    border-radius:10px;
+    font-size:20px;
+}
+
+.mcq-card{
+    background:white;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+}
+
+.option{
+    display:block;
+    width:100%;
+    margin:10px 0;
+    padding:10px;
+    cursor:pointer;
+}
+
+.correct{
+    background:#4CAF50;
+    color:white;
+}
+
+.wrong{
+    background:#f44336;
+    color:white;
+}
+
+#submitBtn{
+    width:100%;
+    padding:15px;
+    font-size:20px;
+    cursor:pointer;
+}
+
+</style>
+
+</head>
+<body>
+
+<h1>SSC Mock Test</h1>
+
+<div style="margin-bottom:20px;">
+
+<label>Select Timer:</label>
+
+<select id="timeSelect">
+    <option value="10">10 Minutes</option>
+    <option value="20">20 Minutes</option>
+    <option value="30">30 Minutes</option>
+    <option value="60">60 Minutes</option>
+</select>
+
+<button onclick="startTest()">Start Test</button>
+
+</div>
+
+<div id="timer">00:00</div>
+
+<div id="questions"></div>
+
+<button id="submitBtn" onclick="submitTest()" style="display:none;">
+Submit Test
+</button>
+
+<script>
+
+let mcqs = [];
+let answers = {};
+let timer;
+let timeLeft = 0;
+
+async function startTest(){
+
+    document.getElementById("questions").innerHTML = "";
+
+    const minutes =
+        parseInt(document.getElementById("timeSelect").value);
+
+    timeLeft = minutes * 60;
+
+    startTimer();
+
+    const response = await fetch("/api/mock-test");
+
+    mcqs = await response.json();
+
+    const container = document.getElementById("questions");
+
+    mcqs.forEach((mcq,index)=>{
+
+        const card = document.createElement("div");
+
+        card.className = "mcq-card";
+
+        let html = `
+            <h3>Q${index+1}. ${mcq.question}</h3>
+        `;
+
+        mcq.choices.forEach((choice,i)=>{
+
+            html += `
+                <button class="option"
+                onclick="selectAnswer(${index},${i},this)">
+                    ${choice}
+                </button>
+            `;
+        });
+
+        card.innerHTML = html;
+
+        container.appendChild(card);
+    });
+
+    document.getElementById("submitBtn").style.display = "block";
+}
+
+function selectAnswer(questionIndex,choiceIndex,btn){
+
+    answers[questionIndex] = choiceIndex;
+
+    const buttons =
+        btn.parentElement.querySelectorAll(".option");
+
+    buttons.forEach(b=>{
+        b.style.background = "";
+        b.style.color = "";
+    });
+
+    btn.style.background = "#3498db";
+    btn.style.color = "white";
+}
+
+function startTimer(){
+
+    updateTimer();
+
+    timer = setInterval(()=>{
+
+        timeLeft--;
+
+        updateTimer();
+
+        if(timeLeft <= 0){
+
+            clearInterval(timer);
+
+            submitTest();
+        }
+
+    },1000);
+}
+
+function updateTimer(){
+
+    const mins = Math.floor(timeLeft / 60);
+    const secs = timeLeft % 60;
+
+    document.getElementById("timer").innerText =
+        `${mins}:${secs.toString().padStart(2,"0")}`;
+}
+
+function submitTest(){
+
+    clearInterval(timer);
+
+    let score = 0;
+
+    mcqs.forEach((mcq,index)=>{
+
+        const card =
+            document.getElementsByClassName("mcq-card")[index];
+
+        const buttons =
+            card.querySelectorAll(".option");
+
+        const selected = answers[index];
+
+        buttons.forEach((btn,i)=>{
+
+            btn.disabled = true;
+
+            if(i === mcq.correct_index){
+
+                btn.classList.add("correct");
+            }
+
+            if(
+                selected === i &&
+                i !== mcq.correct_index
+            ){
+                btn.classList.add("wrong");
+            }
+        });
+
+        if(selected === mcq.correct_index){
+            score++;
+        }
+
+        const explanation =
+            document.createElement("p");
+
+        explanation.innerHTML =
+            `<b>Explanation:</b> ${mcq.explanation}`;
+
+        card.appendChild(explanation);
+    });
+
+    alert(
+        `Test Finished!\n\nScore: ${score}/${mcqs.length}`
+    );
+
+    document.getElementById("submitBtn").disabled = true;
+}
+
+</script>
+
+</body>
+</html>

@@ -1222,5 +1222,1205 @@
     ],
     "correct_index": 1,
     "explanation": "It means stop work for the day."
+  },
+  {
+    "id": 103,
+    "question": "Choose the correct synonym of 'Abundant'.",
+    "choices": [
+      "Scarce",
+      "Plentiful",
+      "Rare",
+      "Limited"
+    ],
+    "correct_index": 1,
+    "explanation": "Abundant means existing in large quantities, so plentiful is the correct synonym."
+  },
+  {
+    "id": 104,
+    "question": "Choose the correct antonym of 'Candid'.",
+    "choices": [
+      "Honest",
+      "Frank",
+      "Deceptive",
+      "Open"
+    ],
+    "correct_index": 2,
+    "explanation": "Candid means truthful and straightforward, so deceptive is the opposite."
+  },
+  {
+    "id": 105,
+    "question": "Identify the error in the sentence: Neither the teacher nor the students was present.",
+    "choices": [
+      "Neither the teacher",
+      "nor the students",
+      "was present",
+      "No error"
+    ],
+    "correct_index": 2,
+    "explanation": "When using neither nor, the verb agrees with the nearer subject, so it should be were present."
+  },
+  {
+    "id": 106,
+    "question": "Fill in the blank: She has been working here _____ 2010.",
+    "choices": [
+      "for",
+      "since",
+      "from",
+      "in"
+    ],
+    "correct_index": 1,
+    "explanation": "Since is used with a specific point of time in the past."
+  },
+  {
+    "id": 107,
+    "question": "Choose the correct meaning of the idiom 'Break the ice'.",
+    "choices": [
+      "To start a quarrel",
+      "To end a friendship",
+      "To initiate conversation in a tense situation",
+      "To cool down"
+    ],
+    "correct_index": 2,
+    "explanation": "Break the ice means to do or say something to relieve tension or get conversation started."
+  },
+  {
+    "id": 108,
+    "question": "Improve the sentence: He is senior than me in service.",
+    "choices": [
+      "senior to me",
+      "more senior than me",
+      "seniorer than me",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Senior takes to, not than, for comparison."
+  },
+  {
+    "id": 109,
+    "question": "Choose the correct passive voice: They are building a new bridge.",
+    "choices": [
+      "A new bridge is built by them.",
+      "A new bridge was being built by them.",
+      "A new bridge is being built by them.",
+      "A new bridge has been built by them."
+    ],
+    "correct_index": 2,
+    "explanation": "Present continuous active changes to is being plus past participle in passive."
+  },
+  {
+    "id": 110,
+    "question": "Change to indirect speech: He said, I am happy.",
+    "choices": [
+      "He said that he is happy.",
+      "He said that he was happy.",
+      "He said that I was happy.",
+      "He says that he was happy."
+    ],
+    "correct_index": 1,
+    "explanation": "In indirect speech, present tense changes to past tense and pronouns adjust accordingly."
+  },
+  {
+    "id": 111,
+    "question": "Choose the correct one word substitution: A person who does not believe in God.",
+    "choices": [
+      "Pagan",
+      "Atheist",
+      "Heretic",
+      "Nonbeliever"
+    ],
+    "correct_index": 1,
+    "explanation": "Atheist specifically means one who disbelieves in the existence of God."
+  },
+  {
+    "id": 112,
+    "question": "Fill in the blank with correct preposition: The cat jumped _____ the table.",
+    "choices": [
+      "in",
+      "at",
+      "upon",
+      "to"
+    ],
+    "correct_index": 2,
+    "explanation": "Upon is the correct preposition to indicate movement to a position on top of something."
+  },
+  {
+    "id": 113,
+    "question": "Identify the correctly spelled word.",
+    "choices": [
+      "Accomodate",
+      "Accommodate",
+      "Acommodate",
+      "Acomodate"
+    ],
+    "correct_index": 1,
+    "explanation": "Accommodate has double c and double m."
+  },
+  {
+    "id": 114,
+    "question": "Choose the synonym of 'Diligent'.",
+    "choices": [
+      "Lazy",
+      "Hardworking",
+      "Careless",
+      "Slow"
+    ],
+    "correct_index": 1,
+    "explanation": "Diligent means showing care and effort in one's work, so hardworking is correct."
+  },
+  {
+    "id": 115,
+    "question": "Choose the antonym of 'Benevolent'.",
+    "choices": [
+      "Kind",
+      "Generous",
+      "Cruel",
+      "Charitable"
+    ],
+    "correct_index": 2,
+    "explanation": "Benevolent means well meaning and kindly, so cruel is the opposite."
+  },
+  {
+    "id": 116,
+    "question": "Fill in the blank: If I _____ rich, I would travel the world.",
+    "choices": [
+      "was",
+      "were",
+      "am",
+      "will be"
+    ],
+    "correct_index": 1,
+    "explanation": "In second conditional sentences, were is used with all subjects for hypothetical situations."
+  },
+  {
+    "id": 117,
+    "question": "Identify the error: One of the boy have completed the assignment.",
+    "choices": [
+      "One of the boy",
+      "have completed",
+      "the assignment",
+      "No error"
+    ],
+    "correct_index": 0,
+    "explanation": "After one of the, we use plural noun, so it should be one of the boys."
+  },
+  {
+    "id": 118,
+    "question": "Choose the correct meaning of 'A bird in the hand'.",
+    "choices": [
+      "Catching birds is easy",
+      "It is better to have something certain than to risk losing it for something better",
+      "Birds are valuable pets",
+      "Holding birds requires skill"
+    ],
+    "correct_index": 1,
+    "explanation": "The full idiom is a bird in the hand is worth two in the bush, meaning certainty is better than uncertainty."
+  },
+  {
+    "id": 119,
+    "question": "Improve the sentence: She insisted to go with me.",
+    "choices": [
+      "insisted on going",
+      "insisted for going",
+      "insisted going",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Insist takes the preposition on followed by a gerund."
+  },
+  {
+    "id": 120,
+    "question": "Choose the correct active voice: The letter was written by John.",
+    "choices": [
+      "John wrote the letter.",
+      "John writes the letter.",
+      "John is writing the letter.",
+      "John has written the letter."
+    ],
+    "correct_index": 0,
+    "explanation": "Simple past passive changes to simple past active with subject performing the action."
+  },
+  {
+    "id": 121,
+    "question": "Change to indirect: She said to me, Where are you going?",
+    "choices": [
+      "She asked me where I was going.",
+      "She told me where are you going.",
+      "She asked where you are going.",
+      "She said where I was going."
+    ],
+    "correct_index": 0,
+    "explanation": "Interrogative sentences in indirect speech use asked and change to statement word order."
+  },
+  {
+    "id": 122,
+    "question": "Choose the one word substitution: Study of birds.",
+    "choices": [
+      "Entomology",
+      "Ornithology",
+      "Zoology",
+      "Botany"
+    ],
+    "correct_index": 1,
+    "explanation": "Ornithology is the scientific study of birds."
+  },
+  {
+    "id": 123,
+    "question": "Fill in the blank with correct article: He is _____ honest man.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_index": 1,
+    "explanation": "Honest begins with a vowel sound, so an is used."
+  },
+  {
+    "id": 124,
+    "question": "Choose the synonym of 'Ephemeral'.",
+    "choices": [
+      "Permanent",
+      "Short-lived",
+      "Eternal",
+      "Lasting"
+    ],
+    "correct_index": 1,
+    "explanation": "Ephemeral means lasting for a very short time."
+  },
+  {
+    "id": 125,
+    "question": "Choose the antonym of 'Amplify'.",
+    "choices": [
+      "Increase",
+      "Enlarge",
+      "Reduce",
+      "Expand"
+    ],
+    "correct_index": 2,
+    "explanation": "Amplify means to make larger or louder, so reduce is the opposite."
+  },
+  {
+    "id": 126,
+    "question": "Identify the error: Each of the girls have submitted their project.",
+    "choices": [
+      "Each of the girls",
+      "have submitted",
+      "their project",
+      "No error"
+    ],
+    "correct_index": 1,
+    "explanation": "Each is singular, so the verb should be has, not have."
+  },
+  {
+    "id": 127,
+    "question": "Fill in the blank: He is good _____ mathematics.",
+    "choices": [
+      "in",
+      "at",
+      "on",
+      "with"
+    ],
+    "correct_index": 1,
+    "explanation": "Good is followed by at when referring to a skill or subject."
+  },
+  {
+    "id": 128,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Definite",
+      "Definate",
+      "Defenite",
+      "Definit"
+    ],
+    "correct_index": 0,
+    "explanation": "Definite is spelled with i after f and a after n."
+  },
+  {
+    "id": 129,
+    "question": "Choose the meaning of the idiom 'Bite the bullet'.",
+    "choices": [
+      "To eat something hard",
+      "To endure a painful situation with courage",
+      "To avoid responsibility",
+      "To attack suddenly"
+    ],
+    "correct_index": 1,
+    "explanation": "Bite the bullet means to face a difficult situation with bravery."
+  },
+  {
+    "id": 130,
+    "question": "Improve the sentence: I prefer coffee than tea.",
+    "choices": [
+      "prefer coffee to tea",
+      "prefer coffee over tea",
+      "prefer coffee with tea",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Prefer takes to, not than, for comparison between two items."
+  },
+  {
+    "id": 131,
+    "question": "Choose the correct passive: Someone has stolen my wallet.",
+    "choices": [
+      "My wallet has been stolen.",
+      "My wallet was stolen.",
+      "My wallet is stolen.",
+      "My wallet had been stolen."
+    ],
+    "correct_index": 0,
+    "explanation": "Present perfect active changes to has been plus past participle in passive."
+  },
+  {
+    "id": 132,
+    "question": "Change to indirect: He said, Hurrah! We have won the match.",
+    "choices": [
+      "He exclaimed with joy that they had won the match.",
+      "He said that they have won the match.",
+      "He told that we won the match.",
+      "He exclaimed that we have won."
+    ],
+    "correct_index": 0,
+    "explanation": "Exclamatory sentences use exclaimed with joy or sorrow and change tense and pronouns."
+  },
+  {
+    "id": 133,
+    "question": "Choose the one word substitution: A place where bees are kept.",
+    "choices": [
+      "Apiary",
+      "Aviary",
+      "Aquarium",
+      "Sanctuary"
+    ],
+    "correct_index": 0,
+    "explanation": "Apiary is a place where beehives are kept."
+  },
+  {
+    "id": 134,
+    "question": "Fill in the blank with correct preposition: The meeting will be held _____ Monday.",
+    "choices": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "correct_index": 2,
+    "explanation": "On is used with days of the week."
+  },
+  {
+    "id": 135,
+    "question": "Choose the synonym of 'Prudent'.",
+    "choices": [
+      "Reckless",
+      "Wise",
+      "Foolish",
+      "Careless"
+    ],
+    "correct_index": 1,
+    "explanation": "Prudent means acting with care and thought for the future, so wise is correct."
+  },
+  {
+    "id": 136,
+    "question": "Choose the antonym of 'Transparent'.",
+    "choices": [
+      "Clear",
+      "Opaque",
+      "Visible",
+      "Obvious"
+    ],
+    "correct_index": 1,
+    "explanation": "Transparent means allowing light to pass through, so opaque is the opposite."
+  },
+  {
+    "id": 137,
+    "question": "Identify the error: The news are very interesting.",
+    "choices": [
+      "The news",
+      "are very",
+      "interesting",
+      "No error"
+    ],
+    "correct_index": 1,
+    "explanation": "News is an uncountable noun and takes singular verb, so it should be is very interesting."
+  },
+  {
+    "id": 138,
+    "question": "Fill in the blank: She is _____ university student.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_index": 0,
+    "explanation": "University begins with a consonant sound yoo, so a is used."
+  },
+  {
+    "id": 139,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Separate",
+      "Seperate",
+      "Separete",
+      "Sepirate"
+    ],
+    "correct_index": 0,
+    "explanation": "Separate has a after p and a after r."
+  },
+  {
+    "id": 140,
+    "question": "Choose the meaning of 'Call it a day'.",
+    "choices": [
+      "To start working",
+      "To stop working for the day",
+      "To work all night",
+      "To postpone work"
+    ],
+    "correct_index": 1,
+    "explanation": "Call it a day means to decide to stop working on something."
+  },
+  {
+    "id": 141,
+    "question": "Improve the sentence: He asked me what is my name.",
+    "choices": [
+      "what my name was",
+      "what was my name",
+      "what is my name",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "In indirect speech, the question changes to statement order and tense shifts back."
+  },
+  {
+    "id": 142,
+    "question": "Choose the correct active: The cake was eaten by the children.",
+    "choices": [
+      "The children ate the cake.",
+      "The children eat the cake.",
+      "The children have eaten the cake.",
+      "The children were eating the cake."
+    ],
+    "correct_index": 0,
+    "explanation": "Simple past passive changes to simple past active."
+  },
+  {
+    "id": 143,
+    "question": "Change to indirect: The teacher said, The earth revolves around the sun.",
+    "choices": [
+      "The teacher said that the earth revolves around the sun.",
+      "The teacher said that the earth revolved around the sun.",
+      "The teacher told that the earth revolves around the sun.",
+      "The teacher says the earth revolved around the sun."
+    ],
+    "correct_index": 0,
+    "explanation": "Universal truths retain present tense in indirect speech."
+  },
+  {
+    "id": 144,
+    "question": "Choose the one word substitution: Fear of heights.",
+    "choices": [
+      "Claustrophobia",
+      "Acrophobia",
+      "Agoraphobia",
+      "Hydrophobia"
+    ],
+    "correct_index": 1,
+    "explanation": "Acrophobia is the extreme or irrational fear of heights."
+  },
+  {
+    "id": 145,
+    "question": "Fill in the blank with correct conjunction: He is poor _____ honest.",
+    "choices": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "correct_index": 1,
+    "explanation": "But is used to show contrast between two ideas."
+  },
+  {
+    "id": 146,
+    "question": "Choose the synonym of 'Mitigate'.",
+    "choices": [
+      "Worsen",
+      "Alleviate",
+      "Aggravate",
+      "Intensify"
+    ],
+    "correct_index": 1,
+    "explanation": "Mitigate means to make less severe, so alleviate is correct."
+  },
+  {
+    "id": 147,
+    "question": "Choose the antonym of 'Clemency'.",
+    "choices": [
+      "Mercy",
+      "Leniency",
+      "Severity",
+      "Compassion"
+    ],
+    "correct_index": 2,
+    "explanation": "Clemency means mercy, so severity is the opposite."
+  },
+  {
+    "id": 148,
+    "question": "Identify the error: He is one of the best actor in the industry.",
+    "choices": [
+      "He is one",
+      "of the best actor",
+      "in the industry",
+      "No error"
+    ],
+    "correct_index": 1,
+    "explanation": "After one of the, we use plural noun, so it should be best actors."
+  },
+  {
+    "id": 149,
+    "question": "Fill in the blank: I look forward _____ hearing from you.",
+    "choices": [
+      "for",
+      "to",
+      "at",
+      "on"
+    ],
+    "correct_index": 1,
+    "explanation": "Look forward to is a fixed phrase followed by a gerund."
+  },
+  {
+    "id": 150,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Recommend",
+      "Reccomend",
+      "Recommand",
+      "Reccomend"
+    ],
+    "correct_index": 0,
+    "explanation": "Recommend has one c and double m."
+  },
+  {
+    "id": 151,
+    "question": "Choose the meaning of 'Once in a blue moon'.",
+    "choices": [
+      "Very frequently",
+      "Very rarely",
+      "During an eclipse",
+      "At night"
+    ],
+    "correct_index": 1,
+    "explanation": "Once in a blue moon means something that happens very rarely."
+  },
+  {
+    "id": 152,
+    "question": "Improve the sentence: She is more taller than her sister.",
+    "choices": [
+      "taller than",
+      "more tall than",
+      "most taller than",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Tall is a one syllable adjective, so comparative is taller, not more taller."
+  },
+  {
+    "id": 153,
+    "question": "Choose the correct synonym of 'Abundant'.",
+    "choices": [
+      "Scarce",
+      "Plentiful",
+      "Rare",
+      "Limited"
+    ],
+    "correct_index": 1,
+    "explanation": "Abundant means existing in large quantities, so plentiful is the correct synonym."
+  },
+  {
+    "id": 154,
+    "question": "Choose the correct antonym of 'Candid'.",
+    "choices": [
+      "Honest",
+      "Frank",
+      "Deceptive",
+      "Open"
+    ],
+    "correct_index": 2,
+    "explanation": "Candid means truthful and straightforward, so deceptive is the opposite."
+  },
+  {
+    "id": 155,
+    "question": "Identify the error in the sentence: Neither the teacher nor the students was present.",
+    "choices": [
+      "Neither the teacher",
+      "nor the students",
+      "was present",
+      "No error"
+    ],
+    "correct_index": 2,
+    "explanation": "When using neither nor, the verb agrees with the nearer subject, so it should be were present."
+  },
+  {
+    "id": 156,
+    "question": "Fill in the blank: She has been working here _____ 2010.",
+    "choices": [
+      "for",
+      "since",
+      "from",
+      "in"
+    ],
+    "correct_index": 1,
+    "explanation": "Since is used with a specific point of time in the past."
+  },
+  {
+    "id": 157,
+    "question": "Choose the correct meaning of the idiom 'Break the ice'.",
+    "choices": [
+      "To start a quarrel",
+      "To end a friendship",
+      "To initiate conversation in a tense situation",
+      "To cool down"
+    ],
+    "correct_index": 2,
+    "explanation": "Break the ice means to do or say something to relieve tension or get conversation started."
+  },
+  {
+    "id": 158,
+    "question": "Improve the sentence: He is senior than me in service.",
+    "choices": [
+      "senior to me",
+      "more senior than me",
+      "seniorer than me",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Senior takes to, not than, for comparison."
+  },
+  {
+    "id": 159,
+    "question": "Choose the correct passive voice: They are building a new bridge.",
+    "choices": [
+      "A new bridge is built by them.",
+      "A new bridge was being built by them.",
+      "A new bridge is being built by them.",
+      "A new bridge has been built by them."
+    ],
+    "correct_index": 2,
+    "explanation": "Present continuous active changes to is being plus past participle in passive."
+  },
+  {
+    "id": 160,
+    "question": "Change to indirect speech: He said, I am happy.",
+    "choices": [
+      "He said that he is happy.",
+      "He said that he was happy.",
+      "He said that I was happy.",
+      "He says that he was happy."
+    ],
+    "correct_index": 1,
+    "explanation": "In indirect speech, present tense changes to past tense and pronouns adjust accordingly."
+  },
+  {
+    "id": 161,
+    "question": "Choose the correct one word substitution: A person who does not believe in God.",
+    "choices": [
+      "Pagan",
+      "Atheist",
+      "Heretic",
+      "Nonbeliever"
+    ],
+    "correct_index": 1,
+    "explanation": "Atheist specifically means one who disbelieves in the existence of God."
+  },
+  {
+    "id": 162,
+    "question": "Fill in the blank with correct preposition: The cat jumped _____ the table.",
+    "choices": [
+      "in",
+      "at",
+      "upon",
+      "to"
+    ],
+    "correct_index": 2,
+    "explanation": "Upon is the correct preposition to indicate movement to a position on top of something."
+  },
+  {
+    "id": 163,
+    "question": "Identify the correctly spelled word.",
+    "choices": [
+      "Accomodate",
+      "Accommodate",
+      "Acommodate",
+      "Acomodate"
+    ],
+    "correct_index": 1,
+    "explanation": "Accommodate has double c and double m."
+  },
+  {
+    "id": 164,
+    "question": "Choose the synonym of 'Diligent'.",
+    "choices": [
+      "Lazy",
+      "Hardworking",
+      "Careless",
+      "Slow"
+    ],
+    "correct_index": 1,
+    "explanation": "Diligent means showing care and effort in one's work, so hardworking is correct."
+  },
+  {
+    "id": 165,
+    "question": "Choose the antonym of 'Benevolent'.",
+    "choices": [
+      "Kind",
+      "Generous",
+      "Cruel",
+      "Charitable"
+    ],
+    "correct_index": 2,
+    "explanation": "Benevolent means well meaning and kindly, so cruel is the opposite."
+  },
+  {
+    "id": 166,
+    "question": "Fill in the blank: If I _____ rich, I would travel the world.",
+    "choices": [
+      "was",
+      "were",
+      "am",
+      "will be"
+    ],
+    "correct_index": 1,
+    "explanation": "In second conditional sentences, were is used with all subjects for hypothetical situations."
+  },
+  {
+    "id": 167,
+    "question": "Identify the error: One of the boy have completed the assignment.",
+    "choices": [
+      "One of the boy",
+      "have completed",
+      "the assignment",
+      "No error"
+    ],
+    "correct_index": 0,
+    "explanation": "After one of the, we use plural noun, so it should be one of the boys."
+  },
+  {
+    "id": 168,
+    "question": "Choose the correct meaning of 'A bird in the hand'.",
+    "choices": [
+      "Catching birds is easy",
+      "It is better to have something certain than to risk losing it for something better",
+      "Birds are valuable pets",
+      "Holding birds requires skill"
+    ],
+    "correct_index": 1,
+    "explanation": "The full idiom is a bird in the hand is worth two in the bush, meaning certainty is better than uncertainty."
+  },
+  {
+    "id": 169,
+    "question": "Improve the sentence: She insisted to go with me.",
+    "choices": [
+      "insisted on going",
+      "insisted for going",
+      "insisted going",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Insist takes the preposition on followed by a gerund."
+  },
+  {
+    "id": 170,
+    "question": "Choose the correct active voice: The letter was written by John.",
+    "choices": [
+      "John wrote the letter.",
+      "John writes the letter.",
+      "John is writing the letter.",
+      "John has written the letter."
+    ],
+    "correct_index": 0,
+    "explanation": "Simple past passive changes to simple past active with subject performing the action."
+  },
+  {
+    "id": 171,
+    "question": "Change to indirect: She said to me, Where are you going?",
+    "choices": [
+      "She asked me where I was going.",
+      "She told me where are you going.",
+      "She asked where you are going.",
+      "She said where I was going."
+    ],
+    "correct_index": 0,
+    "explanation": "Interrogative sentences in indirect speech use asked and change to statement word order."
+  },
+  {
+    "id": 172,
+    "question": "Choose the one word substitution: Study of birds.",
+    "choices": [
+      "Entomology",
+      "Ornithology",
+      "Zoology",
+      "Botany"
+    ],
+    "correct_index": 1,
+    "explanation": "Ornithology is the scientific study of birds."
+  },
+  {
+    "id": 173,
+    "question": "Fill in the blank with correct article: He is _____ honest man.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_index": 1,
+    "explanation": "Honest begins with a vowel sound, so an is used."
+  },
+  {
+    "id": 174,
+    "question": "Choose the synonym of 'Ephemeral'.",
+    "choices": [
+      "Permanent",
+      "Short-lived",
+      "Eternal",
+      "Lasting"
+    ],
+    "correct_index": 1,
+    "explanation": "Ephemeral means lasting for a very short time."
+  },
+  {
+    "id": 175,
+    "question": "Choose the antonym of 'Amplify'.",
+    "choices": [
+      "Increase",
+      "Enlarge",
+      "Reduce",
+      "Expand"
+    ],
+    "correct_index": 2,
+    "explanation": "Amplify means to make larger or louder, so reduce is the opposite."
+  },
+  {
+    "id": 176,
+    "question": "Identify the error: Each of the girls have submitted their project.",
+    "choices": [
+      "Each of the girls",
+      "have submitted",
+      "their project",
+      "No error"
+    ],
+    "correct_index": 1,
+    "explanation": "Each is singular, so the verb should be has, not have."
+  },
+  {
+    "id": 177,
+    "question": "Fill in the blank: He is good _____ mathematics.",
+    "choices": [
+      "in",
+      "at",
+      "on",
+      "with"
+    ],
+    "correct_index": 1,
+    "explanation": "Good is followed by at when referring to a skill or subject."
+  },
+  {
+    "id": 178,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Definite",
+      "Definate",
+      "Defenite",
+      "Definit"
+    ],
+    "correct_index": 0,
+    "explanation": "Definite is spelled with i after f and a after n."
+  },
+  {
+    "id": 179,
+    "question": "Choose the meaning of the idiom 'Bite the bullet'.",
+    "choices": [
+      "To eat something hard",
+      "To endure a painful situation with courage",
+      "To avoid responsibility",
+      "To attack suddenly"
+    ],
+    "correct_index": 1,
+    "explanation": "Bite the bullet means to face a difficult situation with bravery."
+  },
+  {
+    "id": 180,
+    "question": "Improve the sentence: I prefer coffee than tea.",
+    "choices": [
+      "prefer coffee to tea",
+      "prefer coffee over tea",
+      "prefer coffee with tea",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Prefer takes to, not than, for comparison between two items."
+  },
+  {
+    "id": 181,
+    "question": "Choose the correct passive: Someone has stolen my wallet.",
+    "choices": [
+      "My wallet has been stolen.",
+      "My wallet was stolen.",
+      "My wallet is stolen.",
+      "My wallet had been stolen."
+    ],
+    "correct_index": 0,
+    "explanation": "Present perfect active changes to has been plus past participle in passive."
+  },
+  {
+    "id": 182,
+    "question": "Change to indirect: He said, Hurrah! We have won the match.",
+    "choices": [
+      "He exclaimed with joy that they had won the match.",
+      "He said that they have won the match.",
+      "He told that we won the match.",
+      "He exclaimed that we have won."
+    ],
+    "correct_index": 0,
+    "explanation": "Exclamatory sentences use exclaimed with joy or sorrow and change tense and pronouns."
+  },
+  {
+    "id": 183,
+    "question": "Choose the one word substitution: A place where bees are kept.",
+    "choices": [
+      "Apiary",
+      "Aviary",
+      "Aquarium",
+      "Sanctuary"
+    ],
+    "correct_index": 0,
+    "explanation": "Apiary is a place where beehives are kept."
+  },
+  {
+    "id": 184,
+    "question": "Fill in the blank with correct preposition: The meeting will be held _____ Monday.",
+    "choices": [
+      "in",
+      "at",
+      "on",
+      "by"
+    ],
+    "correct_index": 2,
+    "explanation": "On is used with days of the week."
+  },
+  {
+    "id": 185,
+    "question": "Choose the synonym of 'Prudent'.",
+    "choices": [
+      "Reckless",
+      "Wise",
+      "Foolish",
+      "Careless"
+    ],
+    "correct_index": 1,
+    "explanation": "Prudent means acting with care and thought for the future, so wise is correct."
+  },
+  {
+    "id": 186,
+    "question": "Choose the antonym of 'Transparent'.",
+    "choices": [
+      "Clear",
+      "Opaque",
+      "Visible",
+      "Obvious"
+    ],
+    "correct_index": 1,
+    "explanation": "Transparent means allowing light to pass through, so opaque is the opposite."
+  },
+  {
+    "id": 187,
+    "question": "Identify the error: The news are very interesting.",
+    "choices": [
+      "The news",
+      "are very",
+      "interesting",
+      "No error"
+    ],
+    "correct_index": 1,
+    "explanation": "News is an uncountable noun and takes singular verb, so it should be is very interesting."
+  },
+  {
+    "id": 188,
+    "question": "Fill in the blank: She is _____ university student.",
+    "choices": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_index": 0,
+    "explanation": "University begins with a consonant sound yoo, so a is used."
+  },
+  {
+    "id": 189,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Separate",
+      "Seperate",
+      "Separete",
+      "Sepirate"
+    ],
+    "correct_index": 0,
+    "explanation": "Separate has a after p and a after r."
+  },
+  {
+    "id": 190,
+    "question": "Choose the meaning of 'Call it a day'.",
+    "choices": [
+      "To start working",
+      "To stop working for the day",
+      "To work all night",
+      "To postpone work"
+    ],
+    "correct_index": 1,
+    "explanation": "Call it a day means to decide to stop working on something."
+  },
+  {
+    "id": 191,
+    "question": "Improve the sentence: He asked me what is my name.",
+    "choices": [
+      "what my name was",
+      "what was my name",
+      "what is my name",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "In indirect speech, the question changes to statement order and tense shifts back."
+  },
+  {
+    "id": 192,
+    "question": "Choose the correct active: The cake was eaten by the children.",
+    "choices": [
+      "The children ate the cake.",
+      "The children eat the cake.",
+      "The children have eaten the cake.",
+      "The children were eating the cake."
+    ],
+    "correct_index": 0,
+    "explanation": "Simple past passive changes to simple past active."
+  },
+  {
+    "id": 193,
+    "question": "Change to indirect: The teacher said, The earth revolves around the sun.",
+    "choices": [
+      "The teacher said that the earth revolves around the sun.",
+      "The teacher said that the earth revolved around the sun.",
+      "The teacher told that the earth revolves around the sun.",
+      "The teacher says the earth revolved around the sun."
+    ],
+    "correct_index": 0,
+    "explanation": "Universal truths retain present tense in indirect speech."
+  },
+  {
+    "id": 194,
+    "question": "Choose the one word substitution: Fear of heights.",
+    "choices": [
+      "Claustrophobia",
+      "Acrophobia",
+      "Agoraphobia",
+      "Hydrophobia"
+    ],
+    "correct_index": 1,
+    "explanation": "Acrophobia is the extreme or irrational fear of heights."
+  },
+  {
+    "id": 195,
+    "question": "Fill in the blank with correct conjunction: He is poor _____ honest.",
+    "choices": [
+      "and",
+      "but",
+      "or",
+      "so"
+    ],
+    "correct_index": 1,
+    "explanation": "But is used to show contrast between two ideas."
+  },
+  {
+    "id": 196,
+    "question": "Choose the synonym of 'Mitigate'.",
+    "choices": [
+      "Worsen",
+      "Alleviate",
+      "Aggravate",
+      "Intensify"
+    ],
+    "correct_index": 1,
+    "explanation": "Mitigate means to make less severe, so alleviate is correct."
+  },
+  {
+    "id": 197,
+    "question": "Choose the antonym of 'Clemency'.",
+    "choices": [
+      "Mercy",
+      "Leniency",
+      "Severity",
+      "Compassion"
+    ],
+    "correct_index": 2,
+    "explanation": "Clemency means mercy, so severity is the opposite."
+  },
+  {
+    "id": 198,
+    "question": "Identify the error: He is one of the best actor in the industry.",
+    "choices": [
+      "He is one",
+      "of the best actor",
+      "in the industry",
+      "No error"
+    ],
+    "correct_index": 1,
+    "explanation": "After one of the, we use plural noun, so it should be best actors."
+  },
+  {
+    "id": 199,
+    "question": "Fill in the blank: I look forward _____ hearing from you.",
+    "choices": [
+      "for",
+      "to",
+      "at",
+      "on"
+    ],
+    "correct_index": 1,
+    "explanation": "Look forward to is a fixed phrase followed by a gerund."
+  },
+  {
+    "id": 200,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Recommend",
+      "Reccomend",
+      "Recommand",
+      "Reccomend"
+    ],
+    "correct_index": 0,
+    "explanation": "Recommend has one c and double m."
+  },
+  {
+    "id": 201,
+    "question": "Choose the meaning of 'Once in a blue moon'.",
+    "choices": [
+      "Very frequently",
+      "Very rarely",
+      "During an eclipse",
+      "At night"
+    ],
+    "correct_index": 1,
+    "explanation": "Once in a blue moon means something that happens very rarely."
+  },
+  {
+    "id": 202,
+    "question": "Improve the sentence: She is more taller than her sister.",
+    "choices": [
+      "taller than",
+      "more tall than",
+      "most taller than",
+      "No improvement"
+    ],
+    "correct_index": 0,
+    "explanation": "Tall is a one syllable adjective, so comparative is taller, not more taller."
   }
 ]

@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"io"
+	"math/rand/v2"
 	"net/http"
 	"os"
 	"path/filepath"
@@ -17,10 +18,10 @@ var allowedSubjects = map[string]bool{
 	"general-science":       true,
 	"history":               true,
 	"geography":             true,
-	"polity":                true,
+	"indian-polity":         true,
 	"economics":             true,
 	"reasoning":             true,
-	"computer":              true,
+	"computer-knowledge":    true,
 	"current-affairs":       true,
 	"general-awareness":     true,
 	"quantitative-aptitude": true,
@@ -51,6 +52,9 @@ func main() {
 	http.HandleFunc("/admin", adminPageHandler)
 	http.HandleFunc("/api/add-bulk-mcqs", addBulkMCQsHandler)
 
+	http.HandleFunc("/mock-test", mockTestPageHandler)
+	http.HandleFunc("/api/mock-test", mockTestAPIHandler)
+
 	fmt.Println("SSC Prep Server running at http://localhost:8080")
 	http.ListenAndServe(":8080", nil)
 }
@@ -61,6 +65,48 @@ func indexHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	http.ServeFile(w, r, "templates/index.html")
+}
+
+func mockTestPageHandler(w http.ResponseWriter, r *http.Request) {
+	http.ServeFile(w, r, "templates/mock-test.html")
+}
+
+func mockTestAPIHandler(w http.ResponseWriter, r *http.Request) {
+
+	var allMCQs []MCQ
+
+	for subject := range allowedSubjects {
+
+		path := filepath.Join("data", "mcqs", subject+".json")
+
+		data, err := os.ReadFile(path)
+		if err != nil {
+			continue
+		}
+
+		var mcqs []MCQ
+
+		err = json.Unmarshal(data, &mcqs)
+		if err != nil {
+			continue
+		}
+
+		allMCQs = append(allMCQs, mcqs...)
+	}
+
+	// Shuffle MCQs
+	rand.Shuffle(len(allMCQs), func(i, j int) {
+		allMCQs[i], allMCQs[j] = allMCQs[j], allMCQs[i]
+	})
+
+	// Limit to 50
+	if len(allMCQs) > 50 {
+		allMCQs = allMCQs[:50]
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+
+	json.NewEncoder(w).Encode(allMCQs)
 }
 
 func addBulkMCQsHandler(w http.ResponseWriter, r *http.Request) {

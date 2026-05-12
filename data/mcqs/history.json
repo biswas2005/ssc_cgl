@@ -646,5 +646,3341 @@
     ],
     "correct_index": 0,
     "explanation": "Harisena wrote Allahabad inscription."
+  },
+  {
+    "id": 55,
+    "question": "Who was the founder of the Maurya Empire?",
+    "choices": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Brihadratha"
+    ],
+    "correct_index": 1,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the help of Chanakya."
+  },
+  {
+    "id": 56,
+    "question": "In which year did the First Battle of Panipat take place?",
+    "choices": [
+      "1526",
+      "1556",
+      "1761",
+      "1576"
+    ],
+    "correct_index": 0,
+    "explanation": "The First Battle of Panipat was fought in 1526 between Babur and Ibrahim Lodi."
+  },
+  {
+    "id": 57,
+    "question": "Who wrote the Arthashastra?",
+    "choices": [
+      "Panini",
+      "Kalidasa",
+      "Chanakya",
+      "Banabhatta"
+    ],
+    "correct_index": 2,
+    "explanation": "Arthashastra, a treatise on statecraft, was written by Chanakya also known as Kautilya."
+  },
+  {
+    "id": 58,
+    "question": "The Indus Valley Civilization site of Mohenjo-daro is located in present-day?",
+    "choices": [
+      "India",
+      "Pakistan",
+      "Afghanistan",
+      "Bangladesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Mohenjo-daro is located in Sindh province of present-day Pakistan."
+  },
+  {
+    "id": 59,
+    "question": "Who was the last Mughal emperor of India?",
+    "choices": [
+      "Aurangzeb",
+      "Bahadur Shah Zafar",
+      "Shah Alam II",
+      "Akbar II"
+    ],
+    "correct_index": 1,
+    "explanation": "Bahadur Shah Zafar was the last Mughal emperor, exiled to Rangoon after the 1857 revolt."
+  },
+  {
+    "id": 60,
+    "question": "The Quit India Movement was launched in which year?",
+    "choices": [
+      "1940",
+      "1942",
+      "1945",
+      "1947"
+    ],
+    "correct_index": 1,
+    "explanation": "The Quit India Movement was launched by Mahatma Gandhi on August 8, 1942."
+  },
+  {
+    "id": 61,
+    "question": "Who was the first Governor-General of independent India?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Lord Mountbatten",
+      "C Rajagopalachari"
+    ],
+    "correct_index": 2,
+    "explanation": "Lord Mountbatten served as the first Governor-General of independent India from 1947 to 1948."
+  },
+  {
+    "id": 62,
+    "question": "The Battle of Plassey was fought in which year?",
+    "choices": [
+      "1757",
+      "1764",
+      "1775",
+      "1857"
+    ],
+    "correct_index": 0,
+    "explanation": "The Battle of Plassey was fought in 1757 between Robert Clive and Siraj-ud-Daulah."
+  },
+  {
+    "id": 63,
+    "question": "Who founded the Brahmo Samaj?",
+    "choices": [
+      "Swami Vivekananda",
+      "Raja Ram Mohan Roy",
+      "Dayanand Saraswati",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correct_index": 1,
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 to reform Hindu society."
+  },
+  {
+    "id": 64,
+    "question": "The Great Bath of the Indus Valley Civilization was found at?",
+    "choices": [
+      "Harappa",
+      "Lothal",
+      "Mohenjo-daro",
+      "Kalibangan"
+    ],
+    "correct_index": 2,
+    "explanation": "The Great Bath, a public water tank, was discovered at Mohenjo-daro."
+  },
+  {
+    "id": 65,
+    "question": "Who was the founder of the Satavahana dynasty?",
+    "choices": [
+      "Gautamiputra Satakarni",
+      "Simuka",
+      "Yajna Sri Satakarni",
+      "Pulumavi"
+    ],
+    "correct_index": 1,
+    "explanation": "Simuka is considered the founder of the Satavahana dynasty in the Deccan region."
+  },
+  {
+    "id": 66,
+    "question": "The Ajanta Caves are famous for?",
+    "choices": [
+      "Hindu temples",
+      "Buddhist paintings and sculptures",
+      "Jain monasteries",
+      "Islamic architecture"
+    ],
+    "correct_index": 1,
+    "explanation": "Ajanta Caves in Maharashtra contain ancient Buddhist murals and rock-cut sculptures."
+  },
+  {
+    "id": 67,
+    "question": "Who was the first woman President of the Indian National Congress?",
+    "choices": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Vijaya Lakshmi Pandit",
+      "Indira Gandhi"
+    ],
+    "correct_index": 1,
+    "explanation": "Annie Besant became the first woman President of INC in 1917 at the Calcutta session."
+  },
+  {
+    "id": 68,
+    "question": "The Third Battle of Panipat was fought between?",
+    "choices": [
+      "Marathas and British",
+      "Marathas and Afghans",
+      "Mughals and Rajputs",
+      "Sikhs and Afghans"
+    ],
+    "correct_index": 1,
+    "explanation": "The Third Battle of Panipat in 1761 was fought between the Marathas and Ahmad Shah Abdali."
+  },
+  {
+    "id": 69,
+    "question": "Who introduced the Permanent Settlement System in Bengal?",
+    "choices": [
+      "Lord Cornwallis",
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord Curzon"
+    ],
+    "correct_index": 0,
+    "explanation": "Lord Cornwallis introduced the Permanent Settlement in 1793 to fix land revenue in Bengal."
+  },
+  {
+    "id": 70,
+    "question": "The Harappan site of Lothal is famous for?",
+    "choices": [
+      "Great Granary",
+      "Dockyard",
+      "Fire altars",
+      "Bronze dancing girl"
+    ],
+    "correct_index": 1,
+    "explanation": "Lothal in Gujarat had an ancient dockyard, indicating maritime trade activities."
+  },
+  {
+    "id": 71,
+    "question": "Who was the founder of the Brahmo Samaj?",
+    "choices": [
+      "Swami Dayanand Saraswati",
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correct_index": 1,
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 for social and religious reforms."
+  },
+  {
+    "id": 72,
+    "question": "The Sanchi Stupa was built by?",
+    "choices": [
+      "Ashoka",
+      "Kanishka",
+      "Harsha",
+      "Chandragupta II"
+    ],
+    "correct_index": 0,
+    "explanation": "The Great Stupa at Sanchi was originally commissioned by Emperor Ashoka in the 3rd century BCE."
+  },
+  {
+    "id": 73,
+    "question": "Who was the first Indian to join the Indian Civil Service?",
+    "choices": [
+      "Satyendranath Tagore",
+      "Rabindranath Tagore",
+      "Dadabhai Naoroji",
+      "Womesh Chandra Bonnerjee"
+    ],
+    "correct_index": 0,
+    "explanation": "Satyendranath Tagore became the first Indian to clear the ICS exam in 1863."
+  },
+  {
+    "id": 74,
+    "question": "The Revolt of 1857 started from which place?",
+    "choices": [
+      "Delhi",
+      "Meerut",
+      "Kanpur",
+      "Lucknow"
+    ],
+    "correct_index": 1,
+    "explanation": "The Revolt of 1857 began on May 10, 1857, at Meerut when sepoys mutinied."
+  },
+  {
+    "id": 75,
+    "question": "Who wrote the book India Wins Freedom?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Maulana Abul Kalam Azad",
+      "Sardar Patel",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 1,
+    "explanation": "India Wins Freedom is an autobiography by Maulana Abul Kalam Azad."
+  },
+  {
+    "id": 76,
+    "question": "The capital of the Pallava dynasty was?",
+    "choices": [
+      "Madurai",
+      "Kanchipuram",
+      "Thanjavur",
+      "Vatapi"
+    ],
+    "correct_index": 1,
+    "explanation": "Kanchipuram served as the capital of the Pallava dynasty in South India."
+  },
+  {
+    "id": 77,
+    "question": "Who founded the Arya Samaj?",
+    "choices": [
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Swami Dayanand Saraswati",
+      "Sri Aurobindo"
+    ],
+    "correct_index": 2,
+    "explanation": "Swami Dayanand Saraswati founded the Arya Samaj in 1875 to promote Vedic values."
+  },
+  {
+    "id": 78,
+    "question": "The Battle of Haldighati was fought between?",
+    "choices": [
+      "Akbar and Rana Pratap",
+      "Babur and Ibrahim Lodi",
+      "Aurangzeb and Shivaji",
+      "Humayun and Sher Shah"
+    ],
+    "correct_index": 0,
+    "explanation": "The Battle of Haldighati in 1576 was fought between Akbar's forces and Maharana Pratap."
+  },
+  {
+    "id": 79,
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "choices": [
+      "C V Raman",
+      "Rabindranath Tagore",
+      "Mother Teresa",
+      "Amartya Sen"
+    ],
+    "correct_index": 1,
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for Gitanjali."
+  },
+  {
+    "id": 80,
+    "question": "The Indus Valley Civilization was discovered in which year?",
+    "choices": [
+      "1911",
+      "1921",
+      "1931",
+      "1941"
+    ],
+    "correct_index": 1,
+    "explanation": "The Indus Valley Civilization was discovered in 1921 by R D Banerji at Mohenjo-daro."
+  },
+  {
+    "id": 81,
+    "question": "Who was the Viceroy of India during the Partition of Bengal in 1905?",
+    "choices": [
+      "Lord Curzon",
+      "Lord Minto",
+      "Lord Hardinge",
+      "Lord Chelmsford"
+    ],
+    "correct_index": 0,
+    "explanation": "Lord Curzon partitioned Bengal in 1905, which sparked the Swadeshi Movement."
+  },
+  {
+    "id": 82,
+    "question": "The famous iron pillar at Mehrauli was erected by?",
+    "choices": [
+      "Ashoka",
+      "Chandragupta II",
+      "Samudragupta",
+      "Harsha"
+    ],
+    "correct_index": 1,
+    "explanation": "The iron pillar at Mehrauli, Delhi, was erected during the reign of Chandragupta II."
+  },
+  {
+    "id": 83,
+    "question": "Who was the founder of the Sikh Empire?",
+    "choices": [
+      "Guru Nanak",
+      "Guru Gobind Singh",
+      "Maharaja Ranjit Singh",
+      "Banda Bahadur"
+    ],
+    "correct_index": 2,
+    "explanation": "Maharaja Ranjit Singh founded the Sikh Empire in Punjab in the early 19th century."
+  },
+  {
+    "id": 84,
+    "question": "The Dandi March was started in which year?",
+    "choices": [
+      "1928",
+      "1930",
+      "1932",
+      "1942"
+    ],
+    "correct_index": 1,
+    "explanation": "The Dandi March or Salt Satyagraha was started by Gandhi on March 12, 1930."
+  },
+  {
+    "id": 85,
+    "question": "Who wrote the play Mudrarakshasa?",
+    "choices": [
+      "Kalidasa",
+      "Vishakhadatta",
+      "Banabhatta",
+      "Bhavabhuti"
+    ],
+    "correct_index": 1,
+    "explanation": "Mudrarakshasa, a Sanskrit play about Chandragupta Maurya, was written by Vishakhadatta."
+  },
+  {
+    "id": 86,
+    "question": "The first session of the Indian National Congress was held at?",
+    "choices": [
+      "Calcutta",
+      "Bombay",
+      "Madras",
+      "Delhi"
+    ],
+    "correct_index": 1,
+    "explanation": "The first session of INC was held in Bombay in 1885 under Womesh Chandra Bonnerjee."
+  },
+  {
+    "id": 87,
+    "question": "Who was the last ruler of the Nanda dynasty?",
+    "choices": [
+      "Mahapadma Nanda",
+      "Dhana Nanda",
+      "Govishanaka",
+      "Kaivarta"
+    ],
+    "correct_index": 1,
+    "explanation": "Dhana Nanda was the last ruler of the Nanda dynasty, overthrown by Chandragupta Maurya."
+  },
+  {
+    "id": 88,
+    "question": "The Treaty of Seringapatam was signed after which war?",
+    "choices": [
+      "First Anglo-Mysore War",
+      "Second Anglo-Mysore War",
+      "Third Anglo-Mysore War",
+      "Fourth Anglo-Mysore War"
+    ],
+    "correct_index": 2,
+    "explanation": "The Treaty of Seringapatam in 1792 ended the Third Anglo-Mysore War between Tipu Sultan and the British."
+  },
+  {
+    "id": 89,
+    "question": "Who founded the Ramakrishna Mission?",
+    "choices": [
+      "Raja Ram Mohan Roy",
+      "Swami Vivekananda",
+      "Swami Dayanand Saraswati",
+      "Sri Ramakrishna"
+    ],
+    "correct_index": 1,
+    "explanation": "Swami Vivekananda founded the Ramakrishna Mission in 1897 to spread spiritual and social service."
+  },
+  {
+    "id": 90,
+    "question": "The famous Sun Temple at Konark was built by?",
+    "choices": [
+      "Rajaraja Chola",
+      "Narasimhadeva I",
+      "Krishnadeva Raya",
+      "Pulakeshin II"
+    ],
+    "correct_index": 1,
+    "explanation": "The Sun Temple at Konark, Odisha, was built by Narasimhadeva I of the Eastern Ganga dynasty."
+  },
+  {
+    "id": 91,
+    "question": "Who was the first Indian to become a member of the British Parliament?",
+    "choices": [
+      "Dadabhai Naoroji",
+      "Womesh Chandra Bonnerjee",
+      "Gopal Krishna Gokhale",
+      "Bal Gangadhar Tilak"
+    ],
+    "correct_index": 0,
+    "explanation": "Dadabhai Naoroji was elected to the British Parliament in 1892 from Finsbury Central."
+  },
+  {
+    "id": 92,
+    "question": "The Kalinga War was fought in which year?",
+    "choices": [
+      "261 BCE",
+      "321 BCE",
+      "184 BCE",
+      "78 BCE"
+    ],
+    "correct_index": 0,
+    "explanation": "The Kalinga War was fought in 261 BCE between Ashoka and the kingdom of Kalinga."
+  },
+  {
+    "id": 93,
+    "question": "Who was the founder of the Aligarh Movement?",
+    "choices": [
+      "Maulana Azad",
+      "Sir Syed Ahmed Khan",
+      "Muhammad Ali Jinnah",
+      "Liaquat Ali Khan"
+    ],
+    "correct_index": 1,
+    "explanation": "Sir Syed Ahmed Khan founded the Aligarh Movement to promote modern education among Muslims."
+  },
+  {
+    "id": 94,
+    "question": "The first railway line in India was opened between?",
+    "choices": [
+      "Bombay and Thane",
+      "Calcutta and Delhi",
+      "Madras and Bangalore",
+      "Delhi and Lahore"
+    ],
+    "correct_index": 0,
+    "explanation": "The first railway line in India was opened in 1853 between Bombay and Thane."
+  },
+  {
+    "id": 95,
+    "question": "Who was the author of the book Discovery of India?",
+    "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 1,
+    "explanation": "Discovery of India was written by Jawaharlal Nehru during his imprisonment at Ahmednagar Fort."
+  },
+  {
+    "id": 96,
+    "question": "The famous Brihadeeswarar Temple is located at?",
+    "choices": [
+      "Madurai",
+      "Thanjavur",
+      "Kanchipuram",
+      "Mahabalipuram"
+    ],
+    "correct_index": 1,
+    "explanation": "The Brihadeeswarar Temple at Thanjavur was built by Rajaraja Chola I in the 11th century."
+  },
+  {
+    "id": 97,
+    "question": "Who was the first Indian woman to become President of the Indian National Congress?",
+    "choices": [
+      "Sarojini Naidu",
+      "Annie Besant",
+      "Vijaya Lakshmi Pandit",
+      "Indira Gandhi"
+    ],
+    "correct_index": 1,
+    "explanation": "Annie Besant became the first woman President of INC in 1917 at the Calcutta session."
+  },
+  {
+    "id": 98,
+    "question": "The Battle of Talikota was fought in which year?",
+    "choices": [
+      "1526",
+      "1565",
+      "1600",
+      "1707"
+    ],
+    "correct_index": 1,
+    "explanation": "The Battle of Talikota in 1565 led to the decline of the Vijayanagara Empire."
+  },
+  {
+    "id": 99,
+    "question": "Who founded the Theosophical Society in India?",
+    "choices": [
+      "Annie Besant",
+      "Madame Blavatsky and Colonel Olcott",
+      "Swami Vivekananda",
+      "Raja Ram Mohan Roy"
+    ],
+    "correct_index": 1,
+    "explanation": "The Theosophical Society was founded by Madame Blavatsky and Colonel Olcott, later led by Annie Besant in India."
+  },
+  {
+    "id": 100,
+    "question": "The famous Ellora Caves are located in which state?",
+    "choices": [
+      "Karnataka",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Odisha"
+    ],
+    "correct_index": 1,
+    "explanation": "The Ellora Caves, a UNESCO World Heritage Site, are located in Maharashtra."
+  },
+  {
+    "id": 101,
+    "question": "Who was the first Indian to cross the English Channel by swimming?",
+    "choices": [
+      "Mihir Sen",
+      "Bula Choudhary",
+      "Arati Saha",
+      "Shikha Tandon"
+    ],
+    "correct_index": 0,
+    "explanation": "Mihir Sen was the first Indian to swim across the English Channel in 1958."
+  },
+  {
+    "id": 102,
+    "question": "The Swadeshi Movement was launched in response to?",
+    "choices": [
+      "Jallianwala Bagh Massacre",
+      "Partition of Bengal",
+      "Rowlatt Act",
+      "Simon Commission"
+    ],
+    "correct_index": 1,
+    "explanation": "The Swadeshi Movement was launched in 1905 to protest against the Partition of Bengal."
+  },
+  {
+    "id": 103,
+    "question": "Who was the founder of the Khilafat Movement?",
+    "choices": [
+      "Maulana Azad",
+      "Muhammad Ali and Shaukat Ali",
+      "Abul Kalam Azad",
+      "Hakim Ajmal Khan"
+    ],
+    "correct_index": 1,
+    "explanation": "The Khilafat Movement was led by the Ali brothers, Muhammad Ali and Shaukat Ali, to protect the Ottoman Caliphate."
+  },
+  {
+    "id": 104,
+    "question": "The famous Rock-cut temples of Ellora represent which religions?",
+    "choices": [
+      "Hinduism only",
+      "Buddhism only",
+      "Hinduism, Buddhism, and Jainism",
+      "Islam and Hinduism"
+    ],
+    "correct_index": 2,
+    "explanation": "The Ellora Caves contain temples and monasteries representing Hinduism, Buddhism, and Jainism."
+  },
+  {
+    "id": 105,
+    "question": "Who was the first Indian to win an Oscar?",
+    "choices": [
+      "Satyajit Ray",
+      "Bhanu Athaiya",
+      "A R Rahman",
+      "Gulzar"
+    ],
+    "correct_index": 1,
+    "explanation": "Bhanu Athaiya won the Oscar for Best Costume Design for the film Gandhi in 1983."
+  },
+  {
+    "id": 106,
+    "question": "The first Indian satellite Aryabhata was launched in which year?",
+    "choices": [
+      "1969",
+      "1975",
+      "1980",
+      "1984"
+    ],
+    "correct_index": 1,
+    "explanation": "Aryabhata, India's first satellite, was launched on April 19, 1975, from the Soviet Union."
+  },
+  {
+    "id": 107,
+    "question": "Who was the first Indian woman to win a Nobel Prize?",
+    "choices": [
+      "Indira Gandhi",
+      "Mother Teresa",
+      "Amartya Sen",
+      "Kailash Satyarthi"
+    ],
+    "correct_index": 1,
+    "explanation": "Mother Teresa, an Albanian-Indian, won the Nobel Peace Prize in 1979 for her humanitarian work."
+  },
+  {
+    "id": 108,
+    "question": "The famous Hampi ruins belong to which empire?",
+    "choices": [
+      "Chola Empire",
+      "Vijayanagara Empire",
+      "Bahmani Sultanate",
+      "Mughal Empire"
+    ],
+    "correct_index": 1,
+    "explanation": "Hampi was the capital of the Vijayanagara Empire and is now a UNESCO World Heritage Site."
+  },
+  {
+    "id": 109,
+    "question": "Who was the first Indian to climb Mount Everest?",
+    "choices": [
+      "Bachendri Pal",
+      "Tenzing Norgay",
+      "Edmund Hillary",
+      "Santosh Yadav"
+    ],
+    "correct_index": 1,
+    "explanation": "Tenzing Norgay, along with Edmund Hillary, became the first person to summit Mount Everest in 1953."
+  },
+  {
+    "id": 110,
+    "question": "The first Indian to receive the Bharat Ratna award was?",
+    "choices": [
+      "C Rajagopalachari",
+      "C V Raman",
+      "Jawaharlal Nehru",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "C Rajagopalachari, C V Raman, and Jawaharlal Nehru were among the first recipients of Bharat Ratna in 1954."
+  },
+  {
+    "id": 111,
+    "question": "Who was the founder of the Brahmo Samaj?",
+    "choices": [
+      "Swami Vivekananda",
+      "Raja Ram Mohan Roy",
+      "Dayanand Saraswati",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "correct_index": 1,
+    "explanation": "Raja Ram Mohan Roy founded the Brahmo Samaj in 1828 to reform Hindu society and oppose idolatry."
+  },
+  {
+    "id": 112,
+    "question": "The famous Qutub Minar was started by?",
+    "choices": [
+      "Iltutmish",
+      "Qutb-ud-din Aibak",
+      "Alauddin Khilji",
+      "Firoz Shah Tughlaq"
+    ],
+    "correct_index": 1,
+    "explanation": "Qutub Minar was started by Qutb-ud-din Aibak and completed by Iltutmish in Delhi."
+  },
+  {
+    "id": 113,
+    "question": "Who was the first Indian woman to become a Chief Minister?",
+    "choices": [
+      "Indira Gandhi",
+      "Sucheta Kripalani",
+      "Jayalalithaa",
+      "Mamata Banerjee"
+    ],
+    "correct_index": 1,
+    "explanation": "Sucheta Kripalani became the first woman Chief Minister of India, leading Uttar Pradesh from 1963 to 1967."
+  },
+  {
+    "id": 114,
+    "question": "The famous Khajuraho temples were built by?",
+    "choices": [
+      "Chandelas",
+      "Chalukyas",
+      "Pallavas",
+      "Rashtrakutas"
+    ],
+    "correct_index": 0,
+    "explanation": "The Khajuraho temples in Madhya Pradesh were built by the Chandela dynasty between 950 and 1050 CE."
+  },
+  {
+    "id": 115,
+    "question": "Who was the first Indian to win a Grand Slam tennis title?",
+    "choices": [
+      "Leander Paes",
+      "Mahesh Bhupathi",
+      "Sania Mirza",
+      "Vijay Amritraj"
+    ],
+    "correct_index": 0,
+    "explanation": "Leander Paes won the French Open mixed doubles in 1997, becoming the first Indian to win a Grand Slam."
+  },
+  {
+    "id": 116,
+    "question": "The first Indian to receive the Jnanpith Award was?",
+    "choices": [
+      "Rabindranath Tagore",
+      "G Sankara Kurup",
+      "Umashankar Joshi",
+      "Kuvempu"
+    ],
+    "correct_index": 1,
+    "explanation": "G Sankara Kurup was the first recipient of the Jnanpith Award in 1965 for his Malayalam poetry."
+  },
+  {
+    "id": 117,
+    "question": "Who was the founder of the Maratha Empire?",
+    "choices": [
+      "Shivaji",
+      "Sambhaji",
+      "Rajaram",
+      "Shahuji"
+    ],
+    "correct_index": 0,
+    "explanation": "Chhatrapati Shivaji Maharaj founded the Maratha Empire in the 17th century in western India."
+  },
+  {
+    "id": 118,
+    "question": "The famous Sarnath pillar with four lions was erected by?",
+    "choices": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Samudragupta",
+      "Harsha"
+    ],
+    "correct_index": 1,
+    "explanation": "The Lion Capital of Ashoka at Sarnath is now the National Emblem of India."
+  },
+  {
+    "id": 119,
+    "question": "Who was the first Indian to win an individual Olympic medal?",
+    "choices": [
+      "Milkha Singh",
+      "K D Jadhav",
+      "Abhinav Bindra",
+      "P T Usha"
+    ],
+    "correct_index": 1,
+    "explanation": "K D Jadhav won a bronze medal in wrestling at the 1952 Helsinki Olympics, India's first individual Olympic medal."
+  },
+  {
+    "id": 120,
+    "question": "The famous Elephanta Caves are dedicated to which deity?",
+    "choices": [
+      "Vishnu",
+      "Brahma",
+      "Shiva",
+      "Durga"
+    ],
+    "correct_index": 2,
+    "explanation": "The Elephanta Caves near Mumbai are rock-cut temples dedicated to Lord Shiva."
+  },
+  {
+    "id": 121,
+    "question": "Who was the first Indian woman to win an Olympic medal?",
+    "choices": [
+      "P T Usha",
+      "Karnam Malleswari",
+      "Saina Nehwal",
+      "Mary Kom"
+    ],
+    "correct_index": 1,
+    "explanation": "Karnam Malleswari won a bronze medal in weightlifting at the 2000 Sydney Olympics."
+  },
+  {
+    "id": 122,
+    "question": "The famous Nalanda University was established during the reign of?",
+    "choices": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Kumaragupta I",
+      "Harsha"
+    ],
+    "correct_index": 2,
+    "explanation": "Nalanda University, a ancient center of learning, was established during the Gupta period under Kumaragupta I."
+  },
+  {
+    "id": 123,
+    "question": "Who was the first Indian to receive the Ramon Magsaysay Award?",
+    "choices": [
+      "Vinoba Bhave",
+      "Jayaprakash Narayan",
+      "Mother Teresa",
+      "Kiran Bedi"
+    ],
+    "correct_index": 0,
+    "explanation": "Vinoba Bhave was the first Indian to receive the Ramon Magsaysay Award in 1958 for community leadership."
+  },
+  {
+    "id": 124,
+    "question": "The famous Konark Sun Temple is shaped like?",
+    "choices": [
+      "A lotus",
+      "A chariot",
+      "A temple tower",
+      "A palace"
+    ],
+    "correct_index": 1,
+    "explanation": "The Konark Sun Temple is designed as a massive chariot with twelve pairs of wheels pulled by seven horses."
+  },
+  {
+    "id": 125,
+    "question": "Who was the first Indian to win a World Cup in cricket?",
+    "choices": [
+      "Kapil Dev",
+      "Sunil Gavaskar",
+      "Sachin Tendulkar",
+      "MS Dhoni"
+    ],
+    "correct_index": 0,
+    "explanation": "Kapil Dev led India to its first Cricket World Cup victory in 1983 against the West Indies."
+  },
+  {
+    "id": 126,
+    "question": "The famous Ajanta paintings depict scenes from?",
+    "choices": [
+      "Ramayana",
+      "Mahabharata",
+      "Jataka tales",
+      "Panchatantra"
+    ],
+    "correct_index": 2,
+    "explanation": "The Ajanta Cave paintings primarily depict stories from the Jataka tales about Buddha's previous lives."
+  },
+  {
+    "id": 127,
+    "question": "Who was the first Indian to win a Nobel Prize in Science?",
+    "choices": [
+      "C V Raman",
+      "Hargobind Khorana",
+      "Subrahmanyan Chandrasekhar",
+      "Venkatraman Ramakrishnan"
+    ],
+    "correct_index": 0,
+    "explanation": "C V Raman won the Nobel Prize in Physics in 1930 for his work on light scattering, known as the Raman Effect."
+  },
+  {
+    "id": 128,
+    "question": "The famous Brihadeeswarar Temple was built by which dynasty?",
+    "choices": [
+      "Pallava",
+      "Chola",
+      "Pandya",
+      "Chera"
+    ],
+    "correct_index": 1,
+    "explanation": "The Brihadeeswarar Temple at Thanjavur was built by Rajaraja Chola I of the Chola dynasty."
+  },
+  {
+    "id": 129,
+    "question": "Who was the first Indian to cross the Atlantic Ocean by airplane?",
+    "choices": [
+      "J R D Tata",
+      "Vijaypat Singhania",
+      "Ravish Malhotra",
+      "Rakesh Sharma"
+    ],
+    "correct_index": 0,
+    "explanation": "J R D Tata was the first Indian to fly across the Atlantic Ocean in 1932."
+  },
+  {
+    "id": 130,
+    "question": "The famous Gol Gumbaz is located in?",
+    "choices": [
+      "Hyderabad",
+      "Bijapur",
+      "Gulbarga",
+      "Bidar"
+    ],
+    "correct_index": 1,
+    "explanation": "Gol Gumbaz, with the world's second-largest dome, is located in Bijapur, Karnataka, built by the Adil Shahi dynasty."
+  },
+  {
+    "id": 131,
+    "question": "Who was the first Indian to receive the Booker Prize?",
+    "choices": [
+      "Arundhati Roy",
+      "Salman Rushdie",
+      "Kiran Desai",
+      "Aravind Adiga"
+    ],
+    "correct_index": 1,
+    "explanation": "Salman Rushdie won the Booker Prize in 1981 for his novel Midnight's Children."
+  },
+  {
+    "id": 132,
+    "question": "The famous Mahabalipuram monuments were built by?",
+    "choices": [
+      "Pallavas",
+      "Cholas",
+      "Pandyas",
+      "Chalukyas"
+    ],
+    "correct_index": 0,
+    "explanation": "The rock-cut temples and sculptures at Mahabalipuram were created by the Pallava dynasty in the 7th and 8th centuries."
+  },
+  {
+    "id": 133,
+    "question": "Who was the first Indian to win a medal at the World Athletics Championships?",
+    "choices": [
+      "P T Usha",
+      "Anju Bobby George",
+      "Neeraj Chopra",
+      "Hima Das"
+    ],
+    "correct_index": 1,
+    "explanation": "Anju Bobby George won a bronze medal in long jump at the 2003 World Athletics Championships in Paris."
+  },
+  {
+    "id": 134,
+    "question": "The famous Sanchi Stupa is located in which state?",
+    "choices": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Bihar",
+      "Odisha"
+    ],
+    "correct_index": 1,
+    "explanation": "The Great Stupa at Sanchi, a UNESCO World Heritage Site, is located in Madhya Pradesh."
+  },
+  {
+    "id": 135,
+    "question": "Who was the first Indian to win a Grand Slam in badminton?",
+    "choices": [
+      "Saina Nehwal",
+      "P V Sindhu",
+      "Prakash Padukone",
+      "Pullela Gopichand"
+    ],
+    "correct_index": 1,
+    "explanation": "P V Sindhu won the World Badminton Championships in 2019, becoming the first Indian to win a major badminton title."
+  },
+  {
+    "id": 136,
+    "question": "The famous Dilwara Temples are located in?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "correct_index": 0,
+    "explanation": "The Dilwara Jain Temples at Mount Abu, Rajasthan, are famous for their exquisite marble carvings."
+  },
+  {
+    "id": 137,
+    "question": "Who was the first Indian to win an individual gold medal at the Commonwealth Games?",
+    "choices": [
+      "Milkha Singh",
+      "P T Usha",
+      "Anju Bobby George",
+      "Abhinav Bindra"
+    ],
+    "correct_index": 3,
+    "explanation": "Abhinav Bindra won an individual gold medal in shooting at the 2002 Commonwealth Games in Manchester."
+  },
+  {
+    "id": 138,
+    "question": "The famous Khajuraho temples are famous for?",
+    "choices": [
+      "Buddhist sculptures",
+      "Jain paintings",
+      "Erotic sculptures",
+      "Islamic architecture"
+    ],
+    "correct_index": 2,
+    "explanation": "The Khajuraho temples are renowned for their intricate erotic sculptures depicting various aspects of life."
+  },
+  {
+    "id": 139,
+    "question": "Who was the first Indian to win a medal at the Asian Games?",
+    "choices": [
+      "Milkha Singh",
+      "P T Usha",
+      "Sachin Nag",
+      "Norman Pritchard"
+    ],
+    "correct_index": 3,
+    "explanation": "Norman Pritchard won two silver medals in athletics at the 1900 Paris Olympics, representing India."
+  },
+  {
+    "id": 140,
+    "question": "The famous Meenakshi Temple is located in?",
+    "choices": [
+      "Madurai",
+      "Thanjavur",
+      "Kanchipuram",
+      "Rameswaram"
+    ],
+    "correct_index": 0,
+    "explanation": "The Meenakshi Amman Temple in Madurai, Tamil Nadu, is dedicated to Goddess Meenakshi and Lord Shiva."
+  },
+  {
+    "id": 141,
+    "question": "Who was the first Indian to receive the Padma Vibhushan?",
+    "choices": [
+      "C V Raman",
+      "Jawaharlal Nehru",
+      "Satyendra Nath Bose",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "C V Raman, Jawaharlal Nehru, and Satyendra Nath Bose were among the first recipients of Padma Vibhushan in 1954."
+  },
+  {
+    "id": 142,
+    "question": "The famous Lingaraja Temple is located in?",
+    "choices": [
+      "Puri",
+      "Bhubaneswar",
+      "Konark",
+      "Cuttack"
+    ],
+    "correct_index": 1,
+    "explanation": "The Lingaraja Temple in Bhubaneswar, Odisha, is a magnificent example of Kalinga architecture dedicated to Lord Shiva."
+  },
+  {
+    "id": 143,
+    "question": "Who was the first Indian to win a medal at the Winter Olympics?",
+    "choices": [
+      "Shiva Keshavan",
+      "Arjun Singh",
+      "No Indian has won a Winter Olympic medal",
+      "Vijay Kumar"
+    ],
+    "correct_index": 2,
+    "explanation": "As of now, no Indian athlete has won a medal at the Winter Olympic Games."
+  },
+  {
+    "id": 144,
+    "question": "The famous Jagannath Temple is located in?",
+    "choices": [
+      "Konark",
+      "Puri",
+      "Bhubaneswar",
+      "Cuttack"
+    ],
+    "correct_index": 1,
+    "explanation": "The Jagannath Temple in Puri, Odisha, is one of the Char Dham pilgrimage sites dedicated to Lord Jagannath."
+  },
+  {
+    "id": 145,
+    "question": "Who was the first Indian to win a World Cup in hockey?",
+    "choices": [
+      "Dhyan Chand",
+      "Balbir Singh Sr",
+      "Leslie Claudius",
+      "India won the first Hockey World Cup in 1975"
+    ],
+    "correct_index": 3,
+    "explanation": "India won its first Hockey World Cup in 1975 in Kuala Lumpur, Malaysia, under the captaincy of Ajit Pal Singh."
+  },
+  {
+    "id": 146,
+    "question": "The famous Virupaksha Temple is located in?",
+    "choices": [
+      "Hampi",
+      "Badami",
+      "Pattadakal",
+      "Aihole"
+    ],
+    "correct_index": 0,
+    "explanation": "The Virupaksha Temple in Hampi, Karnataka, is dedicated to Lord Shiva and is part of the Vijayanagara ruins."
+  },
+  {
+    "id": 147,
+    "question": "Who was the first Indian to receive the Dadasaheb Phalke Award?",
+    "choices": [
+      "Satyajit Ray",
+      "Devika Rani",
+      "Prithviraj Kapoor",
+      "Raj Kapoor"
+    ],
+    "correct_index": 1,
+    "explanation": "Devika Rani was the first recipient of the Dadasaheb Phalke Award in 1969 for her contribution to Indian cinema."
+  },
+  {
+    "id": 148,
+    "question": "The famous Sun Temple at Modhera is located in which state?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "correct_index": 1,
+    "explanation": "The Sun Temple at Modhera in Gujarat was built by the Solanki dynasty in the 11th century."
+  },
+  {
+    "id": 149,
+    "question": "Who was the first Indian to win a medal at the Paralympics?",
+    "choices": [
+      "Devendra Jhajharia",
+      "Murlikant Petkar",
+      "Deepa Malik",
+      "Mariyappan Thangavelu"
+    ],
+    "correct_index": 1,
+    "explanation": "Murlikant Petkar won India's first Paralympic gold medal in swimming at the 1972 Heidelberg Games."
+  },
+  {
+    "id": 150,
+    "question": "The famous Hoysaleswara Temple is located in?",
+    "choices": [
+      "Belur",
+      "Halebidu",
+      "Somnathpur",
+      "Mysore"
+    ],
+    "correct_index": 1,
+    "explanation": "The Hoysaleswara Temple at Halebidu in Karnataka is a masterpiece of Hoysala architecture dedicated to Lord Shiva."
+  },
+  {
+    "id": 151,
+    "question": "Who was the first Indian to win a medal at the Commonwealth Games in boxing?",
+    "choices": [
+      "Vijender Singh",
+      "Mary Kom",
+      "Amit Panghal",
+      "Shiva Thapa"
+    ],
+    "correct_index": 0,
+    "explanation": "Vijender Singh won a gold medal in boxing at the 2010 Commonwealth Games in Delhi."
+  },
+  {
+    "id": 152,
+    "question": "The famous Kailasa Temple at Ellora was carved out of?",
+    "choices": [
+      "Sandstone",
+      "Granite",
+      "Basalt rock",
+      "Marble"
+    ],
+    "correct_index": 2,
+    "explanation": "The Kailasa Temple at Ellora is a monolithic structure carved out of a single basalt rock face."
+  },
+  {
+    "id": 153,
+    "question": "Who was the first Indian to win a medal at the Asian Games in athletics?",
+    "choices": [
+      "Milkha Singh",
+      "P T Usha",
+      "Anju Bobby George",
+      "Neeraj Chopra"
+    ],
+    "correct_index": 0,
+    "explanation": "Milkha Singh won a gold medal in the 400m race at the 1958 Asian Games in Tokyo."
+  },
+  {
+    "id": 154,
+    "question": "The famous Sun Temple at Multan was located in present-day?",
+    "choices": [
+      "India",
+      "Pakistan",
+      "Afghanistan",
+      "Bangladesh"
+    ],
+    "correct_index": 1,
+    "explanation": "The ancient Sun Temple of Multan was located in present-day Pakistan and was a major pilgrimage site."
+  },
+  {
+    "id": 155,
+    "question": "Who was the first Indian to win a medal at the World Wrestling Championships?",
+    "choices": [
+      "Sushil Kumar",
+      "Yogeshwar Dutt",
+      "Sakshi Malik",
+      "Bajrang Punia"
+    ],
+    "correct_index": 0,
+    "explanation": "Sushil Kumar won a bronze medal at the 2003 World Wrestling Championships, India's first in wrestling."
+  },
+  {
+    "id": 156,
+    "question": "The famous Kailashnath Temple at Kanchipuram was built by?",
+    "choices": [
+      "Narasimhavarman II",
+      "Mahendravarman I",
+      "Rajasimha",
+      "Both A and C"
+    ],
+    "correct_index": 3,
+    "explanation": "The Kailashnath Temple at Kanchipuram was built by Narasimhavarman II also known as Rajasimha of the Pallava dynasty."
+  },
+  {
+    "id": 157,
+    "question": "Who was the first Indian to win a medal at the Olympics in wrestling?",
+    "choices": [
+      "K D Jadhav",
+      "Sushil Kumar",
+      "Yogeshwar Dutt",
+      "Sakshi Malik"
+    ],
+    "correct_index": 0,
+    "explanation": "K D Jadhav won a bronze medal in wrestling at the 1952 Helsinki Olympics, India's first individual Olympic medal."
+  },
+  {
+    "id": 158,
+    "question": "The famous Shore Temple at Mahabalipuram was built by?",
+    "choices": [
+      "Mahendravarman I",
+      "Narasimhavarman II",
+      "Parameswaravarman I",
+      "Nandivarman II"
+    ],
+    "correct_index": 1,
+    "explanation": "The Shore Temple at Mahabalipuram was built by Narasimhavarman II of the Pallava dynasty in the 8th century."
+  },
+  {
+    "id": 159,
+    "question": "Who was the first Indian to win a medal at the Olympics in shooting?",
+    "choices": [
+      "Rajyavardhan Singh Rathore",
+      "Abhinav Bindra",
+      "Gagan Narang",
+      "Vijay Kumar"
+    ],
+    "correct_index": 1,
+    "explanation": "Abhinav Bindra won India's first individual Olympic gold medal in shooting at the 2008 Beijing Games."
+  },
+  {
+    "id": 160,
+    "question": "The famous Airavatesvara Temple is located in?",
+    "choices": [
+      "Thanjavur",
+      "Darasuram",
+      "Gangaikonda Cholapuram",
+      "Kumbakonam"
+    ],
+    "correct_index": 1,
+    "explanation": "The Airavatesvara Temple at Darasuram near Thanjavur was built by Rajaraja Chola II and is a UNESCO World Heritage Site."
+  },
+  {
+    "id": 161,
+    "question": "Who was the first Indian to win a medal at the Olympics in badminton?",
+    "choices": [
+      "Saina Nehwal",
+      "P V Sindhu",
+      "Prakash Padukone",
+      "Pullela Gopichand"
+    ],
+    "correct_index": 1,
+    "explanation": "P V Sindhu won a silver medal in badminton at the 2016 Rio Olympics, India's first Olympic medal in the sport."
+  },
+  {
+    "id": 162,
+    "question": "The famous Brihadisvara Temple at Gangaikonda Cholapuram was built by?",
+    "choices": [
+      "Rajaraja Chola I",
+      "Rajendra Chola I",
+      "Kulottunga Chola I",
+      "Vikrama Chola"
+    ],
+    "correct_index": 1,
+    "explanation": "The Brihadisvara Temple at Gangaikonda Cholapuram was built by Rajendra Chola I to commemorate his victory over northern kingdoms."
+  },
+  {
+    "id": 163,
+    "question": "Who was the first Indian to win a medal at the Olympics in tennis?",
+    "choices": [
+      "Leander Paes",
+      "Mahesh Bhupathi",
+      "Sania Mirza",
+      "Rohan Bopanna"
+    ],
+    "correct_index": 0,
+    "explanation": "Leander Paes won a bronze medal in tennis at the 1996 Atlanta Olympics in men's singles."
+  },
+  {
+    "id": 164,
+    "question": "The famous Jageshwar Temples are located in which state?",
+    "choices": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Jammu and Kashmir",
+      "Sikkim"
+    ],
+    "correct_index": 1,
+    "explanation": "The Jageshwar Temples in Uttarakhand are a group of ancient Hindu temples dedicated to Lord Shiva, dating back to the 7th century."
+  },
+  {
+    "id": 165,
+    "question": "Who was the first Indian to win a medal at the Olympics in boxing?",
+    "choices": [
+      "Vijender Singh",
+      "Mary Kom",
+      "Lovlina Borgohain",
+      "Amit Panghal"
+    ],
+    "correct_index": 2,
+    "explanation": "Lovlina Borgohain won a bronze medal in boxing at the 2020 Tokyo Olympics, India's first Olympic medal in women's boxing."
+  },
+  {
+    "id": 166,
+    "question": "The famous Modhera Sun Temple was built during the reign of?",
+    "choices": [
+      "Mularaja",
+      "Bhima I",
+      "Karna",
+      "Jayasimha Siddharaja"
+    ],
+    "correct_index": 1,
+    "explanation": "The Modhera Sun Temple in Gujarat was built during the reign of Bhima I of the Solanki dynasty in the 11th century."
+  },
+  {
+    "id": 167,
+    "question": "Who was the first Indian to win a medal at the Olympics in athletics?",
+    "choices": [
+      "Milkha Singh",
+      "P T Usha",
+      "Anju Bobby George",
+      "Neeraj Chopra"
+    ],
+    "correct_index": 3,
+    "explanation": "Neeraj Chopra won India's first Olympic gold medal in athletics by winning the javelin throw at the 2020 Tokyo Olympics."
+  },
+  {
+    "id": 168,
+    "question": "The famous Khajuraho temples were built between which centuries?",
+    "choices": [
+      "6th to 8th century",
+      "9th to 11th century",
+      "12th to 14th century",
+      "15th to 17th century"
+    ],
+    "correct_index": 1,
+    "explanation": "The Khajuraho temples were built by the Chandela dynasty between the 9th and 11th centuries CE."
+  },
+  {
+    "id": 169,
+    "question": "Who was the first Indian to win a medal at the Olympics in weightlifting?",
+    "choices": [
+      "Karnam Malleswari",
+      "Mirabai Chanu",
+      "Saina Nehwal",
+      "P V Sindhu"
+    ],
+    "correct_index": 0,
+    "explanation": "Karnam Malleswari won a bronze medal in weightlifting at the 2000 Sydney Olympics, India's first Olympic medal in the sport."
+  },
+  {
+    "id": 170,
+    "question": "The famous Belur Temple was built by?",
+    "choices": [
+      "Vishnuvardhana",
+      "Veera Ballala II",
+      "Narasimha I",
+      "Someshvara I"
+    ],
+    "correct_index": 0,
+    "explanation": "The Chennakeshava Temple at Belur was built by Vishnuvardhana of the Hoysala dynasty in the 12th century."
+  },
+  {
+    "id": 171,
+    "question": "Who was the first Indian to win a medal at the Olympics in hockey?",
+    "choices": [
+      "Dhyan Chand",
+      "Leslie Claudius",
+      "India won gold in 1928 Amsterdam Olympics",
+      "Balbir Singh Sr"
+    ],
+    "correct_index": 2,
+    "explanation": "India won its first Olympic gold medal in hockey at the 1928 Amsterdam Games, beginning a dominant era in the sport."
+  },
+  {
+    "id": 172,
+    "question": "The famous Somnath Temple is located in which state?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "correct_index": 1,
+    "explanation": "The Somnath Temple in Gujarat is one of the twelve Jyotirlinga shrines dedicated to Lord Shiva."
+  },
+  {
+    "id": 173,
+    "question": "Who was the first Indian to win a medal at the Olympics in wrestling for women?",
+    "choices": [
+      "Geeta Phogat",
+      "Babita Kumari",
+      "Sakshi Malik",
+      "Vinesh Phogat"
+    ],
+    "correct_index": 2,
+    "explanation": "Sakshi Malik won a bronze medal in wrestling at the 2016 Rio Olympics, India's first Olympic medal in women's wrestling."
+  },
+  {
+    "id": 174,
+    "question": "The famous Kedarnath Temple is dedicated to which deity?",
+    "choices": [
+      "Vishnu",
+      "Brahma",
+      "Shiva",
+      "Durga"
+    ],
+    "correct_index": 2,
+    "explanation": "The Kedarnath Temple in Uttarakhand is one of the Char Dham pilgrimage sites dedicated to Lord Shiva."
+  },
+  {
+    "id": 175,
+    "question": "Who was the first Indian to win a medal at the Olympics in archery?",
+    "choices": [
+      "Deepika Kumari",
+      "Bombayla Devi",
+      "No Indian has won an Olympic medal in archery",
+      "Tarundeep Rai"
+    ],
+    "correct_index": 2,
+    "explanation": "As of now, no Indian archer has won an Olympic medal, though several have reached the later stages of competition."
+  },
+  {
+    "id": 176,
+    "question": "The famous Badami Cave Temples are located in which state?",
+    "choices": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu"
+    ],
+    "correct_index": 0,
+    "explanation": "The Badami Cave Temples in Karnataka were carved by the Chalukya dynasty in the 6th century CE."
+  },
+  {
+    "id": 177,
+    "question": "Who was the first Indian to win a medal at the Olympics in rowing?",
+    "choices": [
+      "Dushyant Singh",
+      "Sawarn Singh",
+      "No Indian has won an Olympic medal in rowing",
+      "Bajrang Lal Takhar"
+    ],
+    "correct_index": 2,
+    "explanation": "As of now, no Indian rower has won an Olympic medal, though some have qualified for the Games."
+  },
+  {
+    "id": 178,
+    "question": "The famous Lingaraja Temple was built by which dynasty?",
+    "choices": [
+      "Eastern Ganga",
+      "Somavamsi",
+      "Ganga",
+      "Bhoi"
+    ],
+    "correct_index": 1,
+    "explanation": "The Lingaraja Temple in Bhubaneswar was originally built by the Somavamsi dynasty and later expanded by the Eastern Gangas."
+  },
+  {
+    "id": 179,
+    "question": "Who was the first Indian to win a medal at the Olympics in equestrian?",
+    "choices": [
+      "Fouaad Mirza",
+      "No Indian has won an Olympic medal in equestrian",
+      "Rakesh Kumar",
+      "Anush Agarwalla"
+    ],
+    "correct_index": 1,
+    "explanation": "As of now, no Indian equestrian athlete has won an Olympic medal, though Fouaad Mirza qualified for the 2020 Tokyo Games."
+  },
+  {
+    "id": 180,
+    "question": "The famous Konark Sun Temple was built during the reign of?",
+    "choices": [
+      "Anantavarman Chodaganga",
+      "Narasimhadeva I",
+      "Bhanudeva I",
+      "Kapilendradeva"
+    ],
+    "correct_index": 1,
+    "explanation": "The Konark Sun Temple was built by Narasimhadeva I of the Eastern Ganga dynasty in the 13th century."
+  },
+  {
+    "id": 181,
+    "question": "Who was the first Indian to win a medal at the Olympics in sailing?",
+    "choices": [
+      "Nethra Kumanan",
+      "No Indian has won an Olympic medal in sailing",
+      "Varun Thakkar",
+      "KC Ganapathy"
+    ],
+    "correct_index": 1,
+    "explanation": "As of now, no Indian sailor has won an Olympic medal, though Nethra Kumanan qualified for the 2020 Tokyo Games."
+  },
+  {
+    "id": 182,
+    "question": "The famous Jagannath Temple at Puri was built by?",
+    "choices": [
+      "Anantavarman Chodaganga",
+      "Narasimhadeva I",
+      "Bhanudeva I",
+      "Kapilendradeva"
+    ],
+    "correct_index": 0,
+    "explanation": "The Jagannath Temple at Puri was originally built by Anantavarman Chodaganga of the Eastern Ganga dynasty in the 12th century."
+  },
+  {
+    "id": 183,
+    "question": "Who was the first Indian to win a medal at the Olympics in table tennis?",
+    "choices": [
+      "Sharath Kamal",
+      "Manika Batra",
+      "No Indian has won an Olympic medal in table tennis",
+      "G Sathiyan"
+    ],
+    "correct_index": 2,
+    "explanation": "As of now, no Indian table tennis player has won an Olympic medal, though Sharath Kamal and Manika Batra have represented India."
+  },
+  {
+    "id": 184,
+    "question": "The famous Meenakshi Temple was built by?",
+    "choices": [
+      "Tirumalai Nayak",
+      "Viswanatha Nayak",
+      "Kumara Kampana",
+      "Both A and B"
+    ],
+    "correct_index": 3,
+    "explanation": "The Meenakshi Temple in Madurai was originally built by the Pandyas and later expanded by Viswanatha Nayak and Tirumalai Nayak of the Nayak dynasty."
+  },
+  {
+    "id": 185,
+    "question": "Who was the first Indian to win a medal at the Olympics in fencing?",
+    "choices": [
+      "Bhavani Devi",
+      "C A Bhavani Devi",
+      "No Indian has won an Olympic medal in fencing",
+      "Chadalavada Anandha Sundhararaman Bhavani Devi"
+    ],
+    "correct_index": 2,
+    "explanation": "As of now, no Indian fencer has won an Olympic medal, though Bhavani Devi became the first Indian to qualify for the Olympics in fencing."
+  },
+  {
+    "id": 186,
+    "question": "The famous Virupaksha Temple at Hampi was built by?",
+    "choices": [
+      "Harihara I",
+      "Bukka Raya I",
+      "Krishnadeva Raya",
+      "Devaraya II"
+    ],
+    "correct_index": 1,
+    "explanation": "The Virupaksha Temple at Hampi was originally built in the 7th century and significantly expanded by Bukka Raya I of the Vijayanagara Empire."
+  },
+  {
+    "id": 187,
+    "question": "Who was the first Indian to win a medal at the Olympics in golf?",
+    "choices": [
+      "Anirban Lahiri",
+      "Gaganjeet Bhullar",
+      "No Indian has won an Olympic medal in golf",
+      "Shiv Kapur"
+    ],
+    "correct_index": 2,
+    "explanation": "As of now, no Indian golfer has won an Olympic medal, though Anirban Lahiri represented India at the 2016 Rio Olympics."
+  },
+  {
+    "id": 188,
+    "question": "The famous Hoysaleswara Temple was built by?",
+    "choices": [
+      "Vishnuvardhana",
+      "Veera Ballala II",
+      "Narasimha I",
+      "Someshvara I"
+    ],
+    "correct_index": 1,
+    "explanation": "The Hoysaleswara Temple at Halebidu was built by Veera Ballala II of the Hoysala dynasty in the 12th century."
+  },
+  {
+    "id": 189,
+    "question": "Who was the first Indian to win a medal at the Olympics in cycling?",
+    "choices": [
+      "Esow Alban",
+      "No Indian has won an Olympic medal in cycling",
+      "Jyotsna Panigrahi",
+      "Deborah Herold"
+    ],
+    "correct_index": 1,
+    "explanation": "As of now, no Indian cyclist has won an Olympic medal, though several have represented India at the Games."
+  },
+  {
+    "id": 190,
+    "question": "The famous Kailasa Temple at Ellora was built by?",
+    "choices": [
+      "Dantidurga",
+      "Krishna I",
+      "Govinda III",
+      "Amoghavarsha I"
+    ],
+    "correct_index": 1,
+    "explanation": "The Kailasa Temple at Ellora was carved during the reign of Krishna I of the Rashtrakuta dynasty in the 8th century."
+  },
+  {
+    "id": 191,
+    "question": "Who was the first Indian to win a medal at the Olympics in skateboarding?",
+    "choices": [
+      "No Indian has won an Olympic medal in skateboarding",
+      "Sangoné Coulibaly",
+      "Nyjah Huston",
+      "Yuto Horigome"
+    ],
+    "correct_index": 0,
+    "explanation": "As of now, no Indian skateboarder has won an Olympic medal, and skateboarding was introduced as an Olympic sport only in 2020."
+  },
+  {
+    "id": 192,
+    "question": "The famous Airavatesvara Temple was built by?",
+    "choices": [
+      "Rajaraja Chola I",
+      "Rajendra Chola I",
+      "Rajaraja Chola II",
+      "Kulottunga Chola I"
+    ],
+    "correct_index": 2,
+    "explanation": "The Airavatesvara Temple at Darasuram was built by Rajaraja Chola II of the Chola dynasty in the 12th century."
+  },
+  {
+    "id": 193,
+    "question": "Who was the first Indian to win a medal at the Olympics in karate?",
+    "choices": [
+      "No Indian has won an Olympic medal in karate",
+      "Shri Nivesh",
+      "Bhavina Patel",
+      "Karate was not an Olympic sport until 2020"
+    ],
+    "correct_index": 0,
+    "explanation": "As of now, no Indian karateka has won an Olympic medal, and karate was featured only in the 2020 Tokyo Olympics."
+  },
+  {
+    "id": 194,
+    "question": "The famous Brihadisvara Temple at Thanjavur was built by?",
+    "choices": [
+      "Rajaraja Chola I",
+      "Rajendra Chola I",
+      "Kulottunga Chola I",
+      "Vikrama Chola"
+    ],
+    "correct_index": 0,
+    "explanation": "The Brihadisvara Temple at Thanjavur was built by Rajaraja Chola I of the Chola dynasty in the 11th century."
+  },
+  {
+    "id": 195,
+    "question": "Who was the first Indian to win a medal at the Olympics in baseball?",
+    "choices": [
+      "No Indian has won an Olympic medal in baseball",
+      "Baseball is not widely played in India",
+      "India has not qualified for Olympic baseball",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian baseball player has won an Olympic medal, and India has not qualified for Olympic baseball competition."
+  },
+  {
+    "id": 196,
+    "question": "The famous Shore Temple at Mahabalipuram was built during the reign of?",
+    "choices": [
+      "Mahendravarman I",
+      "Narasimhavarman II",
+      "Parameswaravarman I",
+      "Nandivarman II"
+    ],
+    "correct_index": 1,
+    "explanation": "The Shore Temple at Mahabalipuram was built by Narasimhavarman II of the Pallava dynasty in the early 8th century."
+  },
+  {
+    "id": 197,
+    "question": "Who was the first Indian to win a medal at the Olympics in softball?",
+    "choices": [
+      "No Indian has won an Olympic medal in softball",
+      "Softball is not widely played in India",
+      "India has not qualified for Olympic softball",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian softball player has won an Olympic medal, and India has not qualified for Olympic softball competition."
+  },
+  {
+    "id": 198,
+    "question": "The famous Jageshwar Temples were built by which dynasty?",
+    "choices": [
+      "Katyuri",
+      "Chand",
+      "Parmar",
+      "Both A and B"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jageshwar Temples in Uttarakhand were built by the Katyuri and Chand dynasties between the 7th and 13th centuries."
+  },
+  {
+    "id": 199,
+    "question": "Who was the first Indian to win a medal at the Olympics in handball?",
+    "choices": [
+      "No Indian has won an Olympic medal in handball",
+      "India has not qualified for Olympic handball",
+      "Handball is not widely played in India",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian handball player has won an Olympic medal, and India has not qualified for Olympic handball competition."
+  },
+  {
+    "id": 200,
+    "question": "The famous Modhera Sun Temple was built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Indo-Islamic"
+    ],
+    "correct_index": 0,
+    "explanation": "The Modhera Sun Temple in Gujarat is built in the Nagara style of temple architecture, characteristic of North India."
+  },
+  {
+    "id": 201,
+    "question": "Who was the first Indian to win a medal at the Olympics in water polo?",
+    "choices": [
+      "No Indian has won an Olympic medal in water polo",
+      "Water polo is not widely played in India",
+      "India has not qualified for Olympic water polo",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian water polo player has won an Olympic medal, and India has not qualified for Olympic water polo competition."
+  },
+  {
+    "id": 202,
+    "question": "The famous Khajuraho temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Indo-Islamic"
+    ],
+    "correct_index": 0,
+    "explanation": "The Khajuraho temples in Madhya Pradesh are built in the Nagara style of temple architecture, known for their tall shikharas."
+  },
+  {
+    "id": 203,
+    "question": "Who was the first Indian to win a medal at the Olympics in beach volleyball?",
+    "choices": [
+      "No Indian has won an Olympic medal in beach volleyball",
+      "Beach volleyball is not widely played in India",
+      "India has not qualified for Olympic beach volleyball",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian beach volleyball player has won an Olympic medal, and India has not qualified for Olympic beach volleyball competition."
+  },
+  {
+    "id": 204,
+    "question": "The famous Lingaraja Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Kalinga",
+      "Vesara"
+    ],
+    "correct_index": 2,
+    "explanation": "The Lingaraja Temple in Bhubaneswar is built in the Kalinga style of temple architecture, a sub-style of Nagara architecture."
+  },
+  {
+    "id": 205,
+    "question": "Who was the first Indian to win a medal at the Olympics in rugby?",
+    "choices": [
+      "No Indian has won an Olympic medal in rugby",
+      "Rugby is not widely played in India",
+      "India has not qualified for Olympic rugby",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian rugby player has won an Olympic medal, and India has not qualified for Olympic rugby competition."
+  },
+  {
+    "id": 206,
+    "question": "The famous Konark Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Kalinga",
+      "Vesara"
+    ],
+    "correct_index": 2,
+    "explanation": "The Konark Sun Temple in Odisha is built in the Kalinga style of temple architecture, known for its chariot-shaped design."
+  },
+  {
+    "id": 207,
+    "question": "Who was the first Indian to win a medal at the Olympics in lacrosse?",
+    "choices": [
+      "No Indian has won an Olympic medal in lacrosse",
+      "Lacrosse is not an Olympic sport currently",
+      "Lacrosse was last played in Olympics in 1908",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian lacrosse player has won an Olympic medal, and lacrosse is not currently an Olympic sport."
+  },
+  {
+    "id": 208,
+    "question": "The famous Jagannath Temple at Puri is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Kalinga",
+      "Vesara"
+    ],
+    "correct_index": 2,
+    "explanation": "The Jagannath Temple at Puri is built in the Kalinga style of temple architecture, with a distinctive curvilinear shikhara."
+  },
+  {
+    "id": 209,
+    "question": "Who was the first Indian to win a medal at the Olympics in cricket?",
+    "choices": [
+      "No Indian has won an Olympic medal in cricket",
+      "Cricket was last played in Olympics in 1900",
+      "Cricket will return in 2028 Los Angeles Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian cricketer has won an Olympic medal, and cricket was last played in the 1900 Paris Olympics but will return in 2028."
+  },
+  {
+    "id": 210,
+    "question": "The famous Meenakshi Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Indo-Islamic"
+    ],
+    "correct_index": 1,
+    "explanation": "The Meenakshi Temple in Madurai is built in the Dravida style of temple architecture, characterized by towering gopurams."
+  },
+  {
+    "id": 211,
+    "question": "Who was the first Indian to win a medal at the Olympics in field hockey for women?",
+    "choices": [
+      "Indian women's hockey team has not won an Olympic medal",
+      "Indian women's hockey team won bronze in 1980",
+      "Indian women's hockey team won silver in 2020",
+      "Indian women's hockey team has never qualified"
+    ],
+    "correct_index": 0,
+    "explanation": "As of now, the Indian women's hockey team has not won an Olympic medal, though they have qualified for recent Games."
+  },
+  {
+    "id": 212,
+    "question": "The famous Virupaksha Temple at Hampi is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Vijayanagara"
+    ],
+    "correct_index": 3,
+    "explanation": "The Virupaksha Temple at Hampi is built in the Vijayanagara style of architecture, which combines Dravida and Nagara elements."
+  },
+  {
+    "id": 213,
+    "question": "Who was the first Indian to win a medal at the Olympics in kabaddi?",
+    "choices": [
+      "No Indian has won an Olympic medal in kabaddi",
+      "Kabaddi is not an Olympic sport",
+      "Kabaddi is featured in Asian Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kabaddi player has won an Olympic medal, and kabaddi is not currently an Olympic sport."
+  },
+  {
+    "id": 214,
+    "question": "The famous Hoysaleswara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Hoysala"
+    ],
+    "correct_index": 3,
+    "explanation": "The Hoysaleswara Temple at Halebidu is built in the distinctive Hoysala style of architecture, known for intricate soapstone carvings."
+  },
+  {
+    "id": 215,
+    "question": "Who was the first Indian to win a medal at the Olympics in kho-kho?",
+    "choices": [
+      "No Indian has won an Olympic medal in kho-kho",
+      "Kho-kho is not an Olympic sport",
+      "Kho-kho is featured in South Asian Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kho-kho player has won an Olympic medal, and kho-kho is not currently an Olympic sport."
+  },
+  {
+    "id": 216,
+    "question": "The famous Kailasa Temple at Ellora is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Rock-cut"
+    ],
+    "correct_index": 3,
+    "explanation": "The Kailasa Temple at Ellora is a rock-cut temple, carved out of a single basalt rock face in the Rashtrakuta style."
+  },
+  {
+    "id": 217,
+    "question": "Who was the first Indian to win a medal at the Olympics in mallakhamb?",
+    "choices": [
+      "No Indian has won an Olympic medal in mallakhamb",
+      "Mallakhamb is not an Olympic sport",
+      "Mallakhamb is featured in traditional Indian sports but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian mallakhamb player has won an Olympic medal, and mallakhamb is not currently an Olympic sport."
+  },
+  {
+    "id": 218,
+    "question": "The famous Airavatesvara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Airavatesvara Temple at Darasuram is built in the Chola style of architecture, known for its intricate carvings and sculptures."
+  },
+  {
+    "id": 219,
+    "question": "Who was the first Indian to win a medal at the Olympics in yoga?",
+    "choices": [
+      "No Indian has won an Olympic medal in yoga",
+      "Yoga is not an Olympic sport",
+      "Yoga is recognized by UNESCO but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian yoga practitioner has won an Olympic medal, and yoga is not currently an Olympic sport."
+  },
+  {
+    "id": 220,
+    "question": "The famous Brihadisvara Temple at Gangaikonda Cholapuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Brihadisvara Temple at Gangaikonda Cholapuram is built in the Chola style of architecture, similar to the Thanjavur temple but with unique features."
+  },
+  {
+    "id": 221,
+    "question": "Who was the first Indian to win a medal at the Olympics in kalaripayattu?",
+    "choices": [
+      "No Indian has won an Olympic medal in kalaripayattu",
+      "Kalaripayattu is not an Olympic sport",
+      "Kalaripayattu is a traditional Indian martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kalaripayattu practitioner has won an Olympic medal, and kalaripayattu is not currently an Olympic sport."
+  },
+  {
+    "id": 222,
+    "question": "The famous Shore Temple at Mahabalipuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Pallava"
+    ],
+    "correct_index": 3,
+    "explanation": "The Shore Temple at Mahabalipuram is built in the Pallava style of architecture, representing early Dravida temple architecture."
+  },
+  {
+    "id": 223,
+    "question": "Who was the first Indian to win a medal at the Olympics in silambam?",
+    "choices": [
+      "No Indian has won an Olympic medal in silambam",
+      "Silambam is not an Olympic sport",
+      "Silambam is a traditional Indian martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian silambam practitioner has won an Olympic medal, and silambam is not currently an Olympic sport."
+  },
+  {
+    "id": 224,
+    "question": "The famous Jageshwar Temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Katyuri-Chand"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jageshwar Temples in Uttarakhand are built in the Katyuri-Chand style of architecture, reflecting North Indian temple design."
+  },
+  {
+    "id": 225,
+    "question": "Who was the first Indian to win a medal at the Olympics in gatka?",
+    "choices": [
+      "No Indian has won an Olympic medal in gatka",
+      "Gatka is not an Olympic sport",
+      "Gatka is a traditional Sikh martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian gatka practitioner has won an Olympic medal, and gatka is not currently an Olympic sport."
+  },
+  {
+    "id": 226,
+    "question": "The famous Modhera Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Solanki"
+    ],
+    "correct_index": 3,
+    "explanation": "The Modhera Sun Temple in Gujarat is built in the Solanki style of architecture, a sub-style of Nagara architecture."
+  },
+  {
+    "id": 227,
+    "question": "Who was the first Indian to win a medal at the Olympics in malla-yuddha?",
+    "choices": [
+      "No Indian has won an Olympic medal in malla-yuddha",
+      "Malla-yuddha is not an Olympic sport",
+      "Malla-yuddha is a traditional Indian wrestling style but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian malla-yuddha practitioner has won an Olympic medal, and malla-yuddha is not currently an Olympic sport."
+  },
+  {
+    "id": 228,
+    "question": "The famous Khajuraho temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chandela"
+    ],
+    "correct_index": 3,
+    "explanation": "The Khajuraho temples in Madhya Pradesh are built in the Chandela style of architecture, a sub-style of Nagara architecture."
+  },
+  {
+    "id": 229,
+    "question": "Who was the first Indian to win a medal at the Olympics in thang-ta?",
+    "choices": [
+      "No Indian has won an Olympic medal in thang-ta",
+      "Thang-ta is not an Olympic sport",
+      "Thang-ta is a traditional Manipuri martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian thang-ta practitioner has won an Olympic medal, and thang-ta is not currently an Olympic sport."
+  },
+  {
+    "id": 230,
+    "question": "The famous Lingaraja Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Lingaraja Temple in Bhubaneswar is built in the Kalinga style of architecture, a distinctive sub-style of Nagara architecture."
+  },
+  {
+    "id": 231,
+    "question": "Who was the first Indian to win a medal at the Olympics in adimurai?",
+    "choices": [
+      "No Indian has won an Olympic medal in adimurai",
+      "Adimurai is not an Olympic sport",
+      "Adimurai is a traditional Tamil martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian adimurai practitioner has won an Olympic medal, and adimurai is not currently an Olympic sport."
+  },
+  {
+    "id": 232,
+    "question": "The famous Konark Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Konark Sun Temple in Odisha is built in the Kalinga style of architecture, known for its chariot-shaped design and intricate carvings."
+  },
+  {
+    "id": 233,
+    "question": "Who was the first Indian to win a medal at the Olympics in varma kalai?",
+    "choices": [
+      "No Indian has won an Olympic medal in varma kalai",
+      "Varma kalai is not an Olympic sport",
+      "Varma kalai is a traditional Tamil martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian varma kalai practitioner has won an Olympic medal, and varma kalai is not currently an Olympic sport."
+  },
+  {
+    "id": 234,
+    "question": "The famous Jagannath Temple at Puri is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jagannath Temple at Puri is built in the Kalinga style of architecture, with a distinctive curvilinear shikhara and massive compound walls."
+  },
+  {
+    "id": 235,
+    "question": "Who was the first Indian to win a medal at the Olympics in musti yuddha?",
+    "choices": [
+      "No Indian has won an Olympic medal in musti yuddha",
+      "Musti yuddha is not an Olympic sport",
+      "Musti yuddha is a traditional Indian boxing style but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian musti yuddha practitioner has won an Olympic medal, and musti yuddha is not currently an Olympic sport."
+  },
+  {
+    "id": 236,
+    "question": "The famous Meenakshi Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Nayak"
+    ],
+    "correct_index": 3,
+    "explanation": "The Meenakshi Temple in Madurai is built in the Nayak style of architecture, an evolution of Dravida architecture with towering gopurams."
+  },
+  {
+    "id": 237,
+    "question": "Who was the first Indian to win a medal at the Olympics in paika akhada?",
+    "choices": [
+      "No Indian has won an Olympic medal in paika akhada",
+      "Paika akhada is not an Olympic sport",
+      "Paika akhada is a traditional Odia martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian paika akhada practitioner has won an Olympic medal, and paika akhada is not currently an Olympic sport."
+  },
+  {
+    "id": 238,
+    "question": "The famous Virupaksha Temple at Hampi is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Vijayanagara"
+    ],
+    "correct_index": 3,
+    "explanation": "The Virupaksha Temple at Hampi is built in the Vijayanagara style of architecture, combining Dravida and Nagara elements with unique features."
+  },
+  {
+    "id": 239,
+    "question": "Who was the first Indian to win a medal at the Olympics in cheena-diksha?",
+    "choices": [
+      "No Indian has won an Olympic medal in cheena-diksha",
+      "Cheena-diksha is not an Olympic sport",
+      "Cheena-diksha is a traditional Indian martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian cheena-diksha practitioner has won an Olympic medal, and cheena-diksha is not currently an Olympic sport."
+  },
+  {
+    "id": 240,
+    "question": "The famous Hoysaleswara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Hoysala"
+    ],
+    "correct_index": 3,
+    "explanation": "The Hoysaleswara Temple at Halebidu is built in the distinctive Hoysala style of architecture, known for intricate soapstone carvings and star-shaped platforms."
+  },
+  {
+    "id": 241,
+    "question": "Who was the first Indian to win a medal at the Olympics in lathi khela?",
+    "choices": [
+      "No Indian has won an Olympic medal in lathi khela",
+      "Lathi khela is not an Olympic sport",
+      "Lathi khela is a traditional Indian stick fighting art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian lathi khela practitioner has won an Olympic medal, and lathi khela is not currently an Olympic sport."
+  },
+  {
+    "id": 242,
+    "question": "The famous Kailasa Temple at Ellora is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Rock-cut"
+    ],
+    "correct_index": 3,
+    "explanation": "The Kailasa Temple at Ellora is a rock-cut temple, carved out of a single basalt rock face in the Rashtrakuta style, representing a unique architectural achievement."
+  },
+  {
+    "id": 243,
+    "question": "Who was the first Indian to win a medal at the Olympics in kathi samu?",
+    "choices": [
+      "No Indian has won an Olympic medal in kathi samu",
+      "Kathi samu is not an Olympic sport",
+      "Kathi samu is a traditional Indian sword fighting art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kathi samu practitioner has won an Olympic medal, and kathi samu is not currently an Olympic sport."
+  },
+  {
+    "id": 244,
+    "question": "The famous Airavatesvara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Airavatesvara Temple at Darasuram is built in the Chola style of architecture, known for its intricate carvings, sculptures, and innovative design elements."
+  },
+  {
+    "id": 245,
+    "question": "Who was the first Indian to win a medal at the Olympics in angam pora?",
+    "choices": [
+      "No Indian has won an Olympic medal in angam pora",
+      "Angam pora is not an Olympic sport",
+      "Angam pora is a traditional Sri Lankan martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian angam pora practitioner has won an Olympic medal, and angam pora is not currently an Olympic sport."
+  },
+  {
+    "id": 246,
+    "question": "The famous Brihadisvara Temple at Gangaikonda Cholapuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Brihadisvara Temple at Gangaikonda Cholapuram is built in the Chola style of architecture, similar to the Thanjavur temple but with unique features like the smaller vimana and intricate sculptures."
+  },
+  {
+    "id": 247,
+    "question": "Who was the first Indian to win a medal at the Olympics in ban chuan?",
+    "choices": [
+      "No Indian has won an Olympic medal in ban chuan",
+      "Ban chuan is not an Olympic sport",
+      "Ban chuan is a traditional Chinese martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian ban chuan practitioner has won an Olympic medal, and ban chuan is not currently an Olympic sport."
+  },
+  {
+    "id": 248,
+    "question": "The famous Shore Temple at Mahabalipuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Pallava"
+    ],
+    "correct_index": 3,
+    "explanation": "The Shore Temple at Mahabalipuram is built in the Pallava style of architecture, representing early Dravida temple architecture with pyramidal towers and intricate carvings."
+  },
+  {
+    "id": 249,
+    "question": "Who was the first Indian to win a medal at the Olympics in wushu?",
+    "choices": [
+      "No Indian has won an Olympic medal in wushu",
+      "Wushu is not an Olympic sport currently",
+      "Wushu was featured in Youth Olympics but not senior Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian wushu practitioner has won an Olympic medal, and wushu is not currently an Olympic sport for seniors."
+  },
+  {
+    "id": 250,
+    "question": "The famous Jageshwar Temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Katyuri-Chand"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jageshwar Temples in Uttarakhand are built in the Katyuri-Chand style of architecture, reflecting North Indian temple design with Nagara influences and local adaptations."
+  },
+  {
+    "id": 251,
+    "question": "Who was the first Indian to win a medal at the Olympics in pencak silat?",
+    "choices": [
+      "No Indian has won an Olympic medal in pencak silat",
+      "Pencak silat is not an Olympic sport currently",
+      "Pencak silat was featured in Youth Olympics but not senior Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian pencak silat practitioner has won an Olympic medal, and pencak silat is not currently an Olympic sport for seniors."
+  },
+  {
+    "id": 252,
+    "question": "The famous Modhera Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Solanki"
+    ],
+    "correct_index": 3,
+    "explanation": "The Modhera Sun Temple in Gujarat is built in the Solanki style of architecture, a sub-style of Nagara architecture known for intricate carvings, stepped tanks, and astronomical alignments."
+  },
+  {
+    "id": 253,
+    "question": "Who was the first Indian to win a medal at the Olympics in kurash?",
+    "choices": [
+      "No Indian has won an Olympic medal in kurash",
+      "Kurash is not an Olympic sport currently",
+      "Kurash is featured in Asian Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kurash practitioner has won an Olympic medal, and kurash is not currently an Olympic sport, though it is featured in Asian Games."
+  },
+  {
+    "id": 254,
+    "question": "The famous Khajuraho temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chandela"
+    ],
+    "correct_index": 3,
+    "explanation": "The Khajuraho temples in Madhya Pradesh are built in the Chandela style of architecture, a sub-style of Nagara architecture known for tall shikharas, intricate erotic sculptures, and sandstone construction."
+  },
+  {
+    "id": 255,
+    "question": "Who was the first Indian to win a medal at the Olympics in sambo?",
+    "choices": [
+      "No Indian has won an Olympic medal in sambo",
+      "Sambo is not an Olympic sport currently",
+      "Sambo is recognized by IOC but not in Olympic program",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian sambo practitioner has won an Olympic medal, and sambo is not currently an Olympic sport, though it is recognized by the International Olympic Committee."
+  },
+  {
+    "id": 256,
+    "question": "The famous Lingaraja Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Lingaraja Temple in Bhubaneswar is built in the Kalinga style of architecture, a distinctive sub-style of Nagara architecture known for curvilinear shikharas, intricate carvings, and massive compound walls."
+  },
+  {
+    "id": 257,
+    "question": "Who was the first Indian to win a medal at the Olympics in ju-jitsu?",
+    "choices": [
+      "No Indian has won an Olympic medal in ju-jitsu",
+      "Ju-jitsu is not an Olympic sport currently",
+      "Ju-jitsu was featured in World Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian ju-jitsu practitioner has won an Olympic medal, and ju-jitsu is not currently an Olympic sport, though it is featured in World Games."
+  },
+  {
+    "id": 258,
+    "question": "The famous Konark Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Konark Sun Temple in Odisha is built in the Kalinga style of architecture, known for its chariot-shaped design with twelve pairs of wheels, seven horses, and intricate stone carvings depicting various aspects of life."
+  },
+  {
+    "id": 259,
+    "question": "Who was the first Indian to win a medal at the Olympics in kickboxing?",
+    "choices": [
+      "No Indian has won an Olympic medal in kickboxing",
+      "Kickboxing is not an Olympic sport currently",
+      "Kickboxing is featured in World Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kickboxing practitioner has won an Olympic medal, and kickboxing is not currently an Olympic sport, though it is featured in World Games."
+  },
+  {
+    "id": 260,
+    "question": "The famous Jagannath Temple at Puri is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jagannath Temple at Puri is built in the Kalinga style of architecture, with a distinctive curvilinear shikhara, massive compound walls, and the famous Rath Yatra chariots."
+  },
+  {
+    "id": 261,
+    "question": "Who was the first Indian to win a medal at the Olympics in muay thai?",
+    "choices": [
+      "No Indian has won an Olympic medal in muay thai",
+      "Muay thai is not an Olympic sport currently",
+      "Muay thai was featured in Asian Indoor Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian muay thai practitioner has won an Olympic medal, and muay thai is not currently an Olympic sport, though it is featured in Asian Indoor and Martial Arts Games."
+  },
+  {
+    "id": 262,
+    "question": "The famous Meenakshi Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Nayak"
+    ],
+    "correct_index": 3,
+    "explanation": "The Meenakshi Temple in Madurai is built in the Nayak style of architecture, an evolution of Dravida architecture with towering gopurams, thousand-pillar hall, and intricate sculptures depicting Hindu mythology."
+  },
+  {
+    "id": 263,
+    "question": "Who was the first Indian to win a medal at the Olympics in savate?",
+    "choices": [
+      "No Indian has won an Olympic medal in savate",
+      "Savate is not an Olympic sport currently",
+      "Savate is featured in World Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian savate practitioner has won an Olympic medal, and savate is not currently an Olympic sport, though it is featured in World Games."
+  },
+  {
+    "id": 264,
+    "question": "The famous Virupaksha Temple at Hampi is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Vijayanagara"
+    ],
+    "correct_index": 3,
+    "explanation": "The Virupaksha Temple at Hampi is built in the Vijayanagara style of architecture, combining Dravida and Nagara elements with unique features like the distinctive gopuram, pillared halls, and intricate carvings depicting Hindu mythology and daily life."
+  },
+  {
+    "id": 265,
+    "question": "Who was the first Indian to win a medal at the Olympics in taekwondo?",
+    "choices": [
+      "No Indian has won an Olympic medal in taekwondo",
+      "Taekwondo is an Olympic sport but no Indian has won a medal",
+      "India has participated in taekwondo at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian taekwondo practitioner has won an Olympic medal, though India has participated in the sport at the Olympic Games."
+  },
+  {
+    "id": 266,
+    "question": "The famous Hoysaleswara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Hoysala"
+    ],
+    "correct_index": 3,
+    "explanation": "The Hoysaleswara Temple at Halebidu is built in the distinctive Hoysala style of architecture, known for intricate soapstone carvings, star-shaped platforms, and detailed sculptures depicting Hindu epics and daily life."
+  },
+  {
+    "id": 267,
+    "question": "Who was the first Indian to win a medal at the Olympics in fencing?",
+    "choices": [
+      "Bhavani Devi",
+      "No Indian has won an Olympic medal in fencing",
+      "India has participated in fencing at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian fencer has won an Olympic medal, though Bhavani Devi became the first Indian to qualify for the Olympics in fencing at the 2020 Tokyo Games."
+  },
+  {
+    "id": 268,
+    "question": "The famous Kailasa Temple at Ellora is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Rock-cut"
+    ],
+    "correct_index": 3,
+    "explanation": "The Kailasa Temple at Ellora is a rock-cut temple, carved out of a single basalt rock face in the Rashtrakuta style, representing a unique architectural achievement with intricate carvings, sculptures, and innovative design elements."
+  },
+  {
+    "id": 269,
+    "question": "Who was the first Indian to win a medal at the Olympics in archery?",
+    "choices": [
+      "Deepika Kumari",
+      "No Indian has won an Olympic medal in archery",
+      "India has participated in archery at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian archer has won an Olympic medal, though several have reached the later stages of competition, including Deepika Kumari who has represented India at multiple Olympic Games."
+  },
+  {
+    "id": 270,
+    "question": "The famous Airavatesvara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Airavatesvara Temple at Darasuram is built in the Chola style of architecture, known for its intricate carvings, sculptures, and innovative design elements like the stone chariot and musical pillars."
+  },
+  {
+    "id": 271,
+    "question": "Who was the first Indian to win a medal at the Olympics in equestrian?",
+    "choices": [
+      "Fouaad Mirza",
+      "No Indian has won an Olympic medal in equestrian",
+      "India has participated in equestrian at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian equestrian athlete has won an Olympic medal, though Fouaad Mirza qualified for the 2020 Tokyo Olympics, becoming the first Indian to do so in eventing."
+  },
+  {
+    "id": 272,
+    "question": "The famous Brihadisvara Temple at Gangaikonda Cholapuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Brihadisvara Temple at Gangaikonda Cholapuram is built in the Chola style of architecture, similar to the Thanjavur temple but with unique features like the smaller vimana, intricate sculptures, and innovative design elements."
+  },
+  {
+    "id": 273,
+    "question": "Who was the first Indian to win a medal at the Olympics in rowing?",
+    "choices": [
+      "Dushyant Singh",
+      "No Indian has won an Olympic medal in rowing",
+      "India has participated in rowing at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian rower has won an Olympic medal, though several have qualified for the Games, including Dushyant Singh and Sawarn Singh who have represented India at multiple Olympics."
+  },
+  {
+    "id": 274,
+    "question": "The famous Shore Temple at Mahabalipuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Pallava"
+    ],
+    "correct_index": 3,
+    "explanation": "The Shore Temple at Mahabalipuram is built in the Pallava style of architecture, representing early Dravida temple architecture with pyramidal towers, intricate carvings, and innovative design elements like the sea-facing location."
+  },
+  {
+    "id": 275,
+    "question": "Who was the first Indian to win a medal at the Olympics in sailing?",
+    "choices": [
+      "Nethra Kumanan",
+      "No Indian has won an Olympic medal in sailing",
+      "India has participated in sailing at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian sailor has won an Olympic medal, though Nethra Kumanan qualified for the 2020 Tokyo Olympics, becoming the first Indian woman to do so in the Laser Radial class."
+  },
+  {
+    "id": 276,
+    "question": "The famous Jageshwar Temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Katyuri-Chand"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jageshwar Temples in Uttarakhand are built in the Katyuri-Chand style of architecture, reflecting North Indian temple design with Nagara influences and local adaptations like the use of stone and intricate carvings."
+  },
+  {
+    "id": 277,
+    "question": "Who was the first Indian to win a medal at the Olympics in table tennis?",
+    "choices": [
+      "Sharath Kamal",
+      "No Indian has won an Olympic medal in table tennis",
+      "India has participated in table tennis at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian table tennis player has won an Olympic medal, though Sharath Kamal and Manika Batra have represented India at multiple Olympic Games and reached the later stages of competition."
+  },
+  {
+    "id": 278,
+    "question": "The famous Modhera Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Solanki"
+    ],
+    "correct_index": 3,
+    "explanation": "The Modhera Sun Temple in Gujarat is built in the Solanki style of architecture, a sub-style of Nagara architecture known for intricate carvings, stepped tanks, astronomical alignments, and innovative design elements like the sun-facing orientation."
+  },
+  {
+    "id": 279,
+    "question": "Who was the first Indian to win a medal at the Olympics in golf?",
+    "choices": [
+      "Anirban Lahiri",
+      "No Indian has won an Olympic medal in golf",
+      "India has participated in golf at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian golfer has won an Olympic medal, though Anirban Lahiri represented India at the 2016 Rio Olympics, becoming one of the first Indian golfers to compete at the Games."
+  },
+  {
+    "id": 280,
+    "question": "The famous Khajuraho temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chandela"
+    ],
+    "correct_index": 3,
+    "explanation": "The Khajuraho temples in Madhya Pradesh are built in the Chandela style of architecture, a sub-style of Nagara architecture known for tall shikharas, intricate erotic sculptures, sandstone construction, and innovative design elements like the alignment with celestial bodies."
+  },
+  {
+    "id": 281,
+    "question": "Who was the first Indian to win a medal at the Olympics in cycling?",
+    "choices": [
+      "Esow Alban",
+      "No Indian has won an Olympic medal in cycling",
+      "India has participated in cycling at Olympics but not won medals",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian cyclist has won an Olympic medal, though several have qualified for the Games, including Esow Alban who represented India in track cycling at the 2020 Tokyo Olympics."
+  },
+  {
+    "id": 282,
+    "question": "The famous Lingaraja Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Lingaraja Temple in Bhubaneswar is built in the Kalinga style of architecture, a distinctive sub-style of Nagara architecture known for curvilinear shikharas, intricate carvings, massive compound walls, and innovative design elements like the deul and jagamohana."
+  },
+  {
+    "id": 283,
+    "question": "Who was the first Indian to win a medal at the Olympics in skateboarding?",
+    "choices": [
+      "No Indian has won an Olympic medal in skateboarding",
+      "Skateboarding was introduced in Olympics in 2020",
+      "India has not qualified for Olympic skateboarding",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian skateboarder has won an Olympic medal, and skateboarding was introduced as an Olympic sport only in the 2020 Tokyo Games, with India yet to qualify a representative."
+  },
+  {
+    "id": 284,
+    "question": "The famous Konark Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Konark Sun Temple in Odisha is built in the Kalinga style of architecture, known for its chariot-shaped design with twelve pairs of wheels, seven horses, intricate stone carvings depicting various aspects of life, and innovative design elements like the astronomical alignments."
+  },
+  {
+    "id": 285,
+    "question": "Who was the first Indian to win a medal at the Olympics in karate?",
+    "choices": [
+      "No Indian has won an Olympic medal in karate",
+      "Karate was featured in Olympics in 2020",
+      "India has not qualified for Olympic karate",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian karateka has won an Olympic medal, and karate was featured only in the 2020 Tokyo Olympics, with India yet to qualify a representative."
+  },
+  {
+    "id": 286,
+    "question": "The famous Jagannath Temple at Puri is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jagannath Temple at Puri is built in the Kalinga style of architecture, with a distinctive curvilinear shikhara, massive compound walls, the famous Rath Yatra chariots, and innovative design elements like the ananda bazaar and natya mandapa."
+  },
+  {
+    "id": 287,
+    "question": "Who was the first Indian to win a medal at the Olympics in baseball?",
+    "choices": [
+      "No Indian has won an Olympic medal in baseball",
+      "Baseball was last played in Olympics in 2008",
+      "Baseball will return in 2028 Los Angeles Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian baseball player has won an Olympic medal, and baseball was last played in the 2008 Beijing Olympics but will return in the 2028 Los Angeles Games, with India yet to qualify a representative."
+  },
+  {
+    "id": 288,
+    "question": "The famous Meenakshi Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Nayak"
+    ],
+    "correct_index": 3,
+    "explanation": "The Meenakshi Temple in Madurai is built in the Nayak style of architecture, an evolution of Dravida architecture with towering gopurams, thousand-pillar hall, intricate sculptures depicting Hindu mythology, and innovative design elements like the musical pillars and golden lotus tank."
+  },
+  {
+    "id": 289,
+    "question": "Who was the first Indian to win a medal at the Olympics in softball?",
+    "choices": [
+      "No Indian has won an Olympic medal in softball",
+      "Softball was last played in Olympics in 2008",
+      "Softball will return in 2028 Los Angeles Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian softball player has won an Olympic medal, and softball was last played in the 2008 Beijing Olympics but will return in the 2028 Los Angeles Games, with India yet to qualify a representative."
+  },
+  {
+    "id": 290,
+    "question": "The famous Virupaksha Temple at Hampi is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Vijayanagara"
+    ],
+    "correct_index": 3,
+    "explanation": "The Virupaksha Temple at Hampi is built in the Vijayanagara style of architecture, combining Dravida and Nagara elements with unique features like the distinctive gopuram, pillared halls, intricate carvings depicting Hindu mythology and daily life, and innovative design elements like the stone chariot and musical pillars."
+  },
+  {
+    "id": 291,
+    "question": "Who was the first Indian to win a medal at the Olympics in handball?",
+    "choices": [
+      "No Indian has won an Olympic medal in handball",
+      "India has not qualified for Olympic handball",
+      "Handball is not widely played in India",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian handball player has won an Olympic medal, and India has not qualified for Olympic handball competition, with the sport not being widely played in the country."
+  },
+  {
+    "id": 292,
+    "question": "The famous Hoysaleswara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Hoysala"
+    ],
+    "correct_index": 3,
+    "explanation": "The Hoysaleswara Temple at Halebidu is built in the distinctive Hoysala style of architecture, known for intricate soapstone carvings, star-shaped platforms, detailed sculptures depicting Hindu epics and daily life, and innovative design elements like the lathe-turned pillars and narrative friezes."
+  },
+  {
+    "id": 293,
+    "question": "Who was the first Indian to win a medal at the Olympics in water polo?",
+    "choices": [
+      "No Indian has won an Olympic medal in water polo",
+      "India has not qualified for Olympic water polo",
+      "Water polo is not widely played in India",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian water polo player has won an Olympic medal, and India has not qualified for Olympic water polo competition, with the sport not being widely played in the country."
+  },
+  {
+    "id": 294,
+    "question": "The famous Kailasa Temple at Ellora is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Rock-cut"
+    ],
+    "correct_index": 3,
+    "explanation": "The Kailasa Temple at Ellora is a rock-cut temple, carved out of a single basalt rock face in the Rashtrakuta style, representing a unique architectural achievement with intricate carvings, sculptures, and innovative design elements like the monolithic structure and multi-story design."
+  },
+  {
+    "id": 295,
+    "question": "Who was the first Indian to win a medal at the Olympics in rugby?",
+    "choices": [
+      "No Indian has won an Olympic medal in rugby",
+      "Rugby sevens was introduced in Olympics in 2016",
+      "India has not qualified for Olympic rugby",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian rugby player has won an Olympic medal, and rugby sevens was introduced in the 2016 Rio Olympics, with India yet to qualify a representative."
+  },
+  {
+    "id": 296,
+    "question": "The famous Airavatesvara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Airavatesvara Temple at Darasuram is built in the Chola style of architecture, known for its intricate carvings, sculptures, and innovative design elements like the stone chariot, musical pillars, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 297,
+    "question": "Who was the first Indian to win a medal at the Olympics in beach volleyball?",
+    "choices": [
+      "No Indian has won an Olympic medal in beach volleyball",
+      "India has not qualified for Olympic beach volleyball",
+      "Beach volleyball is not widely played in India",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian beach volleyball player has won an Olympic medal, and India has not qualified for Olympic beach volleyball competition, with the sport not being widely played in the country."
+  },
+  {
+    "id": 298,
+    "question": "The famous Brihadisvara Temple at Gangaikonda Cholapuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Brihadisvara Temple at Gangaikonda Cholapuram is built in the Chola style of architecture, similar to the Thanjavur temple but with unique features like the smaller vimana, intricate sculptures, innovative design elements like the stone chariot and musical pillars, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 299,
+    "question": "Who was the first Indian to win a medal at the Olympics in lacrosse?",
+    "choices": [
+      "No Indian has won an Olympic medal in lacrosse",
+      "Lacrosse is not an Olympic sport currently",
+      "Lacrosse was last played in Olympics in 1908",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian lacrosse player has won an Olympic medal, and lacrosse is not currently an Olympic sport, having been last played in the 1908 London Olympics."
+  },
+  {
+    "id": 300,
+    "question": "The famous Shore Temple at Mahabalipuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Pallava"
+    ],
+    "correct_index": 3,
+    "explanation": "The Shore Temple at Mahabalipuram is built in the Pallava style of architecture, representing early Dravida temple architecture with pyramidal towers, intricate carvings, innovative design elements like the sea-facing location, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 301,
+    "question": "Who was the first Indian to win a medal at the Olympics in cricket?",
+    "choices": [
+      "No Indian has won an Olympic medal in cricket",
+      "Cricket was last played in Olympics in 1900",
+      "Cricket will return in 2028 Los Angeles Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian cricketer has won an Olympic medal, and cricket was last played in the 1900 Paris Olympics but will return in the 2028 Los Angeles Games, with India yet to qualify a representative."
+  },
+  {
+    "id": 302,
+    "question": "The famous Jageshwar Temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Katyuri-Chand"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jageshwar Temples in Uttarakhand are built in the Katyuri-Chand style of architecture, reflecting North Indian temple design with Nagara influences and local adaptations like the use of stone, intricate carvings, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 303,
+    "question": "Who was the first Indian to win a medal at the Olympics in kabaddi?",
+    "choices": [
+      "No Indian has won an Olympic medal in kabaddi",
+      "Kabaddi is not an Olympic sport",
+      "Kabaddi is featured in Asian Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kabaddi player has won an Olympic medal, and kabaddi is not currently an Olympic sport, though it is featured in Asian Games and other multi-sport events."
+  },
+  {
+    "id": 304,
+    "question": "The famous Modhera Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Solanki"
+    ],
+    "correct_index": 3,
+    "explanation": "The Modhera Sun Temple in Gujarat is built in the Solanki style of architecture, a sub-style of Nagara architecture known for intricate carvings, stepped tanks, astronomical alignments, innovative design elements like the sun-facing orientation, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 305,
+    "question": "Who was the first Indian to win a medal at the Olympics in kho-kho?",
+    "choices": [
+      "No Indian has won an Olympic medal in kho-kho",
+      "Kho-kho is not an Olympic sport",
+      "Kho-kho is featured in South Asian Games but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kho-kho player has won an Olympic medal, and kho-kho is not currently an Olympic sport, though it is featured in South Asian Games and other regional multi-sport events."
+  },
+  {
+    "id": 306,
+    "question": "The famous Khajuraho temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chandela"
+    ],
+    "correct_index": 3,
+    "explanation": "The Khajuraho temples in Madhya Pradesh are built in the Chandela style of architecture, a sub-style of Nagara architecture known for tall shikharas, intricate erotic sculptures, sandstone construction, innovative design elements like the alignment with celestial bodies, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 307,
+    "question": "Who was the first Indian to win a medal at the Olympics in mallakhamb?",
+    "choices": [
+      "No Indian has won an Olympic medal in mallakhamb",
+      "Mallakhamb is not an Olympic sport",
+      "Mallakhamb is featured in traditional Indian sports but not Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian mallakhamb player has won an Olympic medal, and mallakhamb is not currently an Olympic sport, though it is featured in traditional Indian sports and cultural events."
+  },
+  {
+    "id": 308,
+    "question": "The famous Lingaraja Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Lingaraja Temple in Bhubaneswar is built in the Kalinga style of architecture, a distinctive sub-style of Nagara architecture known for curvilinear shikharas, intricate carvings, massive compound walls, innovative design elements like the deul and jagamohana, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 309,
+    "question": "Who was the first Indian to win a medal at the Olympics in yoga?",
+    "choices": [
+      "No Indian has won an Olympic medal in yoga",
+      "Yoga is not an Olympic sport",
+      "Yoga is recognized by UNESCO but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian yoga practitioner has won an Olympic medal, and yoga is not currently an Olympic sport, though it is recognized by UNESCO as an intangible cultural heritage of humanity."
+  },
+  {
+    "id": 310,
+    "question": "The famous Konark Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Konark Sun Temple in Odisha is built in the Kalinga style of architecture, known for its chariot-shaped design with twelve pairs of wheels, seven horses, intricate stone carvings depicting various aspects of life, innovative design elements like the astronomical alignments, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 311,
+    "question": "Who was the first Indian to win a medal at the Olympics in kalaripayattu?",
+    "choices": [
+      "No Indian has won an Olympic medal in kalaripayattu",
+      "Kalaripayattu is not an Olympic sport",
+      "Kalaripayattu is a traditional Indian martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kalaripayattu practitioner has won an Olympic medal, and kalaripayattu is not currently an Olympic sport, though it is a traditional Indian martial art with cultural significance."
+  },
+  {
+    "id": 312,
+    "question": "The famous Jagannath Temple at Puri is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Kalinga"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jagannath Temple at Puri is built in the Kalinga style of architecture, with a distinctive curvilinear shikhara, massive compound walls, the famous Rath Yatra chariots, innovative design elements like the ananda bazaar and natya mandapa, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 313,
+    "question": "Who was the first Indian to win a medal at the Olympics in silambam?",
+    "choices": [
+      "No Indian has won an Olympic medal in silambam",
+      "Silambam is not an Olympic sport",
+      "Silambam is a traditional Indian martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian silambam practitioner has won an Olympic medal, and silambam is not currently an Olympic sport, though it is a traditional Indian martial art with cultural significance."
+  },
+  {
+    "id": 314,
+    "question": "The famous Meenakshi Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Nayak"
+    ],
+    "correct_index": 3,
+    "explanation": "The Meenakshi Temple in Madurai is built in the Nayak style of architecture, an evolution of Dravida architecture with towering gopurams, thousand-pillar hall, intricate sculptures depicting Hindu mythology, innovative design elements like the musical pillars and golden lotus tank, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 315,
+    "question": "Who was the first Indian to win a medal at the Olympics in gatka?",
+    "choices": [
+      "No Indian has won an Olympic medal in gatka",
+      "Gatka is not an Olympic sport",
+      "Gatka is a traditional Sikh martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian gatka practitioner has won an Olympic medal, and gatka is not currently an Olympic sport, though it is a traditional Sikh martial art with cultural significance."
+  },
+  {
+    "id": 316,
+    "question": "The famous Virupaksha Temple at Hampi is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Vijayanagara"
+    ],
+    "correct_index": 3,
+    "explanation": "The Virupaksha Temple at Hampi is built in the Vijayanagara style of architecture, combining Dravida and Nagara elements with unique features like the distinctive gopuram, pillared halls, intricate carvings depicting Hindu mythology and daily life, innovative design elements like the stone chariot and musical pillars, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 317,
+    "question": "Who was the first Indian to win a medal at the Olympics in malla-yuddha?",
+    "choices": [
+      "No Indian has won an Olympic medal in malla-yuddha",
+      "Malla-yuddha is not an Olympic sport",
+      "Malla-yuddha is a traditional Indian wrestling style but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian malla-yuddha practitioner has won an Olympic medal, and malla-yuddha is not currently an Olympic sport, though it is a traditional Indian wrestling style with cultural significance."
+  },
+  {
+    "id": 318,
+    "question": "The famous Hoysaleswara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Hoysala"
+    ],
+    "correct_index": 3,
+    "explanation": "The Hoysaleswara Temple at Halebidu is built in the distinctive Hoysala style of architecture, known for intricate soapstone carvings, star-shaped platforms, detailed sculptures depicting Hindu epics and daily life, innovative design elements like the lathe-turned pillars and narrative friezes, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 319,
+    "question": "Who was the first Indian to win a medal at the Olympics in varma kalai?",
+    "choices": [
+      "No Indian has won an Olympic medal in varma kalai",
+      "Varma kalai is not an Olympic sport",
+      "Varma kalai is a traditional Tamil martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian varma kalai practitioner has won an Olympic medal, and varma kalai is not currently an Olympic sport, though it is a traditional Tamil martial art with cultural significance."
+  },
+  {
+    "id": 320,
+    "question": "The famous Kailasa Temple at Ellora is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Rock-cut"
+    ],
+    "correct_index": 3,
+    "explanation": "The Kailasa Temple at Ellora is a rock-cut temple, carved out of a single basalt rock face in the Rashtrakuta style, representing a unique architectural achievement with intricate carvings, sculptures, innovative design elements like the monolithic structure and multi-story design, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 321,
+    "question": "Who was the first Indian to win a medal at the Olympics in adimurai?",
+    "choices": [
+      "No Indian has won an Olympic medal in adimurai",
+      "Adimurai is not an Olympic sport",
+      "Adimurai is a traditional Tamil martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian adimurai practitioner has won an Olympic medal, and adimurai is not currently an Olympic sport, though it is a traditional Tamil martial art with cultural significance."
+  },
+  {
+    "id": 322,
+    "question": "The famous Airavatesvara Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Airavatesvara Temple at Darasuram is built in the Chola style of architecture, known for its intricate carvings, sculptures, innovative design elements like the stone chariot, musical pillars, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 323,
+    "question": "Who was the first Indian to win a medal at the Olympics in paika akhada?",
+    "choices": [
+      "No Indian has won an Olympic medal in paika akhada",
+      "Paika akhada is not an Olympic sport",
+      "Paika akhada is a traditional Odia martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian paika akhada practitioner has won an Olympic medal, and paika akhada is not currently an Olympic sport, though it is a traditional Odia martial art with cultural significance."
+  },
+  {
+    "id": 324,
+    "question": "The famous Brihadisvara Temple at Gangaikonda Cholapuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chola"
+    ],
+    "correct_index": 3,
+    "explanation": "The Brihadisvara Temple at Gangaikonda Cholapuram is built in the Chola style of architecture, similar to the Thanjavur temple but with unique features like the smaller vimana, intricate sculptures, innovative design elements like the stone chariot and musical pillars, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 325,
+    "question": "Who was the first Indian to win a medal at the Olympics in musti yuddha?",
+    "choices": [
+      "No Indian has won an Olympic medal in musti yuddha",
+      "Musti yuddha is not an Olympic sport",
+      "Musti yuddha is a traditional Indian boxing style but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian musti yuddha practitioner has won an Olympic medal, and musti yuddha is not currently an Olympic sport, though it is a traditional Indian boxing style with cultural significance."
+  },
+  {
+    "id": 326,
+    "question": "The famous Shore Temple at Mahabalipuram is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Pallava"
+    ],
+    "correct_index": 3,
+    "explanation": "The Shore Temple at Mahabalipuram is built in the Pallava style of architecture, representing early Dravida temple architecture with pyramidal towers, intricate carvings, innovative design elements like the sea-facing location, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 327,
+    "question": "Who was the first Indian to win a medal at the Olympics in lathi khela?",
+    "choices": [
+      "No Indian has won an Olympic medal in lathi khela",
+      "Lathi khela is not an Olympic sport",
+      "Lathi khela is a traditional Indian stick fighting art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian lathi khela practitioner has won an Olympic medal, and lathi khela is not currently an Olympic sport, though it is a traditional Indian stick fighting art with cultural significance."
+  },
+  {
+    "id": 328,
+    "question": "The famous Jageshwar Temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Katyuri-Chand"
+    ],
+    "correct_index": 3,
+    "explanation": "The Jageshwar Temples in Uttarakhand are built in the Katyuri-Chand style of architecture, reflecting North Indian temple design with Nagara influences and local adaptations like the use of stone, intricate carvings, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 329,
+    "question": "Who was the first Indian to win a medal at the Olympics in kathi samu?",
+    "choices": [
+      "No Indian has won an Olympic medal in kathi samu",
+      "Kathi samu is not an Olympic sport",
+      "Kathi samu is a traditional Indian sword fighting art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian kathi samu practitioner has won an Olympic medal, and kathi samu is not currently an Olympic sport, though it is a traditional Indian sword fighting art with cultural significance."
+  },
+  {
+    "id": 330,
+    "question": "The famous Modhera Sun Temple is built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Solanki"
+    ],
+    "correct_index": 3,
+    "explanation": "The Modhera Sun Temple in Gujarat is built in the Solanki style of architecture, a sub-style of Nagara architecture known for intricate carvings, stepped tanks, astronomical alignments, innovative design elements like the sun-facing orientation, and the depiction of various Hindu deities and mythological scenes."
+  },
+  {
+    "id": 331,
+    "question": "Who was the first Indian to win a medal at the Olympics in cheena-diksha?",
+    "choices": [
+      "No Indian has won an Olympic medal in cheena-diksha",
+      "Cheena-diksha is not an Olympic sport",
+      "Cheena-diksha is a traditional Indian martial art but not in Olympics",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "As of now, no Indian cheena-diksha practitioner has won an Olympic medal, and cheena-diksha is not currently an Olympic sport, though it is a traditional Indian martial art with cultural significance."
+  },
+  {
+    "id": 332,
+    "question": "The famous Khajuraho temples are built in which architectural style?",
+    "choices": [
+      "Nagara",
+      "Dravida",
+      "Vesara",
+      "Chandela"
+    ],
+    "correct_index": 3,
+    "explanation": "The Khajuraho temples in Madhya Pradesh are built in the Chandela style of architecture, a sub-style of Nagara architecture known for tall shikharas, intricate erotic sculptures, sandstone construction, innovative design elements like the alignment with celestial bodies, and the depiction of various Hindu deities and mythological scenes."
   }
 ]
