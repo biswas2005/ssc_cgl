@@ -1,0 +1,638 @@
+[
+  {
+    "id": 1,
+    "question": "Which is the largest continent in the world?",
+    "choices": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "North America"
+    ],
+    "correct_index": 2,
+    "explanation": "Asia is the largest continent by area."
+  },
+  {
+    "id": 2,
+    "question": "Which is the longest river in the world?",
+    "choices": [
+      "Amazon",
+      "Nile",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correct_index": 1,
+    "explanation": "Nile is considered the longest river."
+  },
+  {
+    "id": 3,
+    "question": "Which is the largest desert in the world?",
+    "choices": [
+      "Sahara",
+      "Gobi",
+      "Thar",
+      "Kalahari"
+    ],
+    "correct_index": 0,
+    "explanation": "Sahara is the largest hot desert."
+  },
+  {
+    "id": 4,
+    "question": "Which is the highest mountain peak in the world?",
+    "choices": [
+      "K2",
+      "Kanchenjunga",
+      "Mount Everest",
+      "Makalu"
+    ],
+    "correct_index": 2,
+    "explanation": "Mount Everest is the highest peak."
+  },
+  {
+    "id": 5,
+    "question": "What is the capital of Australia?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Perth",
+      "Canberra"
+    ],
+    "correct_index": 3,
+    "explanation": "Canberra is the capital city."
+  },
+  {
+    "id": 6,
+    "question": "Which latitude is known as the Tropic of Cancer?",
+    "choices": [
+      "0 degree",
+      "23.5 degree North",
+      "23.5 degree South",
+      "66.5 degree North"
+    ],
+    "correct_index": 1,
+    "explanation": "Tropic of Cancer lies at 23.5 degree North."
+  },
+  {
+    "id": 7,
+    "question": "Which is the smallest continent?",
+    "choices": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "South America"
+    ],
+    "correct_index": 2,
+    "explanation": "Australia is the smallest continent."
+  },
+  {
+    "id": 8,
+    "question": "Which planet is known as the Morning Star?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct_index": 1,
+    "explanation": "Venus is visible in the morning sky."
+  },
+  {
+    "id": 9,
+    "question": "Which is the deepest ocean in the world?",
+    "choices": [
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Atlantic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct_index": 3,
+    "explanation": "Pacific Ocean is the deepest ocean."
+  },
+  {
+    "id": 10,
+    "question": "What is the capital of Canada?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correct_index": 2,
+    "explanation": "Ottawa is the capital of Canada."
+  },
+  {
+    "id": 11,
+    "question": "Which river is known as the Sorrow of Bihar?",
+    "choices": [
+      "Ganga",
+      "Kosi",
+      "Yamuna",
+      "Brahmaputra"
+    ],
+    "correct_index": 1,
+    "explanation": "Kosi causes frequent floods in Bihar."
+  },
+  {
+    "id": 12,
+    "question": "Which is the largest plateau in the world?",
+    "choices": [
+      "Tibetan Plateau",
+      "Deccan Plateau",
+      "Iranian Plateau",
+      "Brazilian Plateau"
+    ],
+    "correct_index": 0,
+    "explanation": "Tibetan Plateau is the highest and largest plateau."
+  },
+  {
+    "id": 13,
+    "question": "Which country is known as the Land of Rising Sun?",
+    "choices": [
+      "China",
+      "Thailand",
+      "Japan",
+      "South Korea"
+    ],
+    "correct_index": 2,
+    "explanation": "Japan is called Land of Rising Sun."
+  },
+  {
+    "id": 14,
+    "question": "Which state has the longest coastline in India?",
+    "choices": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Maharashtra",
+      "Kerala"
+    ],
+    "correct_index": 1,
+    "explanation": "Gujarat has the longest coastline."
+  },
+  {
+    "id": 15,
+    "question": "Which is the largest island in the world?",
+    "choices": [
+      "Greenland",
+      "Madagascar",
+      "Sri Lanka",
+      "Borneo"
+    ],
+    "correct_index": 0,
+    "explanation": "Greenland is the largest island."
+  },
+  {
+    "id": 16,
+    "question": "Which river flows through Egypt?",
+    "choices": [
+      "Amazon",
+      "Nile",
+      "Congo",
+      "Danube"
+    ],
+    "correct_index": 1,
+    "explanation": "Nile flows through Egypt."
+  },
+  {
+    "id": 17,
+    "question": "Which is the coldest continent?",
+    "choices": [
+      "Europe",
+      "Antarctica",
+      "Asia",
+      "Australia"
+    ],
+    "correct_index": 1,
+    "explanation": "Antarctica is the coldest continent."
+  },
+  {
+    "id": 18,
+    "question": "What is the capital of Brazil?",
+    "choices": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "correct_index": 2,
+    "explanation": "Brasilia is the capital city."
+  },
+  {
+    "id": 19,
+    "question": "Which layer of atmosphere contains ozone layer?",
+    "choices": [
+      "Troposphere",
+      "Mesosphere",
+      "Stratosphere",
+      "Thermosphere"
+    ],
+    "correct_index": 2,
+    "explanation": "Ozone layer lies in stratosphere."
+  },
+  {
+    "id": 20,
+    "question": "Which is the largest ocean in the world?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "correct_index": 3,
+    "explanation": "Pacific Ocean is the largest."
+  },
+  {
+    "id": 21,
+    "question": "Which is the southernmost point of India?",
+    "choices": [
+      "Kanyakumari",
+      "Indira Point",
+      "Minicoy",
+      "Port Blair"
+    ],
+    "correct_index": 1,
+    "explanation": "Indira Point is the southernmost point."
+  },
+  {
+    "id": 22,
+    "question": "Which country has the largest population in the world?",
+    "choices": [
+      "India",
+      "China",
+      "USA",
+      "Indonesia"
+    ],
+    "correct_index": 0,
+    "explanation": "India has the largest population currently."
+  },
+  {
+    "id": 23,
+    "question": "Which river originates from Gangotri glacier?",
+    "choices": [
+      "Yamuna",
+      "Ganga",
+      "Godavari",
+      "Krishna"
+    ],
+    "correct_index": 1,
+    "explanation": "Ganga originates from Gangotri glacier."
+  },
+  {
+    "id": 24,
+    "question": "Which is the highest waterfall in the world?",
+    "choices": [
+      "Niagara Falls",
+      "Angel Falls",
+      "Victoria Falls",
+      "Jog Falls"
+    ],
+    "correct_index": 1,
+    "explanation": "Angel Falls is the highest waterfall."
+  },
+  {
+    "id": 25,
+    "question": "Which country is called the Gift of Nile?",
+    "choices": [
+      "Sudan",
+      "Egypt",
+      "Ethiopia",
+      "Libya"
+    ],
+    "correct_index": 1,
+    "explanation": "Egypt depends on Nile River."
+  },
+  {
+    "id": 26,
+    "question": "Which state is the largest producer of tea in India?",
+    "choices": [
+      "Kerala",
+      "Tamil Nadu",
+      "Assam",
+      "West Bengal"
+    ],
+    "correct_index": 2,
+    "explanation": "Assam produces maximum tea."
+  },
+  {
+    "id": 27,
+    "question": "Which is the largest gulf in the world?",
+    "choices": [
+      "Gulf of Mexico",
+      "Persian Gulf",
+      "Gulf of Aden",
+      "Gulf of Mannar"
+    ],
+    "correct_index": 0,
+    "explanation": "Gulf of Mexico is the largest gulf."
+  },
+  {
+    "id": 28,
+    "question": "Which continent has no permanent human settlement?",
+    "choices": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "South America"
+    ],
+    "correct_index": 1,
+    "explanation": "Antarctica has no permanent residents."
+  },
+  {
+    "id": 29,
+    "question": "Which river is called the Dakshin Ganga?",
+    "choices": [
+      "Krishna",
+      "Kaveri",
+      "Godavari",
+      "Mahanadi"
+    ],
+    "correct_index": 2,
+    "explanation": "Godavari is called Dakshin Ganga."
+  },
+  {
+    "id": 30,
+    "question": "What is the imaginary line dividing Earth into two halves?",
+    "choices": [
+      "Prime Meridian",
+      "Tropic of Cancer",
+      "Equator",
+      "Arctic Circle"
+    ],
+    "correct_index": 2,
+    "explanation": "Equator divides Earth into hemispheres."
+  },
+  {
+    "id": 31,
+    "question": "Which is the largest freshwater lake in the world?",
+    "choices": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Caspian Sea",
+      "Lake Baikal"
+    ],
+    "correct_index": 0,
+    "explanation": "Lake Superior is largest by surface area."
+  },
+  {
+    "id": 32,
+    "question": "Which Indian state shares boundary with maximum states?",
+    "choices": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "explanation": "Uttar Pradesh borders many states."
+  },
+  {
+    "id": 33,
+    "question": "Which desert is located in India?",
+    "choices": [
+      "Sahara",
+      "Gobi",
+      "Thar",
+      "Kalahari"
+    ],
+    "correct_index": 2,
+    "explanation": "Thar Desert lies in Rajasthan."
+  },
+  {
+    "id": 34,
+    "question": "Which is the highest plateau in the world?",
+    "choices": [
+      "Tibetan Plateau",
+      "Deccan Plateau",
+      "Chota Nagpur Plateau",
+      "Malwa Plateau"
+    ],
+    "correct_index": 0,
+    "explanation": "Tibetan Plateau is highest."
+  },
+  {
+    "id": 35,
+    "question": "Which is the busiest ocean route in the world?",
+    "choices": [
+      "Atlantic Ocean",
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 0,
+    "explanation": "Atlantic Ocean has busiest trade routes."
+  },
+  {
+    "id": 36,
+    "question": "Which country is known as the Land of Thousand Lakes?",
+    "choices": [
+      "Norway",
+      "Finland",
+      "Sweden",
+      "Iceland"
+    ],
+    "correct_index": 1,
+    "explanation": "Finland has numerous lakes."
+  },
+  {
+    "id": 37,
+    "question": "Which Indian river is known as the Yellow River?",
+    "choices": [
+      "Brahmaputra",
+      "Teesta",
+      "Damodar",
+      "Kosi"
+    ],
+    "correct_index": 2,
+    "explanation": "Damodar was called Yellow River due to floods."
+  },
+  {
+    "id": 38,
+    "question": "Which is the largest state in India by area?",
+    "choices": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan"
+    ],
+    "correct_index": 3,
+    "explanation": "Rajasthan is largest by area."
+  },
+  {
+    "id": 39,
+    "question": "Which ocean lies between Africa and Australia?",
+    "choices": [
+      "Atlantic Ocean",
+      "Arctic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean"
+    ],
+    "correct_index": 2,
+    "explanation": "Indian Ocean lies between them."
+  },
+  {
+    "id": 40,
+    "question": "Which is the main source of energy on Earth?",
+    "choices": [
+      "Moon",
+      "Sun",
+      "Wind",
+      "Water"
+    ],
+    "correct_index": 1,
+    "explanation": "Sun provides most energy."
+  },
+  {
+    "id": 41,
+    "question": "Which is the highest dam in India?",
+    "choices": [
+      "Bhakra Nangal",
+      "Tehri Dam",
+      "Hirakud Dam",
+      "Sardar Sarovar"
+    ],
+    "correct_index": 1,
+    "explanation": "Tehri Dam is the highest."
+  },
+  {
+    "id": 42,
+    "question": "Which type of rainfall is common in equatorial regions?",
+    "choices": [
+      "Cyclonic",
+      "Orographic",
+      "Convectional",
+      "Frontal"
+    ],
+    "correct_index": 2,
+    "explanation": "High heating causes convectional rainfall."
+  },
+  {
+    "id": 43,
+    "question": "Which is the largest delta in the world?",
+    "choices": [
+      "Nile Delta",
+      "Sundarbans Delta",
+      "Mississippi Delta",
+      "Mekong Delta"
+    ],
+    "correct_index": 1,
+    "explanation": "Sundarbans is the largest delta."
+  },
+  {
+    "id": 44,
+    "question": "Which Indian state is known as Spice Garden of India?",
+    "choices": [
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Kerala produces many spices."
+  },
+  {
+    "id": 45,
+    "question": "Which line passes through Greenwich?",
+    "choices": [
+      "Equator",
+      "Tropic of Capricorn",
+      "Prime Meridian",
+      "Arctic Circle"
+    ],
+    "correct_index": 2,
+    "explanation": "Prime Meridian passes through Greenwich."
+  },
+  {
+    "id": 46,
+    "question": "Which is the rainiest place in India?",
+    "choices": [
+      "Mawsynram",
+      "Cherrapunji",
+      "Shillong",
+      "Gangtok"
+    ],
+    "correct_index": 0,
+    "explanation": "Mawsynram receives highest rainfall."
+  },
+  {
+    "id": 47,
+    "question": "Which is the largest producer of coffee in India?",
+    "choices": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Assam"
+    ],
+    "correct_index": 2,
+    "explanation": "Karnataka produces most coffee."
+  },
+  {
+    "id": 48,
+    "question": "Which country shares the longest border with India?",
+    "choices": [
+      "Pakistan",
+      "Nepal",
+      "China",
+      "Bangladesh"
+    ],
+    "correct_index": 3,
+    "explanation": "Bangladesh shares longest border."
+  },
+  {
+    "id": 49,
+    "question": "Which river is known as the River of Sorrow of Bengal?",
+    "choices": [
+      "Hooghly",
+      "Damodar",
+      "Teesta",
+      "Subarnarekha"
+    ],
+    "correct_index": 1,
+    "explanation": "Damodar caused destructive floods."
+  },
+  {
+    "id": 50,
+    "question": "Which is the oldest mountain range in India?",
+    "choices": [
+      "Himalayas",
+      "Aravallis",
+      "Vindhyas",
+      "Satpuras"
+    ],
+    "correct_index": 1,
+    "explanation": "Aravalli range is very old."
+  },
+  {
+    "id": 51,
+    "question": "Which country is separated from India by Palk Strait?",
+    "choices": [
+      "Maldives",
+      "Indonesia",
+      "Sri Lanka",
+      "Myanmar"
+    ],
+    "correct_index": 2,
+    "explanation": "Palk Strait lies between India and Sri Lanka."
+  },
+  {
+    "id": 52,
+    "question": "Which soil is best for cotton cultivation?",
+    "choices": [
+      "Alluvial soil",
+      "Black soil",
+      "Red soil",
+      "Laterite soil"
+    ],
+    "correct_index": 1,
+    "explanation": "Black soil retains moisture."
+  },
+  {
+    "id": 53,
+    "question": "Which state is the largest producer of rice in India?",
+    "choices": [
+      "Punjab",
+      "Uttar Pradesh",
+      "West Bengal",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 2,
+    "explanation": "West Bengal leads in rice production."
+  }
+]

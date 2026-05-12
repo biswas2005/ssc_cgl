@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "question": "What does CPU stand for?",
+    "choices": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Processing Unit",
+      "Central Program Unit"
+    ],
+    "correct_index": 1,
+    "explanation": "CPU stands for Central Processing Unit."
+  },
+  {
+    "id": 2,
+    "question": "Which device is known as the brain of the computer?",
+    "choices": [
+      "Monitor",
+      "Keyboard",
+      "CPU",
+      "Mouse"
+    ],
+    "correct_index": 2,
+    "explanation": "CPU performs processing operations."
+  },
+  {
+    "id": 3,
+    "question": "Which memory is temporary in a computer?",
+    "choices": [
+      "ROM",
+      "Hard Disk",
+      "RAM",
+      "DVD"
+    ],
+    "correct_index": 2,
+    "explanation": "RAM stores data temporarily."
+  },
+  {
+    "id": 4,
+    "question": "What is the full form of RAM?",
+    "choices": [
+      "Random Access Memory",
+      "Read Access Memory",
+      "Rapid Access Memory",
+      "Random Active Memory"
+    ],
+    "correct_index": 0,
+    "explanation": "RAM stands for Random Access Memory."
+  },
+  {
+    "id": 5,
+    "question": "Which of the following is an input device?",
+    "choices": [
+      "Printer",
+      "Monitor",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correct_index": 2,
+    "explanation": "Keyboard is used for input."
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is an output device?",
+    "choices": [
+      "Mouse",
+      "Scanner",
+      "Keyboard",
+      "Monitor"
+    ],
+    "correct_index": 3,
+    "explanation": "Monitor displays output."
+  },
+  {
+    "id": 7,
+    "question": "What is the full form of ROM?",
+    "choices": [
+      "Read Only Memory",
+      "Random Only Memory",
+      "Read Open Memory",
+      "Rapid Output Memory"
+    ],
+    "correct_index": 0,
+    "explanation": "ROM stores permanent instructions."
+  },
+  {
+    "id": 8,
+    "question": "Which software is used to browse the internet?",
+    "choices": [
+      "Compiler",
+      "Browser",
+      "Antivirus",
+      "Database"
+    ],
+    "correct_index": 1,
+    "explanation": "Browsers help access websites."
+  },
+  {
+    "id": 9,
+    "question": "Which key is used to refresh a webpage?",
+    "choices": [
+      "F1",
+      "F3",
+      "F5",
+      "F7"
+    ],
+    "correct_index": 2,
+    "explanation": "F5 refreshes the page."
+  },
+  {
+    "id": 10,
+    "question": "What is the full form of URL?",
+    "choices": [
+      "Uniform Resource Locator",
+      "Universal Record Locator",
+      "Uniform Record Link",
+      "Universal Resource Link"
+    ],
+    "correct_index": 0,
+    "explanation": "URL is the web address."
+  },
+  {
+    "id": 11,
+    "question": "Which company developed Windows operating system?",
+    "choices": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Google"
+    ],
+    "correct_index": 2,
+    "explanation": "Microsoft developed Windows."
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is not an operating system?",
+    "choices": [
+      "Windows",
+      "Linux",
+      "Oracle",
+      "Android"
+    ],
+    "correct_index": 2,
+    "explanation": "Oracle is a database software."
+  },
+  {
+    "id": 13,
+    "question": "Which shortcut key is used to copy text?",
+    "choices": [
+      "Ctrl + X",
+      "Ctrl + V",
+      "Ctrl + C",
+      "Ctrl + Z"
+    ],
+    "correct_index": 2,
+    "explanation": "Ctrl + C copies selected text."
+  },
+  {
+    "id": 14,
+    "question": "What is the function of antivirus software?",
+    "choices": [
+      "Create documents",
+      "Protect computer from viruses",
+      "Browse internet",
+      "Edit images"
+    ],
+    "correct_index": 1,
+    "explanation": "Antivirus detects and removes malware."
+  },
+  {
+    "id": 15,
+    "question": "What is the full form of WWW?",
+    "choices": [
+      "World Wide Web",
+      "World Web Window",
+      "Wide World Web",
+      "Web World Wide"
+    ],
+    "correct_index": 0,
+    "explanation": "WWW stands for World Wide Web."
+  },
+  {
+    "id": 16,
+    "question": "Which device prints documents on paper?",
+    "choices": [
+      "Monitor",
+      "Printer",
+      "Scanner",
+      "Speaker"
+    ],
+    "correct_index": 1,
+    "explanation": "Printer produces hard copies."
+  },
+  {
+    "id": 17,
+    "question": "Which of the following is a storage device?",
+    "choices": [
+      "Keyboard",
+      "Mouse",
+      "Hard Disk",
+      "Microphone"
+    ],
+    "correct_index": 2,
+    "explanation": "Hard disk stores data."
+  },
+  {
+    "id": 18,
+    "question": "Which key combination is used to paste?",
+    "choices": [
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + P"
+    ],
+    "correct_index": 1,
+    "explanation": "Ctrl + V pastes copied content."
+  },
+  {
+    "id": 19,
+    "question": "What is the default extension of MS Word files?",
+    "choices": [
+      ".xls",
+      ".ppt",
+      ".docx",
+      ".exe"
+    ],
+    "correct_index": 2,
+    "explanation": "MS Word files use .docx extension."
+  },
+  {
+    "id": 20,
+    "question": "Which network covers a small geographical area?",
+    "choices": [
+      "WAN",
+      "MAN",
+      "LAN",
+      "PAN"
+    ],
+    "correct_index": 2,
+    "explanation": "LAN connects nearby devices."
+  },
+  {
+    "id": 21,
+    "question": "Which part of computer shows visual output?",
+    "choices": [
+      "CPU",
+      "Printer",
+      "Monitor",
+      "Scanner"
+    ],
+    "correct_index": 2,
+    "explanation": "Monitor displays images and text."
+  },
+  {
+    "id": 22,
+    "question": "What is the full form of USB?",
+    "choices": [
+      "Universal Serial Bus",
+      "United Service Bus",
+      "Universal System Bus",
+      "Unified Serial Board"
+    ],
+    "correct_index": 0,
+    "explanation": "USB connects external devices."
+  },
+  {
+    "id": 23,
+    "question": "Which software is used to prepare presentations?",
+    "choices": [
+      "MS Excel",
+      "MS PowerPoint",
+      "MS Access",
+      "MS Paint"
+    ],
+    "correct_index": 1,
+    "explanation": "PowerPoint is used for presentations."
+  },
+  {
+    "id": 24,
+    "question": "What is an email?",
+    "choices": [
+      "Electronic mail",
+      "Electric message",
+      "External mail",
+      "Electronic machine"
+    ],
+    "correct_index": 0,
+    "explanation": "Email means electronic mail."
+  },
+  {
+    "id": 25,
+    "question": "Which of the following is used to type text?",
+    "choices": [
+      "Scanner",
+      "Mouse",
+      "Keyboard",
+      "Plotter"
+    ],
+    "correct_index": 2,
+    "explanation": "Keyboard is used for typing."
+  },
+  {
+    "id": 26,
+    "question": "Which device converts hard copy into digital form?",
+    "choices": [
+      "Printer",
+      "Scanner",
+      "Speaker",
+      "Monitor"
+    ],
+    "correct_index": 1,
+    "explanation": "Scanner digitizes documents."
+  },
+  {
+    "id": 27,
+    "question": "Which shortcut key is used to undo an action?",
+    "choices": [
+      "Ctrl + U",
+      "Ctrl + Y",
+      "Ctrl + Z",
+      "Ctrl + A"
+    ],
+    "correct_index": 2,
+    "explanation": "Ctrl + Z reverses last action."
+  },
+  {
+    "id": 28,
+    "question": "What does HTML stand for?",
+    "choices": [
+      "Hyper Text Markup Language",
+      "High Text Machine Language",
+      "Hyper Tool Markup Language",
+      "Hyper Transfer Markup Language"
+    ],
+    "correct_index": 0,
+    "explanation": "HTML is used to create webpages."
+  },
+  {
+    "id": 29,
+    "question": "Which company developed Android?",
+    "choices": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "correct_index": 2,
+    "explanation": "Android is developed by Google."
+  },
+  {
+    "id": 30,
+    "question": "Which of the following is not a web browser?",
+    "choices": [
+      "Chrome",
+      "Firefox",
+      "Edge",
+      "Excel"
+    ],
+    "correct_index": 3,
+    "explanation": "Excel is spreadsheet software."
+  },
+  {
+    "id": 31,
+    "question": "What is the function of an operating system?",
+    "choices": [
+      "Manage computer hardware and software",
+      "Create viruses",
+      "Browse internet",
+      "Print documents"
+    ],
+    "correct_index": 0,
+    "explanation": "Operating system controls computer resources."
+  },
+  {
+    "id": 32,
+    "question": "Which key is used to delete characters to the left of cursor?",
+    "choices": [
+      "Enter",
+      "Shift",
+      "Backspace",
+      "Delete"
+    ],
+    "correct_index": 2,
+    "explanation": "Backspace removes left side character."
+  },
+  {
+    "id": 33,
+    "question": "What is the full form of PDF?",
+    "choices": [
+      "Portable Document Format",
+      "Public Document File",
+      "Personal Data File",
+      "Print Data Format"
+    ],
+    "correct_index": 0,
+    "explanation": "PDF is used for document sharing."
+  },
+  {
+    "id": 34,
+    "question": "Which memory is non volatile?",
+    "choices": [
+      "RAM",
+      "Cache",
+      "ROM",
+      "Register"
+    ],
+    "correct_index": 2,
+    "explanation": "ROM retains data without power."
+  },
+  {
+    "id": 35,
+    "question": "Which software is used for calculations and spreadsheets?",
+    "choices": [
+      "MS Word",
+      "MS Excel",
+      "MS Paint",
+      "Notepad"
+    ],
+    "correct_index": 1,
+    "explanation": "Excel handles calculations and tables."
+  },
+  {
+    "id": 36,
+    "question": "What is a computer virus?",
+    "choices": [
+      "Hardware device",
+      "Input device",
+      "Malicious software",
+      "Storage unit"
+    ],
+    "correct_index": 2,
+    "explanation": "Virus can damage computer systems."
+  },
+  {
+    "id": 37,
+    "question": "Which key is used to move to the next line while typing?",
+    "choices": [
+      "Shift",
+      "Enter",
+      "Ctrl",
+      "Alt"
+    ],
+    "correct_index": 1,
+    "explanation": "Enter moves cursor to new line."
+  },
+  {
+    "id": 38,
+    "question": "What is the full form of HTTP?",
+    "choices": [
+      "Hyper Text Transfer Protocol",
+      "High Text Transfer Program",
+      "Hyper Tool Transfer Protocol",
+      "Hyper Transfer Text Program"
+    ],
+    "correct_index": 0,
+    "explanation": "HTTP transfers web data."
+  },
+  {
+    "id": 39,
+    "question": "Which device is used to hear sound from computer?",
+    "choices": [
+      "Monitor",
+      "Printer",
+      "Speaker",
+      "Scanner"
+    ],
+    "correct_index": 2,
+    "explanation": "Speakers produce audio output."
+  },
+  {
+    "id": 40,
+    "question": "What is cloud computing?",
+    "choices": [
+      "Weather forecasting",
+      "Internet based data storage and services",
+      "Computer cleaning",
+      "Hardware repairing"
+    ],
+    "correct_index": 1,
+    "explanation": "Cloud computing provides online services."
+  },
+  {
+    "id": 41,
+    "question": "Which shortcut key selects all text?",
+    "choices": [
+      "Ctrl + S",
+      "Ctrl + A",
+      "Ctrl + D",
+      "Ctrl + F"
+    ],
+    "correct_index": 1,
+    "explanation": "Ctrl + A selects all content."
+  },
+  {
+    "id": 42,
+    "question": "Which of the following is a search engine?",
+    "choices": [
+      "Chrome",
+      "Google",
+      "Windows",
+      "Linux"
+    ],
+    "correct_index": 1,
+    "explanation": "Google is a search engine."
+  },
+  {
+    "id": 43,
+    "question": "What is the binary value of decimal number 5?",
+    "choices": [
+      "100",
+      "101",
+      "110",
+      "111"
+    ],
+    "correct_index": 1,
+    "explanation": "Decimal 5 equals binary 101."
+  },
+  {
+    "id": 44,
+    "question": "Which protocol is used to send emails?",
+    "choices": [
+      "FTP",
+      "HTTP",
+      "SMTP",
+      "TCP"
+    ],
+    "correct_index": 2,
+    "explanation": "SMTP transfers emails."
+  },
+  {
+    "id": 45,
+    "question": "Which generation of computers used integrated circuits?",
+    "choices": [
+      "First generation",
+      "Second generation",
+      "Third generation",
+      "Fourth generation"
+    ],
+    "correct_index": 2,
+    "explanation": "Third generation used IC technology."
+  },
+  {
+    "id": 46,
+    "question": "What is the function of cache memory?",
+    "choices": [
+      "Permanent storage",
+      "Increase processing speed",
+      "Display graphics",
+      "Scan documents"
+    ],
+    "correct_index": 1,
+    "explanation": "Cache stores frequently used data."
+  },
+  {
+    "id": 47,
+    "question": "Which file extension is associated with Excel?",
+    "choices": [
+      ".pptx",
+      ".xlsx",
+      ".docx",
+      ".txt"
+    ],
+    "correct_index": 1,
+    "explanation": "Excel files use .xlsx extension."
+  },
+  {
+    "id": 48,
+    "question": "What is phishing?",
+    "choices": [
+      "Data backup method",
+      "Online fraud to steal information",
+      "Virus removal process",
+      "Hardware installation"
+    ],
+    "correct_index": 1,
+    "explanation": "Phishing tricks users into revealing data."
+  },
+  {
+    "id": 49,
+    "question": "Which topology uses a central hub?",
+    "choices": [
+      "Ring",
+      "Bus",
+      "Star",
+      "Mesh"
+    ],
+    "correct_index": 2,
+    "explanation": "Star topology connects through hub."
+  },
+  {
+    "id": 50,
+    "question": "Which command is used to save a document quickly?",
+    "choices": [
+      "Ctrl + N",
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + H"
+    ],
+    "correct_index": 2,
+    "explanation": "Ctrl + S saves files."
+  },
+  {
+    "id": 51,
+    "question": "Which unit measures processing speed of CPU?",
+    "choices": [
+      "Byte",
+      "Hertz",
+      "Meter",
+      "Volt"
+    ],
+    "correct_index": 1,
+    "explanation": "CPU speed is measured in Hertz."
+  }
+]

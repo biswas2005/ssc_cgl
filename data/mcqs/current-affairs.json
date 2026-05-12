@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "question": "Who won the ICC Champions Trophy 2025?",
+    "choices": [
+      "India",
+      "Australia",
+      "England",
+      "New Zealand"
+    ],
+    "correct_index": 0,
+    "explanation": "India won the ICC Champions Trophy 2025. ([Mock Test Mitra™][1])"
+  },
+  {
+    "id": 2,
+    "question": "Who is the current President of India in 2026?",
+    "choices": [
+      "Droupadi Murmu",
+      "Ram Nath Kovind",
+      "Narendra Modi",
+      "Jagdeep Dhankhar"
+    ],
+    "correct_index": 0,
+    "explanation": "Droupadi Murmu is the President of India."
+  },
+  {
+    "id": 3,
+    "question": "Which country will host the AI Impact Summit 2026?",
+    "choices": [
+      "USA",
+      "India",
+      "France",
+      "Japan"
+    ],
+    "correct_index": 1,
+    "explanation": "India is hosting the AI Impact Summit 2026. ([Wikipedia][2])"
+  },
+  {
+    "id": 4,
+    "question": "Which city is hosting the AI Impact Summit 2026?",
+    "choices": [
+      "Mumbai",
+      "Bengaluru",
+      "New Delhi",
+      "Hyderabad"
+    ],
+    "correct_index": 2,
+    "explanation": "The summit is being held in New Delhi. ([Wikipedia][2])"
+  },
+  {
+    "id": 5,
+    "question": "India ranked at which position in Corruption Perceptions Index 2025?",
+    "choices": [
+      "71st",
+      "81st",
+      "91st",
+      "101st"
+    ],
+    "correct_index": 2,
+    "explanation": "India ranked 91st in the index. ([PW Live][3])"
+  },
+  {
+    "id": 6,
+    "question": "Which Indian state announced a budget of around Rs 9.13 lakh crore in 2026?",
+    "choices": [
+      "Maharashtra",
+      "Gujarat",
+      "Uttar Pradesh",
+      "Rajasthan"
+    ],
+    "correct_index": 2,
+    "explanation": "Uttar Pradesh announced the large budget. ([PW Live][3])"
+  },
+  {
+    "id": 7,
+    "question": "India will chair which international certification scheme in 2026?",
+    "choices": [
+      "OPEC",
+      "Kimberley Process",
+      "ASEAN",
+      "NATO"
+    ],
+    "correct_index": 1,
+    "explanation": "India will chair the Kimberley Process in 2026. ([PW Live][3])"
+  },
+  {
+    "id": 8,
+    "question": "Which Indian city is associated with the first Quantum AI Valley project?",
+    "choices": [
+      "Pune",
+      "Amravati",
+      "Chennai",
+      "Kochi"
+    ],
+    "correct_index": 1,
+    "explanation": "Quantum AI Valley was announced in Amravati. ([PW Live][3])"
+  },
+  {
+    "id": 9,
+    "question": "Which body released the SSC exam calendar for 2025 to 2026?",
+    "choices": [
+      "UPSC",
+      "IBPS",
+      "SSC",
+      "RBI"
+    ],
+    "correct_index": 2,
+    "explanation": "Staff Selection Commission released the calendar. ([The Times of India][4])"
+  },
+  {
+    "id": 10,
+    "question": "What is the full form of SSC?",
+    "choices": [
+      "Staff Selection Commission",
+      "State Service Commission",
+      "Staff Service Council",
+      "State Selection Council"
+    ],
+    "correct_index": 0,
+    "explanation": "SSC stands for Staff Selection Commission."
+  },
+  {
+    "id": 11,
+    "question": "Which summit series follows the AI Action Summit 2025?",
+    "choices": [
+      "India AI Impact Summit 2026",
+      "G20 Summit",
+      "BRICS Summit",
+      "SCO Summit"
+    ],
+    "correct_index": 0,
+    "explanation": "India AI Impact Summit follows the 2025 summit. ([Wikipedia][2])"
+  },
+  {
+    "id": 12,
+    "question": "Which organization regulates monetary policy in India?",
+    "choices": [
+      "SEBI",
+      "RBI",
+      "SBI",
+      "NABARD"
+    ],
+    "correct_index": 1,
+    "explanation": "RBI manages monetary policy."
+  },
+  {
+    "id": 13,
+    "question": "Who is the current Prime Minister of India in 2026?",
+    "choices": [
+      "Amit Shah",
+      "Rahul Gandhi",
+      "Narendra Modi",
+      "Rajnath Singh"
+    ],
+    "correct_index": 2,
+    "explanation": "Narendra Modi is the Prime Minister of India."
+  },
+  {
+    "id": 14,
+    "question": "Which nation hosted the G20 Summit 2025?",
+    "choices": [
+      "India",
+      "South Africa",
+      "Brazil",
+      "Indonesia"
+    ],
+    "correct_index": 1,
+    "explanation": "The summit was hosted in Johannesburg, South Africa. ([Reddit][5])"
+  },
+  {
+    "id": 15,
+    "question": "Which organization publishes the Corruption Perceptions Index?",
+    "choices": [
+      "IMF",
+      "UNESCO",
+      "Transparency International",
+      "WTO"
+    ],
+    "correct_index": 2,
+    "explanation": "Transparency International releases the index."
+  },
+  {
+    "id": 16,
+    "question": "Which Indian mission is linked with the AI Impact Summit 2026?",
+    "choices": [
+      "Digital India",
+      "IndiaAI Mission",
+      "Startup India",
+      "Make in India"
+    ],
+    "correct_index": 1,
+    "explanation": "The summit is organized under IndiaAI Mission. ([Wikipedia][2])"
+  },
+  {
+    "id": 17,
+    "question": "What is India's projected GDP growth for FY 2025 to 2026 according to IMF?",
+    "choices": [
+      "4.8 percent",
+      "5.5 percent",
+      "6.2 percent",
+      "7.8 percent"
+    ],
+    "correct_index": 2,
+    "explanation": "IMF projected around 6.2 percent growth. ([Mock Test Mitra™][1])"
+  },
+  {
+    "id": 18,
+    "question": "Which Indian city hosted the G20 Summit in 2023?",
+    "choices": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Jaipur"
+    ],
+    "correct_index": 1,
+    "explanation": "New Delhi hosted the summit in 2023."
+  },
+  {
+    "id": 19,
+    "question": "What is the repo rate mentioned in 2026 economic updates?",
+    "choices": [
+      "4 percent",
+      "5 percent",
+      "6 percent",
+      "7 percent"
+    ],
+    "correct_index": 2,
+    "explanation": "Repo rate was around 6 percent. ([Mock Test Mitra™][1])"
+  },
+  {
+    "id": 20,
+    "question": "Which country became the most populous country in the world recently?",
+    "choices": [
+      "China",
+      "India",
+      "USA",
+      "Indonesia"
+    ],
+    "correct_index": 1,
+    "explanation": "India surpassed China in population."
+  },
+  {
+    "id": 21,
+    "question": "Which Indian state recorded the highest SSC result division in 2026 Maharashtra board results?",
+    "choices": [
+      "Pune",
+      "Konkan",
+      "Mumbai",
+      "Nashik"
+    ],
+    "correct_index": 1,
+    "explanation": "Konkan recorded the best performance. ([The Times of India][6])"
+  },
+  {
+    "id": 22,
+    "question": "Which Indian board announced over 83 percent pass percentage in SSC Result 2026?",
+    "choices": [
+      "CBSE",
+      "GSEB",
+      "ICSE",
+      "NIOS"
+    ],
+    "correct_index": 1,
+    "explanation": "Gujarat board announced 83.86 percent result. ([The Times of India][7])"
+  },
+  {
+    "id": 23,
+    "question": "Which technology is closely associated with generative AI tools?",
+    "choices": [
+      "Blockchain",
+      "Quantum computing",
+      "Large Language Models",
+      "Cloud printing"
+    ],
+    "correct_index": 2,
+    "explanation": "Generative AI commonly uses LLMs."
+  },
+  {
+    "id": 24,
+    "question": "India became the chair of which group in BRICS related meetings in 2026 discussions?",
+    "choices": [
+      "BRICS Sherpa Meeting",
+      "NATO Council",
+      "G7 Forum",
+      "ASEAN Forum"
+    ],
+    "correct_index": 0,
+    "explanation": "India hosted BRICS Sherpa related engagements. ([PW Live][3])"
+  },
+  {
+    "id": 25,
+    "question": "Which ministry organizes the IndiaAI Mission?",
+    "choices": [
+      "Ministry of Finance",
+      "Ministry of Home Affairs",
+      "Ministry of Electronics and Information Technology",
+      "Ministry of Defence"
+    ],
+    "correct_index": 2,
+    "explanation": "MeitY manages IndiaAI Mission."
+  },
+  {
+    "id": 26,
+    "question": "Which Indian city is known as the Silicon Valley of India?",
+    "choices": [
+      "Hyderabad",
+      "Bengaluru",
+      "Pune",
+      "Chennai"
+    ],
+    "correct_index": 1,
+    "explanation": "Bengaluru is India's tech hub."
+  },
+  {
+    "id": 27,
+    "question": "Which examination is conducted for recruitment to central government posts?",
+    "choices": [
+      "NEET",
+      "JEE",
+      "SSC CGL",
+      "CAT"
+    ],
+    "correct_index": 2,
+    "explanation": "SSC CGL recruits for government jobs."
+  },
+  {
+    "id": 28,
+    "question": "Which Indian state is associated with the Konkan division?",
+    "choices": [
+      "Gujarat",
+      "Maharashtra",
+      "Goa",
+      "Karnataka"
+    ],
+    "correct_index": 1,
+    "explanation": "Konkan division is in Maharashtra."
+  },
+  {
+    "id": 29,
+    "question": "Which organization released the GDP advance estimates in India?",
+    "choices": [
+      "NSO",
+      "RBI",
+      "SEBI",
+      "NITI Aayog"
+    ],
+    "correct_index": 0,
+    "explanation": "NSO releases GDP estimates."
+  },
+  {
+    "id": 30,
+    "question": "Which Indian initiative promotes semiconductor and AI development?",
+    "choices": [
+      "Digital India",
+      "IndiaAI Mission",
+      "PM Gati Shakti",
+      "Skill India"
+    ],
+    "correct_index": 1,
+    "explanation": "IndiaAI Mission promotes AI ecosystem."
+  }
+]

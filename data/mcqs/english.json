@@ -1,11 +1,18 @@
 [
   {
+    "id": 0,
     "question": "Choose the correct synonym of 'Benevolent':",
-    "choices": ["Cruel", "Kind", "Angry", "Selfish"],
+    "choices": [
+      "Cruel",
+      "Kind",
+      "Angry",
+      "Selfish"
+    ],
     "correct_index": 1,
     "explanation": "'Benevolent' means well-meaning, kindly, or charitable. 'Kind' is the closest synonym among the options."
   },
   {
+    "id": 0,
     "question": "Identify the error in the sentence: 'She don't like coffee.'",
     "choices": [
       "She",
@@ -17,21 +24,1203 @@
     "explanation": "The subject 'She' is third-person singular, so the correct auxiliary verb is 'doesn't', not 'don't'. Correct sentence: 'She doesn't like coffee.'"
   },
   {
+    "id": 0,
     "question": "What is the antonym of 'Transparent'?",
-    "choices": ["Clear", "Opaque", "Visible", "Bright"],
+    "choices": [
+      "Clear",
+      "Opaque",
+      "Visible",
+      "Bright"
+    ],
     "correct_index": 1,
     "explanation": "'Transparent' means allowing light to pass through so objects can be seen clearly. 'Opaque' means not allowing light to pass through — the direct opposite."
   },
   {
+    "id": 0,
     "question": "Select the correctly spelled word:",
-    "choices": ["Accomodate", "Acommodate", "Accommodate", "Acomodate"],
+    "choices": [
+      "Accomodate",
+      "Acommodate",
+      "Accommodate",
+      "Acomodate"
+    ],
     "correct_index": 2,
     "explanation": "The correct spelling is 'Accommodate' — it has two 'c's and two 'm's. A common trick: 'accommodate' is big enough to accommodate double letters!"
   },
   {
+    "id": 0,
     "question": "Fill in the blank: 'He has been working here _____ 2020.'",
-    "choices": ["for", "since", "from", "in"],
+    "choices": [
+      "for",
+      "since",
+      "from",
+      "in"
+    ],
     "correct_index": 1,
     "explanation": "We use 'since' with a specific point in time (e.g., 2020, January, last year) when using present perfect continuous tense. 'For' is used with duration (e.g., for 3 years)."
+  },
+  {
+    "id": 6,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Accomodation",
+      "Accommodation",
+      "Acommodation",
+      "Accommadation"
+    ],
+    "correct_index": 1,
+    "explanation": "Accommodation is the correct spelling."
+  },
+  {
+    "id": 7,
+    "question": "Choose the synonym of \"Brave\".",
+    "choices": [
+      "Cowardly",
+      "Timid",
+      "Courageous",
+      "Weak"
+    ],
+    "correct_index": 2,
+    "explanation": "Courageous means brave."
+  },
+  {
+    "id": 8,
+    "question": "Choose the antonym of \"Expand\".",
+    "choices": [
+      "Increase",
+      "Extend",
+      "Enlarge",
+      "Contract"
+    ],
+    "correct_index": 3,
+    "explanation": "Contract means reduce."
+  },
+  {
+    "id": 9,
+    "question": "Fill in the blank: She _____ to school every day.",
+    "choices": [
+      "go",
+      "goes",
+      "gone",
+      "going"
+    ],
+    "correct_index": 1,
+    "explanation": "Singular subject takes goes."
+  },
+  {
+    "id": 10,
+    "question": "Choose the correct passive voice.",
+    "choices": [
+      "The work completed by him.",
+      "The work was completed by him.",
+      "The work is complete by him.",
+      "The work had complete by him."
+    ],
+    "correct_index": 1,
+    "explanation": "Correct passive structure is used."
+  },
+  {
+    "id": 11,
+    "question": "Choose the correct synonym of \"Ancient\".",
+    "choices": [
+      "Modern",
+      "Old",
+      "New",
+      "Recent"
+    ],
+    "correct_index": 1,
+    "explanation": "Ancient means very old."
+  },
+  {
+    "id": 12,
+    "question": "Choose the antonym of \"Victory\".",
+    "choices": [
+      "Success",
+      "Triumph",
+      "Defeat",
+      "Achievement"
+    ],
+    "correct_index": 2,
+    "explanation": "Defeat is opposite of victory."
+  },
+  {
+    "id": 13,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Privilege",
+      "Priviledge",
+      "Previlege",
+      "Previlage"
+    ],
+    "correct_index": 0,
+    "explanation": "Privilege is correctly spelled."
+  },
+  {
+    "id": 14,
+    "question": "Fill in the blank: He has been working here _____ 2018.",
+    "choices": [
+      "for",
+      "since",
+      "from",
+      "by"
+    ],
+    "correct_index": 1,
+    "explanation": "Since is used with a point of time."
+  },
+  {
+    "id": 15,
+    "question": "Choose the correct one word substitution for \"A person who cannot read or write\".",
+    "choices": [
+      "Literate",
+      "Intelligent",
+      "Illiterate",
+      "Scholar"
+    ],
+    "correct_index": 2,
+    "explanation": "Illiterate means unable to read or write."
+  },
+  {
+    "id": 16,
+    "question": "Choose the idiom meaning of \"Hit the nail on the head\".",
+    "choices": [
+      "To miss the point",
+      "To speak exactly right",
+      "To hit someone",
+      "To make a mistake"
+    ],
+    "correct_index": 1,
+    "explanation": "It means saying something exactly correct."
+  },
+  {
+    "id": 17,
+    "question": "Choose the correct indirect speech.",
+    "choices": [
+      "He said that he is busy.",
+      "He said that he was busy.",
+      "He says that he was busy.",
+      "He said he busy."
+    ],
+    "correct_index": 1,
+    "explanation": "Present tense changes to past tense."
+  },
+  {
+    "id": 18,
+    "question": "Choose the synonym of \"Rapid\".",
+    "choices": [
+      "Slow",
+      "Fast",
+      "Weak",
+      "Late"
+    ],
+    "correct_index": 1,
+    "explanation": "Rapid means fast."
+  },
+  {
+    "id": 19,
+    "question": "Choose the antonym of \"Permanent\".",
+    "choices": [
+      "Lasting",
+      "Stable",
+      "Temporary",
+      "Fixed"
+    ],
+    "correct_index": 2,
+    "explanation": "Temporary is opposite of permanent."
+  },
+  {
+    "id": 20,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Environment",
+      "Enviroment",
+      "Envirenment",
+      "Enviornment"
+    ],
+    "correct_index": 0,
+    "explanation": "Environment is correctly spelled."
+  },
+  {
+    "id": 21,
+    "question": "Fill in the blank: Neither Ram nor his friends _____ present.",
+    "choices": [
+      "was",
+      "were",
+      "is",
+      "be"
+    ],
+    "correct_index": 1,
+    "explanation": "Verb agrees with nearest subject."
+  },
+  {
+    "id": 22,
+    "question": "Choose the correct meaning of the idiom \"Once in a blue moon\".",
+    "choices": [
+      "Very often",
+      "Very rarely",
+      "Everyday",
+      "At night"
+    ],
+    "correct_index": 1,
+    "explanation": "It means rarely."
+  },
+  {
+    "id": 23,
+    "question": "Choose the one word substitution for \"A place where books are kept\".",
+    "choices": [
+      "Museum",
+      "Library",
+      "Laboratory",
+      "Aquarium"
+    ],
+    "correct_index": 1,
+    "explanation": "Books are kept in a library."
+  },
+  {
+    "id": 24,
+    "question": "Choose the synonym of \"Honest\".",
+    "choices": [
+      "Truthful",
+      "Dishonest",
+      "Clever",
+      "Lazy"
+    ],
+    "correct_index": 0,
+    "explanation": "Honest means truthful."
+  },
+  {
+    "id": 25,
+    "question": "Choose the antonym of \"Accept\".",
+    "choices": [
+      "Admit",
+      "Approve",
+      "Reject",
+      "Agree"
+    ],
+    "correct_index": 2,
+    "explanation": "Reject is opposite of accept."
+  },
+  {
+    "id": 26,
+    "question": "Fill in the blank: The train _____ before we reached the station.",
+    "choices": [
+      "leave",
+      "leaves",
+      "had left",
+      "leaving"
+    ],
+    "correct_index": 2,
+    "explanation": "Past perfect tense is used."
+  },
+  {
+    "id": 27,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Separate",
+      "Seperate",
+      "Separete",
+      "Seprate"
+    ],
+    "correct_index": 0,
+    "explanation": "Separate is correctly spelled."
+  },
+  {
+    "id": 28,
+    "question": "Choose the synonym of \"Beautiful\".",
+    "choices": [
+      "Ugly",
+      "Pretty",
+      "Dirty",
+      "Weak"
+    ],
+    "correct_index": 1,
+    "explanation": "Pretty means beautiful."
+  },
+  {
+    "id": 29,
+    "question": "Choose the antonym of \"Generous\".",
+    "choices": [
+      "Kind",
+      "Helpful",
+      "Selfish",
+      "Honest"
+    ],
+    "correct_index": 2,
+    "explanation": "Selfish is opposite of generous."
+  },
+  {
+    "id": 30,
+    "question": "Choose the correct passive voice.",
+    "choices": [
+      "A song was sung by her.",
+      "A song sung by her.",
+      "A song is sing by her.",
+      "A song has sang by her."
+    ],
+    "correct_index": 0,
+    "explanation": "Correct passive form is used."
+  },
+  {
+    "id": 31,
+    "question": "Fill in the blank: I prefer tea _____ coffee.",
+    "choices": [
+      "than",
+      "over",
+      "to",
+      "from"
+    ],
+    "correct_index": 2,
+    "explanation": "Prefer is followed by to."
+  },
+  {
+    "id": 32,
+    "question": "Choose the idiom meaning of \"Break the ice\".",
+    "choices": [
+      "Start a conversation",
+      "Break something",
+      "Feel cold",
+      "End friendship"
+    ],
+    "correct_index": 0,
+    "explanation": "It means to begin interaction."
+  },
+  {
+    "id": 33,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Embarrassment",
+      "Embarassment",
+      "Embarresment",
+      "Embarresment"
+    ],
+    "correct_index": 0,
+    "explanation": "Embarrassment is correct spelling."
+  },
+  {
+    "id": 34,
+    "question": "Choose the synonym of \"Dangerous\".",
+    "choices": [
+      "Safe",
+      "Risky",
+      "Calm",
+      "Peaceful"
+    ],
+    "correct_index": 1,
+    "explanation": "Dangerous means risky."
+  },
+  {
+    "id": 35,
+    "question": "Choose the antonym of \"Increase\".",
+    "choices": [
+      "Rise",
+      "Grow",
+      "Reduce",
+      "Expand"
+    ],
+    "correct_index": 2,
+    "explanation": "Reduce is opposite of increase."
+  },
+  {
+    "id": 36,
+    "question": "Fill in the blank: Each of the boys _____ given a prize.",
+    "choices": [
+      "were",
+      "have",
+      "was",
+      "are"
+    ],
+    "correct_index": 2,
+    "explanation": "Each takes singular verb."
+  },
+  {
+    "id": 37,
+    "question": "Choose the one word substitution for \"A person who loves mankind\".",
+    "choices": [
+      "Miser",
+      "Philanthropist",
+      "Criminal",
+      "Optimist"
+    ],
+    "correct_index": 1,
+    "explanation": "Philanthropist means lover of humanity."
+  },
+  {
+    "id": 38,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Committee",
+      "Commitee",
+      "Committe",
+      "Comitty"
+    ],
+    "correct_index": 0,
+    "explanation": "Committee is correct spelling."
+  },
+  {
+    "id": 39,
+    "question": "Choose the synonym of \"Famous\".",
+    "choices": [
+      "Unknown",
+      "Popular",
+      "Weak",
+      "Angry"
+    ],
+    "correct_index": 1,
+    "explanation": "Famous means popular."
+  },
+  {
+    "id": 40,
+    "question": "Choose the antonym of \"Arrival\".",
+    "choices": [
+      "Entrance",
+      "Departure",
+      "Coming",
+      "Reaching"
+    ],
+    "correct_index": 1,
+    "explanation": "Departure is opposite of arrival."
+  },
+  {
+    "id": 41,
+    "question": "Fill in the blank: Hardly had he reached the station _____ the train left.",
+    "choices": [
+      "then",
+      "than",
+      "when",
+      "while"
+    ],
+    "correct_index": 2,
+    "explanation": "Hardly is followed by when."
+  },
+  {
+    "id": 42,
+    "question": "Choose the idiom meaning of \"A blessing in disguise\".",
+    "choices": [
+      "Hidden trouble",
+      "Hidden benefit",
+      "Open advantage",
+      "Big loss"
+    ],
+    "correct_index": 1,
+    "explanation": "It means something good appearing bad initially."
+  },
+  {
+    "id": 43,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Maintenance",
+      "Maintainance",
+      "Maintenence",
+      "Maintnance"
+    ],
+    "correct_index": 0,
+    "explanation": "Maintenance is correct spelling."
+  },
+  {
+    "id": 44,
+    "question": "Choose the synonym of \"Calm\".",
+    "choices": [
+      "Quiet",
+      "Angry",
+      "Loud",
+      "Rough"
+    ],
+    "correct_index": 0,
+    "explanation": "Calm means quiet."
+  },
+  {
+    "id": 45,
+    "question": "Choose the antonym of \"Maximum\".",
+    "choices": [
+      "Highest",
+      "Greatest",
+      "Minimum",
+      "Large"
+    ],
+    "correct_index": 2,
+    "explanation": "Minimum is opposite of maximum."
+  },
+  {
+    "id": 46,
+    "question": "Fill in the blank: The teacher asked the students _____ quietly.",
+    "choices": [
+      "sit",
+      "sat",
+      "to sit",
+      "sitting"
+    ],
+    "correct_index": 2,
+    "explanation": "Ask is followed by infinitive."
+  },
+  {
+    "id": 47,
+    "question": "Choose the one word substitution for \"A speech delivered without preparation\".",
+    "choices": [
+      "Debate",
+      "Lecture",
+      "Extempore",
+      "Seminar"
+    ],
+    "correct_index": 2,
+    "explanation": "Extempore means without preparation."
+  },
+  {
+    "id": 48,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Occasion",
+      "Ocassion",
+      "Occassion",
+      "Ocasion"
+    ],
+    "correct_index": 0,
+    "explanation": "Occasion is correctly spelled."
+  },
+  {
+    "id": 49,
+    "question": "Choose the synonym of \"Humble\".",
+    "choices": [
+      "Proud",
+      "Modest",
+      "Angry",
+      "Clever"
+    ],
+    "correct_index": 1,
+    "explanation": "Humble means modest."
+  },
+  {
+    "id": 50,
+    "question": "Choose the antonym of \"Artificial\".",
+    "choices": [
+      "Fake",
+      "Natural",
+      "Unreal",
+      "False"
+    ],
+    "correct_index": 1,
+    "explanation": "Natural is opposite of artificial."
+  },
+  {
+    "id": 51,
+    "question": "Fill in the blank: He is good _____ mathematics.",
+    "choices": [
+      "at",
+      "in",
+      "on",
+      "for"
+    ],
+    "correct_index": 0,
+    "explanation": "Good at is correct usage."
+  },
+  {
+    "id": 52,
+    "question": "Choose the idiom meaning of \"Burn the midnight oil\".",
+    "choices": [
+      "Waste electricity",
+      "Work late at night",
+      "Start a fire",
+      "Sleep late"
+    ],
+    "correct_index": 1,
+    "explanation": "It means study or work late."
+  },
+  {
+    "id": 53,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Discipline",
+      "Disipline",
+      "Disciplin",
+      "Discepline"
+    ],
+    "correct_index": 0,
+    "explanation": "Discipline is correctly spelled."
+  },
+  {
+    "id": 54,
+    "question": "Choose the synonym of \"Rich\".",
+    "choices": [
+      "Wealthy",
+      "Poor",
+      "Weak",
+      "Thin"
+    ],
+    "correct_index": 0,
+    "explanation": "Rich means wealthy."
+  },
+  {
+    "id": 55,
+    "question": "Choose the antonym of \"Optimistic\".",
+    "choices": [
+      "Hopeful",
+      "Cheerful",
+      "Pessimistic",
+      "Joyful"
+    ],
+    "correct_index": 2,
+    "explanation": "Pessimistic is opposite of optimistic."
+  },
+  {
+    "id": 56,
+    "question": "Fill in the blank: If I _____ rich, I would help the poor.",
+    "choices": [
+      "am",
+      "was",
+      "were",
+      "be"
+    ],
+    "correct_index": 2,
+    "explanation": "Were is used in conditional sentences."
+  },
+  {
+    "id": 57,
+    "question": "Choose the one word substitution for \"A person who knows many languages\".",
+    "choices": [
+      "Linguist",
+      "Scientist",
+      "Artist",
+      "Novelist"
+    ],
+    "correct_index": 0,
+    "explanation": "Linguist knows many languages."
+  },
+  {
+    "id": 58,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Recommend",
+      "Recomend",
+      "Reccommend",
+      "Recomand"
+    ],
+    "correct_index": 0,
+    "explanation": "Recommend is correct spelling."
+  },
+  {
+    "id": 59,
+    "question": "Choose the synonym of \"Quick\".",
+    "choices": [
+      "Rapid",
+      "Slow",
+      "Weak",
+      "Calm"
+    ],
+    "correct_index": 0,
+    "explanation": "Quick means rapid."
+  },
+  {
+    "id": 60,
+    "question": "Choose the antonym of \"Polite\".",
+    "choices": [
+      "Gentle",
+      "Respectful",
+      "Rude",
+      "Kind"
+    ],
+    "correct_index": 2,
+    "explanation": "Rude is opposite of polite."
+  },
+  {
+    "id": 61,
+    "question": "Fill in the blank: She has not finished her work _____.",
+    "choices": [
+      "already",
+      "yet",
+      "still",
+      "since"
+    ],
+    "correct_index": 1,
+    "explanation": "Yet is used in negative sentences."
+  },
+  {
+    "id": 62,
+    "question": "Choose the idiom meaning of \"Spill the beans\".",
+    "choices": [
+      "Cook food",
+      "Reveal a secret",
+      "Waste money",
+      "Become angry"
+    ],
+    "correct_index": 1,
+    "explanation": "It means disclose a secret."
+  },
+  {
+    "id": 63,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Existence",
+      "Existance",
+      "Exsistence",
+      "Existance"
+    ],
+    "correct_index": 0,
+    "explanation": "Existence is correctly spelled."
+  },
+  {
+    "id": 64,
+    "question": "Choose the synonym of \"Tiny\".",
+    "choices": [
+      "Huge",
+      "Small",
+      "Tall",
+      "Broad"
+    ],
+    "correct_index": 1,
+    "explanation": "Tiny means small."
+  },
+  {
+    "id": 65,
+    "question": "Choose the antonym of \"Sharp\".",
+    "choices": [
+      "Clever",
+      "Intelligent",
+      "Blunt",
+      "Active"
+    ],
+    "correct_index": 2,
+    "explanation": "Blunt is opposite of sharp."
+  },
+  {
+    "id": 66,
+    "question": "Fill in the blank: By next year, she _____ her degree.",
+    "choices": [
+      "completes",
+      "completed",
+      "will complete",
+      "will have completed"
+    ],
+    "correct_index": 3,
+    "explanation": "Future perfect tense is used."
+  },
+  {
+    "id": 67,
+    "question": "Choose the one word substitution for \"One who looks on the bright side of things\".",
+    "choices": [
+      "Pessimist",
+      "Optimist",
+      "Introvert",
+      "Genius"
+    ],
+    "correct_index": 1,
+    "explanation": "Optimist expects positive outcomes."
+  },
+  {
+    "id": 68,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Government",
+      "Goverment",
+      "Govenment",
+      "Government"
+    ],
+    "correct_index": 0,
+    "explanation": "Government is correct spelling."
+  },
+  {
+    "id": 69,
+    "question": "Choose the synonym of \"Strong\".",
+    "choices": [
+      "Powerful",
+      "Weak",
+      "Fragile",
+      "Soft"
+    ],
+    "correct_index": 0,
+    "explanation": "Strong means powerful."
+  },
+  {
+    "id": 70,
+    "question": "Choose the antonym of \"Permanent\".",
+    "choices": [
+      "Endless",
+      "Eternal",
+      "Temporary",
+      "Lasting"
+    ],
+    "correct_index": 2,
+    "explanation": "Temporary is opposite of permanent."
+  },
+  {
+    "id": 71,
+    "question": "Fill in the blank: No sooner did the bell ring _____ the students rushed out.",
+    "choices": [
+      "when",
+      "than",
+      "then",
+      "while"
+    ],
+    "correct_index": 1,
+    "explanation": "No sooner is followed by than."
+  },
+  {
+    "id": 72,
+    "question": "Choose the idiom meaning of \"Piece of cake\".",
+    "choices": [
+      "Very difficult",
+      "Very easy",
+      "Very costly",
+      "Very tasty"
+    ],
+    "correct_index": 1,
+    "explanation": "It means very easy."
+  },
+  {
+    "id": 73,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Knowledge",
+      "Knowlege",
+      "Knowladge",
+      "Knowlidge"
+    ],
+    "correct_index": 0,
+    "explanation": "Knowledge is correctly spelled."
+  },
+  {
+    "id": 74,
+    "question": "Choose the synonym of \"Silent\".",
+    "choices": [
+      "Noisy",
+      "Quiet",
+      "Angry",
+      "Loud"
+    ],
+    "correct_index": 1,
+    "explanation": "Silent means quiet."
+  },
+  {
+    "id": 75,
+    "question": "Choose the antonym of \"Ancient\".",
+    "choices": [
+      "Old",
+      "Historic",
+      "Modern",
+      "Antique"
+    ],
+    "correct_index": 2,
+    "explanation": "Modern is opposite of ancient."
+  },
+  {
+    "id": 76,
+    "question": "Fill in the blank: The news _____ shocking.",
+    "choices": [
+      "are",
+      "were",
+      "is",
+      "have"
+    ],
+    "correct_index": 2,
+    "explanation": "News is singular."
+  },
+  {
+    "id": 77,
+    "question": "Choose the one word substitution for \"A government by the people\".",
+    "choices": [
+      "Monarchy",
+      "Democracy",
+      "Dictatorship",
+      "Autocracy"
+    ],
+    "correct_index": 1,
+    "explanation": "Democracy means government by people."
+  },
+  {
+    "id": 78,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Mischievous",
+      "Mischievious",
+      "Mischivous",
+      "Mischivious"
+    ],
+    "correct_index": 0,
+    "explanation": "Mischievous is correct spelling."
+  },
+  {
+    "id": 79,
+    "question": "Choose the synonym of \"Wise\".",
+    "choices": [
+      "Foolish",
+      "Intelligent",
+      "Weak",
+      "Angry"
+    ],
+    "correct_index": 1,
+    "explanation": "Wise means intelligent."
+  },
+  {
+    "id": 80,
+    "question": "Choose the antonym of \"Victory\".",
+    "choices": [
+      "Triumph",
+      "Success",
+      "Failure",
+      "Achievement"
+    ],
+    "correct_index": 2,
+    "explanation": "Failure is opposite of victory."
+  },
+  {
+    "id": 81,
+    "question": "Fill in the blank: The children were playing _____ the garden.",
+    "choices": [
+      "in",
+      "on",
+      "at",
+      "over"
+    ],
+    "correct_index": 0,
+    "explanation": "In is used for enclosed area."
+  },
+  {
+    "id": 82,
+    "question": "Choose the idiom meaning of \"Under the weather\".",
+    "choices": [
+      "Feeling healthy",
+      "Feeling sick",
+      "Feeling excited",
+      "Feeling angry"
+    ],
+    "correct_index": 1,
+    "explanation": "It means unwell."
+  },
+  {
+    "id": 83,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Calendar",
+      "Calender",
+      "Callender",
+      "Calandar"
+    ],
+    "correct_index": 0,
+    "explanation": "Calendar is correct spelling."
+  },
+  {
+    "id": 84,
+    "question": "Choose the synonym of \"End\".",
+    "choices": [
+      "Finish",
+      "Begin",
+      "Start",
+      "Open"
+    ],
+    "correct_index": 0,
+    "explanation": "Finish means end."
+  },
+  {
+    "id": 85,
+    "question": "Choose the antonym of \"Happy\".",
+    "choices": [
+      "Joyful",
+      "Cheerful",
+      "Sad",
+      "Glad"
+    ],
+    "correct_index": 2,
+    "explanation": "Sad is opposite of happy."
+  },
+  {
+    "id": 86,
+    "question": "Fill in the blank: She insisted _____ paying the bill.",
+    "choices": [
+      "at",
+      "on",
+      "in",
+      "with"
+    ],
+    "correct_index": 1,
+    "explanation": "Insist is followed by on."
+  },
+  {
+    "id": 87,
+    "question": "Choose the one word substitution for \"A person who cannot hear\".",
+    "choices": [
+      "Blind",
+      "Dumb",
+      "Deaf",
+      "Lame"
+    ],
+    "correct_index": 2,
+    "explanation": "Deaf means unable to hear."
+  },
+  {
+    "id": 88,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Leisure",
+      "Lesiure",
+      "Liesure",
+      "Leasure"
+    ],
+    "correct_index": 0,
+    "explanation": "Leisure is correctly spelled."
+  },
+  {
+    "id": 89,
+    "question": "Choose the synonym of \"Begin\".",
+    "choices": [
+      "End",
+      "Start",
+      "Close",
+      "Finish"
+    ],
+    "correct_index": 1,
+    "explanation": "Begin means start."
+  },
+  {
+    "id": 90,
+    "question": "Choose the antonym of \"Include\".",
+    "choices": [
+      "Add",
+      "Contain",
+      "Exclude",
+      "Insert"
+    ],
+    "correct_index": 2,
+    "explanation": "Exclude is opposite of include."
+  },
+  {
+    "id": 91,
+    "question": "Fill in the blank: Unless you work hard, you _____ fail.",
+    "choices": [
+      "would",
+      "should",
+      "will",
+      "can"
+    ],
+    "correct_index": 2,
+    "explanation": "First conditional sentence is used."
+  },
+  {
+    "id": 92,
+    "question": "Choose the idiom meaning of \"Make both ends meet\".",
+    "choices": [
+      "Spend a lot",
+      "Earn enough to live",
+      "Become rich",
+      "Save money"
+    ],
+    "correct_index": 1,
+    "explanation": "It means manage expenses with income."
+  },
+  {
+    "id": 93,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Rhythm",
+      "Rythm",
+      "Rhythym",
+      "Rithm"
+    ],
+    "correct_index": 0,
+    "explanation": "Rhythm is correct spelling."
+  },
+  {
+    "id": 94,
+    "question": "Choose the synonym of \"Fear\".",
+    "choices": [
+      "Courage",
+      "Terror",
+      "Peace",
+      "Happiness"
+    ],
+    "correct_index": 1,
+    "explanation": "Terror means fear."
+  },
+  {
+    "id": 95,
+    "question": "Choose the antonym of \"Loose\".",
+    "choices": [
+      "Free",
+      "Tight",
+      "Open",
+      "Weak"
+    ],
+    "correct_index": 1,
+    "explanation": "Tight is opposite of loose."
+  },
+  {
+    "id": 96,
+    "question": "Fill in the blank: He succeeded _____ solving the problem.",
+    "choices": [
+      "on",
+      "at",
+      "in",
+      "for"
+    ],
+    "correct_index": 2,
+    "explanation": "Succeed is followed by in."
+  },
+  {
+    "id": 97,
+    "question": "Choose the one word substitution for \"A person who studies stars and planets\".",
+    "choices": [
+      "Astronomer",
+      "Astrologer",
+      "Scientist",
+      "Geologist"
+    ],
+    "correct_index": 0,
+    "explanation": "Astronomer studies celestial bodies."
+  },
+  {
+    "id": 98,
+    "question": "Choose the correctly spelled word.",
+    "choices": [
+      "Questionnaire",
+      "Questionaire",
+      "Quesionnaire",
+      "Questionnare"
+    ],
+    "correct_index": 0,
+    "explanation": "Questionnaire is correct spelling."
+  },
+  {
+    "id": 99,
+    "question": "Choose the synonym of \"Help\".",
+    "choices": [
+      "Assist",
+      "Ignore",
+      "Refuse",
+      "Delay"
+    ],
+    "correct_index": 0,
+    "explanation": "Assist means help."
+  },
+  {
+    "id": 100,
+    "question": "Choose the antonym of \"Friend\".",
+    "choices": [
+      "Companion",
+      "Ally",
+      "Enemy",
+      "Supporter"
+    ],
+    "correct_index": 2,
+    "explanation": "Enemy is opposite of friend."
+  },
+  {
+    "id": 101,
+    "question": "Fill in the blank: He prevented me _____ entering the room.",
+    "choices": [
+      "from",
+      "to",
+      "at",
+      "with"
+    ],
+    "correct_index": 0,
+    "explanation": "Prevent is followed by from."
+  },
+  {
+    "id": 102,
+    "question": "Choose the idiom meaning of \"Call it a day\".",
+    "choices": [
+      "Start working",
+      "Stop working",
+      "Celebrate",
+      "Waste time"
+    ],
+    "correct_index": 1,
+    "explanation": "It means stop work for the day."
   }
 ]

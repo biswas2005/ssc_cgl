@@ -1,0 +1,626 @@
+[
+  {
+    "id": 1,
+    "question": "What is the full form of GDP?",
+    "choices": [
+      "Gross Domestic Product",
+      "Gross Development Product",
+      "General Domestic Product",
+      "Gross Distribution Product"
+    ],
+    "correct_index": 0,
+    "explanation": "GDP measures total value of goods and services produced."
+  },
+  {
+    "id": 2,
+    "question": "Which institution issues currency notes in India?",
+    "choices": [
+      "SBI",
+      "RBI",
+      "NABARD",
+      "SEBI"
+    ],
+    "correct_index": 1,
+    "explanation": "RBI is the central bank of India."
+  },
+  {
+    "id": 3,
+    "question": "What is the currency of Japan?",
+    "choices": [
+      "Dollar",
+      "Yuan",
+      "Yen",
+      "Won"
+    ],
+    "correct_index": 2,
+    "explanation": "Yen is the currency of Japan."
+  },
+  {
+    "id": 4,
+    "question": "Which tax is levied on income?",
+    "choices": [
+      "GST",
+      "Excise Duty",
+      "Income Tax",
+      "Customs Duty"
+    ],
+    "correct_index": 2,
+    "explanation": "Income tax is charged on earnings."
+  },
+  {
+    "id": 5,
+    "question": "What does inflation mean?",
+    "choices": [
+      "Fall in prices",
+      "Rise in prices",
+      "Stable prices",
+      "Increase in production"
+    ],
+    "correct_index": 1,
+    "explanation": "Inflation means general rise in prices."
+  },
+  {
+    "id": 6,
+    "question": "Which bank is known as the banker of banks?",
+    "choices": [
+      "SBI",
+      "RBI",
+      "PNB",
+      "NABARD"
+    ],
+    "correct_index": 1,
+    "explanation": "RBI regulates all banks."
+  },
+  {
+    "id": 7,
+    "question": "What is the main objective of a budget?",
+    "choices": [
+      "Increase population",
+      "Manage government income and expenditure",
+      "Increase imports",
+      "Reduce literacy"
+    ],
+    "correct_index": 1,
+    "explanation": "Budget manages public finances."
+  },
+  {
+    "id": 8,
+    "question": "What is the full form of GST?",
+    "choices": [
+      "Goods and Service Tax",
+      "General Sales Tax",
+      "Government Service Tax",
+      "Goods Supply Tax"
+    ],
+    "correct_index": 0,
+    "explanation": "GST is an indirect tax on goods and services."
+  },
+  {
+    "id": 9,
+    "question": "Which sector is related to agriculture?",
+    "choices": [
+      "Primary sector",
+      "Secondary sector",
+      "Tertiary sector",
+      "Service sector"
+    ],
+    "correct_index": 0,
+    "explanation": "Agriculture belongs to primary sector."
+  },
+  {
+    "id": 10,
+    "question": "What is the term for continuous rise in prices?",
+    "choices": [
+      "Deflation",
+      "Inflation",
+      "Depression",
+      "Recession"
+    ],
+    "correct_index": 1,
+    "explanation": "Inflation means rising prices."
+  },
+  {
+    "id": 11,
+    "question": "Which organization regulates stock market in India?",
+    "choices": [
+      "RBI",
+      "NABARD",
+      "SEBI",
+      "LIC"
+    ],
+    "correct_index": 2,
+    "explanation": "SEBI regulates securities market."
+  },
+  {
+    "id": 12,
+    "question": "What is demand?",
+    "choices": [
+      "Ability to produce goods",
+      "Desire backed by purchasing power",
+      "Government expenditure",
+      "Increase in prices"
+    ],
+    "correct_index": 1,
+    "explanation": "Demand requires willingness and ability to buy."
+  },
+  {
+    "id": 13,
+    "question": "Which tax is imposed on imported goods?",
+    "choices": [
+      "GST",
+      "Income Tax",
+      "Customs Duty",
+      "Excise Duty"
+    ],
+    "correct_index": 2,
+    "explanation": "Customs duty is levied on imports."
+  },
+  {
+    "id": 14,
+    "question": "What is the opposite of inflation?",
+    "choices": [
+      "Deflation",
+      "Stagflation",
+      "Recession",
+      "Expansion"
+    ],
+    "correct_index": 0,
+    "explanation": "Deflation means fall in prices."
+  },
+  {
+    "id": 15,
+    "question": "Which is the apex bank of India?",
+    "choices": [
+      "SBI",
+      "RBI",
+      "ICICI",
+      "NABARD"
+    ],
+    "correct_index": 1,
+    "explanation": "RBI is the apex monetary authority."
+  },
+  {
+    "id": 16,
+    "question": "What does per capita income mean?",
+    "choices": [
+      "National income of government",
+      "Income per person",
+      "Export income",
+      "Industrial income"
+    ],
+    "correct_index": 1,
+    "explanation": "Per capita income is average income per individual."
+  },
+  {
+    "id": 17,
+    "question": "Which Five Year Plan focused on agriculture first?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan"
+    ],
+    "correct_index": 0,
+    "explanation": "First plan emphasized agriculture."
+  },
+  {
+    "id": 18,
+    "question": "What is a direct tax?",
+    "choices": [
+      "Tax on goods",
+      "Tax paid directly to government",
+      "Tax on imports",
+      "Tax on exports"
+    ],
+    "correct_index": 1,
+    "explanation": "Direct tax is paid directly by taxpayer."
+  },
+  {
+    "id": 19,
+    "question": "Which organization publishes monetary policy in India?",
+    "choices": [
+      "SEBI",
+      "RBI",
+      "Finance Ministry",
+      "SBI"
+    ],
+    "correct_index": 1,
+    "explanation": "RBI controls monetary policy."
+  },
+  {
+    "id": 20,
+    "question": "What is the meaning of fiscal deficit?",
+    "choices": [
+      "Excess exports over imports",
+      "Excess expenditure over revenue",
+      "Increase in taxes",
+      "Decrease in imports"
+    ],
+    "correct_index": 1,
+    "explanation": "Fiscal deficit occurs when spending exceeds income."
+  },
+  {
+    "id": 21,
+    "question": "What is the full form of SEBI?",
+    "choices": [
+      "Securities and Exchange Board of India",
+      "Stock Exchange Bank of India",
+      "Security Exchange Bank Institution",
+      "State Economic Board of India"
+    ],
+    "correct_index": 0,
+    "explanation": "SEBI regulates capital market."
+  },
+  {
+    "id": 22,
+    "question": "Which sector converts raw materials into finished goods?",
+    "choices": [
+      "Primary sector",
+      "Secondary sector",
+      "Tertiary sector",
+      "Service sector"
+    ],
+    "correct_index": 1,
+    "explanation": "Manufacturing belongs to secondary sector."
+  },
+  {
+    "id": 23,
+    "question": "What is meant by deficit budget?",
+    "choices": [
+      "Revenue greater than expenditure",
+      "Expenditure greater than revenue",
+      "Equal revenue and expenditure",
+      "Increase in exports"
+    ],
+    "correct_index": 1,
+    "explanation": "Deficit budget occurs when expenses exceed income."
+  },
+  {
+    "id": 24,
+    "question": "Which is the largest source of tax revenue for government?",
+    "choices": [
+      "Customs duty",
+      "Income tax",
+      "GST",
+      "Property tax"
+    ],
+    "correct_index": 2,
+    "explanation": "GST contributes major tax revenue."
+  },
+  {
+    "id": 25,
+    "question": "What is unemployment?",
+    "choices": [
+      "Increase in income",
+      "Lack of job opportunities",
+      "Increase in production",
+      "Rise in exports"
+    ],
+    "correct_index": 1,
+    "explanation": "Unemployment means people willing to work have no jobs."
+  },
+  {
+    "id": 26,
+    "question": "What is the currency of the United Kingdom?",
+    "choices": [
+      "Dollar",
+      "Pound Sterling",
+      "Euro",
+      "Yen"
+    ],
+    "correct_index": 1,
+    "explanation": "Pound Sterling is UK currency."
+  },
+  {
+    "id": 27,
+    "question": "Which bank provides agricultural credit in India?",
+    "choices": [
+      "RBI",
+      "NABARD",
+      "SBI",
+      "LIC"
+    ],
+    "correct_index": 1,
+    "explanation": "NABARD supports agriculture and rural development."
+  },
+  {
+    "id": 28,
+    "question": "What is national income?",
+    "choices": [
+      "Income of industries only",
+      "Total income earned in a country",
+      "Government salary",
+      "Export earnings only"
+    ],
+    "correct_index": 1,
+    "explanation": "National income includes total earnings."
+  },
+  {
+    "id": 29,
+    "question": "What is the full form of IMF?",
+    "choices": [
+      "International Monetary Fund",
+      "Indian Monetary Forum",
+      "International Market Fund",
+      "Indian Market Federation"
+    ],
+    "correct_index": 0,
+    "explanation": "IMF promotes international monetary cooperation."
+  },
+  {
+    "id": 30,
+    "question": "What is the basic function of money?",
+    "choices": [
+      "Increase population",
+      "Medium of exchange",
+      "Reduce production",
+      "Increase imports"
+    ],
+    "correct_index": 1,
+    "explanation": "Money facilitates exchange of goods and services."
+  },
+  {
+    "id": 31,
+    "question": "Which tax replaced many indirect taxes in India?",
+    "choices": [
+      "Income Tax",
+      "GST",
+      "Wealth Tax",
+      "Service Tax"
+    ],
+    "correct_index": 1,
+    "explanation": "GST unified indirect taxes."
+  },
+  {
+    "id": 32,
+    "question": "What is poverty line?",
+    "choices": [
+      "Minimum level of income for basic needs",
+      "Maximum income limit",
+      "Export limit",
+      "Industrial growth rate"
+    ],
+    "correct_index": 0,
+    "explanation": "Poverty line measures minimum living standard."
+  },
+  {
+    "id": 33,
+    "question": "Which organization provides long term industrial finance?",
+    "choices": [
+      "RBI",
+      "NABARD",
+      "IFCI",
+      "LIC"
+    ],
+    "correct_index": 2,
+    "explanation": "IFCI finances industries."
+  },
+  {
+    "id": 34,
+    "question": "What is banking?",
+    "choices": [
+      "Agricultural activity",
+      "Accepting deposits and giving loans",
+      "Government taxation",
+      "Stock market trading"
+    ],
+    "correct_index": 1,
+    "explanation": "Banks accept deposits and provide credit."
+  },
+  {
+    "id": 35,
+    "question": "Which economic activity belongs to tertiary sector?",
+    "choices": [
+      "Farming",
+      "Mining",
+      "Banking",
+      "Manufacturing"
+    ],
+    "correct_index": 2,
+    "explanation": "Banking is a service activity."
+  },
+  {
+    "id": 36,
+    "question": "What does repo rate mean?",
+    "choices": [
+      "Tax on exports",
+      "Rate at which RBI lends to banks",
+      "Interest on savings",
+      "Exchange rate"
+    ],
+    "correct_index": 1,
+    "explanation": "Repo rate is lending rate of RBI."
+  },
+  {
+    "id": 37,
+    "question": "Which organization estimates national income in India?",
+    "choices": [
+      "RBI",
+      "NSO",
+      "SEBI",
+      "SBI"
+    ],
+    "correct_index": 1,
+    "explanation": "National Statistical Office estimates national income."
+  },
+  {
+    "id": 38,
+    "question": "What is the full form of WTO?",
+    "choices": [
+      "World Trade Organization",
+      "World Tax Organization",
+      "World Transport Office",
+      "World Tariff Organization"
+    ],
+    "correct_index": 0,
+    "explanation": "WTO regulates international trade."
+  },
+  {
+    "id": 39,
+    "question": "What is black money?",
+    "choices": [
+      "Money printed in black color",
+      "Income not reported for tax",
+      "Foreign currency",
+      "Government income"
+    ],
+    "correct_index": 1,
+    "explanation": "Black money is unaccounted income."
+  },
+  {
+    "id": 40,
+    "question": "What is the meaning of disinvestment?",
+    "choices": [
+      "Buying shares",
+      "Selling government shares in public sector units",
+      "Increasing taxes",
+      "Increasing imports"
+    ],
+    "correct_index": 1,
+    "explanation": "Government reduces ownership through disinvestment."
+  },
+  {
+    "id": 41,
+    "question": "Which sector provides maximum employment in India?",
+    "choices": [
+      "Primary sector",
+      "Secondary sector",
+      "Tertiary sector",
+      "IT sector"
+    ],
+    "correct_index": 0,
+    "explanation": "Agriculture employs maximum people."
+  },
+  {
+    "id": 42,
+    "question": "What is balance of trade?",
+    "choices": [
+      "Difference between exports and imports",
+      "Difference between tax and revenue",
+      "Difference between demand and supply",
+      "Difference between savings and investment"
+    ],
+    "correct_index": 0,
+    "explanation": "Balance of trade compares exports and imports."
+  },
+  {
+    "id": 43,
+    "question": "What is a monopoly?",
+    "choices": [
+      "Single seller in market",
+      "Many buyers",
+      "Government company",
+      "International trade"
+    ],
+    "correct_index": 0,
+    "explanation": "Monopoly means one seller controls market."
+  },
+  {
+    "id": 44,
+    "question": "Which institution is called World Bank?",
+    "choices": [
+      "IBRD",
+      "IMF",
+      "WTO",
+      "ADB"
+    ],
+    "correct_index": 0,
+    "explanation": "IBRD is commonly called World Bank."
+  },
+  {
+    "id": 45,
+    "question": "What is subsidy?",
+    "choices": [
+      "Tax imposed by government",
+      "Financial assistance by government",
+      "Increase in prices",
+      "Export duty"
+    ],
+    "correct_index": 1,
+    "explanation": "Subsidy reduces cost burden."
+  },
+  {
+    "id": 46,
+    "question": "Which type of unemployment is common in agriculture?",
+    "choices": [
+      "Structural unemployment",
+      "Seasonal unemployment",
+      "Frictional unemployment",
+      "Technical unemployment"
+    ],
+    "correct_index": 1,
+    "explanation": "Agricultural work depends on seasons."
+  },
+  {
+    "id": 47,
+    "question": "What is the full form of FDI?",
+    "choices": [
+      "Foreign Direct Investment",
+      "Federal Development Investment",
+      "Foreign Development Income",
+      "Financial Direct Investment"
+    ],
+    "correct_index": 0,
+    "explanation": "FDI means investment from foreign entities."
+  },
+  {
+    "id": 48,
+    "question": "What is the main objective of RBI?",
+    "choices": [
+      "Conduct elections",
+      "Control monetary system",
+      "Collect income tax",
+      "Produce goods"
+    ],
+    "correct_index": 1,
+    "explanation": "RBI manages money supply and banking."
+  },
+  {
+    "id": 49,
+    "question": "What is devaluation of currency?",
+    "choices": [
+      "Increase in currency value",
+      "Reduction in currency value",
+      "Printing new currency",
+      "Banning old currency"
+    ],
+    "correct_index": 1,
+    "explanation": "Devaluation lowers exchange value."
+  },
+  {
+    "id": 50,
+    "question": "Which tax is collected by state governments?",
+    "choices": [
+      "Corporation tax",
+      "Customs duty",
+      "State GST",
+      "Income tax"
+    ],
+    "correct_index": 2,
+    "explanation": "SGST is collected by states."
+  },
+  {
+    "id": 51,
+    "question": "What is mixed economy?",
+    "choices": [
+      "Economy with only private sector",
+      "Economy with only public sector",
+      "Economy with both public and private sectors",
+      "Agricultural economy"
+    ],
+    "correct_index": 2,
+    "explanation": "India follows mixed economy."
+  },
+  {
+    "id": 52,
+    "question": "Which plan introduced Green Revolution in India?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan"
+    ],
+    "correct_index": 2,
+    "explanation": "Green Revolution began during Third Plan."
+  }
+]

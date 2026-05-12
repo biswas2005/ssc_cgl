@@ -1,0 +1,638 @@
+[
+  {
+    "id": 1,
+    "question": "What is the national animal of India?",
+    "choices": [
+      "Lion",
+      "Elephant",
+      "Tiger",
+      "Leopard"
+    ],
+    "correct_index": 2,
+    "explanation": "Tiger is the national animal of India."
+  },
+  {
+    "id": 2,
+    "question": "Who wrote the national anthem of India?",
+    "choices": [
+      "Bankim Chandra Chattopadhyay",
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 1,
+    "explanation": "Rabindranath Tagore wrote Jana Gana Mana."
+  },
+  {
+    "id": 3,
+    "question": "Which is the national flower of India?",
+    "choices": [
+      "Rose",
+      "Sunflower",
+      "Lotus",
+      "Lily"
+    ],
+    "correct_index": 2,
+    "explanation": "Lotus is the national flower."
+  },
+  {
+    "id": 4,
+    "question": "What is the capital of India?",
+    "choices": [
+      "Mumbai",
+      "Kolkata",
+      "Chennai",
+      "New Delhi"
+    ],
+    "correct_index": 3,
+    "explanation": "New Delhi is the capital city."
+  },
+  {
+    "id": 5,
+    "question": "Who invented the telephone?",
+    "choices": [
+      "Thomas Edison",
+      "Graham Bell",
+      "Newton",
+      "Einstein"
+    ],
+    "correct_index": 1,
+    "explanation": "Alexander Graham Bell invented telephone."
+  },
+  {
+    "id": 6,
+    "question": "Which is the largest planet in the solar system?",
+    "choices": [
+      "Earth",
+      "Saturn",
+      "Jupiter",
+      "Mars"
+    ],
+    "correct_index": 2,
+    "explanation": "Jupiter is the largest planet."
+  },
+  {
+    "id": 7,
+    "question": "Which is the national bird of India?",
+    "choices": [
+      "Sparrow",
+      "Peacock",
+      "Crow",
+      "Parrot"
+    ],
+    "correct_index": 1,
+    "explanation": "Peacock is the national bird."
+  },
+  {
+    "id": 8,
+    "question": "Who is known as the Missile Man of India?",
+    "choices": [
+      "Vikram Sarabhai",
+      "Homi Bhabha",
+      "A P J Abdul Kalam",
+      "C V Raman"
+    ],
+    "correct_index": 2,
+    "explanation": "Abdul Kalam contributed to missile development."
+  },
+  {
+    "id": 9,
+    "question": "Which river is considered the holiest river in India?",
+    "choices": [
+      "Yamuna",
+      "Godavari",
+      "Ganga",
+      "Krishna"
+    ],
+    "correct_index": 2,
+    "explanation": "Ganga is considered sacred."
+  },
+  {
+    "id": 10,
+    "question": "Which country gifted the Statue of Liberty to USA?",
+    "choices": [
+      "Germany",
+      "France",
+      "Italy",
+      "Canada"
+    ],
+    "correct_index": 1,
+    "explanation": "France gifted the statue."
+  },
+  {
+    "id": 11,
+    "question": "Who discovered penicillin?",
+    "choices": [
+      "Newton",
+      "Fleming",
+      "Darwin",
+      "Pasteur"
+    ],
+    "correct_index": 1,
+    "explanation": "Alexander Fleming discovered penicillin."
+  },
+  {
+    "id": 12,
+    "question": "Which is the smallest state in India by area?",
+    "choices": [
+      "Goa",
+      "Sikkim",
+      "Tripura",
+      "Nagaland"
+    ],
+    "correct_index": 0,
+    "explanation": "Goa is the smallest state by area."
+  },
+  {
+    "id": 13,
+    "question": "Who was the first Prime Minister of India?",
+    "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Rajendra Prasad"
+    ],
+    "correct_index": 1,
+    "explanation": "Nehru became first Prime Minister."
+  },
+  {
+    "id": 14,
+    "question": "Which gas is used for respiration?",
+    "choices": [
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen",
+      "Nitrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Humans breathe oxygen."
+  },
+  {
+    "id": 15,
+    "question": "Which is the national tree of India?",
+    "choices": [
+      "Mango",
+      "Neem",
+      "Banyan",
+      "Coconut"
+    ],
+    "correct_index": 2,
+    "explanation": "Banyan is the national tree."
+  },
+  {
+    "id": 16,
+    "question": "Who gave the theory of evolution?",
+    "choices": [
+      "Darwin",
+      "Galileo",
+      "Einstein",
+      "Newton"
+    ],
+    "correct_index": 0,
+    "explanation": "Charles Darwin proposed evolution theory."
+  },
+  {
+    "id": 17,
+    "question": "Which is the longest river in India?",
+    "choices": [
+      "Yamuna",
+      "Brahmaputra",
+      "Godavari",
+      "Ganga"
+    ],
+    "correct_index": 3,
+    "explanation": "Ganga is the longest river in India."
+  },
+  {
+    "id": 18,
+    "question": "Which Indian city is known as Pink City?",
+    "choices": [
+      "Udaipur",
+      "Jaipur",
+      "Jodhpur",
+      "Bikaner"
+    ],
+    "correct_index": 1,
+    "explanation": "Jaipur is called Pink City."
+  },
+  {
+    "id": 19,
+    "question": "What is the currency of India?",
+    "choices": [
+      "Dollar",
+      "Rupee",
+      "Yen",
+      "Pound"
+    ],
+    "correct_index": 1,
+    "explanation": "Indian currency is Rupee."
+  },
+  {
+    "id": 20,
+    "question": "Which is the highest civilian award in India?",
+    "choices": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Bharat Ratna",
+      "Param Vir Chakra"
+    ],
+    "correct_index": 2,
+    "explanation": "Bharat Ratna is highest civilian award."
+  },
+  {
+    "id": 21,
+    "question": "Who was the first Indian woman in space?",
+    "choices": [
+      "Sunita Williams",
+      "Kalpana Chawla",
+      "Indira Gandhi",
+      "Kiran Bedi"
+    ],
+    "correct_index": 1,
+    "explanation": "Kalpana Chawla went to space first."
+  },
+  {
+    "id": 22,
+    "question": "Which is the national sport of Bangladesh?",
+    "choices": [
+      "Cricket",
+      "Hockey",
+      "Kabaddi",
+      "Football"
+    ],
+    "correct_index": 2,
+    "explanation": "Kabaddi is Bangladesh's national sport."
+  },
+  {
+    "id": 23,
+    "question": "Which vitamin is obtained from sunlight?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 3,
+    "explanation": "Sunlight helps produce Vitamin D."
+  },
+  {
+    "id": 24,
+    "question": "Who painted the Mona Lisa?",
+    "choices": [
+      "Picasso",
+      "Leonardo da Vinci",
+      "Van Gogh",
+      "Michelangelo"
+    ],
+    "correct_index": 1,
+    "explanation": "Leonardo painted Mona Lisa."
+  },
+  {
+    "id": 25,
+    "question": "Which state is famous for backwaters in India?",
+    "choices": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Odisha"
+    ],
+    "correct_index": 1,
+    "explanation": "Kerala is known for backwaters."
+  },
+  {
+    "id": 26,
+    "question": "Who was the first woman Prime Minister of India?",
+    "choices": [
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Sonia Gandhi",
+      "Pratibha Patil"
+    ],
+    "correct_index": 1,
+    "explanation": "Indira Gandhi was first woman PM."
+  },
+  {
+    "id": 27,
+    "question": "Which instrument is used to measure earthquakes?",
+    "choices": [
+      "Thermometer",
+      "Barometer",
+      "Seismograph",
+      "Hygrometer"
+    ],
+    "correct_index": 2,
+    "explanation": "Seismograph records earthquakes."
+  },
+  {
+    "id": 28,
+    "question": "Which planet is known for its rings?",
+    "choices": [
+      "Mars",
+      "Venus",
+      "Saturn",
+      "Mercury"
+    ],
+    "correct_index": 2,
+    "explanation": "Saturn has prominent rings."
+  },
+  {
+    "id": 29,
+    "question": "What is the national aquatic animal of India?",
+    "choices": [
+      "Shark",
+      "Dolphin",
+      "Crocodile",
+      "Whale"
+    ],
+    "correct_index": 1,
+    "explanation": "Ganga Dolphin is national aquatic animal."
+  },
+  {
+    "id": 30,
+    "question": "Who discovered America?",
+    "choices": [
+      "Vasco da Gama",
+      "Columbus",
+      "Magellan",
+      "Cook"
+    ],
+    "correct_index": 1,
+    "explanation": "Columbus reached America in 1492."
+  },
+  {
+    "id": 31,
+    "question": "Which metal is used in making aircraft bodies?",
+    "choices": [
+      "Copper",
+      "Iron",
+      "Aluminium",
+      "Zinc"
+    ],
+    "correct_index": 2,
+    "explanation": "Aluminium is lightweight and strong."
+  },
+  {
+    "id": 32,
+    "question": "Which is the largest democracy in the world?",
+    "choices": [
+      "USA",
+      "India",
+      "Russia",
+      "Brazil"
+    ],
+    "correct_index": 1,
+    "explanation": "India is the largest democracy."
+  },
+  {
+    "id": 33,
+    "question": "Who composed Vande Mataram?",
+    "choices": [
+      "Tagore",
+      "Iqbal",
+      "Bankim Chandra Chattopadhyay",
+      "Premchand"
+    ],
+    "correct_index": 2,
+    "explanation": "Vande Mataram was composed by Bankim Chandra."
+  },
+  {
+    "id": 34,
+    "question": "Which is the fastest land animal?",
+    "choices": [
+      "Lion",
+      "Tiger",
+      "Horse",
+      "Cheetah"
+    ],
+    "correct_index": 3,
+    "explanation": "Cheetah runs fastest on land."
+  },
+  {
+    "id": 35,
+    "question": "Which Mughal emperor built Red Fort?",
+    "choices": [
+      "Akbar",
+      "Babur",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "correct_index": 2,
+    "explanation": "Shah Jahan built Red Fort."
+  },
+  {
+    "id": 36,
+    "question": "Which country is famous for pyramids?",
+    "choices": [
+      "Greece",
+      "Egypt",
+      "Italy",
+      "China"
+    ],
+    "correct_index": 1,
+    "explanation": "Egypt is known for pyramids."
+  },
+  {
+    "id": 37,
+    "question": "Who invented the light bulb?",
+    "choices": [
+      "Newton",
+      "Edison",
+      "Bell",
+      "Tesla"
+    ],
+    "correct_index": 1,
+    "explanation": "Thomas Edison improved light bulb."
+  },
+  {
+    "id": 38,
+    "question": "Which is the national fruit of India?",
+    "choices": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Orange"
+    ],
+    "correct_index": 1,
+    "explanation": "Mango is the national fruit."
+  },
+  {
+    "id": 39,
+    "question": "Which blood group is universal recipient?",
+    "choices": [
+      "O negative",
+      "A",
+      "AB positive",
+      "B positive"
+    ],
+    "correct_index": 2,
+    "explanation": "AB positive can receive all blood groups."
+  },
+  {
+    "id": 40,
+    "question": "Who was known as Netaji?",
+    "choices": [
+      "Gandhi",
+      "Patel",
+      "Subhas Chandra Bose",
+      "Nehru"
+    ],
+    "correct_index": 2,
+    "explanation": "Subhas Bose was called Netaji."
+  },
+  {
+    "id": 41,
+    "question": "Which continent is called Dark Continent?",
+    "choices": [
+      "Asia",
+      "Europe",
+      "Africa",
+      "Australia"
+    ],
+    "correct_index": 2,
+    "explanation": "Africa was called Dark Continent historically."
+  },
+  {
+    "id": 42,
+    "question": "Which Indian scientist won Nobel Prize for Physics in 1930?",
+    "choices": [
+      "Homi Bhabha",
+      "C V Raman",
+      "Vikram Sarabhai",
+      "Jagdish Bose"
+    ],
+    "correct_index": 1,
+    "explanation": "Raman won for Raman Effect."
+  },
+  {
+    "id": 43,
+    "question": "Which is the largest organ in the human body?",
+    "choices": [
+      "Liver",
+      "Brain",
+      "Skin",
+      "Heart"
+    ],
+    "correct_index": 2,
+    "explanation": "Skin is the largest organ."
+  },
+  {
+    "id": 44,
+    "question": "Which country is separated from India by Radcliffe Line?",
+    "choices": [
+      "China",
+      "Nepal",
+      "Pakistan",
+      "Bangladesh"
+    ],
+    "correct_index": 2,
+    "explanation": "Radcliffe Line divides India and Pakistan."
+  },
+  {
+    "id": 45,
+    "question": "Who was the first Indian to go into space?",
+    "choices": [
+      "Kalpana Chawla",
+      "Rakesh Sharma",
+      "Sunita Williams",
+      "Vikram Sarabhai"
+    ],
+    "correct_index": 1,
+    "explanation": "Rakesh Sharma went to space in 1984."
+  },
+  {
+    "id": 46,
+    "question": "Which festival is known as festival of lights?",
+    "choices": [
+      "Holi",
+      "Eid",
+      "Christmas",
+      "Diwali"
+    ],
+    "correct_index": 3,
+    "explanation": "Diwali is called festival of lights."
+  },
+  {
+    "id": 47,
+    "question": "Which is the tallest animal in the world?",
+    "choices": [
+      "Elephant",
+      "Camel",
+      "Giraffe",
+      "Horse"
+    ],
+    "correct_index": 2,
+    "explanation": "Giraffe is the tallest animal."
+  },
+  {
+    "id": 48,
+    "question": "Who founded Microsoft?",
+    "choices": [
+      "Steve Jobs",
+      "Elon Musk",
+      "Bill Gates",
+      "Larry Page"
+    ],
+    "correct_index": 2,
+    "explanation": "Bill Gates co founded Microsoft."
+  },
+  {
+    "id": 49,
+    "question": "Which ocean is on the west coast of India?",
+    "choices": [
+      "Pacific Ocean",
+      "Indian Ocean",
+      "Arabian Sea",
+      "Bay of Bengal"
+    ],
+    "correct_index": 2,
+    "explanation": "Arabian Sea lies west of India."
+  },
+  {
+    "id": 50,
+    "question": "Which Indian state is known as Land of Five Rivers?",
+    "choices": [
+      "Haryana",
+      "Punjab",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "correct_index": 1,
+    "explanation": "Punjab means land of five rivers."
+  },
+  {
+    "id": 51,
+    "question": "Who invented the airplane?",
+    "choices": [
+      "Wright Brothers",
+      "Edison",
+      "Newton",
+      "Bell"
+    ],
+    "correct_index": 0,
+    "explanation": "Wright Brothers invented airplane."
+  },
+  {
+    "id": 52,
+    "question": "Which is the largest bone in human body?",
+    "choices": [
+      "Tibia",
+      "Fibula",
+      "Femur",
+      "Humerus"
+    ],
+    "correct_index": 2,
+    "explanation": "Femur is the thigh bone and largest bone."
+  },
+  {
+    "id": 53,
+    "question": "Which Indian city is called Silicon Valley of India?",
+    "choices": [
+      "Hyderabad",
+      "Pune",
+      "Bengaluru",
+      "Chennai"
+    ],
+    "correct_index": 2,
+    "explanation": "Bengaluru is India's IT hub."
+  }
+]

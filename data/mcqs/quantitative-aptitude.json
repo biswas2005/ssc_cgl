@@ -1,0 +1,614 @@
+[
+  {
+    "id": 1,
+    "question": "What is 25 percent of 480?",
+    "choices": [
+      "100",
+      "110",
+      "120",
+      "140"
+    ],
+    "correct_index": 2,
+    "explanation": "25 percent of 480 is 120."
+  },
+  {
+    "id": 2,
+    "question": "If the ratio of boys to girls is 3:2 and total students are 50, how many girls are there?",
+    "choices": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correct_index": 0,
+    "explanation": "Girls are 2/5 of 50."
+  },
+  {
+    "id": 3,
+    "question": "A train travels 240 km in 4 hours. What is its speed?",
+    "choices": [
+      "40 kmph",
+      "50 kmph",
+      "60 kmph",
+      "80 kmph"
+    ],
+    "correct_index": 2,
+    "explanation": "Speed equals distance divided by time."
+  },
+  {
+    "id": 4,
+    "question": "What is the simple interest on Rs 5000 at 10 percent per annum for 2 years?",
+    "choices": [
+      "Rs 500",
+      "Rs 750",
+      "Rs 1000",
+      "Rs 1200"
+    ],
+    "correct_index": 2,
+    "explanation": "SI equals PRT divided by 100."
+  },
+  {
+    "id": 5,
+    "question": "Find the average of 12, 18, 24, 30, 36.",
+    "choices": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correct_index": 2,
+    "explanation": "Sum is 120 and average is 24."
+  },
+  {
+    "id": 6,
+    "question": "A shopkeeper gives 10 percent discount on Rs 800. Find selling price.",
+    "choices": [
+      "Rs 700",
+      "Rs 720",
+      "Rs 740",
+      "Rs 760"
+    ],
+    "correct_index": 1,
+    "explanation": "Discount is Rs 80."
+  },
+  {
+    "id": 7,
+    "question": "What is the HCF of 24 and 36?",
+    "choices": [
+      "6",
+      "12",
+      "18",
+      "24"
+    ],
+    "correct_index": 1,
+    "explanation": "12 is the greatest common factor."
+  },
+  {
+    "id": 8,
+    "question": "What is the LCM of 12 and 18?",
+    "choices": [
+      "24",
+      "30",
+      "36",
+      "48"
+    ],
+    "correct_index": 2,
+    "explanation": "LCM of 12 and 18 is 36."
+  },
+  {
+    "id": 9,
+    "question": "A man buys an article for Rs 400 and sells it for Rs 500. Find profit percent.",
+    "choices": [
+      "20 percent",
+      "25 percent",
+      "30 percent",
+      "40 percent"
+    ],
+    "correct_index": 1,
+    "explanation": "Profit is 100 on cost price 400."
+  },
+  {
+    "id": 10,
+    "question": "If 8 men complete a work in 12 days, how many days will 6 men take?",
+    "choices": [
+      "14 days",
+      "16 days",
+      "18 days",
+      "20 days"
+    ],
+    "correct_index": 1,
+    "explanation": "Men and days are inversely proportional."
+  },
+  {
+    "id": 11,
+    "question": "What is 15 percent of 200?",
+    "choices": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correct_index": 2,
+    "explanation": "15 percent of 200 equals 30."
+  },
+  {
+    "id": 12,
+    "question": "The perimeter of a square is 48 cm. Find its side.",
+    "choices": [
+      "10 cm",
+      "12 cm",
+      "14 cm",
+      "16 cm"
+    ],
+    "correct_index": 1,
+    "explanation": "Side equals perimeter divided by 4."
+  },
+  {
+    "id": 13,
+    "question": "A train 120 m long crosses a pole in 8 seconds. Find speed.",
+    "choices": [
+      "15 m/s",
+      "18 m/s",
+      "20 m/s",
+      "25 m/s"
+    ],
+    "correct_index": 0,
+    "explanation": "Speed equals 120 divided by 8."
+  },
+  {
+    "id": 14,
+    "question": "Find compound interest on Rs 1000 at 10 percent for 2 years.",
+    "choices": [
+      "Rs 200",
+      "Rs 210",
+      "Rs 220",
+      "Rs 250"
+    ],
+    "correct_index": 1,
+    "explanation": "Amount becomes Rs 1210."
+  },
+  {
+    "id": 15,
+    "question": "A number is divided in ratio 3:5 and larger part is 40. Find the number.",
+    "choices": [
+      "56",
+      "60",
+      "64",
+      "72"
+    ],
+    "correct_index": 2,
+    "explanation": "One part equals 8, total is 64."
+  },
+  {
+    "id": 16,
+    "question": "What is the area of a rectangle with length 12 cm and breadth 8 cm?",
+    "choices": [
+      "84 sq cm",
+      "92 sq cm",
+      "96 sq cm",
+      "108 sq cm"
+    ],
+    "correct_index": 2,
+    "explanation": "Area equals length multiplied by breadth."
+  },
+  {
+    "id": 17,
+    "question": "If a sum doubles in 5 years at simple interest, what is the rate percent?",
+    "choices": [
+      "10 percent",
+      "15 percent",
+      "20 percent",
+      "25 percent"
+    ],
+    "correct_index": 2,
+    "explanation": "Interest equals principal in 5 years."
+  },
+  {
+    "id": 18,
+    "question": "A can do a work in 10 days and B in 15 days. In how many days can both do it together?",
+    "choices": [
+      "5 days",
+      "6 days",
+      "7 days",
+      "8 days"
+    ],
+    "correct_index": 1,
+    "explanation": "Combined efficiency is 1/6."
+  },
+  {
+    "id": 19,
+    "question": "What is the value of 25 squared?",
+    "choices": [
+      "525",
+      "575",
+      "625",
+      "675"
+    ],
+    "correct_index": 2,
+    "explanation": "25 multiplied by 25 equals 625."
+  },
+  {
+    "id": 20,
+    "question": "The average of 5 numbers is 18. Find their total.",
+    "choices": [
+      "80",
+      "85",
+      "90",
+      "95"
+    ],
+    "correct_index": 2,
+    "explanation": "Total equals average multiplied by quantity."
+  },
+  {
+    "id": 21,
+    "question": "A car covers 150 km in 3 hours. Find speed.",
+    "choices": [
+      "40 kmph",
+      "45 kmph",
+      "50 kmph",
+      "60 kmph"
+    ],
+    "correct_index": 2,
+    "explanation": "Speed equals 150 divided by 3."
+  },
+  {
+    "id": 22,
+    "question": "If cost price is Rs 600 and loss percent is 15 percent, find selling price.",
+    "choices": [
+      "Rs 480",
+      "Rs 500",
+      "Rs 510",
+      "Rs 540"
+    ],
+    "correct_index": 2,
+    "explanation": "Selling price equals 85 percent of 600."
+  },
+  {
+    "id": 23,
+    "question": "What is the cube of 12?",
+    "choices": [
+      "1440",
+      "1560",
+      "1728",
+      "1820"
+    ],
+    "correct_index": 2,
+    "explanation": "12 multiplied three times equals 1728."
+  },
+  {
+    "id": 24,
+    "question": "A sum becomes Rs 2400 in 2 years at 20 percent simple interest. Find principal.",
+    "choices": [
+      "Rs 1800",
+      "Rs 1900",
+      "Rs 2000",
+      "Rs 2100"
+    ],
+    "correct_index": 2,
+    "explanation": "Amount equals principal plus 40 percent."
+  },
+  {
+    "id": 25,
+    "question": "Find the median of 5, 7, 9, 11, 13.",
+    "choices": [
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "correct_index": 2,
+    "explanation": "Middle value is 9."
+  },
+  {
+    "id": 26,
+    "question": "What is the probability of getting head in a coin toss?",
+    "choices": [
+      "0",
+      "1/4",
+      "1/2",
+      "1"
+    ],
+    "correct_index": 2,
+    "explanation": "One favorable outcome out of two."
+  },
+  {
+    "id": 27,
+    "question": "A pipe fills a tank in 6 hours. How much tank is filled in 1 hour?",
+    "choices": [
+      "1/3",
+      "1/4",
+      "1/5",
+      "1/6"
+    ],
+    "correct_index": 3,
+    "explanation": "Work done in one hour is reciprocal."
+  },
+  {
+    "id": 28,
+    "question": "What is the square root of 1296?",
+    "choices": [
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "correct_index": 2,
+    "explanation": "36 multiplied by 36 equals 1296."
+  },
+  {
+    "id": 29,
+    "question": "The sum of two numbers is 40 and difference is 8. Find larger number.",
+    "choices": [
+      "20",
+      "22",
+      "24",
+      "26"
+    ],
+    "correct_index": 2,
+    "explanation": "Solving equations gives 24."
+  },
+  {
+    "id": 30,
+    "question": "A dealer marks an item at Rs 1000 and gives 20 percent discount. Find selling price.",
+    "choices": [
+      "Rs 700",
+      "Rs 750",
+      "Rs 800",
+      "Rs 850"
+    ],
+    "correct_index": 2,
+    "explanation": "Discount amount is Rs 200."
+  },
+  {
+    "id": 31,
+    "question": "If 12 workers can complete work in 15 days, how many workers are needed to finish it in 9 days?",
+    "choices": [
+      "16",
+      "18",
+      "20",
+      "24"
+    ],
+    "correct_index": 2,
+    "explanation": "Workers multiplied by days remains constant."
+  },
+  {
+    "id": 32,
+    "question": "Find the value of 18 percent of 450.",
+    "choices": [
+      "72",
+      "78",
+      "81",
+      "90"
+    ],
+    "correct_index": 2,
+    "explanation": "18 percent of 450 equals 81."
+  },
+  {
+    "id": 33,
+    "question": "A train running at 72 kmph crosses a bridge in 30 seconds. Find distance covered.",
+    "choices": [
+      "500 m",
+      "550 m",
+      "600 m",
+      "650 m"
+    ],
+    "correct_index": 2,
+    "explanation": "Convert speed into m/s and multiply by time."
+  },
+  {
+    "id": 34,
+    "question": "The ratio of income to expenditure is 5:3. If income is Rs 2500, find expenditure.",
+    "choices": [
+      "Rs 1200",
+      "Rs 1500",
+      "Rs 1800",
+      "Rs 2000"
+    ],
+    "correct_index": 1,
+    "explanation": "Expenditure is 3/5 of income."
+  },
+  {
+    "id": 35,
+    "question": "A number when divided by 15 leaves remainder 7. What remainder will be left when same number is divided by 5?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 2,
+    "explanation": "Remainder 7 leaves remainder 2 on division by 5."
+  },
+  {
+    "id": 36,
+    "question": "Find the area of a triangle with base 10 cm and height 8 cm.",
+    "choices": [
+      "30 sq cm",
+      "35 sq cm",
+      "40 sq cm",
+      "45 sq cm"
+    ],
+    "correct_index": 2,
+    "explanation": "Area equals half multiplied by base and height."
+  },
+  {
+    "id": 37,
+    "question": "What is the value of 2 raised to power 5?",
+    "choices": [
+      "16",
+      "24",
+      "32",
+      "64"
+    ],
+    "correct_index": 2,
+    "explanation": "2 multiplied five times equals 32."
+  },
+  {
+    "id": 38,
+    "question": "A boat travels 30 km downstream in 2 hours. Find speed downstream.",
+    "choices": [
+      "10 kmph",
+      "12 kmph",
+      "15 kmph",
+      "18 kmph"
+    ],
+    "correct_index": 2,
+    "explanation": "Speed equals distance divided by time."
+  },
+  {
+    "id": 39,
+    "question": "If the average of 8 numbers is 25, find total sum.",
+    "choices": [
+      "180",
+      "190",
+      "200",
+      "220"
+    ],
+    "correct_index": 2,
+    "explanation": "Sum equals average multiplied by quantity."
+  },
+  {
+    "id": 40,
+    "question": "What is the simple interest on Rs 8000 at 5 percent for 3 years?",
+    "choices": [
+      "Rs 1000",
+      "Rs 1100",
+      "Rs 1200",
+      "Rs 1300"
+    ],
+    "correct_index": 2,
+    "explanation": "SI equals PRT divided by 100."
+  },
+  {
+    "id": 41,
+    "question": "Find the next number in series: 2, 6, 12, 20, 30, ?",
+    "choices": [
+      "36",
+      "40",
+      "42",
+      "44"
+    ],
+    "correct_index": 2,
+    "explanation": "Differences are 4, 6, 8, 10, 12."
+  },
+  {
+    "id": 42,
+    "question": "A person spends 75 percent of income. If savings are Rs 500, find income.",
+    "choices": [
+      "Rs 1500",
+      "Rs 1800",
+      "Rs 2000",
+      "Rs 2500"
+    ],
+    "correct_index": 2,
+    "explanation": "Savings are 25 percent of income."
+  },
+  {
+    "id": 43,
+    "question": "What is the decimal form of 3/8?",
+    "choices": [
+      "0.125",
+      "0.25",
+      "0.375",
+      "0.625"
+    ],
+    "correct_index": 2,
+    "explanation": "3 divided by 8 equals 0.375."
+  },
+  {
+    "id": 44,
+    "question": "A can complete work in 8 days and B in 24 days. Together they complete in?",
+    "choices": [
+      "4 days",
+      "6 days",
+      "8 days",
+      "10 days"
+    ],
+    "correct_index": 1,
+    "explanation": "Combined efficiency equals 1/6."
+  },
+  {
+    "id": 45,
+    "question": "If a product is sold at 20 percent profit for Rs 600, find cost price.",
+    "choices": [
+      "Rs 450",
+      "Rs 480",
+      "Rs 500",
+      "Rs 520"
+    ],
+    "correct_index": 2,
+    "explanation": "Selling price equals 120 percent of cost price."
+  },
+  {
+    "id": 46,
+    "question": "Find the value of 999 multiplied by 9.",
+    "choices": [
+      "8991",
+      "8999",
+      "9001",
+      "9091"
+    ],
+    "correct_index": 0,
+    "explanation": "Multiplication gives 8991."
+  },
+  {
+    "id": 47,
+    "question": "A cyclist covers 84 km in 6 hours. Find speed.",
+    "choices": [
+      "12 kmph",
+      "14 kmph",
+      "16 kmph",
+      "18 kmph"
+    ],
+    "correct_index": 1,
+    "explanation": "Speed equals 84 divided by 6."
+  },
+  {
+    "id": 48,
+    "question": "The circumference of a circle is 44 cm. Find radius.",
+    "choices": [
+      "5 cm",
+      "6 cm",
+      "7 cm",
+      "8 cm"
+    ],
+    "correct_index": 2,
+    "explanation": "Using 2 multiplied by 22/7 multiplied by radius."
+  },
+  {
+    "id": 49,
+    "question": "What is the ratio of 45 minutes to 1 hour?",
+    "choices": [
+      "1:2",
+      "2:3",
+      "3:4",
+      "4:5"
+    ],
+    "correct_index": 2,
+    "explanation": "45:60 simplifies to 3:4."
+  },
+  {
+    "id": 50,
+    "question": "A train 180 m long crosses another train 220 m long moving opposite in 10 seconds. Relative speed is?",
+    "choices": [
+      "36 m/s",
+      "40 m/s",
+      "44 m/s",
+      "50 m/s"
+    ],
+    "correct_index": 1,
+    "explanation": "Total distance is 400 m divided by 10 seconds."
+  },
+  {
+    "id": 51,
+    "question": "Find the compound interest on Rs 2000 at 10 percent for 2 years.",
+    "choices": [
+      "Rs 400",
+      "Rs 410",
+      "Rs 420",
+      "Rs 440"
+    ],
+    "correct_index": 2,
+    "explanation": "Amount becomes Rs 2420."
+  }
+]

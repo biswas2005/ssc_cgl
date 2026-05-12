@@ -1,32 +1,686 @@
 [
   {
+    "id": 0,
     "question": "Which gas is most abundant in Earth's atmosphere?",
-    "choices": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
     "correct_index": 2,
     "explanation": "Nitrogen makes up approximately 78% of Earth's atmosphere. Oxygen is second at about 21%, while other gases like argon and CO₂ are present in trace amounts."
   },
   {
+    "id": 0,
     "question": "What is the chemical formula of common salt?",
-    "choices": ["NaCl", "KCl", "CaCl₂", "MgCl₂"],
+    "choices": [
+      "NaCl",
+      "KCl",
+      "CaCl₂",
+      "MgCl₂"
+    ],
     "correct_index": 0,
     "explanation": "Common salt is Sodium Chloride, with the chemical formula NaCl. It is formed by the ionic bonding of sodium (Na⁺) and chloride (Cl⁻) ions."
   },
   {
+    "id": 0,
     "question": "Which part of the human body produces insulin?",
-    "choices": ["Liver", "Kidney", "Pancreas", "Stomach"],
+    "choices": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Stomach"
+    ],
     "correct_index": 2,
     "explanation": "The pancreas produces insulin, a hormone that regulates blood sugar levels. Dysfunction of the pancreas can lead to diabetes."
   },
   {
+    "id": 0,
     "question": "What is the SI unit of force?",
-    "choices": ["Joule", "Watt", "Newton", "Pascal"],
+    "choices": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
     "correct_index": 2,
     "explanation": "The SI unit of force is the Newton (N), named after Sir Isaac Newton. 1 Newton = 1 kg·m/s². Joule is for energy, Watt for power, Pascal for pressure."
   },
   {
+    "id": 0,
     "question": "Which vitamin is produced when human skin is exposed to sunlight?",
-    "choices": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin K"],
+    "choices": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin K"
+    ],
     "correct_index": 2,
     "explanation": "Vitamin D is synthesized in the skin when exposed to UV-B rays from sunlight. It is essential for calcium absorption and bone health."
+  },
+  {
+    "id": 6,
+    "question": "What is the SI unit of force?",
+    "choices": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correct_index": 1,
+    "explanation": "Newton is the SI unit of force."
+  },
+  {
+    "id": 7,
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Nitrogen forms about 78 percent of atmosphere."
+  },
+  {
+    "id": 8,
+    "question": "What is the chemical formula of water?",
+    "choices": [
+      "CO2",
+      "H2O",
+      "O2",
+      "NaCl"
+    ],
+    "correct_index": 1,
+    "explanation": "Water contains hydrogen and oxygen."
+  },
+  {
+    "id": 9,
+    "question": "Which vitamin is produced in the human body by sunlight?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 3,
+    "explanation": "Sunlight helps produce Vitamin D."
+  },
+  {
+    "id": 10,
+    "question": "Which organ purifies blood in the human body?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_index": 2,
+    "explanation": "Kidneys filter waste from blood."
+  },
+  {
+    "id": 11,
+    "question": "What is the speed of light in vacuum?",
+    "choices": [
+      "3 x 10 power 8 m/s",
+      "3 x 10 power 6 m/s",
+      "3 x 10 power 5 m/s",
+      "3 x 10 power 7 m/s"
+    ],
+    "correct_index": 0,
+    "explanation": "Light travels fastest in vacuum."
+  },
+  {
+    "id": 12,
+    "question": "Which metal is liquid at room temperature?",
+    "choices": [
+      "Iron",
+      "Mercury",
+      "Copper",
+      "Aluminium"
+    ],
+    "correct_index": 1,
+    "explanation": "Mercury remains liquid at room temperature."
+  },
+  {
+    "id": 13,
+    "question": "Which planet is known as the Red Planet?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct_index": 1,
+    "explanation": "Mars appears red due to iron oxide."
+  },
+  {
+    "id": 14,
+    "question": "What is the pH value of pure water?",
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "Pure water is neutral."
+  },
+  {
+    "id": 15,
+    "question": "Which blood group is known as universal donor?",
+    "choices": [
+      "A",
+      "B",
+      "AB",
+      "O negative"
+    ],
+    "correct_index": 3,
+    "explanation": "O negative can donate to all groups."
+  },
+  {
+    "id": 16,
+    "question": "Which part of the plant conducts photosynthesis?",
+    "choices": [
+      "Root",
+      "Stem",
+      "Leaf",
+      "Flower"
+    ],
+    "correct_index": 2,
+    "explanation": "Leaves contain chlorophyll."
+  },
+  {
+    "id": 17,
+    "question": "What is the boiling point of water at sea level?",
+    "choices": [
+      "90 degree Celsius",
+      "95 degree Celsius",
+      "100 degree Celsius",
+      "110 degree Celsius"
+    ],
+    "correct_index": 2,
+    "explanation": "Water boils at 100 degree Celsius."
+  },
+  {
+    "id": 18,
+    "question": "Which gas is used by plants during photosynthesis?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Plants absorb carbon dioxide."
+  },
+  {
+    "id": 19,
+    "question": "Which scientist discovered gravity?",
+    "choices": [
+      "Einstein",
+      "Newton",
+      "Galileo",
+      "Edison"
+    ],
+    "correct_index": 1,
+    "explanation": "Newton gave the law of gravitation."
+  },
+  {
+    "id": 20,
+    "question": "What is the hardest natural substance?",
+    "choices": [
+      "Iron",
+      "Gold",
+      "Diamond",
+      "Quartz"
+    ],
+    "correct_index": 2,
+    "explanation": "Diamond is the hardest natural material."
+  },
+  {
+    "id": 21,
+    "question": "Which part of the human brain controls balance?",
+    "choices": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla",
+      "Hypothalamus"
+    ],
+    "correct_index": 1,
+    "explanation": "Cerebellum controls balance and coordination."
+  },
+  {
+    "id": 22,
+    "question": "What is the chemical symbol of sodium?",
+    "choices": [
+      "So",
+      "Sd",
+      "Na",
+      "Sn"
+    ],
+    "correct_index": 2,
+    "explanation": "Sodium symbol is Na."
+  },
+  {
+    "id": 23,
+    "question": "Which vitamin helps in blood clotting?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 1,
+    "explanation": "Vitamin K helps blood clotting."
+  },
+  {
+    "id": 24,
+    "question": "What is the nearest star to Earth?",
+    "choices": [
+      "Sirius",
+      "Polaris",
+      "Sun",
+      "Alpha Centauri"
+    ],
+    "correct_index": 2,
+    "explanation": "Sun is the nearest star."
+  },
+  {
+    "id": 25,
+    "question": "Which instrument measures atmospheric pressure?",
+    "choices": [
+      "Thermometer",
+      "Hygrometer",
+      "Barometer",
+      "Lactometer"
+    ],
+    "correct_index": 2,
+    "explanation": "Barometer measures pressure."
+  },
+  {
+    "id": 26,
+    "question": "What is the atomic number of carbon?",
+    "choices": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correct_index": 1,
+    "explanation": "Carbon has 6 protons."
+  },
+  {
+    "id": 27,
+    "question": "Which organ produces insulin?",
+    "choices": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Heart"
+    ],
+    "correct_index": 2,
+    "explanation": "Pancreas secretes insulin."
+  },
+  {
+    "id": 28,
+    "question": "Which gas is responsible for global warming?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Helium"
+    ],
+    "correct_index": 2,
+    "explanation": "Carbon dioxide traps heat."
+  },
+  {
+    "id": 29,
+    "question": "What is the unit of electric current?",
+    "choices": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correct_index": 1,
+    "explanation": "Ampere measures electric current."
+  },
+  {
+    "id": 30,
+    "question": "Which acid is present in lemon?",
+    "choices": [
+      "Acetic acid",
+      "Citric acid",
+      "Sulphuric acid",
+      "Hydrochloric acid"
+    ],
+    "correct_index": 1,
+    "explanation": "Lemon contains citric acid."
+  },
+  {
+    "id": 31,
+    "question": "Which planet has the maximum number of moons?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Jupiter",
+      "Mercury"
+    ],
+    "correct_index": 2,
+    "explanation": "Jupiter has many natural satellites."
+  },
+  {
+    "id": 32,
+    "question": "What is the powerhouse of the cell?",
+    "choices": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondria",
+      "Golgi body"
+    ],
+    "correct_index": 2,
+    "explanation": "Mitochondria produce energy."
+  },
+  {
+    "id": 33,
+    "question": "Which metal is used in electric wires?",
+    "choices": [
+      "Iron",
+      "Copper",
+      "Zinc",
+      "Lead"
+    ],
+    "correct_index": 1,
+    "explanation": "Copper is a good conductor."
+  },
+  {
+    "id": 34,
+    "question": "Which layer protects Earth from ultraviolet rays?",
+    "choices": [
+      "Troposphere",
+      "Mesosphere",
+      "Ozone layer",
+      "Ionosphere"
+    ],
+    "correct_index": 2,
+    "explanation": "Ozone absorbs harmful UV rays."
+  },
+  {
+    "id": 35,
+    "question": "Which gas turns lime water milky?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Carbon dioxide reacts with lime water."
+  },
+  {
+    "id": 36,
+    "question": "What is the main component of natural gas?",
+    "choices": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "correct_index": 1,
+    "explanation": "Methane is the major component."
+  },
+  {
+    "id": 37,
+    "question": "Which part of the eye controls amount of light entering?",
+    "choices": [
+      "Retina",
+      "Iris",
+      "Cornea",
+      "Lens"
+    ],
+    "correct_index": 1,
+    "explanation": "Iris adjusts pupil size."
+  },
+  {
+    "id": 38,
+    "question": "Which disease is caused by deficiency of iodine?",
+    "choices": [
+      "Scurvy",
+      "Goitre",
+      "Rickets",
+      "Beriberi"
+    ],
+    "correct_index": 1,
+    "explanation": "Iodine deficiency causes goitre."
+  },
+  {
+    "id": 39,
+    "question": "Which vitamin deficiency causes night blindness?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correct_index": 0,
+    "explanation": "Vitamin A is important for vision."
+  },
+  {
+    "id": 40,
+    "question": "Which force keeps planets in orbit around the Sun?",
+    "choices": [
+      "Magnetic force",
+      "Frictional force",
+      "Gravitational force",
+      "Electrostatic force"
+    ],
+    "correct_index": 2,
+    "explanation": "Gravity keeps planets in orbit."
+  },
+  {
+    "id": 41,
+    "question": "What is the SI unit of power?",
+    "choices": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_index": 1,
+    "explanation": "Watt measures power."
+  },
+  {
+    "id": 42,
+    "question": "Which metal is extracted from bauxite ore?",
+    "choices": [
+      "Iron",
+      "Copper",
+      "Aluminium",
+      "Zinc"
+    ],
+    "correct_index": 2,
+    "explanation": "Bauxite is the ore of aluminium."
+  },
+  {
+    "id": 43,
+    "question": "Which blood cells fight infection?",
+    "choices": [
+      "Red blood cells",
+      "White blood cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "correct_index": 1,
+    "explanation": "White blood cells provide immunity."
+  },
+  {
+    "id": 44,
+    "question": "Which gas is used in fire extinguishers?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_index": 1,
+    "explanation": "Carbon dioxide helps control fire."
+  },
+  {
+    "id": 45,
+    "question": "What is the study of plants called?",
+    "choices": [
+      "Zoology",
+      "Biology",
+      "Botany",
+      "Geology"
+    ],
+    "correct_index": 2,
+    "explanation": "Botany deals with plants."
+  },
+  {
+    "id": 46,
+    "question": "Which scientist proposed the theory of relativity?",
+    "choices": [
+      "Newton",
+      "Einstein",
+      "Faraday",
+      "Bohr"
+    ],
+    "correct_index": 1,
+    "explanation": "Einstein proposed relativity theory."
+  },
+  {
+    "id": 47,
+    "question": "Which vitamin is also known as ascorbic acid?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 2,
+    "explanation": "Vitamin C is ascorbic acid."
+  },
+  {
+    "id": 48,
+    "question": "Which part of the digestive system absorbs nutrients?",
+    "choices": [
+      "Stomach",
+      "Large intestine",
+      "Small intestine",
+      "Liver"
+    ],
+    "correct_index": 2,
+    "explanation": "Nutrients are absorbed in small intestine."
+  },
+  {
+    "id": 49,
+    "question": "Which gas is filled in balloons to make them float?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Helium",
+      "Carbon dioxide"
+    ],
+    "correct_index": 2,
+    "explanation": "Helium is lighter than air."
+  },
+  {
+    "id": 50,
+    "question": "Which element is necessary for formation of hemoglobin?",
+    "choices": [
+      "Calcium",
+      "Iron",
+      "Sodium",
+      "Potassium"
+    ],
+    "correct_index": 1,
+    "explanation": "Iron is present in hemoglobin."
+  },
+  {
+    "id": 51,
+    "question": "What is the chemical name of common salt?",
+    "choices": [
+      "Sodium chloride",
+      "Potassium chloride",
+      "Calcium carbonate",
+      "Sodium bicarbonate"
+    ],
+    "correct_index": 0,
+    "explanation": "Common salt is sodium chloride."
+  },
+  {
+    "id": 52,
+    "question": "Which organelle contains genetic material?",
+    "choices": [
+      "Ribosome",
+      "Mitochondria",
+      "Nucleus",
+      "Vacuole"
+    ],
+    "correct_index": 2,
+    "explanation": "Nucleus contains DNA."
+  },
+  {
+    "id": 53,
+    "question": "Which instrument is used to measure temperature?",
+    "choices": [
+      "Thermometer",
+      "Barometer",
+      "Ammeter",
+      "Voltmeter"
+    ],
+    "correct_index": 0,
+    "explanation": "Thermometer measures temperature."
+  },
+  {
+    "id": 54,
+    "question": "Which process converts liquid into gas?",
+    "choices": [
+      "Condensation",
+      "Freezing",
+      "Evaporation",
+      "Melting"
+    ],
+    "correct_index": 2,
+    "explanation": "Evaporation changes liquid into gas."
+  },
+  {
+    "id": 55,
+    "question": "Which gas is essential for respiration?",
+    "choices": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct_index": 0,
+    "explanation": "Oxygen is needed for breathing."
+  },
+  {
+    "id": 56,
+    "question": "Which vitamin deficiency causes scurvy?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 2,
+    "explanation": "Scurvy occurs due to lack of Vitamin C."
+  },
+  {
+    "id": 57,
+    "question": "What is the center of an atom called?",
+    "choices": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Nucleus"
+    ],
+    "correct_index": 3,
+    "explanation": "Nucleus is at the center of atom."
   }
 ]

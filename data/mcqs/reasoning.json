@@ -1,32 +1,698 @@
 [
   {
+    "id": 0,
     "question": "Book : Reading :: Fork : ?",
-    "choices": ["Eating", "Cooking", "Stirring", "Cutting"],
+    "choices": [
+      "Eating",
+      "Cooking",
+      "Stirring",
+      "Cutting"
+    ],
     "correct_index": 0,
     "explanation": "This is a tool-to-purpose analogy. A book is used for reading, similarly a fork is primarily used for eating."
   },
   {
+    "id": 0,
     "question": "Find the missing number in the series: 2, 6, 12, 20, ?",
-    "choices": ["28", "30", "32", "36"],
+    "choices": [
+      "28",
+      "30",
+      "32",
+      "36"
+    ],
     "correct_index": 1,
     "explanation": "The pattern follows n × (n+1): 1×2=2, 2×3=6, 3×4=12, 4×5=20. Next is 5×6 = 30. Alternatively, the difference increases by 2 each time (+4, +6, +8, +10)."
   },
   {
+    "id": 0,
     "question": "If 'CAT' is coded as '3120', how will 'DOG' be coded? (Using A=1, B=2... Z=26)",
-    "choices": ["4157", "4156", "3157", "4167"],
+    "choices": [
+      "4157",
+      "4156",
+      "3157",
+      "4167"
+    ],
     "correct_index": 0,
     "explanation": "Each letter is replaced by its alphabetical position: D=4, O=15, G=7. Concatenating them gives 4157."
   },
   {
+    "id": 0,
     "question": "Identify the odd one out: Square, Triangle, Circle, Rectangle",
-    "choices": ["Square", "Triangle", "Circle", "Rectangle"],
+    "choices": [
+      "Square",
+      "Triangle",
+      "Circle",
+      "Rectangle"
+    ],
     "correct_index": 2,
     "explanation": "Square, Triangle, and Rectangle are polygons with straight sides and corners. A circle is a curved shape with no sides or angles."
   },
   {
+    "id": 0,
     "question": "Pointing to a photograph, a man said, 'She is the daughter of my grandfather's only son.' How is the woman in the photograph related to the man?",
-    "choices": ["Sister", "Aunt", "Mother", "Cousin"],
+    "choices": [
+      "Sister",
+      "Aunt",
+      "Mother",
+      "Cousin"
+    ],
     "correct_index": 0,
     "explanation": "My grandfather's only son = My father. The daughter of my father = My sister."
+  },
+  {
+    "id": 6,
+    "question": "If A = 1, B = 2, C = 3, then what is the value of CAT?",
+    "choices": [
+      "20",
+      "24",
+      "26",
+      "28"
+    ],
+    "correct_index": 1,
+    "explanation": "C = 3, A = 1, T = 20, so total is 24."
+  },
+  {
+    "id": 7,
+    "question": "Find the missing number: 2, 6, 12, 20, 30, ?",
+    "choices": [
+      "36",
+      "40",
+      "42",
+      "44"
+    ],
+    "correct_index": 2,
+    "explanation": "Pattern is plus 4, 6, 8, 10, 12."
+  },
+  {
+    "id": 8,
+    "question": "If SOUTH is coded as TPVUI, then NORTH is coded as?",
+    "choices": [
+      "OPSUI",
+      "OPSUI",
+      "OPSWI",
+      "OPSVH"
+    ],
+    "correct_index": 0,
+    "explanation": "Each letter increases by one."
+  },
+  {
+    "id": 9,
+    "question": "Choose the odd one out.",
+    "choices": [
+      "Square",
+      "Rectangle",
+      "Triangle",
+      "Circle"
+    ],
+    "correct_index": 3,
+    "explanation": "Circle has no sides."
+  },
+  {
+    "id": 10,
+    "question": "Pointing to a woman, Ravi said, \"She is the daughter of my mother's only son.\" How is the woman related to Ravi?",
+    "choices": [
+      "Sister",
+      "Daughter",
+      "Niece",
+      "Cousin"
+    ],
+    "correct_index": 1,
+    "explanation": "Mother's only son is Ravi himself."
+  },
+  {
+    "id": 11,
+    "question": "Find the next term: A, C, F, J, O, ?",
+    "choices": [
+      "T",
+      "U",
+      "V",
+      "W"
+    ],
+    "correct_index": 1,
+    "explanation": "Gaps are 2, 3, 4, 5, then 6."
+  },
+  {
+    "id": 12,
+    "question": "If 5 + 3 = 28, 9 + 1 = 82, then 6 + 4 = ?",
+    "choices": [
+      "48",
+      "52",
+      "40",
+      "64"
+    ],
+    "correct_index": 1,
+    "explanation": "Pattern is first number square minus second number."
+  },
+  {
+    "id": 13,
+    "question": "How many triangles are there in a hexagon?",
+    "choices": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "correct_index": 2,
+    "explanation": "A hexagon can be divided into 6 triangles."
+  },
+  {
+    "id": 14,
+    "question": "Find the missing term: 3, 9, 27, 81, ?",
+    "choices": [
+      "162",
+      "243",
+      "324",
+      "729"
+    ],
+    "correct_index": 1,
+    "explanation": "Each term is multiplied by 3."
+  },
+  {
+    "id": 15,
+    "question": "Which number does not belong to the group?",
+    "choices": [
+      "64",
+      "81",
+      "100",
+      "121"
+    ],
+    "correct_index": 2,
+    "explanation": "Others are squares of odd numbers."
+  },
+  {
+    "id": 16,
+    "question": "If FRIEND is written as HUMJTK, then CANDLE is written as?",
+    "choices": [
+      "EDRIRH",
+      "ECPFOH",
+      "EDRHNG",
+      "ECQFOG"
+    ],
+    "correct_index": 1,
+    "explanation": "Alternate plus 2 and plus 1 coding."
+  },
+  {
+    "id": 17,
+    "question": "Ravi walks 10 m north, then 10 m east, then 10 m south. In which direction is he from the starting point?",
+    "choices": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "correct_index": 2,
+    "explanation": "He is 10 m east from start."
+  },
+  {
+    "id": 18,
+    "question": "Choose the odd one out.",
+    "choices": [
+      "Apple",
+      "Banana",
+      "Mango",
+      "Potato"
+    ],
+    "correct_index": 3,
+    "explanation": "Potato is a vegetable."
+  },
+  {
+    "id": 19,
+    "question": "Complete the series: 1, 4, 9, 16, 25, ?",
+    "choices": [
+      "30",
+      "35",
+      "36",
+      "49"
+    ],
+    "correct_index": 2,
+    "explanation": "Squares of natural numbers."
+  },
+  {
+    "id": 20,
+    "question": "In a certain code, PEN is written as 123 and INK as 456. How is KING written?",
+    "choices": [
+      "5647",
+      "5467",
+      "6547",
+      "6457"
+    ],
+    "correct_index": 3,
+    "explanation": "K = 6, I = 4, N = 5, G = 7."
+  },
+  {
+    "id": 21,
+    "question": "If yesterday was Monday, what day will be after tomorrow?",
+    "choices": [
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday"
+    ],
+    "correct_index": 2,
+    "explanation": "Today is Tuesday, after tomorrow is Thursday."
+  },
+  {
+    "id": 22,
+    "question": "Find the next number: 7, 14, 28, 56, ?",
+    "choices": [
+      "84",
+      "98",
+      "112",
+      "120"
+    ],
+    "correct_index": 2,
+    "explanation": "Numbers are doubled."
+  },
+  {
+    "id": 23,
+    "question": "Which word cannot be formed from the letters of TRIANGLE?",
+    "choices": [
+      "ALERT",
+      "ANGLE",
+      "GRAIN",
+      "GREAT"
+    ],
+    "correct_index": 3,
+    "explanation": "TRIANGLE has no second G."
+  },
+  {
+    "id": 24,
+    "question": "A clock shows 3:15. What is the angle between hour and minute hands?",
+    "choices": [
+      "0 degree",
+      "7.5 degree",
+      "15 degree",
+      "22.5 degree"
+    ],
+    "correct_index": 1,
+    "explanation": "Hour hand moves 7.5 degree after 15 minutes."
+  },
+  {
+    "id": 25,
+    "question": "Find the missing term: Z, X, U, Q, ?",
+    "choices": [
+      "M",
+      "N",
+      "L",
+      "K"
+    ],
+    "correct_index": 2,
+    "explanation": "Backward gaps are 2, 3, 4, then 5."
+  },
+  {
+    "id": 26,
+    "question": "If all roses are flowers and some flowers are red, then which conclusion is definite?",
+    "choices": [
+      "All roses are red",
+      "Some roses are red",
+      "Roses are flowers",
+      "No rose is red"
+    ],
+    "correct_index": 2,
+    "explanation": "Direct statement says roses are flowers."
+  },
+  {
+    "id": 27,
+    "question": "Choose the odd one out.",
+    "choices": [
+      "Doctor",
+      "Engineer",
+      "Teacher",
+      "Hospital"
+    ],
+    "correct_index": 3,
+    "explanation": "Hospital is a place."
+  },
+  {
+    "id": 28,
+    "question": "Find the next term: BC, EF, HI, KL, ?",
+    "choices": [
+      "NO",
+      "NP",
+      "MN",
+      "OP"
+    ],
+    "correct_index": 0,
+    "explanation": "Letters increase by 3 positions."
+  },
+  {
+    "id": 29,
+    "question": "If DELHI is coded as 73541 and CALCUTTA as 82589662, then how is CAT coded?",
+    "choices": [
+      "826",
+      "825",
+      "896",
+      "862"
+    ],
+    "correct_index": 0,
+    "explanation": "C = 8, A = 2, T = 6."
+  },
+  {
+    "id": 30,
+    "question": "A man is facing west. He turns 90 degree clockwise and then 180 degree anticlockwise. Which direction is he facing now?",
+    "choices": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ],
+    "correct_index": 2,
+    "explanation": "West to north, then south."
+  },
+  {
+    "id": 31,
+    "question": "Find the missing number: 11, 13, 17, 19, 23, ?",
+    "choices": [
+      "25",
+      "27",
+      "29",
+      "31"
+    ],
+    "correct_index": 2,
+    "explanation": "Sequence of prime numbers."
+  },
+  {
+    "id": 32,
+    "question": "Which one is different from the others?",
+    "choices": [
+      "January",
+      "March",
+      "July",
+      "June"
+    ],
+    "correct_index": 3,
+    "explanation": "June has 30 days."
+  },
+  {
+    "id": 33,
+    "question": "Find the next term: 2, 5, 10, 17, 26, ?",
+    "choices": [
+      "35",
+      "37",
+      "40",
+      "45"
+    ],
+    "correct_index": 1,
+    "explanation": "Pattern is plus 3, 5, 7, 9, 11."
+  },
+  {
+    "id": 34,
+    "question": "If 1 January is Monday, what day will be on 1 February?",
+    "choices": [
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "correct_index": 1,
+    "explanation": "January has 31 days, remainder 3."
+  },
+  {
+    "id": 35,
+    "question": "Choose the odd pair.",
+    "choices": [
+      "Bird : Nest",
+      "Dog : Kennel",
+      "Horse : Stable",
+      "Lion : Forest"
+    ],
+    "correct_index": 3,
+    "explanation": "Forest is not a specific shelter."
+  },
+  {
+    "id": 36,
+    "question": "Find the missing term: ACE, BDF, CEG, ?",
+    "choices": [
+      "DFH",
+      "DGI",
+      "DEH",
+      "EGI"
+    ],
+    "correct_index": 0,
+    "explanation": "Each letter increases by one."
+  },
+  {
+    "id": 37,
+    "question": "How many sides does a decagon have?",
+    "choices": [
+      "8",
+      "9",
+      "10",
+      "12"
+    ],
+    "correct_index": 2,
+    "explanation": "Decagon has 10 sides."
+  },
+  {
+    "id": 38,
+    "question": "If BOOK is coded as CPPL, then PEN is coded as?",
+    "choices": [
+      "QFO",
+      "QEN",
+      "RFO",
+      "RGP"
+    ],
+    "correct_index": 0,
+    "explanation": "Each letter increases by one."
+  },
+  {
+    "id": 39,
+    "question": "Choose the correct mirror image of 2:35.",
+    "choices": [
+      "9:25",
+      "9:35",
+      "8:25",
+      "8:35"
+    ],
+    "correct_index": 0,
+    "explanation": "Mirror time is 11:60 minus actual time."
+  },
+  {
+    "id": 40,
+    "question": "Find the next term: 125, 64, 27, 8, ?",
+    "choices": [
+      "1",
+      "2",
+      "4",
+      "9"
+    ],
+    "correct_index": 0,
+    "explanation": "Cubes in descending order."
+  },
+  {
+    "id": 41,
+    "question": "Pointing to a boy, Rita said, \"He is the son of my grandfather's only son.\" How is the boy related to Rita?",
+    "choices": [
+      "Brother",
+      "Cousin",
+      "Uncle",
+      "Nephew"
+    ],
+    "correct_index": 0,
+    "explanation": "Grandfather's only son is Rita's father."
+  },
+  {
+    "id": 42,
+    "question": "Choose the odd number.",
+    "choices": [
+      "16",
+      "25",
+      "36",
+      "49"
+    ],
+    "correct_index": 2,
+    "explanation": "Others are squares of odd numbers."
+  },
+  {
+    "id": 43,
+    "question": "If in a code language APPLE is written as ELPPA, then TRAIN is written as?",
+    "choices": [
+      "NIART",
+      "NIATR",
+      "TNIAR",
+      "RTAIN"
+    ],
+    "correct_index": 0,
+    "explanation": "Letters are reversed."
+  },
+  {
+    "id": 44,
+    "question": "Find the missing term: 4, 9, 19, 39, ?",
+    "choices": [
+      "59",
+      "69",
+      "79",
+      "89"
+    ],
+    "correct_index": 2,
+    "explanation": "Pattern is multiply by 2 plus 1."
+  },
+  {
+    "id": 45,
+    "question": "A man walks 5 km east, then 5 km north, then 5 km west. How far is he from the starting point?",
+    "choices": [
+      "0 km",
+      "5 km",
+      "10 km",
+      "15 km"
+    ],
+    "correct_index": 1,
+    "explanation": "Final position is 5 km north."
+  },
+  {
+    "id": 46,
+    "question": "Which one is different?",
+    "choices": [
+      "Gold",
+      "Silver",
+      "Copper",
+      "Coal"
+    ],
+    "correct_index": 3,
+    "explanation": "Coal is not a metal."
+  },
+  {
+    "id": 47,
+    "question": "Find the next number: 1, 8, 27, 64, ?",
+    "choices": [
+      "100",
+      "121",
+      "125",
+      "144"
+    ],
+    "correct_index": 2,
+    "explanation": "Cubes of natural numbers."
+  },
+  {
+    "id": 48,
+    "question": "If TABLE is coded as UBCMF, then CHAIR is coded as?",
+    "choices": [
+      "DIBJS",
+      "DIBJR",
+      "EJCKS",
+      "DICJR"
+    ],
+    "correct_index": 0,
+    "explanation": "Each letter increases by one."
+  },
+  {
+    "id": 49,
+    "question": "Choose the odd one out.",
+    "choices": [
+      "Rose",
+      "Lotus",
+      "Lily",
+      "Carrot"
+    ],
+    "correct_index": 3,
+    "explanation": "Carrot is not a flower."
+  },
+  {
+    "id": 50,
+    "question": "Find the missing term: 13, 18, 27, 40, 57, ?",
+    "choices": [
+      "68",
+      "72",
+      "78",
+      "84"
+    ],
+    "correct_index": 2,
+    "explanation": "Differences are 5, 9, 13, 17, 21."
+  },
+  {
+    "id": 51,
+    "question": "Which number replaces the question mark: 3, 6, 11, 18, 27, ?",
+    "choices": [
+      "36",
+      "38",
+      "40",
+      "42"
+    ],
+    "correct_index": 1,
+    "explanation": "Differences are 3, 5, 7, 9, 11."
+  },
+  {
+    "id": 52,
+    "question": "A is taller than B, B is taller than C, and C is taller than D. Who is shortest?",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_index": 3,
+    "explanation": "D is shorter than all."
+  },
+  {
+    "id": 53,
+    "question": "Find the next term: AB, DE, GH, JK, ?",
+    "choices": [
+      "LM",
+      "MN",
+      "NO",
+      "OP"
+    ],
+    "correct_index": 1,
+    "explanation": "Starting letters increase by 3."
+  },
+  {
+    "id": 54,
+    "question": "If CAT = 24 and DOG = 26, then BAT = ?",
+    "choices": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "correct_index": 2,
+    "explanation": "B = 2, A = 1, T = 20, total is 23."
+  },
+  {
+    "id": 55,
+    "question": "Which one is different?",
+    "choices": [
+      "Earth",
+      "Mars",
+      "Venus",
+      "Moon"
+    ],
+    "correct_index": 3,
+    "explanation": "Moon is a satellite, others are planets."
+  },
+  {
+    "id": 56,
+    "question": "Find the next term: 6, 12, 24, 48, ?",
+    "choices": [
+      "72",
+      "84",
+      "96",
+      "108"
+    ],
+    "correct_index": 2,
+    "explanation": "Numbers are doubled."
+  },
+  {
+    "id": 57,
+    "question": "If 2 March 2024 is Saturday, what day will be on 2 April 2024?",
+    "choices": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "correct_index": 1,
+    "explanation": "March has 31 days, remainder 3."
+  },
+  {
+    "id": 58,
+    "question": "Choose the odd one out.",
+    "choices": [
+      "Keyboard",
+      "Monitor",
+      "Printer",
+      "Table"
+    ],
+    "correct_index": 3,
+    "explanation": "Table is not a computer device."
   }
 ]

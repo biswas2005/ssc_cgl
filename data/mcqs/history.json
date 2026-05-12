@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "question": "Who was the founder of the Maurya Empire?",
+    "choices": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Harshavardhana"
+    ],
+    "correct_index": 1,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire."
+  },
+  {
+    "id": 2,
+    "question": "Who wrote the book Arthashastra?",
+    "choices": [
+      "Kalidasa",
+      "Banabhatta",
+      "Chanakya",
+      "Tulsidas"
+    ],
+    "correct_index": 2,
+    "explanation": "Arthashastra was written by Chanakya."
+  },
+  {
+    "id": 3,
+    "question": "Which battle established British supremacy in India?",
+    "choices": [
+      "Battle of Panipat",
+      "Battle of Plassey",
+      "Battle of Buxar",
+      "Battle of Haldighati"
+    ],
+    "correct_index": 1,
+    "explanation": "Battle of Plassey in 1757 established British control."
+  },
+  {
+    "id": 4,
+    "question": "Who was known as the Iron Man of India?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 2,
+    "explanation": "Patel integrated princely states."
+  },
+  {
+    "id": 5,
+    "question": "Who founded the Mughal Empire in India?",
+    "choices": [
+      "Akbar",
+      "Babur",
+      "Humayun",
+      "Sher Shah"
+    ],
+    "correct_index": 1,
+    "explanation": "Babur founded the Mughal Empire in 1526."
+  },
+  {
+    "id": 6,
+    "question": "Which Veda is the oldest?",
+    "choices": [
+      "Yajurveda",
+      "Samaveda",
+      "Atharvaveda",
+      "Rigveda"
+    ],
+    "correct_index": 3,
+    "explanation": "Rigveda is the oldest Veda."
+  },
+  {
+    "id": 7,
+    "question": "Who built the Taj Mahal?",
+    "choices": [
+      "Akbar",
+      "Shah Jahan",
+      "Aurangzeb",
+      "Jahangir"
+    ],
+    "correct_index": 1,
+    "explanation": "Shah Jahan built Taj Mahal."
+  },
+  {
+    "id": 8,
+    "question": "In which year did India gain independence?",
+    "choices": [
+      "1945",
+      "1946",
+      "1947",
+      "1950"
+    ],
+    "correct_index": 2,
+    "explanation": "India became independent in 1947."
+  },
+  {
+    "id": 9,
+    "question": "Who was the first President of independent India?",
+    "choices": [
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "S Radhakrishnan",
+      "Zakir Hussain"
+    ],
+    "correct_index": 0,
+    "explanation": "Rajendra Prasad was the first President."
+  },
+  {
+    "id": 10,
+    "question": "Which movement was started by Mahatma Gandhi in 1942?",
+    "choices": [
+      "Non Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement",
+      "Swadeshi Movement"
+    ],
+    "correct_index": 2,
+    "explanation": "Quit India Movement started in 1942."
+  },
+  {
+    "id": 11,
+    "question": "Who was the first Governor General of independent India?",
+    "choices": [
+      "Lord Mountbatten",
+      "C Rajagopalachari",
+      "Warren Hastings",
+      "William Bentinck"
+    ],
+    "correct_index": 0,
+    "explanation": "Mountbatten became first Governor General after independence."
+  },
+  {
+    "id": 12,
+    "question": "Which dynasty built the Khajuraho temples?",
+    "choices": [
+      "Chola",
+      "Chandela",
+      "Gupta",
+      "Maurya"
+    ],
+    "correct_index": 1,
+    "explanation": "Chandela rulers built Khajuraho temples."
+  },
+  {
+    "id": 13,
+    "question": "Who introduced the Permanent Settlement in Bengal?",
+    "choices": [
+      "Lord Curzon",
+      "Lord Dalhousie",
+      "Lord Cornwallis",
+      "Warren Hastings"
+    ],
+    "correct_index": 2,
+    "explanation": "Cornwallis introduced Permanent Settlement."
+  },
+  {
+    "id": 14,
+    "question": "Who was known as Frontier Gandhi?",
+    "choices": [
+      "Khan Abdul Ghaffar Khan",
+      "Maulana Azad",
+      "Subhas Chandra Bose",
+      "Lala Lajpat Rai"
+    ],
+    "correct_index": 0,
+    "explanation": "Khan Abdul Ghaffar Khan was called Frontier Gandhi."
+  },
+  {
+    "id": 15,
+    "question": "The Battle of Panipat in 1526 was fought between Babur and whom?",
+    "choices": [
+      "Rana Sanga",
+      "Ibrahim Lodi",
+      "Sher Shah",
+      "Daulat Khan"
+    ],
+    "correct_index": 1,
+    "explanation": "Babur defeated Ibrahim Lodi."
+  },
+  {
+    "id": 16,
+    "question": "Who founded the Gupta Empire?",
+    "choices": [
+      "Chandragupta I",
+      "Samudragupta",
+      "Skandagupta",
+      "Chandragupta II"
+    ],
+    "correct_index": 0,
+    "explanation": "Chandragupta I founded the Gupta Empire."
+  },
+  {
+    "id": 17,
+    "question": "Who gave the slogan \"Do or Die\"?",
+    "choices": [
+      "Bal Gangadhar Tilak",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru"
+    ],
+    "correct_index": 1,
+    "explanation": "Gandhi gave this slogan during Quit India Movement."
+  },
+  {
+    "id": 18,
+    "question": "Which ruler is known for his policy of Dhamma?",
+    "choices": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Harsha",
+      "Kanishka"
+    ],
+    "correct_index": 0,
+    "explanation": "Ashoka spread Dhamma after Kalinga war."
+  },
+  {
+    "id": 19,
+    "question": "Who was the first Indian to win the Nobel Prize?",
+    "choices": [
+      "Rabindranath Tagore",
+      "C V Raman",
+      "Mother Teresa",
+      "Amartya Sen"
+    ],
+    "correct_index": 0,
+    "explanation": "Tagore won Nobel Prize in Literature."
+  },
+  {
+    "id": 20,
+    "question": "Which Act transferred power from East India Company to the British Crown?",
+    "choices": [
+      "Regulating Act",
+      "Pitt India Act",
+      "Government of India Act 1858",
+      "Charter Act"
+    ],
+    "correct_index": 2,
+    "explanation": "Crown rule began after 1858."
+  },
+  {
+    "id": 21,
+    "question": "Who founded the Arya Samaj?",
+    "choices": [
+      "Swami Vivekananda",
+      "Dayanand Saraswati",
+      "Raja Ram Mohan Roy",
+      "Ramakrishna Paramhansa"
+    ],
+    "correct_index": 1,
+    "explanation": "Arya Samaj was founded in 1875."
+  },
+  {
+    "id": 22,
+    "question": "Which ruler built the Grand Trunk Road?",
+    "choices": [
+      "Akbar",
+      "Sher Shah Suri",
+      "Humayun",
+      "Babur"
+    ],
+    "correct_index": 1,
+    "explanation": "Sher Shah improved Grand Trunk Road."
+  },
+  {
+    "id": 23,
+    "question": "Who was the first woman ruler of Delhi Sultanate?",
+    "choices": [
+      "Nur Jahan",
+      "Razia Sultan",
+      "Chand Bibi",
+      "Rani Durgavati"
+    ],
+    "correct_index": 1,
+    "explanation": "Razia Sultan ruled Delhi Sultanate."
+  },
+  {
+    "id": 24,
+    "question": "The Jallianwala Bagh massacre took place in which year?",
+    "choices": [
+      "1917",
+      "1918",
+      "1919",
+      "1920"
+    ],
+    "correct_index": 2,
+    "explanation": "Massacre occurred on 13 April 1919."
+  },
+  {
+    "id": 25,
+    "question": "Who founded the Slave Dynasty?",
+    "choices": [
+      "Iltutmish",
+      "Balban",
+      "Qutubuddin Aibak",
+      "Razia Sultan"
+    ],
+    "correct_index": 2,
+    "explanation": "Qutubuddin Aibak founded the dynasty."
+  },
+  {
+    "id": 26,
+    "question": "Which Mughal emperor banned music in his court?",
+    "choices": [
+      "Akbar",
+      "Shah Jahan",
+      "Jahangir",
+      "Aurangzeb"
+    ],
+    "correct_index": 3,
+    "explanation": "Aurangzeb discouraged music."
+  },
+  {
+    "id": 27,
+    "question": "Who presided over the Lahore Session of Congress in 1929?",
+    "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Subhas Chandra Bose"
+    ],
+    "correct_index": 1,
+    "explanation": "Nehru presided over Lahore Session."
+  },
+  {
+    "id": 28,
+    "question": "Which ancient university was located in Bihar?",
+    "choices": [
+      "Taxila",
+      "Nalanda",
+      "Vikramshila",
+      "Vallabhi"
+    ],
+    "correct_index": 1,
+    "explanation": "Nalanda University was in Bihar."
+  },
+  {
+    "id": 29,
+    "question": "Who introduced the Doctrine of Lapse?",
+    "choices": [
+      "Lord Curzon",
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord Ripon"
+    ],
+    "correct_index": 2,
+    "explanation": "Dalhousie introduced Doctrine of Lapse."
+  },
+  {
+    "id": 30,
+    "question": "Who was called the Nightingale of India?",
+    "choices": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Kasturba Gandhi",
+      "Aruna Asaf Ali"
+    ],
+    "correct_index": 1,
+    "explanation": "Sarojini Naidu was known for poetry."
+  },
+  {
+    "id": 31,
+    "question": "Which king defeated Harshavardhana on the banks of Narmada?",
+    "choices": [
+      "Pulakesin II",
+      "Rajaraja Chola",
+      "Krishnadevaraya",
+      "Samudragupta"
+    ],
+    "correct_index": 0,
+    "explanation": "Pulakesin II stopped Harsha's expansion."
+  },
+  {
+    "id": 32,
+    "question": "Who founded the Brahmo Samaj?",
+    "choices": [
+      "Swami Vivekananda",
+      "Raja Ram Mohan Roy",
+      "Ishwar Chandra Vidyasagar",
+      "Dayanand Saraswati"
+    ],
+    "correct_index": 1,
+    "explanation": "Brahmo Samaj promoted social reform."
+  },
+  {
+    "id": 33,
+    "question": "The capital of Vijayanagara Empire was?",
+    "choices": [
+      "Mysore",
+      "Hampi",
+      "Madurai",
+      "Kanchipuram"
+    ],
+    "correct_index": 1,
+    "explanation": "Hampi was the capital city."
+  },
+  {
+    "id": 34,
+    "question": "Who among the following was known as Sher Khan?",
+    "choices": [
+      "Babur",
+      "Humayun",
+      "Sher Shah Suri",
+      "Akbar"
+    ],
+    "correct_index": 2,
+    "explanation": "Sher Shah was originally called Sher Khan."
+  },
+  {
+    "id": 35,
+    "question": "Which session of Congress demanded Poorna Swaraj?",
+    "choices": [
+      "Surat Session",
+      "Lahore Session",
+      "Karachi Session",
+      "Calcutta Session"
+    ],
+    "correct_index": 1,
+    "explanation": "Lahore Session adopted Poorna Swaraj resolution."
+  },
+  {
+    "id": 36,
+    "question": "Who wrote Anandamath?",
+    "choices": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Sarat Chandra",
+      "Premchand"
+    ],
+    "correct_index": 1,
+    "explanation": "Anandamath contains Vande Mataram."
+  },
+  {
+    "id": 37,
+    "question": "Who was the founder of the Sikh religion?",
+    "choices": [
+      "Guru Gobind Singh",
+      "Guru Nanak",
+      "Guru Arjan Dev",
+      "Guru Tegh Bahadur"
+    ],
+    "correct_index": 1,
+    "explanation": "Guru Nanak founded Sikhism."
+  },
+  {
+    "id": 38,
+    "question": "Which ruler shifted the capital from Delhi to Daulatabad?",
+    "choices": [
+      "Alauddin Khilji",
+      "Muhammad bin Tughlaq",
+      "Firoz Shah Tughlaq",
+      "Balban"
+    ],
+    "correct_index": 1,
+    "explanation": "Muhammad bin Tughlaq shifted the capital."
+  },
+  {
+    "id": 39,
+    "question": "Who was the first Indian Governor General of India?",
+    "choices": [
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "C Rajagopalachari",
+      "Sardar Patel"
+    ],
+    "correct_index": 2,
+    "explanation": "Rajagopalachari succeeded Mountbatten."
+  },
+  {
+    "id": 40,
+    "question": "Which movement was associated with indigo farmers?",
+    "choices": [
+      "Bardoli Movement",
+      "Champaran Movement",
+      "Swadeshi Movement",
+      "Khilafat Movement"
+    ],
+    "correct_index": 1,
+    "explanation": "Gandhi supported indigo farmers in Champaran."
+  },
+  {
+    "id": 41,
+    "question": "Who built the Sun Temple at Konark?",
+    "choices": [
+      "Narasimhadeva I",
+      "Krishnadevaraya",
+      "Rajaraja Chola",
+      "Ashoka"
+    ],
+    "correct_index": 0,
+    "explanation": "Konark Temple was built in Odisha."
+  },
+  {
+    "id": 42,
+    "question": "Who among the following translated Ramayana into Persian?",
+    "choices": [
+      "Abul Fazl",
+      "Faizi",
+      "Badauni",
+      "Dara Shikoh"
+    ],
+    "correct_index": 2,
+    "explanation": "Badauni translated Ramayana into Persian."
+  },
+  {
+    "id": 43,
+    "question": "The partition of Bengal took place in which year?",
+    "choices": [
+      "1903",
+      "1905",
+      "1907",
+      "1911"
+    ],
+    "correct_index": 1,
+    "explanation": "Bengal partition happened in 1905."
+  },
+  {
+    "id": 44,
+    "question": "Who established the Satavahana dynasty?",
+    "choices": [
+      "Gautamiputra Satakarni",
+      "Simuka",
+      "Pulumavi",
+      "Hala"
+    ],
+    "correct_index": 1,
+    "explanation": "Simuka founded the dynasty."
+  },
+  {
+    "id": 45,
+    "question": "Which Mughal emperor introduced Din i Ilahi?",
+    "choices": [
+      "Humayun",
+      "Babur",
+      "Akbar",
+      "Jahangir"
+    ],
+    "correct_index": 2,
+    "explanation": "Akbar started Din i Ilahi."
+  },
+  {
+    "id": 46,
+    "question": "Who was the founder of the Khilji dynasty?",
+    "choices": [
+      "Jalaluddin Khilji",
+      "Alauddin Khilji",
+      "Balban",
+      "Qutubuddin Aibak"
+    ],
+    "correct_index": 0,
+    "explanation": "Jalaluddin Khilji founded the dynasty."
+  },
+  {
+    "id": 47,
+    "question": "Which freedom fighter gave the slogan \"Jai Hind\"?",
+    "choices": [
+      "Bhagat Singh",
+      "Subhas Chandra Bose",
+      "Gandhi",
+      "Tilak"
+    ],
+    "correct_index": 1,
+    "explanation": "Subhas popularized Jai Hind."
+  },
+  {
+    "id": 48,
+    "question": "Who composed the national song Vande Mataram?",
+    "choices": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chattopadhyay",
+      "Iqbal",
+      "Sarat Chandra"
+    ],
+    "correct_index": 1,
+    "explanation": "Vande Mataram was written in Anandamath."
+  },
+  {
+    "id": 49,
+    "question": "Which dynasty is famous for Brihadeshwara Temple?",
+    "choices": [
+      "Chola",
+      "Pallava",
+      "Gupta",
+      "Maurya"
+    ],
+    "correct_index": 0,
+    "explanation": "Rajaraja Chola built the temple."
+  },
+  {
+    "id": 50,
+    "question": "Who among the following attended all the three Round Table Conferences?",
+    "choices": [
+      "Mahatma Gandhi",
+      "B R Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "correct_index": 1,
+    "explanation": "Ambedkar attended all conferences."
+  },
+  {
+    "id": 51,
+    "question": "Which battle marked the end of Vijayanagara Empire?",
+    "choices": [
+      "Battle of Talikota",
+      "Battle of Panipat",
+      "Battle of Plassey",
+      "Battle of Buxar"
+    ],
+    "correct_index": 0,
+    "explanation": "Vijayanagara declined after Talikota battle."
+  },
+  {
+    "id": 52,
+    "question": "Who was the first woman president of Indian National Congress?",
+    "choices": [
+      "Annie Besant",
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Vijayalakshmi Pandit"
+    ],
+    "correct_index": 0,
+    "explanation": "Annie Besant became Congress president in 1917."
+  },
+  {
+    "id": 53,
+    "question": "Which governor general abolished Sati?",
+    "choices": [
+      "Lord Dalhousie",
+      "Lord Curzon",
+      "Lord William Bentinck",
+      "Warren Hastings"
+    ],
+    "correct_index": 2,
+    "explanation": "Sati was abolished in 1829."
+  },
+  {
+    "id": 54,
+    "question": "Who was the court poet of Samudragupta?",
+    "choices": [
+      "Harisena",
+      "Kalidasa",
+      "Banabhatta",
+      "Vishakhadatta"
+    ],
+    "correct_index": 0,
+    "explanation": "Harisena wrote Allahabad inscription."
+  }
+]

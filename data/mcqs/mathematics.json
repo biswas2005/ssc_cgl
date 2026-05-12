@@ -2,15 +2,1849 @@
   {
     "id": 1,
     "question": "What is the square root of 144?",
-    "choices": ["10", "12", "14", "16"],
+    "choices": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
     "correct_index": 1,
     "explanation": "12 × 12 = 144, so the square root is 12."
   },
   {
     "id": 2,
     "question": "If x + 5 = 12, what is x?",
-    "choices": ["5", "6", "7", "8"],
+    "choices": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
     "correct_index": 2,
     "explanation": "Subtract 5 from both sides: x = 12 - 5 = 7."
+  },
+  {
+    "id": 3,
+    "question": "What is the value of sin 30?",
+    "choices": [
+      "1",
+      "root3/2",
+      "1/2",
+      "0"
+    ],
+    "correct_index": 2,
+    "explanation": "sin 30 equals 1/2."
+  },
+  {
+    "id": 4,
+    "question": "What is the value of cos 60?",
+    "choices": [
+      "root3/2",
+      "1/2",
+      "0",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "cos 60 equals 1/2."
+  },
+  {
+    "id": 5,
+    "question": "What is the value of tan 45?",
+    "choices": [
+      "0",
+      "root3",
+      "1",
+      "1/root3"
+    ],
+    "correct_index": 2,
+    "explanation": "tan 45 equals 1."
+  },
+  {
+    "id": 6,
+    "question": "What is the value of cosec 30?",
+    "choices": [
+      "2",
+      "root3",
+      "1",
+      "1/2"
+    ],
+    "correct_index": 0,
+    "explanation": "cosec 30 is reciprocal of sin 30."
+  },
+  {
+    "id": 7,
+    "question": "What is the value of sec 60?",
+    "choices": [
+      "1",
+      "2",
+      "root3",
+      "1/2"
+    ],
+    "correct_index": 1,
+    "explanation": "sec 60 is reciprocal of cos 60."
+  },
+  {
+    "id": 8,
+    "question": "What is the value of cot 45?",
+    "choices": [
+      "0",
+      "1",
+      "root3",
+      "1/root3"
+    ],
+    "correct_index": 1,
+    "explanation": "cot 45 equals 1."
+  },
+  {
+    "id": 9,
+    "question": "What is the value of sin 90?",
+    "choices": [
+      "1",
+      "0",
+      "root3/2",
+      "1/2"
+    ],
+    "correct_index": 0,
+    "explanation": "sin 90 equals 1."
+  },
+  {
+    "id": 10,
+    "question": "What is the value of cos 0?",
+    "choices": [
+      "0",
+      "1/2",
+      "1",
+      "root3/2"
+    ],
+    "correct_index": 2,
+    "explanation": "cos 0 equals 1."
+  },
+  {
+    "id": 11,
+    "question": "What is the value of tan 30?",
+    "choices": [
+      "root3",
+      "1",
+      "1/root3",
+      "0"
+    ],
+    "correct_index": 2,
+    "explanation": "tan 30 equals 1/root3."
+  },
+  {
+    "id": 12,
+    "question": "What is the value of cot 60?",
+    "choices": [
+      "1/root3",
+      "root3",
+      "1",
+      "2"
+    ],
+    "correct_index": 0,
+    "explanation": "cot 60 equals 1/root3."
+  },
+  {
+    "id": 13,
+    "question": "What is the value of sec 0?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "root3"
+    ],
+    "correct_index": 1,
+    "explanation": "sec 0 is reciprocal of cos 0."
+  },
+  {
+    "id": 14,
+    "question": "What is the value of cosec 90?",
+    "choices": [
+      "0",
+      "2",
+      "1",
+      "root3"
+    ],
+    "correct_index": 2,
+    "explanation": "cosec 90 is reciprocal of sin 90."
+  },
+  {
+    "id": 15,
+    "question": "What is the value of sin 60?",
+    "choices": [
+      "1/2",
+      "root3/2",
+      "1",
+      "0"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 60 equals root3/2."
+  },
+  {
+    "id": 16,
+    "question": "What is the value of cos 30?",
+    "choices": [
+      "1/2",
+      "1",
+      "root3/2",
+      "0"
+    ],
+    "correct_index": 2,
+    "explanation": "cos 30 equals root3/2."
+  },
+  {
+    "id": 17,
+    "question": "What is the value of tan 60?",
+    "choices": [
+      "root3",
+      "1",
+      "1/root3",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "tan 60 equals root3."
+  },
+  {
+    "id": 18,
+    "question": "What is the value of sin 45?",
+    "choices": [
+      "1/2",
+      "root2/2",
+      "root3/2",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 45 equals root2/2."
+  },
+  {
+    "id": 19,
+    "question": "What is the value of cos 45?",
+    "choices": [
+      "root2/2",
+      "1/2",
+      "1",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "cos 45 equals root2/2."
+  },
+  {
+    "id": 20,
+    "question": "If sin A = 3/5 then cos A equals?",
+    "choices": [
+      "4/5",
+      "3/5",
+      "5/4",
+      "1/5"
+    ],
+    "correct_index": 0,
+    "explanation": "Using Pythagoras theorem cos A equals 4/5."
+  },
+  {
+    "id": 21,
+    "question": "If cos A = 12/13 then sin A equals?",
+    "choices": [
+      "12/13",
+      "5/13",
+      "13/5",
+      "1/13"
+    ],
+    "correct_index": 1,
+    "explanation": "Using identity sin square A plus cos square A equals 1."
+  },
+  {
+    "id": 22,
+    "question": "What is the value of sin square 30 plus cos square 30?",
+    "choices": [
+      "0",
+      "2",
+      "1",
+      "1/2"
+    ],
+    "correct_index": 2,
+    "explanation": "sin square A plus cos square A always equals 1."
+  },
+  {
+    "id": 23,
+    "question": "What is the value of 1 plus tan square 45?",
+    "choices": [
+      "1",
+      "2",
+      "root2",
+      "0"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 45 equals 1 so answer is 2."
+  },
+  {
+    "id": 24,
+    "question": "What is the value of sec square 45?",
+    "choices": [
+      "1",
+      "2",
+      "root2",
+      "4"
+    ],
+    "correct_index": 1,
+    "explanation": "sec square A equals 1 plus tan square A."
+  },
+  {
+    "id": 25,
+    "question": "What is the value of sin 30 cos 60 plus cos 30 sin 60?",
+    "choices": [
+      "0",
+      "1",
+      "1/2",
+      "root3/2"
+    ],
+    "correct_index": 1,
+    "explanation": "Using sin A cos B plus cos A sin B equals sin A plus B."
+  },
+  {
+    "id": 26,
+    "question": "What is the value of cos 30 cos 60 minus sin 30 sin 60?",
+    "choices": [
+      "1",
+      "1/2",
+      "0",
+      "root3/2"
+    ],
+    "correct_index": 2,
+    "explanation": "Using cos A cos B minus sin A sin B equals cos A plus B."
+  },
+  {
+    "id": 27,
+    "question": "What is the value of tan 45 tan 45?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "root2"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 45 equals 1."
+  },
+  {
+    "id": 28,
+    "question": "What is the value of sin 0 plus cos 0?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "root2"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 0 is 0 and cos 0 is 1."
+  },
+  {
+    "id": 29,
+    "question": "What is the value of tan 0?",
+    "choices": [
+      "1",
+      "root3",
+      "0",
+      "Undefined"
+    ],
+    "correct_index": 2,
+    "explanation": "tan 0 equals 0."
+  },
+  {
+    "id": 30,
+    "question": "What is the value of cot 90?",
+    "choices": [
+      "1",
+      "0",
+      "Undefined",
+      "root3"
+    ],
+    "correct_index": 1,
+    "explanation": "cot 90 equals cos 90 divided by sin 90."
+  },
+  {
+    "id": 31,
+    "question": "What is the value of sec 90?",
+    "choices": [
+      "0",
+      "1",
+      "Undefined",
+      "2"
+    ],
+    "correct_index": 2,
+    "explanation": "cos 90 is 0 so sec 90 is undefined."
+  },
+  {
+    "id": 32,
+    "question": "What is the value of cosec 0?",
+    "choices": [
+      "1",
+      "0",
+      "2",
+      "Undefined"
+    ],
+    "correct_index": 3,
+    "explanation": "sin 0 is 0 so cosec 0 is undefined."
+  },
+  {
+    "id": 33,
+    "question": "If tan A = 1/root3 then A equals?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 0,
+    "explanation": "tan 30 equals 1/root3."
+  },
+  {
+    "id": 34,
+    "question": "If sec A = 2 then A equals?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 2,
+    "explanation": "sec 60 equals 2."
+  },
+  {
+    "id": 35,
+    "question": "What is the value of sin 30 divided by cos 30?",
+    "choices": [
+      "1",
+      "root3",
+      "1/root3",
+      "2"
+    ],
+    "correct_index": 2,
+    "explanation": "sin A divided by cos A equals tan A."
+  },
+  {
+    "id": 36,
+    "question": "What is the value of cos 60 divided by sin 60?",
+    "choices": [
+      "1/root3",
+      "root3",
+      "1",
+      "2"
+    ],
+    "correct_index": 0,
+    "explanation": "cos A divided by sin A equals cot A."
+  },
+  {
+    "id": 37,
+    "question": "If sin A = 4/5 then tan A equals?",
+    "choices": [
+      "3/4",
+      "4/3",
+      "5/4",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "cos A equals 3/5 so tan A equals 4/3."
+  },
+  {
+    "id": 38,
+    "question": "If tan A = 3/4 then sec A equals?",
+    "choices": [
+      "3/5",
+      "4/5",
+      "5/4",
+      "5/3"
+    ],
+    "correct_index": 2,
+    "explanation": "Using triangle sides 3 4 and 5 sec A equals 5/4."
+  },
+  {
+    "id": 39,
+    "question": "What is the value of sin 60 cos 30?",
+    "choices": [
+      "1/2",
+      "3/4",
+      "root3/2",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "root3/2 multiplied by root3/2 equals 3/4."
+  },
+  {
+    "id": 40,
+    "question": "What is the value of tan 30 cot 30?",
+    "choices": [
+      "0",
+      "1",
+      "root3",
+      "3"
+    ],
+    "correct_index": 1,
+    "explanation": "tan A multiplied by cot A equals 1."
+  },
+  {
+    "id": 41,
+    "question": "If a ladder 10 m long reaches a wall at 8 m height then sin theta equals?",
+    "choices": [
+      "4/5",
+      "3/5",
+      "5/4",
+      "1"
+    ],
+    "correct_index": 0,
+    "explanation": "Opposite divided by hypotenuse equals 8/10."
+  },
+  {
+    "id": 42,
+    "question": "A pole casts a shadow equal to its height. What is the angle of elevation of the sun?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 1,
+    "explanation": "tan theta equals 1 so theta is 45."
+  },
+  {
+    "id": 43,
+    "question": "If the angle of elevation of a tower top is 60 and distance from tower is 10 m then height equals?",
+    "choices": [
+      "10/root3",
+      "10",
+      "10 root3",
+      "20"
+    ],
+    "correct_index": 2,
+    "explanation": "tan 60 equals height divided by 10."
+  },
+  {
+    "id": 44,
+    "question": "What is the complementary angle of 35?",
+    "choices": [
+      "45",
+      "55",
+      "65",
+      "75"
+    ],
+    "correct_index": 1,
+    "explanation": "Complementary angles add to 90."
+  },
+  {
+    "id": 45,
+    "question": "What is the value of sin 20 cos 70 plus cos 20 sin 70?",
+    "choices": [
+      "0",
+      "1/2",
+      "1",
+      "root3/2"
+    ],
+    "correct_index": 2,
+    "explanation": "Using sin A plus B identity."
+  },
+  {
+    "id": 46,
+    "question": "What is the value of cos 20 cos 70 minus sin 20 sin 70?",
+    "choices": [
+      "1",
+      "0",
+      "1/2",
+      "root3/2"
+    ],
+    "correct_index": 1,
+    "explanation": "Using cos A plus B identity."
+  },
+  {
+    "id": 47,
+    "question": "If sin A = cos A then A equals?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 45 equals cos 45."
+  },
+  {
+    "id": 48,
+    "question": "What is the value of tan 60 minus cot 60?",
+    "choices": [
+      "0",
+      "2/root3",
+      "root3",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 60 is root3 and cot 60 is 1/root3."
+  },
+  {
+    "id": 49,
+    "question": "What is the value of sec square 30 minus tan square 30?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "root3"
+    ],
+    "correct_index": 1,
+    "explanation": "sec square A minus tan square A equals 1."
+  },
+  {
+    "id": 50,
+    "question": "A man observes the top of a building at 45 angle from 20 m away. Find the height.",
+    "choices": [
+      "10 m",
+      "20 m",
+      "30 m",
+      "40 m"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 45 equals height divided by 20."
+  },
+  {
+    "id": 51,
+    "question": "If cot A = root3 then A equals?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 0,
+    "explanation": "cot 30 equals root3."
+  },
+  {
+    "id": 52,
+    "question": "What is the value of sin square 45?",
+    "choices": [
+      "1/2",
+      "1",
+      "root2",
+      "2"
+    ],
+    "correct_index": 0,
+    "explanation": "sin 45 equals root2/2."
+  },
+  {
+    "id": 53,
+    "question": "What is the value of cos square 60?",
+    "choices": [
+      "1",
+      "1/2",
+      "1/4",
+      "3/4"
+    ],
+    "correct_index": 2,
+    "explanation": "cos 60 equals 1/2 so square is 1/4."
+  },
+  {
+    "id": 54,
+    "question": "What is the value of tan 45 plus cot 45?",
+    "choices": [
+      "1",
+      "2",
+      "root2",
+      "0"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 45 and cot 45 both equal 1."
+  },
+  {
+    "id": 55,
+    "question": "If sin A = 5/13 and A is acute then find tan A.",
+    "choices": [
+      "5/12",
+      "12/5",
+      "13/12",
+      "12/13"
+    ],
+    "correct_index": 0,
+    "explanation": "cos A equals 12/13 so tan A equals 5/12."
+  },
+  {
+    "id": 56,
+    "question": "If tan A = 7/24 then sec A equals?",
+    "choices": [
+      "24/25",
+      "25/24",
+      "7/25",
+      "25/7"
+    ],
+    "correct_index": 1,
+    "explanation": "Using Pythagorean triplet 7 24 25."
+  },
+  {
+    "id": 57,
+    "question": "What is the value of sin 75?",
+    "choices": [
+      "root2/2",
+      "root3/2",
+      "root6+root2/4",
+      "root6-root2/4"
+    ],
+    "correct_index": 2,
+    "explanation": "Using sin A plus B formula."
+  },
+  {
+    "id": 58,
+    "question": "What is the value of cos 75?",
+    "choices": [
+      "root6-root2/4",
+      "root6+root2/4",
+      "root3/2",
+      "root2/2"
+    ],
+    "correct_index": 0,
+    "explanation": "Using cos A plus B formula."
+  },
+  {
+    "id": 59,
+    "question": "What is the value of tan 75?",
+    "choices": [
+      "2+root3",
+      "2-root3",
+      "root3",
+      "1"
+    ],
+    "correct_index": 0,
+    "explanation": "Using tan A plus B formula."
+  },
+  {
+    "id": 60,
+    "question": "If sin A + cos A = root2 then A equals?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 1,
+    "explanation": "Maximum value occurs at 45."
+  },
+  {
+    "id": 61,
+    "question": "What is the value of sin 15?",
+    "choices": [
+      "root6-root2/4",
+      "root6+root2/4",
+      "root3/2",
+      "1/2"
+    ],
+    "correct_index": 0,
+    "explanation": "Using sin A minus B formula."
+  },
+  {
+    "id": 62,
+    "question": "What is the value of cos 15?",
+    "choices": [
+      "root6-root2/4",
+      "root6+root2/4",
+      "root2/2",
+      "root3/2"
+    ],
+    "correct_index": 1,
+    "explanation": "Using cos A minus B formula."
+  },
+  {
+    "id": 63,
+    "question": "If tan A + cot A = 10 then tan square A + cot square A equals?",
+    "choices": [
+      "98",
+      "100",
+      "96",
+      "90"
+    ],
+    "correct_index": 0,
+    "explanation": "Using identity a square plus b square equals a+b whole square minus 2ab."
+  },
+  {
+    "id": 64,
+    "question": "What is the value of sin 2A when sin A = 3/5 and cos A = 4/5?",
+    "choices": [
+      "12/25",
+      "24/25",
+      "7/25",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 2A equals 2 sin A cos A."
+  },
+  {
+    "id": 65,
+    "question": "What is the value of cos 2A if tan A = 3/4?",
+    "choices": [
+      "7/25",
+      "24/25",
+      "16/25",
+      "1/25"
+    ],
+    "correct_index": 0,
+    "explanation": "cos 2A equals cos square A minus sin square A."
+  },
+  {
+    "id": 66,
+    "question": "If sec A + tan A = 5 then sec A - tan A equals?",
+    "choices": [
+      "1/5",
+      "5",
+      "1",
+      "25"
+    ],
+    "correct_index": 0,
+    "explanation": "sec square A minus tan square A equals 1."
+  },
+  {
+    "id": 67,
+    "question": "What is the value of tan 15?",
+    "choices": [
+      "2+root3",
+      "2-root3",
+      "root3-1",
+      "1/root3"
+    ],
+    "correct_index": 1,
+    "explanation": "Using tan A minus B formula."
+  },
+  {
+    "id": 68,
+    "question": "If sin A = 8/17 then cosec A - cot A equals?",
+    "choices": [
+      "1/4",
+      "1/8",
+      "1/2",
+      "2"
+    ],
+    "correct_index": 0,
+    "explanation": "cosec A equals 17/8 and cot A equals 15/8."
+  },
+  {
+    "id": 69,
+    "question": "What is the value of cos square 30 minus sin square 30?",
+    "choices": [
+      "1/2",
+      "root3/2",
+      "1",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "This equals cos 60."
+  },
+  {
+    "id": 70,
+    "question": "If tan A = 1/2 then sin A equals?",
+    "choices": [
+      "1/root5",
+      "2/root5",
+      "1/5",
+      "2/5"
+    ],
+    "correct_index": 0,
+    "explanation": "Using triangle sides 1 root5 and 2."
+  },
+  {
+    "id": 71,
+    "question": "What is the value of sec 45 + tan 45?",
+    "choices": [
+      "root2+1",
+      "root2-1",
+      "2",
+      "root3"
+    ],
+    "correct_index": 0,
+    "explanation": "sec 45 equals root2 and tan 45 equals 1."
+  },
+  {
+    "id": 72,
+    "question": "What is the value of cosec 45 - cot 45?",
+    "choices": [
+      "root2-1",
+      "root2+1",
+      "1",
+      "2"
+    ],
+    "correct_index": 0,
+    "explanation": "cosec 45 equals root2 and cot 45 equals 1."
+  },
+  {
+    "id": 73,
+    "question": "If sin A = 12/13 then find cos 2A.",
+    "choices": [
+      "25/169",
+      "-119/169",
+      "119/169",
+      "-25/169"
+    ],
+    "correct_index": 3,
+    "explanation": "cos 2A equals cos square A minus sin square A."
+  },
+  {
+    "id": 74,
+    "question": "What is the value of sin 45 cos 45?",
+    "choices": [
+      "1/4",
+      "1/2",
+      "root2/2",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "Product equals 1/2."
+  },
+  {
+    "id": 75,
+    "question": "If tan A = root3 then sin 2A equals?",
+    "choices": [
+      "1",
+      "root3/2",
+      "1/2",
+      "0"
+    ],
+    "correct_index": 1,
+    "explanation": "A equals 60 so 2A equals 120."
+  },
+  {
+    "id": 76,
+    "question": "What is the value of cos 120?",
+    "choices": [
+      "1/2",
+      "-1/2",
+      "root3/2",
+      "-root3/2"
+    ],
+    "correct_index": 1,
+    "explanation": "cos 120 equals minus cos 60."
+  },
+  {
+    "id": 77,
+    "question": "If sec A = 13/5 then tan A equals?",
+    "choices": [
+      "5/12",
+      "12/5",
+      "13/12",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "Using sec square A minus tan square A equals 1."
+  },
+  {
+    "id": 78,
+    "question": "What is the value of sin A cos A if tan A = 1?",
+    "choices": [
+      "1",
+      "1/4",
+      "1/2",
+      "root2/2"
+    ],
+    "correct_index": 2,
+    "explanation": "A equals 45 so product is 1/2."
+  },
+  {
+    "id": 79,
+    "question": "If tan A = 4 then find sin A cos A.",
+    "choices": [
+      "4/17",
+      "8/17",
+      "16/17",
+      "1/17"
+    ],
+    "correct_index": 1,
+    "explanation": "sin A cos A equals tan A divided by 1 plus tan square A."
+  },
+  {
+    "id": 80,
+    "question": "A tower casts a shadow 20 m long when angle of elevation is 45. Find height.",
+    "choices": [
+      "10 m",
+      "20 m",
+      "20 root3 m",
+      "40 m"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 45 equals height divided by shadow."
+  },
+  {
+    "id": 81,
+    "question": "A ladder reaches the top of a wall 12 m high and makes 30 angle with ground. Find ladder length.",
+    "choices": [
+      "12 m",
+      "18 m",
+      "24 m",
+      "20 m"
+    ],
+    "correct_index": 2,
+    "explanation": "sin 30 equals 12 divided by ladder length."
+  },
+  {
+    "id": 82,
+    "question": "From a point 50 m away angle of elevation of a tower is 60. Find tower height.",
+    "choices": [
+      "50/root3",
+      "25 root3",
+      "50 root3",
+      "100"
+    ],
+    "correct_index": 2,
+    "explanation": "tan 60 equals height divided by 50."
+  },
+  {
+    "id": 83,
+    "question": "What is the value of tan A if sin A = 15/17?",
+    "choices": [
+      "8/15",
+      "15/8",
+      "17/8",
+      "15/17"
+    ],
+    "correct_index": 1,
+    "explanation": "cos A equals 8/17."
+  },
+  {
+    "id": 84,
+    "question": "If cos A = 3/5 then tan A + sec A equals?",
+    "choices": [
+      "3",
+      "2",
+      "7/3",
+      "5/3"
+    ],
+    "correct_index": 2,
+    "explanation": "tan A equals 4/3 and sec A equals 5/3."
+  },
+  {
+    "id": 85,
+    "question": "What is the value of sin 2A if tan A = 5/12?",
+    "choices": [
+      "60/169",
+      "120/169",
+      "119/169",
+      "25/169"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 2A equals 2 tan A divided by 1 plus tan square A."
+  },
+  {
+    "id": 86,
+    "question": "What is the value of cos 2A if sin A = 5/13?",
+    "choices": [
+      "119/169",
+      "-119/169",
+      "25/169",
+      "-25/169"
+    ],
+    "correct_index": 0,
+    "explanation": "cos 2A equals 1 minus 2 sin square A."
+  },
+  {
+    "id": 87,
+    "question": "If cot A = 8/15 then cosec A equals?",
+    "choices": [
+      "15/17",
+      "17/15",
+      "8/17",
+      "17/8"
+    ],
+    "correct_index": 1,
+    "explanation": "Using triangle sides 8 15 and 17."
+  },
+  {
+    "id": 88,
+    "question": "What is the value of tan square 30 plus tan square 60?",
+    "choices": [
+      "2",
+      "4/3",
+      "10/3",
+      "3"
+    ],
+    "correct_index": 2,
+    "explanation": "tan square 30 is 1/3 and tan square 60 is 3."
+  },
+  {
+    "id": 89,
+    "question": "What is the value of sec square 60 minus cosec square 30?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 0,
+    "explanation": "Both terms equal 4."
+  },
+  {
+    "id": 90,
+    "question": "If tan A = 3 then cot A equals?",
+    "choices": [
+      "3",
+      "1/3",
+      "1",
+      "root3"
+    ],
+    "correct_index": 1,
+    "explanation": "cot A is reciprocal of tan A."
+  },
+  {
+    "id": 91,
+    "question": "What is the value of sin 30 sec 60?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "1/2"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 30 is 1/2 and sec 60 is 2."
+  },
+  {
+    "id": 92,
+    "question": "If sin A = 7/25 then find sec A.",
+    "choices": [
+      "24/25",
+      "25/24",
+      "7/24",
+      "25/7"
+    ],
+    "correct_index": 1,
+    "explanation": "cos A equals 24/25."
+  },
+  {
+    "id": 93,
+    "question": "What is the value of tan 45 divided by sec 60?",
+    "choices": [
+      "1/2",
+      "1",
+      "2",
+      "root2"
+    ],
+    "correct_index": 0,
+    "explanation": "tan 45 is 1 and sec 60 is 2."
+  },
+  {
+    "id": 94,
+    "question": "What is the value of sin square 60 minus cos square 60?",
+    "choices": [
+      "1/2",
+      "0",
+      "1",
+      "root3/2"
+    ],
+    "correct_index": 0,
+    "explanation": "3/4 minus 1/4 equals 1/2."
+  },
+  {
+    "id": 95,
+    "question": "If sin A = 4/5 and cos B = 4/5 for acute angles then A and B are?",
+    "choices": [
+      "Equal",
+      "Complementary",
+      "Supplementary",
+      "None"
+    ],
+    "correct_index": 1,
+    "explanation": "sin A equals cos B means A plus B equals 90."
+  },
+  {
+    "id": 96,
+    "question": "What is the value of sin 75 cos 15 minus cos 75 sin 15?",
+    "choices": [
+      "1",
+      "root3/2",
+      "1/2",
+      "0"
+    ],
+    "correct_index": 1,
+    "explanation": "Using sin A minus B identity."
+  },
+  {
+    "id": 97,
+    "question": "If sec A = root2 then A equals?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 1,
+    "explanation": "sec 45 equals root2."
+  },
+  {
+    "id": 98,
+    "question": "What is the value of tan 60 plus cot 60?",
+    "choices": [
+      "2/root3",
+      "4/root3",
+      "root3",
+      "2 root3"
+    ],
+    "correct_index": 1,
+    "explanation": "root3 plus 1/root3 equals 4/root3."
+  },
+  {
+    "id": 99,
+    "question": "If sin A - cos A = 0 then A equals?",
+    "choices": [
+      "30",
+      "45",
+      "60",
+      "90"
+    ],
+    "correct_index": 1,
+    "explanation": "sin A equals cos A at 45."
+  },
+  {
+    "id": 100,
+    "question": "A man 30 m away from a tower observes its top at 30 angle. Find tower height.",
+    "choices": [
+      "10 root3 m",
+      "30/root3 m",
+      "30 root3 m",
+      "15 m"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 30 equals height divided by 30."
+  },
+  {
+    "id": 101,
+    "question": "What is the value of cos 2A when A = 45?",
+    "choices": [
+      "1",
+      "0",
+      "-1",
+      "1/2"
+    ],
+    "correct_index": 1,
+    "explanation": "cos 90 equals 0."
+  },
+  {
+    "id": 102,
+    "question": "If tan A = 12/5 then sin A equals?",
+    "choices": [
+      "5/13",
+      "12/13",
+      "13/12",
+      "12/5"
+    ],
+    "correct_index": 1,
+    "explanation": "Using triangle sides 5 12 and 13."
+  },
+  {
+    "id": 103,
+    "question": "What is the value of sin 30 + cos 60 + tan 45?",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 1,
+    "explanation": "1/2 plus 1/2 plus 1 equals 2."
+  },
+  {
+    "id": 104,
+    "question": "If cosec A = 5/3 then cot A equals?",
+    "choices": [
+      "3/4",
+      "4/3",
+      "5/4",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "Using cosec square A minus cot square A equals 1."
+  },
+  {
+    "id": 105,
+    "question": "What is the value of sec 30 cosec 60?",
+    "choices": [
+      "1",
+      "2",
+      "4/3",
+      "root3"
+    ],
+    "correct_index": 2,
+    "explanation": "sec 30 is 2/root3 and cosec 60 is 2/root3."
+  },
+  {
+    "id": 106,
+    "question": "If tan A = 1/2 and A is acute then find the value of sin A + cos A.",
+    "choices": [
+      "3/root5",
+      "root5/3",
+      "1/root5",
+      "2/root5"
+    ],
+    "correct_index": 0,
+    "explanation": "sin A equals 1/root5 and cos A equals 2/root5."
+  },
+  {
+    "id": 107,
+    "question": "If sin A + cos A = root2 then find sin A cos A.",
+    "choices": [
+      "1",
+      "1/2",
+      "1/4",
+      "0"
+    ],
+    "correct_index": 1,
+    "explanation": "Using identity sin square A plus cos square A plus 2 sin A cos A equals 2."
+  },
+  {
+    "id": 108,
+    "question": "If sec A + tan A = 7 then find sec A - tan A.",
+    "choices": [
+      "1/7",
+      "7",
+      "1",
+      "49"
+    ],
+    "correct_index": 0,
+    "explanation": "sec square A minus tan square A equals 1."
+  },
+  {
+    "id": 109,
+    "question": "What is the value of tan 15 tan 75?",
+    "choices": [
+      "1",
+      "2",
+      "root3",
+      "1/root3"
+    ],
+    "correct_index": 0,
+    "explanation": "tan 75 is reciprocal of tan 15."
+  },
+  {
+    "id": 110,
+    "question": "If sin A = 5/13 and cos B = 12/13 for acute angles then find cos A+B.",
+    "choices": [
+      "0",
+      "1",
+      "5/13",
+      "12/13"
+    ],
+    "correct_index": 0,
+    "explanation": "A and B are complementary angles."
+  },
+  {
+    "id": 111,
+    "question": "What is the value of sin 20 cos 40 cos 80?",
+    "choices": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "root3/2"
+    ],
+    "correct_index": 0,
+    "explanation": "Standard trigonometric identity result."
+  },
+  {
+    "id": 112,
+    "question": "If tan A = 3/4 then find tan 2A.",
+    "choices": [
+      "24/7",
+      "7/24",
+      "12/7",
+      "1"
+    ],
+    "correct_index": 0,
+    "explanation": "tan 2A equals 2 tan A divided by 1 minus tan square A."
+  },
+  {
+    "id": 113,
+    "question": "What is the value of sin 75 - cos 15?",
+    "choices": [
+      "1",
+      "0",
+      "root2",
+      "1/2"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 75 equals cos 15."
+  },
+  {
+    "id": 114,
+    "question": "If sin A = 3/5 then find the value of sec A + tan A.",
+    "choices": [
+      "1/2",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 2,
+    "explanation": "sec A equals 5/4 and tan A equals 3/4."
+  },
+  {
+    "id": 115,
+    "question": "What is the value of cos 36 cos 72 cos 144 cos 288?",
+    "choices": [
+      "1/16",
+      "-1/16",
+      "1/8",
+      "-1/8"
+    ],
+    "correct_index": 0,
+    "explanation": "Using product identities."
+  },
+  {
+    "id": 116,
+    "question": "If tan A + cot A = 5 then find tan cube A + cot cube A.",
+    "choices": [
+      "95",
+      "110",
+      "125",
+      "100"
+    ],
+    "correct_index": 1,
+    "explanation": "Using a cube plus b cube identity and ab equals 1."
+  },
+  {
+    "id": 117,
+    "question": "What is the value of sin 18 cos 72 + cos 18 sin 72?",
+    "choices": [
+      "0",
+      "1/2",
+      "1",
+      "root3/2"
+    ],
+    "correct_index": 2,
+    "explanation": "Using sin A plus B identity."
+  },
+  {
+    "id": 118,
+    "question": "If sin A = 4/5 and sin B = 5/13 for acute angles then find cos A-B.",
+    "choices": [
+      "63/65",
+      "16/65",
+      "33/65",
+      "56/65"
+    ],
+    "correct_index": 0,
+    "explanation": "Using cos A-B formula."
+  },
+  {
+    "id": 119,
+    "question": "What is the value of sec square 45 + cosec square 45?",
+    "choices": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "correct_index": 1,
+    "explanation": "Both values equal 2."
+  },
+  {
+    "id": 120,
+    "question": "If tan A = 1/3 then find sin 2A.",
+    "choices": [
+      "3/5",
+      "1/5",
+      "2/5",
+      "3/10"
+    ],
+    "correct_index": 0,
+    "explanation": "Using sin 2A formula."
+  },
+  {
+    "id": 121,
+    "question": "What is the value of cos 15 cos 75 - sin 15 sin 75?",
+    "choices": [
+      "1",
+      "0",
+      "-1",
+      "1/2"
+    ],
+    "correct_index": 1,
+    "explanation": "Using cos A+B identity."
+  },
+  {
+    "id": 122,
+    "question": "A tower subtends an angle of 30 at a point on ground. Moving 20 m nearer the angle becomes 60. Find the height of tower.",
+    "choices": [
+      "10 root3 m",
+      "20 root3 m",
+      "30 m",
+      "40 m"
+    ],
+    "correct_index": 0,
+    "explanation": "Form equations using tan 30 and tan 60."
+  },
+  {
+    "id": 123,
+    "question": "If cos A = 8/17 then find tan A + sec A.",
+    "choices": [
+      "5/8",
+      "25/8",
+      "17/8",
+      "15/8"
+    ],
+    "correct_index": 1,
+    "explanation": "tan A equals 15/8 and sec A equals 17/8."
+  },
+  {
+    "id": 124,
+    "question": "What is the value of sin square 15 + cos square 15?",
+    "choices": [
+      "0",
+      "1/2",
+      "1",
+      "2"
+    ],
+    "correct_index": 2,
+    "explanation": "Identity sin square A plus cos square A equals 1."
+  },
+  {
+    "id": 125,
+    "question": "If tan A = 2 then find the value of sec square A - tan square A.",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 0,
+    "explanation": "Standard identity."
+  },
+  {
+    "id": 126,
+    "question": "What is the value of sin 10 sin 50 sin 70?",
+    "choices": [
+      "1/8",
+      "root3/8",
+      "1/4",
+      "root3/4"
+    ],
+    "correct_index": 1,
+    "explanation": "Standard product identity."
+  },
+  {
+    "id": 127,
+    "question": "If sin A = 12/13 then find tan A + cot A.",
+    "choices": [
+      "169/60",
+      "60/169",
+      "13/5",
+      "5/13"
+    ],
+    "correct_index": 0,
+    "explanation": "tan A equals 12/5 and cot A equals 5/12."
+  },
+  {
+    "id": 128,
+    "question": "What is the value of cos 20 cos 40 cos 80?",
+    "choices": [
+      "1/8",
+      "1/4",
+      "1/2",
+      "root3/2"
+    ],
+    "correct_index": 0,
+    "explanation": "Standard trigonometric identity."
+  },
+  {
+    "id": 129,
+    "question": "If sec A = 5/4 then find sin A.",
+    "choices": [
+      "3/5",
+      "4/5",
+      "5/3",
+      "1/5"
+    ],
+    "correct_index": 0,
+    "explanation": "cos A equals 4/5."
+  },
+  {
+    "id": 130,
+    "question": "What is the value of tan 22.5?",
+    "choices": [
+      "root2-1",
+      "root2+1",
+      "1/root2",
+      "root3"
+    ],
+    "correct_index": 0,
+    "explanation": "Half angle formula result."
+  },
+  {
+    "id": 131,
+    "question": "If tan A = 5/12 then find cos 2A.",
+    "choices": [
+      "119/169",
+      "-119/169",
+      "120/169",
+      "-120/169"
+    ],
+    "correct_index": 0,
+    "explanation": "Using cos 2A formula."
+  },
+  {
+    "id": 132,
+    "question": "What is the value of sin 75 cos 15 + cos 75 sin 15?",
+    "choices": [
+      "1",
+      "root3/2",
+      "1/2",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "Using sin A+B identity."
+  },
+  {
+    "id": 133,
+    "question": "If cot A = 7/24 then find cosec A - cot A.",
+    "choices": [
+      "1/7",
+      "1/24",
+      "24/25",
+      "7/25"
+    ],
+    "correct_index": 1,
+    "explanation": "cosec A equals 25/24."
+  },
+  {
+    "id": 134,
+    "question": "What is the value of cos 30 + cos 60 + cos 90?",
+    "choices": [
+      "root3/2",
+      "root3/2 + 1/2",
+      "1",
+      "3/2"
+    ],
+    "correct_index": 1,
+    "explanation": "cos 90 equals 0."
+  },
+  {
+    "id": 135,
+    "question": "If tan A = 4/3 then find sec A cosec A.",
+    "choices": [
+      "25/12",
+      "12/25",
+      "5/3",
+      "3/5"
+    ],
+    "correct_index": 0,
+    "explanation": "sec A equals 5/3 and cosec A equals 5/4."
+  },
+  {
+    "id": 136,
+    "question": "A building is twice as high as another. From a point 100 m away angles of elevation are 30 and 60 respectively. Find difference in heights.",
+    "choices": [
+      "50/root3 m",
+      "100/root3 m",
+      "50 root3 m",
+      "100 m"
+    ],
+    "correct_index": 1,
+    "explanation": "Heights are 100/root3 and 100 root3."
+  },
+  {
+    "id": 137,
+    "question": "If sin A = 15/17 then find sec A - tan A.",
+    "choices": [
+      "1/8",
+      "8",
+      "1",
+      "17/8"
+    ],
+    "correct_index": 0,
+    "explanation": "sec A equals 17/8 and tan A equals 15/8."
+  },
+  {
+    "id": 138,
+    "question": "What is the value of tan 10 tan 50 tan 70?",
+    "choices": [
+      "1",
+      "root3",
+      "3",
+      "1/root3"
+    ],
+    "correct_index": 1,
+    "explanation": "Standard trigonometric identity."
+  },
+  {
+    "id": 139,
+    "question": "If sin A + cos A = 3/2 then find sin A cos A.",
+    "choices": [
+      "1/8",
+      "1/4",
+      "3/8",
+      "1/2"
+    ],
+    "correct_index": 0,
+    "explanation": "Using square identity."
+  },
+  {
+    "id": 140,
+    "question": "What is the value of cos 18 cos 36 cos 72?",
+    "choices": [
+      "1/8",
+      "1/4",
+      "1/16",
+      "root5/8"
+    ],
+    "correct_index": 2,
+    "explanation": "Standard identity."
+  },
+  {
+    "id": 141,
+    "question": "If tan A = root3 then find sec 2A.",
+    "choices": [
+      "1",
+      "-1",
+      "2",
+      "Undefined"
+    ],
+    "correct_index": 1,
+    "explanation": "A equals 60 so 2A equals 120."
+  },
+  {
+    "id": 142,
+    "question": "A ladder placed against a wall reaches height 24 m. If ladder makes angle 60 with ground then find ladder length.",
+    "choices": [
+      "12 root3 m",
+      "16 root3 m",
+      "24 root3 m",
+      "48 m"
+    ],
+    "correct_index": 1,
+    "explanation": "sin 60 equals 24 divided by ladder length."
+  },
+  {
+    "id": 143,
+    "question": "What is the value of sin 12 cos 78 + cos 12 sin 78?",
+    "choices": [
+      "0",
+      "1",
+      "1/2",
+      "root3/2"
+    ],
+    "correct_index": 1,
+    "explanation": "Using sin A+B identity."
+  },
+  {
+    "id": 144,
+    "question": "If sec A - tan A = 1/3 then find sec A + tan A.",
+    "choices": [
+      "1/9",
+      "3",
+      "9",
+      "1"
+    ],
+    "correct_index": 1,
+    "explanation": "Product equals 1."
+  },
+  {
+    "id": 145,
+    "question": "What is the value of tan square 15 + cot square 15?",
+    "choices": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "correct_index": 1,
+    "explanation": "tan 15 equals 2-root3 and cot 15 equals 2+root3."
+  },
+  {
+    "id": 146,
+    "question": "If sin A = 7/25 then find cos 2A.",
+    "choices": [
+      "527/625",
+      "-527/625",
+      "576/625",
+      "-576/625"
+    ],
+    "correct_index": 2,
+    "explanation": "cos 2A equals cos square A minus sin square A."
+  },
+  {
+    "id": 147,
+    "question": "What is the value of sin 45 + cos 45?",
+    "choices": [
+      "1",
+      "root2",
+      "2",
+      "root3"
+    ],
+    "correct_index": 1,
+    "explanation": "Both terms equal root2/2."
+  },
+  {
+    "id": 148,
+    "question": "If tan A = 8/15 then find sin 2A.",
+    "choices": [
+      "240/289",
+      "120/289",
+      "225/289",
+      "64/289"
+    ],
+    "correct_index": 0,
+    "explanation": "Using sin 2A formula."
+  },
+  {
+    "id": 149,
+    "question": "What is the value of cos 105?",
+    "choices": [
+      "root6-root2/4",
+      "root2-root6/4",
+      "root6+root2/4",
+      "root3/2"
+    ],
+    "correct_index": 1,
+    "explanation": "Using cos A+B formula."
+  },
+  {
+    "id": 150,
+    "question": "If cot A = 3/4 then find sec A + tan A.",
+    "choices": [
+      "1/5",
+      "2",
+      "5",
+      "3"
+    ],
+    "correct_index": 2,
+    "explanation": "tan A equals 4/3 and sec A equals 5/3."
+  },
+  {
+    "id": 151,
+    "question": "A man observes the top of a tower at 30. After moving 40 m towards tower angle becomes 60. Find tower height.",
+    "choices": [
+      "20 root3 m",
+      "30 m",
+      "40 root3 m",
+      "60 m"
+    ],
+    "correct_index": 0,
+    "explanation": "Solve using tan equations."
+  },
+  {
+    "id": 152,
+    "question": "What is the value of sin 36 cos 54 + cos 36 sin 54?",
+    "choices": [
+      "1",
+      "1/2",
+      "root3/2",
+      "0"
+    ],
+    "correct_index": 0,
+    "explanation": "Using sin A+B identity."
+  },
+  {
+    "id": 153,
+    "question": "If tan A = 1 then find the value of sec fourth A - tan fourth A.",
+    "choices": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_index": 2,
+    "explanation": "Using algebraic identity."
+  },
+  {
+    "id": 154,
+    "question": "What is the value of cosec square 30 - cot square 30?",
+    "choices": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct_index": 1,
+    "explanation": "Standard identity."
   }
 ]
