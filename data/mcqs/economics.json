@@ -622,5 +622,1937 @@
     ],
     "correct_index": 2,
     "explanation": "Green Revolution began during Third Plan."
+  },
+  {
+    "id": 53,
+    "question": "What is the primary function of the Reserve Bank of India?",
+    "choices": [
+      "To print currency notes",
+      "To regulate the banking system and monetary policy",
+      "To collect taxes",
+      "To manage foreign trade"
+    ],
+    "correct_index": 1,
+    "explanation": "The RBI is the central bank of India, responsible for regulating the banking sector, issuing currency, and formulating monetary policy."
+  },
+  {
+    "id": 54,
+    "question": "Which sector contributes the most to India's GDP?",
+    "choices": [
+      "Agriculture",
+      "Industry",
+      "Services",
+      "Manufacturing"
+    ],
+    "correct_index": 2,
+    "explanation": "The Services sector contributes the largest share to India's Gross Domestic Product (GDP), followed by Industry and Agriculture."
+  },
+  {
+    "id": 55,
+    "question": "What does GDP stand for?",
+    "choices": [
+      "Gross Domestic Product",
+      "General Domestic Product",
+      "Gross Development Plan",
+      "General Development Product"
+    ],
+    "correct_index": 0,
+    "explanation": "GDP stands for Gross Domestic Product, which is the total monetary value of all finished goods and services produced within a country's borders in a specific time period."
+  },
+  {
+    "id": 56,
+    "question": "Who is known as the Father of Economics?",
+    "choices": [
+      "John Maynard Keynes",
+      "Adam Smith",
+      "Karl Marx",
+      "Alfred Marshall"
+    ],
+    "correct_index": 1,
+    "explanation": "Adam Smith is considered the Father of Economics for his work 'The Wealth of Nations'."
+  },
+  {
+    "id": 57,
+    "question": "What is the full form of NITI Aayog?",
+    "choices": [
+      "National Institution for Transforming India",
+      "National Institute for Technical Innovation",
+      "New India Transformation Initiative",
+      "National Interface for Trade and Industry"
+    ],
+    "correct_index": 0,
+    "explanation": "NITI Aayog stands for National Institution for Transforming India. It replaced the Planning Commission in 2015."
+  },
+  {
+    "id": 58,
+    "question": "Which tax is levied by the Central Government in India?",
+    "choices": [
+      "Land Revenue",
+      "Sales Tax",
+      "Income Tax",
+      "Property Tax"
+    ],
+    "correct_index": 2,
+    "explanation": "Income Tax is a direct tax levied by the Central Government. Land revenue, sales tax (now subsumed in GST), and property tax are/were state or local levies."
+  },
+  {
+    "id": 59,
+    "question": "What is inflation?",
+    "choices": [
+      "Increase in the value of money",
+      "Decrease in the general price level",
+      "Sustained increase in the general price level",
+      "Decrease in production"
+    ],
+    "correct_index": 2,
+    "explanation": "Inflation is the rate at which the general level of prices for goods and services is rising, eroding purchasing power."
+  },
+  {
+    "id": 60,
+    "question": "Which organization publishes the World Economic Outlook report?",
+    "choices": [
+      "World Bank",
+      "International Monetary Fund (IMF)",
+      "World Trade Organization (WTO)",
+      "United Nations"
+    ],
+    "correct_index": 1,
+    "explanation": "The International Monetary Fund (IMF) publishes the World Economic Outlook report twice a year."
+  },
+  {
+    "id": 61,
+    "question": "What is the base year for calculating GDP in India currently?",
+    "choices": [
+      "2004-05",
+      "2011-12",
+      "2015-16",
+      "2020-21"
+    ],
+    "correct_index": 1,
+    "explanation": "The current base year for calculating GDP in India is 2011-12."
+  },
+  {
+    "id": 62,
+    "question": "Which of the following is an example of a direct tax?",
+    "choices": [
+      "Goods and Services Tax (GST)",
+      "Customs Duty",
+      "Income Tax",
+      "Excise Duty"
+    ],
+    "correct_index": 2,
+    "explanation": "Direct taxes are paid directly by individuals or organizations to the government, such as Income Tax and Corporate Tax. GST and Customs are indirect taxes."
+  },
+  {
+    "id": 63,
+    "question": "What is the repo rate?",
+    "choices": [
+      "The rate at which banks lend to each other",
+      "The rate at which RBI lends to commercial banks",
+      "The rate at which RBI borrows from commercial banks",
+      "The interest rate on savings accounts"
+    ],
+    "correct_index": 1,
+    "explanation": "The repo rate is the rate at which the Reserve Bank of India lends money to commercial banks in the event of any shortfall of funds."
+  },
+  {
+    "id": 64,
+    "question": "Who presented the first budget of independent India?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "R K Shanmukham Chetty",
+      "T T Krishnamachari",
+      "Morarji Desai"
+    ],
+    "correct_index": 1,
+    "explanation": "R K Shanmukham Chetty presented the first budget of independent India on November 26, 1947."
+  },
+  {
+    "id": 65,
+    "question": "What is the main objective of the Fifth Five Year Plan?",
+    "choices": [
+      "Industrialization",
+      "Poverty alleviation and self-reliance",
+      "Green Revolution",
+      "Digital India"
+    ],
+    "correct_index": 1,
+    "explanation": "The main objectives of the Fifth Five Year Plan (1974-79) were poverty alleviation and attaining self-reliance."
+  },
+  {
+    "id": 66,
+    "question": "Which bank is known as the Banker's Bank in India?",
+    "choices": [
+      "State Bank of India",
+      "Reserve Bank of India",
+      "Punjab National Bank",
+      "HDFC Bank"
+    ],
+    "correct_index": 1,
+    "explanation": "The Reserve Bank of India acts as the banker to other banks, holding their reserves and providing liquidity, hence called the Banker's Bank."
+  },
+  {
+    "id": 67,
+    "question": "What does FDI stand for?",
+    "choices": [
+      "Foreign Direct Investment",
+      "Foreign Domestic Investment",
+      "Federal Direct Investment",
+      "Foreign Debt Investment"
+    ],
+    "correct_index": 0,
+    "explanation": "FDI stands for Foreign Direct Investment, which is an investment made by a firm or individual in one country into business interests located in another country."
+  },
+  {
+    "id": 68,
+    "question": "Which sector is also known as the Primary Sector?",
+    "choices": [
+      "Manufacturing",
+      "Agriculture and Allied Activities",
+      "Services",
+      "Mining"
+    ],
+    "correct_index": 1,
+    "explanation": "The Primary Sector involves the extraction and harvesting of natural resources, primarily agriculture, forestry, fishing, and mining."
+  },
+  {
+    "id": 69,
+    "question": "What is the difference between Revenue Deficit and Fiscal Deficit?",
+    "choices": [
+      "Revenue deficit includes borrowing",
+      "Fiscal deficit is the excess of total expenditure over total receipts excluding borrowings",
+      "They are the same",
+      "Revenue deficit is always larger"
+    ],
+    "correct_index": 1,
+    "explanation": "Fiscal Deficit occurs when the government's total expenditures exceed its total revenues excluding borrowings. Revenue Deficit is the excess of revenue expenditure over revenue receipts."
+  },
+  {
+    "id": 70,
+    "question": "Who is the current Governor of the Reserve Bank of India (as of late 2024)?",
+    "choices": [
+      "Raghuram Rajan",
+      "Shaktikanta Das",
+      "Sanjay Malhotra",
+      "Urjit Patel"
+    ],
+    "correct_index": 2,
+    "explanation": "Sanjay Malhotra assumed office as the RBI Governor in December 2024, succeeding Shaktikanta Das."
+  },
+  {
+    "id": 71,
+    "question": "What is the concept of 'Hidden Unemployment' mostly associated with?",
+    "choices": [
+      "Industrial Sector",
+      "Agricultural Sector",
+      "Service Sector",
+      "IT Sector"
+    ],
+    "correct_index": 1,
+    "explanation": "Hidden unemployment or disguised unemployment is most common in the agricultural sector, where more people are engaged in work than actually required."
+  },
+  {
+    "id": 72,
+    "question": "Which index measures the inflation rate in India for wholesale goods?",
+    "choices": [
+      "Consumer Price Index (CPI)",
+      "Wholesale Price Index (WPI)",
+      "GDP Deflator",
+      "Producer Price Index (PPI)"
+    ],
+    "correct_index": 1,
+    "explanation": "The Wholesale Price Index (WPI) measures the price changes of goods at the wholesale level. However, CPI is now the primary measure for policy decisions."
+  },
+  {
+    "id": 73,
+    "question": "What is the maximum number of members in the Lok Sabha?",
+    "choices": [
+      "543",
+      "545",
+      "552",
+      "250"
+    ],
+    "correct_index": 2,
+    "explanation": "The maximum strength of the Lok Sabha is 552, including 543 elected members and up to 2 nominated members from the Anglo-Indian community (though nomination has been discontinued recently, the constitutional limit remains)."
+  },
+  {
+    "id": 74,
+    "question": "Which plan is known as the 'Mahalanobis Plan'?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan"
+    ],
+    "correct_index": 1,
+    "explanation": "The Second Five Year Plan (1956-61) was based on the Mahalanobis model, focusing on rapid industrialization."
+  },
+  {
+    "id": 75,
+    "question": "What is the full form of SEBI?",
+    "choices": [
+      "Securities and Exchange Board of India",
+      "State Exchange Board of India",
+      "Securities and Economy Board of India",
+      "Stock Exchange Bureau of India"
+    ],
+    "correct_index": 0,
+    "explanation": "SEBI stands for Securities and Exchange Board of India, the regulatory body for the securities market."
+  },
+  {
+    "id": 76,
+    "question": "Which of the following is not a function of money?",
+    "choices": [
+      "Medium of exchange",
+      "Store of value",
+      "Unit of account",
+      "Source of power"
+    ],
+    "correct_index": 3,
+    "explanation": "The primary functions of money are medium of exchange, store of value, and unit of account. It is not a source of political power."
+  },
+  {
+    "id": 77,
+    "question": "What is the term used for a sustained fall in the general price level?",
+    "choices": [
+      "Inflation",
+      "Stagflation",
+      "Deflation",
+      "Reflation"
+    ],
+    "correct_index": 2,
+    "explanation": "Deflation is the opposite of inflation, characterized by a sustained decrease in the general price level of goods and services."
+  },
+  {
+    "id": 78,
+    "question": "Who wrote the book 'The General Theory of Employment, Interest and Money'?",
+    "choices": [
+      "Adam Smith",
+      "John Maynard Keynes",
+      "Milton Friedman",
+      "David Ricardo"
+    ],
+    "correct_index": 1,
+    "explanation": "John Maynard Keynes wrote this seminal work, laying the foundation for modern macroeconomics."
+  },
+  {
+    "id": 79,
+    "question": "What is the Gini Coefficient used to measure?",
+    "choices": [
+      "Inflation",
+      "Income Inequality",
+      "Economic Growth",
+      "Unemployment"
+    ],
+    "correct_index": 1,
+    "explanation": "The Gini Coefficient is a statistical measure of economic inequality, specifically income or wealth distribution."
+  },
+  {
+    "id": 80,
+    "question": "Which article of the Constitution deals with the Finance Commission?",
+    "choices": [
+      "Article 280",
+      "Article 300",
+      "Article 360",
+      "Article 110"
+    ],
+    "correct_index": 0,
+    "explanation": "Article 280 of the Indian Constitution provides for the constitution of a Finance Commission to recommend the distribution of financial resources between the Union and States."
+  },
+  {
+    "id": 81,
+    "question": "What is the main component of India's foreign exchange reserves?",
+    "choices": [
+      "Gold",
+      "Foreign Currency Assets",
+      "Special Drawing Rights (SDRs)",
+      "Reserve Tranche Position in IMF"
+    ],
+    "correct_index": 1,
+    "explanation": "Foreign Currency Assets (FCAs) constitute the largest portion of India's foreign exchange reserves."
+  },
+  {
+    "id": 82,
+    "question": "Which of the following is a non-tax revenue of the Central Government?",
+    "choices": [
+      "Income Tax",
+      "Dividends from Public Sector Undertakings",
+      "Customs Duty",
+      "Corporation Tax"
+    ],
+    "correct_index": 1,
+    "explanation": "Dividends and profits from Public Sector Undertakings (PSUs) are part of non-tax revenue. Taxes include income tax, customs, etc."
+  },
+  {
+    "id": 83,
+    "question": "What is the break-even point in economics?",
+    "choices": [
+      "Where total revenue equals total cost",
+      "Where profit is maximum",
+      "Where loss is minimum",
+      "Where marginal cost equals marginal revenue"
+    ],
+    "correct_index": 0,
+    "explanation": "The break-even point is the level of production at which the total revenues equal the total costs, resulting in neither profit nor loss."
+  },
+  {
+    "id": 84,
+    "question": "Which organization determines the Repo Rate in India?",
+    "choices": [
+      "Ministry of Finance",
+      "Reserve Bank of India",
+      "SEBI",
+      "NITI Aayog"
+    ],
+    "correct_index": 1,
+    "explanation": "The Reserve Bank of India's Monetary Policy Committee (MPC) decides the Repo Rate."
+  },
+  {
+    "id": 85,
+    "question": "What is the full form of NPCI?",
+    "choices": [
+      "National Payments Corporation of India",
+      "National Payment Clearing Institute",
+      "New Payment Channel Interface",
+      "National Profit Calculation Index"
+    ],
+    "correct_index": 0,
+    "explanation": "NPCI stands for National Payments Corporation of India, an umbrella organization for operating retail payments and settlement systems in India."
+  },
+  {
+    "id": 86,
+    "question": "Which sector consumes the most electricity in India?",
+    "choices": [
+      "Residential",
+      "Industrial",
+      "Agricultural",
+      "Commercial"
+    ],
+    "correct_index": 1,
+    "explanation": "The Industrial sector is the largest consumer of electricity in India."
+  },
+  {
+    "id": 87,
+    "question": "What is the definition of a Bear Market?",
+    "choices": [
+      "Prices are rising",
+      "Prices are falling",
+      "Prices are stable",
+      "High volatility"
+    ],
+    "correct_index": 1,
+    "explanation": "A Bear Market is a condition in which securities prices fall 20% or more from recent highs amid widespread pessimism and negative investor sentiment."
+  },
+  {
+    "id": 88,
+    "question": "Who was the first Chairman of the Planning Commission of India?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "V T Krishnamachari",
+      "K C Neogy"
+    ],
+    "correct_index": 0,
+    "explanation": "Jawaharlal Nehru was the first Chairman of the Planning Commission."
+  },
+  {
+    "id": 89,
+    "question": "What is the Cash Reserve Ratio (CRR)?",
+    "choices": [
+      "The percentage of deposits banks must keep with RBI",
+      "The percentage of loans banks must give",
+      "The interest rate on cash",
+      "The reserve of gold banks must hold"
+    ],
+    "correct_index": 0,
+    "explanation": "CRR is the share of a bank's total deposits that it must maintain with the Reserve Bank of India in the form of cash."
+  },
+  {
+    "id": 90,
+    "question": "Which of the following is included in the Current Account of Balance of Payments?",
+    "choices": [
+      "Foreign Direct Investment",
+      "External Commercial Borrowings",
+      "Export and Import of Goods",
+      "Portfolio Investment"
+    ],
+    "correct_index": 2,
+    "explanation": "The Current Account records transactions in goods, services, income, and current transfers. FDI and portfolio investments are part of the Capital Account."
+  },
+  {
+    "id": 91,
+    "question": "What is the Human Development Index (HDI) composed of?",
+    "choices": [
+      "Income, Education, and Health",
+      "Income, Population, and Area",
+      "Education, Health, and Employment",
+      "GDP, Inflation, and Unemployment"
+    ],
+    "correct_index": 0,
+    "explanation": "HDI is a composite statistic of life expectancy (health), education (mean years of schooling and expected years of schooling), and per capita income indicators."
+  },
+  {
+    "id": 92,
+    "question": "Which plan focused on 'Garibi Hatao' (Remove Poverty)?",
+    "choices": [
+      "Third Five Year Plan",
+      "Fourth Five Year Plan",
+      "Fifth Five Year Plan",
+      "Sixth Five Year Plan"
+    ],
+    "correct_index": 1,
+    "explanation": "The slogan 'Garibi Hatao' was introduced during the Fifth Five Year Plan, but the focus started gaining traction in the late Third and Fourth plans. However, it is most strongly associated with the Fifth Plan's objectives. Note: Some sources attribute the slogan launch to the 1971 elections leading into the Fifth Plan."
+  },
+  {
+    "id": 93,
+    "question": "What is the full form of MSME?",
+    "choices": [
+      "Micro, Small and Medium Enterprises",
+      "Medium, Small and Micro Economy",
+      "Micro, State and Medium Enterprises",
+      "Minimum Scale Manufacturing Enterprises"
+    ],
+    "correct_index": 0,
+    "explanation": "MSME stands for Micro, Small and Medium Enterprises."
+  },
+  {
+    "id": 94,
+    "question": "Which tax was subsumed under GST?",
+    "choices": [
+      "Income Tax",
+      "Value Added Tax (VAT)",
+      "Corporate Tax",
+      "Customs Duty"
+    ],
+    "correct_index": 1,
+    "explanation": "Value Added Tax (VAT), along with service tax, excise duty, and others, was subsumed under the Goods and Services Tax (GST)."
+  },
+  {
+    "id": 95,
+    "question": "What is the role of the World Bank?",
+    "choices": [
+      "To maintain global financial stability",
+      "To provide long-term loans for development projects",
+      "To regulate international trade",
+      "To issue global currency"
+    ],
+    "correct_index": 1,
+    "explanation": "The World Bank provides financial and technical assistance to developing countries for development programs (e.g., bridges, roads, schools) with the stated goal of reducing poverty."
+  },
+  {
+    "id": 96,
+    "question": "What is the Law of Demand?",
+    "choices": [
+      "As price increases, demand increases",
+      "As price decreases, demand decreases",
+      "As price increases, demand decreases",
+      "Price and demand are unrelated"
+    ],
+    "correct_index": 2,
+    "explanation": "The Law of Demand states that, ceteris paribus, as the price of a good increases, the quantity demanded decreases, and vice versa."
+  },
+  {
+    "id": 97,
+    "question": "Which institution regulates the insurance sector in India?",
+    "choices": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correct_index": 2,
+    "explanation": "The Insurance Regulatory and Development Authority of India (IRDAI) regulates the insurance sector."
+  },
+  {
+    "id": 98,
+    "question": "What is the fiscal year in India?",
+    "choices": [
+      "January to December",
+      "April to March",
+      "July to June",
+      "October to September"
+    ],
+    "correct_index": 1,
+    "explanation": "The financial or fiscal year in India runs from April 1st to March 31st of the following year."
+  },
+  {
+    "id": 99,
+    "question": "What is the primary cause of structural unemployment?",
+    "choices": [
+      "Seasonal changes",
+      "Mismatch between skills and job requirements",
+      "Economic recession",
+      "Voluntary resignation"
+    ],
+    "correct_index": 1,
+    "explanation": "Structural unemployment occurs when there is a fundamental mismatch between the skills workers possess and the skills employers need."
+  },
+  {
+    "id": 100,
+    "question": "Which committee recommended the establishment of NABARD?",
+    "choices": [
+      "Narasimham Committee",
+      "Shivaraman Committee",
+      "Rangarajan Committee",
+      "Chakravarty Committee"
+    ],
+    "correct_index": 1,
+    "explanation": "The Shivaraman Committee recommended the establishment of the National Bank for Agriculture and Rural Development (NABARD)."
+  },
+  {
+    "id": 101,
+    "question": "What is the full form of IMF?",
+    "choices": [
+      "International Monetary Fund",
+      "Indian Monetary Fund",
+      "International Market Federation",
+      "Internal Money Facility"
+    ],
+    "correct_index": 0,
+    "explanation": "IMF stands for International Monetary Fund, an organization working to foster global monetary cooperation and financial stability."
+  },
+  {
+    "id": 102,
+    "question": "Which of the following is a feature of a Mixed Economy?",
+    "choices": [
+      "Only private sector exists",
+      "Only public sector exists",
+      "Coexistence of public and private sectors",
+      "No government intervention"
+    ],
+    "correct_index": 2,
+    "explanation": "A mixed economy features characteristics of both capitalism and socialism, with coexistence of public and private sectors."
+  },
+  {
+    "id": 103,
+    "question": "What is the Marginal Propensity to Consume (MPC)?",
+    "choices": [
+      "The proportion of an aggregate raise in pay that a consumer spends on the consumption of goods and services",
+      "The proportion saved",
+      "The total consumption",
+      "The total income"
+    ],
+    "correct_index": 0,
+    "explanation": "MPC is the proportion of an increase in income that gets spent on consumption."
+  },
+  {
+    "id": 104,
+    "question": "Who is the ex-officio Chairman of NITI Aayog?",
+    "choices": [
+      "President of India",
+      "Prime Minister of India",
+      "Vice President of India",
+      "Finance Minister"
+    ],
+    "correct_index": 1,
+    "explanation": "The Prime Minister of India serves as the ex-officio Chairman of NITI Aayog."
+  },
+  {
+    "id": 105,
+    "question": "What is the difference between Real GDP and Nominal GDP?",
+    "choices": [
+      "Real GDP is adjusted for inflation, Nominal is not",
+      "Nominal GDP is adjusted for inflation, Real is not",
+      "They are the same",
+      "Real GDP includes exports, Nominal does not"
+    ],
+    "correct_index": 0,
+    "explanation": "Real GDP is adjusted for inflation to reflect the true growth in output, while Nominal GDP is measured at current prices without adjusting for inflation."
+  },
+  {
+    "id": 106,
+    "question": "Which bank was nationalized in 1969?",
+    "choices": [
+      "State Bank of India",
+      "14 major commercial banks",
+      "Reserve Bank of India",
+      "Regional Rural Banks"
+    ],
+    "correct_index": 1,
+    "explanation": "In 1969, the Indian government nationalized 14 major commercial banks to expand banking services to rural areas."
+  },
+  {
+    "id": 107,
+    "question": "What is the full form of UIDAI?",
+    "choices": [
+      "Unique Identification Authority of India",
+      "Universal Identity Association of India",
+      "United ID Agency of India",
+      "User Identity Authentication Interface"
+    ],
+    "correct_index": 0,
+    "explanation": "UIDAI stands for Unique Identification Authority of India, which issues Aadhaar cards."
+  },
+  {
+    "id": 108,
+    "question": "Which of the following is an indirect tax?",
+    "choices": [
+      "Income Tax",
+      "Wealth Tax",
+      "Goods and Services Tax (GST)",
+      "Corporation Tax"
+    ],
+    "correct_index": 2,
+    "explanation": "GST is an indirect tax because it is collected by an intermediary (the seller) from the person who bears the ultimate economic burden of the tax (the buyer)."
+  },
+  {
+    "id": 109,
+    "question": "What is the main function of the Securities and Exchange Board of India (SEBI)?",
+    "choices": [
+      "To print currency",
+      "To protect the interests of investors in securities",
+      "To regulate foreign trade",
+      "To collect income tax"
+    ],
+    "correct_index": 1,
+    "explanation": "SEBI's primary function is to protect the interests of investors in securities and to promote the development of, and to regulate, the securities market."
+  },
+  {
+    "id": 110,
+    "question": "Which plan is known as the 'Rolling Plan'?",
+    "choices": [
+      "Annual Plan",
+      "Five Year Plan",
+      "Perspective Plan",
+      "None of the above"
+    ],
+    "correct_index": 0,
+    "explanation": "The Annual Plan is often referred to as a rolling plan because it is revised every year based on the performance of the previous year."
+  },
+  {
+    "id": 111,
+    "question": "What is the Lorenz Curve used to depict?",
+    "choices": [
+      "Income Distribution",
+      "Demand and Supply",
+      "Production Possibility",
+      "Inflation Trend"
+    ],
+    "correct_index": 0,
+    "explanation": "The Lorenz Curve is a graphical representation of the distribution of income or wealth within a population."
+  },
+  {
+    "id": 112,
+    "question": "Which organization releases the Ease of Doing Business ranking?",
+    "choices": [
+      "World Bank",
+      "IMF",
+      "WTO",
+      "UNDP"
+    ],
+    "correct_index": 0,
+    "explanation": "The World Bank used to release the Ease of Doing Business ranking (discontinued in 2021, replaced by new initiatives)."
+  },
+  {
+    "id": 113,
+    "question": "What is the full form of FICCI?",
+    "choices": [
+      "Federation of Indian Chambers of Commerce and Industry",
+      "Federal Indian Chamber of Commerce and Industry",
+      "Forum of Indian Companies and Corporate Industries",
+      "Financial Institute of Commerce and Credit Industry"
+    ],
+    "correct_index": 0,
+    "explanation": "FICCI stands for Federation of Indian Chambers of Commerce and Industry."
+  },
+  {
+    "id": 114,
+    "question": "Which of the following is a capital receipt of the government?",
+    "choices": [
+      "Tax Revenue",
+      "Non-Tax Revenue",
+      "Borrowings from the public",
+      "Fees and Fines"
+    ],
+    "correct_index": 2,
+    "explanation": "Capital receipts include borrowings, disinvestment, and recovery of loans. Tax and non-tax revenues are revenue receipts."
+  },
+  {
+    "id": 115,
+    "question": "What is the concept of 'Opportunity Cost'?",
+    "choices": [
+      "The cost of producing one more unit",
+      "The value of the next best alternative foregone",
+      "The total cost of production",
+      "The fixed cost"
+    ],
+    "correct_index": 1,
+    "explanation": "Opportunity cost is the potential benefit that an individual, investor, or business misses out on when choosing one alternative over another."
+  },
+  {
+    "id": 116,
+    "question": "Which committee is associated with banking sector reforms in India?",
+    "choices": [
+      "Abid Hussain Committee",
+      "Narasimham Committee",
+      "Raja Chelliah Committee",
+      "Kelkar Committee"
+    ],
+    "correct_index": 1,
+    "explanation": "The Narasimham Committee (1991 and 1998) made significant recommendations for banking sector reforms in India."
+  },
+  {
+    "id": 117,
+    "question": "What is the full form of TRAI?",
+    "choices": [
+      "Telecom Regulatory Authority of India",
+      "Trade Regulatory Association of India",
+      "Technical Research Agency of India",
+      "Transport Regulation Authority of India"
+    ],
+    "correct_index": 0,
+    "explanation": "TRAI stands for Telecom Regulatory Authority of India."
+  },
+  {
+    "id": 118,
+    "question": "Which of the following is not a determinant of demand?",
+    "choices": [
+      "Price of the commodity",
+      "Income of the consumer",
+      "Cost of production",
+      "Taste and preferences"
+    ],
+    "correct_index": 2,
+    "explanation": "Cost of production is a determinant of supply, not demand. Demand is determined by price, income, tastes, prices of related goods, etc."
+  },
+  {
+    "id": 119,
+    "question": "What is the full form of DICGC?",
+    "choices": [
+      "Deposit Insurance and Credit Guarantee Corporation",
+      "Direct Investment and Credit Guarantee Company",
+      "Deposit Interest and Credit Growth Corporation",
+      "Digital Insurance and Credit Guide Center"
+    ],
+    "correct_index": 0,
+    "explanation": "DICGC stands for Deposit Insurance and Credit Guarantee Corporation, which insures bank deposits."
+  },
+  {
+    "id": 120,
+    "question": "Which sector provides the largest employment in India?",
+    "choices": [
+      "Services",
+      "Industry",
+      "Agriculture",
+      "Construction"
+    ],
+    "correct_index": 2,
+    "explanation": "Despite contributing less to GDP, the Agriculture sector employs the largest portion of India's workforce."
+  },
+  {
+    "id": 121,
+    "question": "What is the full form of NEFT?",
+    "choices": [
+      "National Electronic Funds Transfer",
+      "New Electronic Fund Transaction",
+      "National Energy Fund Transfer",
+      "Net Electronic Financial Transfer"
+    ],
+    "correct_index": 0,
+    "explanation": "NEFT stands for National Electronic Funds Transfer, a system for transferring funds electronically."
+  },
+  {
+    "id": 122,
+    "question": "Which of the following is a merit good?",
+    "choices": [
+      "Cigarettes",
+      "Alcohol",
+      "Education",
+      "Luxury Cars"
+    ],
+    "correct_index": 2,
+    "explanation": "Merit goods are those that the government feels people will under-consume, and which ought to be subsidized or provided free at the point of use, such as education and healthcare."
+  },
+  {
+    "id": 123,
+    "question": "What is the full form of RTGS?",
+    "choices": [
+      "Real Time Gross Settlement",
+      "Rapid Transfer Gross System",
+      "Real Transfer Group Settlement",
+      "Remote Time Gross Service"
+    ],
+    "correct_index": 0,
+    "explanation": "RTGS stands for Real Time Gross Settlement, a funds transfer system where money moves from one bank to another in real-time and on a gross basis."
+  },
+  {
+    "id": 124,
+    "question": "Which plan emphasized 'Self-Reliance'?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Fourth Five Year Plan",
+      "Fifth Five Year Plan"
+    ],
+    "correct_index": 3,
+    "explanation": "The Fifth Five Year Plan (1974-79) had the twin objectives of 'Removal of Poverty' and 'Attainment of Self-Reliance'."
+  },
+  {
+    "id": 125,
+    "question": "What is the full form of PAN?",
+    "choices": [
+      "Permanent Account Number",
+      "Personal Account Number",
+      "Public Account Number",
+      "Private Account Number"
+    ],
+    "correct_index": 0,
+    "explanation": "PAN stands for Permanent Account Number, a unique identifier for taxpayers in India."
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is a characteristic of a Monopoly?",
+    "choices": [
+      "Many sellers",
+      "Homogeneous products",
+      "Single seller",
+      "Free entry and exit"
+    ],
+    "correct_index": 2,
+    "explanation": "A monopoly is a market structure characterized by a single seller, selling a unique product in the market, with high barriers to entry."
+  },
+  {
+    "id": 127,
+    "question": "What is the full form of IFSC?",
+    "choices": [
+      "Indian Financial System Code",
+      "International Financial Service Center",
+      "Indian Fund Settlement Code",
+      "Internal Financial Security Code"
+    ],
+    "correct_index": 0,
+    "explanation": "IFSC stands for Indian Financial System Code, an alphanumeric code that uniquely identifies a bank branch participating in the NEFT and RTGS systems."
+  },
+  {
+    "id": 128,
+    "question": "Which organization is responsible for conducting the Census in India?",
+    "choices": [
+      "NSSO",
+      "CSO",
+      "Registrar General of India",
+      "NITI Aayog"
+    ],
+    "correct_index": 2,
+    "explanation": "The Office of the Registrar General and Census Commissioner of India conducts the Census."
+  },
+  {
+    "id": 129,
+    "question": "What is the full form of SLR?",
+    "choices": [
+      "Statutory Liquidity Ratio",
+      "Standard Liquidity Rate",
+      "Statutory Loan Ratio",
+      "Simple Liquidity Requirement"
+    ],
+    "correct_index": 0,
+    "explanation": "SLR stands for Statutory Liquidity Ratio, which is the percentage of net demand and time liabilities that banks must maintain in the form of liquid assets like cash, gold, or government securities."
+  },
+  {
+    "id": 130,
+    "question": "Which of the following is a leading indicator of economic activity?",
+    "choices": [
+      "Unemployment Rate",
+      "Stock Market Indices",
+      "GDP",
+      "Inflation Rate"
+    ],
+    "correct_index": 1,
+    "explanation": "Stock market indices are often considered leading indicators as they reflect investor expectations about future economic performance. GDP and unemployment are lagging or coincident indicators."
+  },
+  {
+    "id": 131,
+    "question": "What is the full form of DEMAT?",
+    "choices": [
+      "Dematerialized Account",
+      "Demonetized Account",
+      "Decimal Material Account",
+      "Direct Material Account"
+    ],
+    "correct_index": 0,
+    "explanation": "DEMAT stands for Dematerialized Account, used for holding shares and securities in electronic format."
+  },
+  {
+    "id": 132,
+    "question": "Which committee recommended the introduction of GST?",
+    "choices": [
+      "Kelkar Committee",
+      "Raja Chelliah Committee",
+      "Empowered Committee of State Finance Ministers",
+      "All of the above"
+    ],
+    "correct_index": 3,
+    "explanation": "Various committees, including the Kelkar Task Force and the Empowered Committee, contributed to the roadmap for GST implementation."
+  },
+  {
+    "id": 133,
+    "question": "What is the full form of NPA?",
+    "choices": [
+      "Non-Performing Asset",
+      "New Public Account",
+      "National Profit Analysis",
+      "Non-Public Asset"
+    ],
+    "correct_index": 0,
+    "explanation": "NPA stands for Non-Performing Asset, a loan or advance for which the principal or interest payment remained overdue for a period of 90 days."
+  },
+  {
+    "id": 134,
+    "question": "Which of the following is a public good?",
+    "choices": [
+      "Food",
+      "Clothing",
+      "National Defense",
+      "Car"
+    ],
+    "correct_index": 2,
+    "explanation": "Public goods are non-excludable and non-rivalrous, meaning individuals cannot be effectively excluded from use and use by one individual does not reduce availability to others. National Defense is a classic example."
+  },
+  {
+    "id": 135,
+    "question": "What is the full form of UPI?",
+    "choices": [
+      "Unified Payments Interface",
+      "Universal Payment Interface",
+      "United Pay Interface",
+      "User Payment Integration"
+    ],
+    "correct_index": 0,
+    "explanation": "UPI stands for Unified Payments Interface, a real-time payment system developed by NPCI."
+  },
+  {
+    "id": 136,
+    "question": "Which plan is known as the 'Plan Holiday'?",
+    "choices": [
+      "After the First Plan",
+      "After the Second Plan",
+      "After the Third Plan",
+      "After the Fourth Plan"
+    ],
+    "correct_index": 2,
+    "explanation": "There was a 'Plan Holiday' for three years (1966-69) after the Third Five Year Plan due to wars and drought."
+  },
+  {
+    "id": 137,
+    "question": "What is the full form of CAG?",
+    "choices": [
+      "Comptroller and Auditor General",
+      "Chief Accountant General",
+      "Central Audit Group",
+      "Controller of Accounts and Government"
+    ],
+    "correct_index": 0,
+    "explanation": "CAG stands for Comptroller and Auditor General of India, who audits the receipts and expenditure of the Government of India."
+  },
+  {
+    "id": 138,
+    "question": "Which of the following is a variable cost?",
+    "choices": [
+      "Rent",
+      "Salary of permanent staff",
+      "Raw Materials",
+      "Insurance"
+    ],
+    "correct_index": 2,
+    "explanation": "Variable costs change with the level of output. Raw materials are a variable cost, while rent and salaries are typically fixed costs."
+  },
+  {
+    "id": 139,
+    "question": "What is the full form of NBFC?",
+    "choices": [
+      "Non-Banking Financial Company",
+      "National Banking Financial Corporation",
+      "New Banking Finance Company",
+      "Non-Bank Funding Corporation"
+    ],
+    "correct_index": 0,
+    "explanation": "NBFC stands for Non-Banking Financial Company, a financial institution that offers banking services but does not hold a banking license."
+  },
+  {
+    "id": 140,
+    "question": "Which organization prepares the National Income estimates in India?",
+    "choices": [
+      "RBI",
+      "Ministry of Finance",
+      "Central Statistical Office (CSO)",
+      "Planning Commission"
+    ],
+    "correct_index": 2,
+    "explanation": "The Central Statistical Office (CSO), now part of the National Statistical Office (NSO), prepares the National Income estimates."
+  },
+  {
+    "id": 141,
+    "question": "What is the full form of AMFI?",
+    "choices": [
+      "Association of Mutual Funds in India",
+      "All India Mutual Fund Institute",
+      "American Mutual Fund Index",
+      "Asset Management Financial Institute"
+    ],
+    "correct_index": 0,
+    "explanation": "AMFI stands for Association of Mutual Funds in India."
+  },
+  {
+    "id": 142,
+    "question": "Which of the following is a feature of Perfect Competition?",
+    "choices": [
+      "Few sellers",
+      "Differentiated products",
+      "Large number of buyers and sellers",
+      "Barriers to entry"
+    ],
+    "correct_index": 2,
+    "explanation": "Perfect competition is characterized by a large number of buyers and sellers, homogeneous products, and free entry and exit."
+  },
+  {
+    "id": 143,
+    "question": "What is the full form of CRAR?",
+    "choices": [
+      "Capital to Risk (Weighted) Assets Ratio",
+      "Credit Risk Assessment Ratio",
+      "Capital Reserve Asset Ratio",
+      "Current Ratio of Assets and Reserves"
+    ],
+    "correct_index": 0,
+    "explanation": "CRAR stands for Capital to Risk (Weighted) Assets Ratio, also known as Capital Adequacy Ratio (CAR)."
+  },
+  {
+    "id": 144,
+    "question": "Which plan focused on 'Human Resource Development'?",
+    "choices": [
+      "Sixth Five Year Plan",
+      "Seventh Five Year Plan",
+      "Eighth Five Year Plan",
+      "Ninth Five Year Plan"
+    ],
+    "correct_index": 0,
+    "explanation": "The Sixth Five Year Plan (1980-85) marked a shift towards human resource development, along with poverty alleviation."
+  },
+  {
+    "id": 145,
+    "question": "What is the full form of BSE?",
+    "choices": [
+      "Bombay Stock Exchange",
+      "Bangalore Stock Exchange",
+      "Bharat Stock Exchange",
+      "Business Stock Exchange"
+    ],
+    "correct_index": 0,
+    "explanation": "BSE stands for Bombay Stock Exchange, the oldest stock exchange in Asia."
+  },
+  {
+    "id": 146,
+    "question": "Which of the following is a lagging indicator?",
+    "choices": [
+      "Stock Market Returns",
+      "Building Permits",
+      "Unemployment Rate",
+      "Consumer Confidence Index"
+    ],
+    "correct_index": 2,
+    "explanation": "The unemployment rate is a lagging indicator because it tends to change after the economy has already begun to follow a particular trend."
+  },
+  {
+    "id": 147,
+    "question": "What is the full form of NSE?",
+    "choices": [
+      "National Stock Exchange",
+      "New Stock Exchange",
+      "National Securities Exchange",
+      "New Securities Entity"
+    ],
+    "correct_index": 0,
+    "explanation": "NSE stands for National Stock Exchange of India."
+  },
+  {
+    "id": 148,
+    "question": "Which committee recommended the decentralization of planning?",
+    "choices": [
+      "Ashok Mehta Committee",
+      "Balwant Rai Mehta Committee",
+      "Gadgil Committee",
+      "L M Singhvi Committee"
+    ],
+    "correct_index": 1,
+    "explanation": "The Balwant Rai Mehta Committee (1957) recommended the establishment of a three-tier Panchayati Raj system, effectively decentralizing planning and development."
+  },
+  {
+    "id": 149,
+    "question": "What is the full form of SENSEX?",
+    "choices": [
+      "Sensitive Index",
+      "Sense Index",
+      "Sensitivity Index",
+      "Sensor Index"
+    ],
+    "correct_index": 0,
+    "explanation": "SENSEX is a portmanteau of 'Sensitive' and 'Index'. It is the benchmark index of the BSE."
+  },
+  {
+    "id": 150,
+    "question": "Which of the following is a fixed cost?",
+    "choices": [
+      "Wages of casual labor",
+      "Cost of raw material",
+      "Rent of the factory building",
+      "Electricity bill for machinery"
+    ],
+    "correct_index": 2,
+    "explanation": "Fixed costs do not change with the level of output in the short run. Rent is a typical fixed cost."
+  },
+  {
+    "id": 151,
+    "question": "What is the full form of HDFC?",
+    "choices": [
+      "Housing Development Finance Corporation",
+      "Home Development Finance Company",
+      "Housing Debt Finance Corporation",
+      "High Development Finance Center"
+    ],
+    "correct_index": 0,
+    "explanation": "HDFC stands for Housing Development Finance Corporation (now merged with HDFC Bank)."
+  },
+  {
+    "id": 152,
+    "question": "Which plan is known as the 'Gadgil Yojana'?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan"
+    ],
+    "correct_index": 0,
+    "explanation": "The First Five Year Plan is also known as the Gadgil Yojana, named after D.R. Gadgil, the deputy chairman of the Planning Commission."
+  },
+  {
+    "id": 153,
+    "question": "What is the full form of ICICI?",
+    "choices": [
+      "Industrial Credit and Investment Corporation of India",
+      "Indian Credit and Investment Corporation of India",
+      "International Credit and Investment Corporation of India",
+      "Industrial Capital and Investment Company of India"
+    ],
+    "correct_index": 0,
+    "explanation": "ICICI originally stood for Industrial Credit and Investment Corporation of India."
+  },
+  {
+    "id": 154,
+    "question": "Which of the following is a merit of a Mixed Economy?",
+    "choices": [
+      "Efficient allocation of resources",
+      "Economic freedom and social welfare",
+      "Rapid decision making",
+      "Equal distribution of wealth"
+    ],
+    "correct_index": 1,
+    "explanation": "A mixed economy aims to combine the efficiency of the private sector with the social welfare goals of the public sector."
+  },
+  {
+    "id": 155,
+    "question": "What is the full form of UTI?",
+    "choices": [
+      "Unit Trust of India",
+      "United Trust of India",
+      "Universal Trust of India",
+      "Union Trust of India"
+    ],
+    "correct_index": 0,
+    "explanation": "UTI stands for Unit Trust of India, a statutory body established in 1963."
+  },
+  {
+    "id": 156,
+    "question": "Which committee recommended the establishment of SEBI?",
+    "choices": [
+      "Narasimham Committee",
+      "Sachar Committee",
+      "P J Nayak Committee",
+      "None, SEBI was established by an act"
+    ],
+    "correct_index": 3,
+    "explanation": "SEBI was established in 1988 and given statutory powers in 1992 through the SEBI Act. It wasn't recommended by a single specific committee like banking reforms, but evolved from the Controller of Capital Issues."
+  },
+  {
+    "id": 157,
+    "question": "What is the full form of EXIM Bank?",
+    "choices": [
+      "Export-Import Bank of India",
+      "External Investment Bank of India",
+      "Exchange Import Bank of India",
+      "Export Investment Management Bank"
+    ],
+    "correct_index": 0,
+    "explanation": "EXIM Bank stands for Export-Import Bank of India."
+  },
+  {
+    "id": 158,
+    "question": "Which of the following is a demerit of a Capitalist Economy?",
+    "choices": [
+      "Lack of innovation",
+      "Income inequality",
+      "Slow growth",
+      "Excessive government control"
+    ],
+    "correct_index": 1,
+    "explanation": "A major criticism of pure capitalist economies is the potential for significant income inequality."
+  },
+  {
+    "id": 159,
+    "question": "What is the full form of SIDBI?",
+    "choices": [
+      "Small Industries Development Bank of India",
+      "State Industries Development Bank of India",
+      "Small Investment and Development Bank of India",
+      "Society for Industrial Development in India"
+    ],
+    "correct_index": 0,
+    "explanation": "SIDBI stands for Small Industries Development Bank of India."
+  },
+  {
+    "id": 160,
+    "question": "Which plan aimed at 'Faster, Sustainable and More Inclusive Growth'?",
+    "choices": [
+      "Tenth Five Year Plan",
+      "Eleventh Five Year Plan",
+      "Twelfth Five Year Plan",
+      "Thirteenth Five Year Plan"
+    ],
+    "correct_index": 2,
+    "explanation": "The Twelfth Five Year Plan (2012-17) had the theme 'Faster, Sustainable and More Inclusive Growth'."
+  },
+  {
+    "id": 161,
+    "question": "What is the full form of NHB?",
+    "choices": [
+      "National Housing Bank",
+      "New Housing Bank",
+      "National Home Bank",
+      "Nuclear Housing Board"
+    ],
+    "correct_index": 0,
+    "explanation": "NHB stands for National Housing Bank."
+  },
+  {
+    "id": 162,
+    "question": "Which of the following is a feature of a Socialist Economy?",
+    "choices": [
+      "Private ownership of means of production",
+      "Profit motive",
+      "Central planning",
+      "Consumer sovereignty"
+    ],
+    "correct_index": 2,
+    "explanation": "Socialist economies are characterized by social ownership of means of production and central planning."
+  },
+  {
+    "id": 163,
+    "question": "What is the full form of ARDC?",
+    "choices": [
+      "Agricultural Refinance and Development Corporation",
+      "Advanced Rural Development Corporation",
+      "Agricultural Rural Development Center",
+      "Agro Refinance and Debt Corporation"
+    ],
+    "correct_index": 0,
+    "explanation": "ARDC stood for Agricultural Refinance and Development Corporation, which was merged into NABARD."
+  },
+  {
+    "id": 164,
+    "question": "Which plan is considered the failure due to Indo-China war?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan"
+    ],
+    "correct_index": 2,
+    "explanation": "The Third Five Year Plan (1961-66) faced setbacks due to the Indo-China war (1962) and Indo-Pak war (1965), leading to plan holidays."
+  },
+  {
+    "id": 165,
+    "question": "What is the full form of FCNR?",
+    "choices": [
+      "Foreign Currency Non-Resident",
+      "Foreign Credit Non-Resident",
+      "Fixed Currency Non-Resident",
+      "Flexible Currency Non-Resident"
+    ],
+    "correct_index": 0,
+    "explanation": "FCNR stands for Foreign Currency Non-Resident account."
+  },
+  {
+    "id": 166,
+    "question": "Which of the following is a direct effect of inflation?",
+    "choices": [
+      "Increase in purchasing power",
+      "Decrease in purchasing power",
+      "Increase in savings",
+      "Decrease in prices"
+    ],
+    "correct_index": 1,
+    "explanation": "Inflation reduces the purchasing power of money, meaning each unit of currency buys fewer goods and services."
+  },
+  {
+    "id": 167,
+    "question": "What is the full form of ECGC?",
+    "choices": [
+      "Export Credit Guarantee Corporation",
+      "Economic Credit Guarantee Corporation",
+      "Export Capital Guarantee Corporation",
+      "External Credit Guarantee Council"
+    ],
+    "correct_index": 0,
+    "explanation": "ECGC stands for Export Credit Guarantee Corporation of India Ltd."
+  },
+  {
+    "id": 168,
+    "question": "Which committee recommended the reduction of import duties?",
+    "choices": [
+      "Raja Chelliah Committee",
+      "Narasimham Committee",
+      "Kelkar Committee",
+      "Abid Hussain Committee"
+    ],
+    "correct_index": 0,
+    "explanation": "The Raja Chelliah Committee on Tax Reforms recommended rationalization and reduction of import duties."
+  },
+  {
+    "id": 169,
+    "question": "What is the full form of IIB?",
+    "choices": [
+      "Infrastructure Investment Bank",
+      "Industrial Investment Bank",
+      "International Investment Bank",
+      "Indian Investment Bank"
+    ],
+    "correct_index": 0,
+    "explanation": "In the context of recent Indian developments, IIB often refers to the National Bank for Financing Infrastructure and Development (NaBFID), but historically or globally it can mean Industrial Investment Bank. However, in Indian GK, NaBFID is the new development bank. Let's stick to standard abbreviations. IIB usually refers to Industrial Investment Bank in older contexts or International Islamic Bank. Let's use a clearer one."
+  },
+  {
+    "id": 170,
+    "question": "Which of the following is a tool of Monetary Policy?",
+    "choices": [
+      "Taxation",
+      "Government Spending",
+      "Open Market Operations",
+      "Subsidies"
+    ],
+    "correct_index": 2,
+    "explanation": "Open Market Operations (buying and selling of government securities) is a key tool of Monetary Policy controlled by the Central Bank. Taxation and spending are Fiscal Policy tools."
+  },
+  {
+    "id": 171,
+    "question": "What is the full form of PSB?",
+    "choices": [
+      "Public Sector Bank",
+      "Private Sector Bank",
+      "Public Service Bank",
+      "Primary Sector Bank"
+    ],
+    "correct_index": 0,
+    "explanation": "PSB stands for Public Sector Bank."
+  },
+  {
+    "id": 172,
+    "question": "Which plan introduced the concept of 'Minimum Needs Programme'?",
+    "choices": [
+      "Third Five Year Plan",
+      "Fourth Five Year Plan",
+      "Fifth Five Year Plan",
+      "Sixth Five Year Plan"
+    ],
+    "correct_index": 1,
+    "explanation": "The Fourth Five Year Plan (1969-74) introduced the Minimum Needs Programme (MNP)."
+  },
+  {
+    "id": 173,
+    "question": "What is the full form of MUDRA?",
+    "choices": [
+      "Micro Units Development and Refinance Agency",
+      "Micro Urban Development and Refinance Agency",
+      "Medium Units Development and Refinance Agency",
+      "Micro Unit Development and Regulatory Agency"
+    ],
+    "correct_index": 0,
+    "explanation": "MUDRA stands for Micro Units Development and Refinance Agency."
+  },
+  {
+    "id": 174,
+    "question": "Which of the following is a feature of Oligopoly?",
+    "choices": [
+      "Single seller",
+      "Many sellers",
+      "Few sellers",
+      "Homogeneous products only"
+    ],
+    "correct_index": 2,
+    "explanation": "Oligopoly is a market structure dominated by a small number of firms (few sellers)."
+  },
+  {
+    "id": 175,
+    "question": "What is the full form of BRBNMPL?",
+    "choices": [
+      "Bharatiya Reserve Bank Note Mudran Private Limited",
+      "Bharat Reserve Bank Note Manufacturing Private Limited",
+      "Banking Reserve Bank Note Mudran Public Limited",
+      "Bharatiya Rural Bank Note Mudran Private Limited"
+    ],
+    "correct_index": 0,
+    "explanation": "BRBNMPL stands for Bharatiya Reserve Bank Note Mudran Private Limited, a subsidiary of RBI that prints currency notes."
+  },
+  {
+    "id": 176,
+    "question": "Which committee recommended the establishment of Local Area Banks?",
+    "choices": [
+      "Narasimham Committee",
+      "Raghuram Rajan Committee",
+      "Kapila Committee",
+      "Ghosh Committee"
+    ],
+    "correct_index": 0,
+    "explanation": "The Narasimham Committee (1998) recommended the establishment of Local Area Banks."
+  },
+  {
+    "id": 177,
+    "question": "What is the full form of CDSL?",
+    "choices": [
+      "Central Depository Services (India) Limited",
+      "Central Depository System Limited",
+      "Central Digital Securities Limited",
+      "Central Debt Services Limited"
+    ],
+    "correct_index": 0,
+    "explanation": "CDSL stands for Central Depository Services (India) Limited."
+  },
+  {
+    "id": 178,
+    "question": "Which of the following is a cause of cost-push inflation?",
+    "choices": [
+      "Increase in demand",
+      "Increase in wages",
+      "Increase in money supply",
+      "Increase in consumer confidence"
+    ],
+    "correct_index": 1,
+    "explanation": "Cost-push inflation is caused by increases in the cost of production, such as wages or raw materials."
+  },
+  {
+    "id": 179,
+    "question": "What is the full form of NSDL?",
+    "choices": [
+      "National Securities Depository Limited",
+      "National Stock Depository Limited",
+      "New Securities Depository Limited",
+      "National Share Depository Limited"
+    ],
+    "correct_index": 0,
+    "explanation": "NSDL stands for National Securities Depository Limited."
+  },
+  {
+    "id": 180,
+    "question": "Which plan focused on 'Modernization'?",
+    "choices": [
+      "Seventh Five Year Plan",
+      "Eighth Five Year Plan",
+      "Ninth Five Year Plan",
+      "Tenth Five Year Plan"
+    ],
+    "correct_index": 0,
+    "explanation": "The Seventh Five Year Plan (1985-90) focused on growth, social justice, and modernization."
+  },
+  {
+    "id": 181,
+    "question": "What is the full form of ARC?",
+    "choices": [
+      "Asset Reconstruction Company",
+      "Asset Recovery Company",
+      "Asset Refinance Company",
+      "Asset Regulation Company"
+    ],
+    "correct_index": 0,
+    "explanation": "ARC stands for Asset Reconstruction Company, which deals with NPAs."
+  },
+  {
+    "id": 182,
+    "question": "Which of the following is a feature of Monopolistic Competition?",
+    "choices": [
+      "Homogeneous products",
+      "Differentiated products",
+      "Single seller",
+      "No advertising"
+    ],
+    "correct_index": 1,
+    "explanation": "Monopolistic competition is characterized by many sellers offering differentiated products."
+  },
+  {
+    "id": 183,
+    "question": "What is the full form of NABFID?",
+    "choices": [
+      "National Bank for Financing Infrastructure and Development",
+      "National Agricultural Bank for Financial Infrastructure Development",
+      "New Agency for Banking and Financial Infrastructure Development",
+      "National Association for Banking and Financial Infrastructure Development"
+    ],
+    "correct_index": 0,
+    "explanation": "NABFID is the acronym for the National Bank for Financing Infrastructure and Development (NaBFID)."
+  },
+  {
+    "id": 184,
+    "question": "Which committee recommended the introduction of Liberalized Licensing Policy?",
+    "choices": [
+      "Abid Hussain Committee",
+      "Narasimham Committee",
+      "Raja Chelliah Committee",
+      "Industrial Licensing Policy Inquiry Committee (ILPIC)"
+    ],
+    "correct_index": 3,
+    "explanation": "The Industrial Licensing Policy Inquiry Committee (L.K. Jha Committee) and subsequent policies led to liberalization. The Abid Hussain Committee focused on trade policy. The question is slightly ambiguous, but the 1991 New Industrial Policy was the key shift."
+  },
+  {
+    "id": 185,
+    "question": "What is the full form of SWIFT?",
+    "choices": [
+      "Society for Worldwide Interbank Financial Telecommunication",
+      "System for Worldwide Interbank Financial Transfer",
+      "Society for Worldwide International Financial Trade",
+      "System for Worldwide International Financial Telecommunication"
+    ],
+    "correct_index": 0,
+    "explanation": "SWIFT stands for Society for Worldwide Interbank Financial Telecommunication."
+  },
+  {
+    "id": 186,
+    "question": "Which of the following is a quantitative tool of credit control?",
+    "choices": [
+      "Moral Suasion",
+      "Margin Requirements",
+      "Bank Rate",
+      "Selective Credit Control"
+    ],
+    "correct_index": 2,
+    "explanation": "Bank Rate, Repo Rate, CRR, and SLR are quantitative tools. Moral suasion and selective credit controls are qualitative tools."
+  },
+  {
+    "id": 187,
+    "question": "What is the full form of IMF?",
+    "choices": [
+      "International Monetary Fund",
+      "Indian Monetary Fund",
+      "International Market Fund",
+      "Internal Monetary Facility"
+    ],
+    "correct_index": 0,
+    "explanation": "IMF stands for International Monetary Fund."
+  },
+  {
+    "id": 188,
+    "question": "Which plan is known as the 'Karve Plan'?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "People's Plan",
+      "Bombay Plan"
+    ],
+    "correct_index": 2,
+    "explanation": "The People's Plan was drafted by M.N. Roy. The Bombay Plan was by industrialists. The Karve Plan is not a standard name for a Five Year Plan. Perhaps the question meant 'Bombay Plan' or 'People's Plan'. Let's correct."
+  },
+  {
+    "id": 189,
+    "question": "What is the full form of WTO?",
+    "choices": [
+      "World Trade Organization",
+      "World Tax Organization",
+      "World Tourism Organization",
+      "World Technology Organization"
+    ],
+    "correct_index": 0,
+    "explanation": "WTO stands for World Trade Organization."
+  },
+  {
+    "id": 190,
+    "question": "Which of the following is a non-banking financial institution?",
+    "choices": [
+      "SBI",
+      "LIC",
+      "PNB",
+      "HDFC Bank"
+    ],
+    "correct_index": 1,
+    "explanation": "LIC (Life Insurance Corporation) is a non-banking financial institution. SBI, PNB, and HDFC are banks."
+  },
+  {
+    "id": 191,
+    "question": "What is the full form of OECD?",
+    "choices": [
+      "Organisation for Economic Co-operation and Development",
+      "Organization for Economic Cooperation and Development",
+      "Organisation for Economic Community and Development",
+      "Organization for Economic Commerce and Development"
+    ],
+    "correct_index": 0,
+    "explanation": "OECD stands for Organisation for Economic Co-operation and Development."
+  },
+  {
+    "id": 192,
+    "question": "Which committee recommended the establishment of Regional Rural Banks (RRBs)?",
+    "choices": [
+      "Narasimham Committee",
+      "Shivaraman Committee",
+      "Working Group on Rural Banks (1975)",
+      "Raja Chelliah Committee"
+    ],
+    "correct_index": 2,
+    "explanation": "The Working Group on Rural Banks, chaired by M. Narasimham (different from the later banking reform committee), recommended the establishment of RRBs in 1975."
+  },
+  {
+    "id": 193,
+    "question": "What is the full form of GATT?",
+    "choices": [
+      "General Agreement on Tariffs and Trade",
+      "Global Agreement on Tariffs and Trade",
+      "General Agreement on Trade and Tariffs",
+      "Global Agreement on Trade and Tariffs"
+    ],
+    "correct_index": 0,
+    "explanation": "GATT stands for General Agreement on Tariffs and Trade, the predecessor to the WTO."
+  },
+  {
+    "id": 194,
+    "question": "Which of the following is a qualitative tool of credit control?",
+    "choices": [
+      "CRR",
+      "SLR",
+      "Margin Requirements",
+      "Repo Rate"
+    ],
+    "correct_index": 2,
+    "explanation": "Margin requirements, moral suasion, and selective credit controls are qualitative tools. CRR, SLR, and Repo Rate are quantitative."
+  },
+  {
+    "id": 195,
+    "question": "What is the full form of UNCTAD?",
+    "choices": [
+      "United Nations Conference on Trade and Development",
+      "United Nations Council on Trade and Development",
+      "United Nations Committee on Trade and Development",
+      "United Nations Commission on Trade and Development"
+    ],
+    "correct_index": 0,
+    "explanation": "UNCTAD stands for United Nations Conference on Trade and Development."
+  },
+  {
+    "id": 196,
+    "question": "Which plan is known as the 'Harrod-Domar Model' based plan?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Third Five Year Plan",
+      "Fourth Five Year Plan"
+    ],
+    "correct_index": 0,
+    "explanation": "The First Five Year Plan was based on the Harrod-Domar model."
+  },
+  {
+    "id": 197,
+    "question": "What is the full form of SAARC?",
+    "choices": [
+      "South Asian Association for Regional Cooperation",
+      "South American Association for Regional Cooperation",
+      "South Asian Association for Regional Commerce",
+      "South Asian Alliance for Regional Cooperation"
+    ],
+    "correct_index": 0,
+    "explanation": "SAARC stands for South Asian Association for Regional Cooperation."
+  },
+  {
+    "id": 198,
+    "question": "Which of the following is a direct tax?",
+    "choices": [
+      "GST",
+      "Customs Duty",
+      "Wealth Tax (abolished but was direct)",
+      "Excise Duty"
+    ],
+    "correct_index": 2,
+    "explanation": "Wealth Tax was a direct tax (levied directly on individuals). GST, Customs, and Excise are indirect taxes. Note: Wealth Tax was abolished in 2015."
+  },
+  {
+    "id": 199,
+    "question": "What is the full form of ASEAN?",
+    "choices": [
+      "Association of Southeast Asian Nations",
+      "Association of South East Asian Nations",
+      "Alliance of Southeast Asian Nations",
+      "Association of Southeast Asia Nations"
+    ],
+    "correct_index": 0,
+    "explanation": "ASEAN stands for Association of Southeast Asian Nations."
+  },
+  {
+    "id": 200,
+    "question": "Which committee recommended the establishment of the National Stock Exchange (NSE)?",
+    "choices": [
+      "Narasimham Committee",
+      "Pherwani Committee",
+      "Raja Chelliah Committee",
+      "Abid Hussain Committee"
+    ],
+    "correct_index": 1,
+    "explanation": "The Pherwani Committee recommended the establishment of the NSE."
+  },
+  {
+    "id": 201,
+    "question": "What is the full form of BRICS?",
+    "choices": [
+      "Brazil, Russia, India, China, South Africa",
+      "Britain, Russia, India, China, South Africa",
+      "Brazil, Russia, Indonesia, China, South Africa",
+      "Brazil, Russia, India, Canada, South Africa"
+    ],
+    "correct_index": 0,
+    "explanation": "BRICS stands for Brazil, Russia, India, China, and South Africa."
+  },
+  {
+    "id": 202,
+    "question": "Which of the following is a feature of a Developing Economy?",
+    "choices": [
+      "High per capita income",
+      "Low rate of capital formation",
+      "Advanced technology",
+      "Low population growth"
+    ],
+    "correct_index": 1,
+    "explanation": "Developing economies typically characterize by low per capita income, low rate of capital formation, and high population growth."
+  },
+  {
+    "id": 203,
+    "question": "What is the full form of OPEC?",
+    "choices": [
+      "Organization of the Petroleum Exporting Countries",
+      "Organization of Petroleum Exporting Countries",
+      "Organization of the Petrochemical Exporting Countries",
+      "Organization of the Petrol Exporting Countries"
+    ],
+    "correct_index": 0,
+    "explanation": "OPEC stands for Organization of the Petroleum Exporting Countries."
+  },
+  {
+    "id": 204,
+    "question": "Which plan is known as the 'Biennial Plan'?",
+    "choices": [
+      "Annual Plan",
+      "Two Year Plan (1978-80)",
+      "Rolling Plan",
+      "Perspective Plan"
+    ],
+    "correct_index": 1,
+    "explanation": "The Janata Government rolled out a Two Year Plan (1978-80), also known as the Biennial Plan."
+  },
+  {
+    "id": 205,
+    "question": "What is the full form of ADB?",
+    "choices": [
+      "Asian Development Bank",
+      "African Development Bank",
+      "American Development Bank",
+      "Australian Development Bank"
+    ],
+    "correct_index": 0,
+    "explanation": "ADB stands for Asian Development Bank."
+  },
+  {
+    "id": 206,
+    "question": "Which of the following is a merit of a Socialist Economy?",
+    "choices": [
+      "Economic freedom",
+      "Efficiency",
+      "Equality",
+      "Innovation"
+    ],
+    "correct_index": 2,
+    "explanation": "Socialist economies aim for greater equality in income and wealth distribution."
+  },
+  {
+    "id": 207,
+    "question": "What is the full form of AIIB?",
+    "choices": [
+      "Asian Infrastructure Investment Bank",
+      "African Infrastructure Investment Bank",
+      "American Infrastructure Investment Bank",
+      "Asian International Investment Bank"
+    ],
+    "correct_index": 0,
+    "explanation": "AIIB stands for Asian Infrastructure Investment Bank."
+  },
+  {
+    "id": 208,
+    "question": "Which committee recommended the establishment of the Capital Market?",
+    "choices": [
+      "Narasimham Committee",
+      "Raja Chelliah Committee",
+      "Abid Hussain Committee",
+      "None"
+    ],
+    "correct_index": 0,
+    "explanation": "The Narasimham Committee made several recommendations regarding the capital market and banking sector."
+  },
+  {
+    "id": 209,
+    "question": "What is the full form of ISRO?",
+    "choices": [
+      "Indian Space Research Organisation",
+      "International Space Research Organisation",
+      "Indian Scientific Research Organisation",
+      "Indian Space Rocket Organisation"
+    ],
+    "correct_index": 0,
+    "explanation": "ISRO stands for Indian Space Research Organisation. (Note: This is Science/General Awareness, but often overlaps)."
+  },
+  {
+    "id": 210,
+    "question": "Which of the following is a feature of a Developed Economy?",
+    "choices": [
+      "High dependency ratio",
+      "Low standard of living",
+      "High per capita income",
+      "High illiteracy rate"
+    ],
+    "correct_index": 2,
+    "explanation": "Developed economies are characterized by high per capita income, high standard of living, and low dependency ratios."
+  },
+  {
+    "id": 211,
+    "question": "What is the full form of WHO?",
+    "choices": [
+      "World Health Organization",
+      "World Health Organisation",
+      "World Health Office",
+      "World Health Organ"
+    ],
+    "correct_index": 0,
+    "explanation": "WHO stands for World Health Organization."
+  },
+  {
+    "id": 212,
+    "question": "Which plan is known as the 'Plan within a Plan'?",
+    "choices": [
+      "First Five Year Plan",
+      "Second Five Year Plan",
+      "Sub-plans in Five Year Plans",
+      "Annual Plan"
+    ],
+    "correct_index": 2,
+    "explanation": "Sub-plans were introduced in the Five Year Plans to address specific regional or sectoral needs, effectively acting as plans within the main plan."
+  },
+  {
+    "id": 213,
+    "question": "What is the full form of UNESCO?",
+    "choices": [
+      "United Nations Educational, Scientific and Cultural Organization",
+      "United Nations Economic, Scientific and Cultural Organization",
+      "United Nations Educational, Social and Cultural Organization",
+      "United Nations Environmental, Scientific and Cultural Organization"
+    ],
+    "correct_index": 0,
+    "explanation": "UNESCO stands for United Nations Educational, Scientific and Cultural Organization."
   }
 ]

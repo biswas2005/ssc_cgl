@@ -634,5 +634,2513 @@
     ],
     "correct_index": 2,
     "explanation": "West Bengal leads in rice production."
+  },
+  {
+    "id": 54,
+    "question": "Which is the largest continent in the world by area?",
+    "choices": [
+      "Africa",
+      "North America",
+      "Asia",
+      "Europe"
+    ],
+    "correct_index": 2,
+    "explanation": "Asia is the largest continent, covering about 30% of Earth's total land area."
+  },
+  {
+    "id": 55,
+    "question": "Which is the longest river in the world?",
+    "choices": [
+      "Amazon",
+      "Nile",
+      "Yangtze",
+      "Mississippi"
+    ],
+    "correct_index": 1,
+    "explanation": "The Nile River in Africa is traditionally considered the longest river in the world, though some studies suggest the Amazon might be longer."
+  },
+  {
+    "id": 56,
+    "question": "What is the highest mountain peak in the world?",
+    "choices": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correct_index": 2,
+    "explanation": "Mount Everest, located in the Himalayas on the border of Nepal and China, is the highest peak above sea level at 8,848 meters."
+  },
+  {
+    "id": 57,
+    "question": "Which desert is the largest hot desert in the world?",
+    "choices": [
+      "Gobi",
+      "Kalahari",
+      "Sahara",
+      "Thar"
+    ],
+    "correct_index": 2,
+    "explanation": "The Sahara Desert in North Africa is the largest hot desert in the world."
+  },
+  {
+    "id": 58,
+    "question": "Which country has the largest population in the world as of 2023?",
+    "choices": [
+      "China",
+      "India",
+      "United States",
+      "Indonesia"
+    ],
+    "correct_index": 1,
+    "explanation": "India surpassed China to become the most populous country in the world in April 2023."
+  },
+  {
+    "id": 59,
+    "question": "What is the smallest continent in the world?",
+    "choices": [
+      "Europe",
+      "Antarctica",
+      "Australia",
+      "South America"
+    ],
+    "correct_index": 2,
+    "explanation": "Australia is the smallest continent by land area."
+  },
+  {
+    "id": 60,
+    "question": "Which ocean is the largest and deepest?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 2,
+    "explanation": "The Pacific Ocean is the largest and deepest ocean, covering more than 30% of Earth's surface."
+  },
+  {
+    "id": 61,
+    "question": "What is the capital city of France?",
+    "choices": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Madrid"
+    ],
+    "correct_index": 2,
+    "explanation": "Paris is the capital and most populous city of France."
+  },
+  {
+    "id": 62,
+    "question": "Which line divides the Earth into Northern and Southern Hemispheres?",
+    "choices": [
+      "Prime Meridian",
+      "Equator",
+      "Tropic of Cancer",
+      "Tropic of Capricorn"
+    ],
+    "correct_index": 1,
+    "explanation": "The Equator is an imaginary line at 0 degrees latitude that divides the Earth into Northern and Southern Hemispheres."
+  },
+  {
+    "id": 63,
+    "question": "Which is the largest island in the world?",
+    "choices": [
+      "Madagascar",
+      "Greenland",
+      "New Guinea",
+      "Borneo"
+    ],
+    "correct_index": 1,
+    "explanation": "Greenland is the world's largest island, located between the Arctic and Atlantic oceans."
+  },
+  {
+    "id": 64,
+    "question": "What is the currency of Japan?",
+    "choices": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct_index": 2,
+    "explanation": "The Yen is the official currency of Japan."
+  },
+  {
+    "id": 65,
+    "question": "Which river flows through the Grand Canyon?",
+    "choices": [
+      "Mississippi River",
+      "Colorado River",
+      "Rio Grande",
+      "Missouri River"
+    ],
+    "correct_index": 1,
+    "explanation": "The Colorado River carved the Grand Canyon in Arizona, USA."
+  },
+  {
+    "id": 66,
+    "question": "What is the highest waterfall in the world?",
+    "choices": [
+      "Niagara Falls",
+      "Victoria Falls",
+      "Angel Falls",
+      "Iguazu Falls"
+    ],
+    "correct_index": 2,
+    "explanation": "Angel Falls in Venezuela is the highest uninterrupted waterfall in the world."
+  },
+  {
+    "id": 67,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choices": [
+      "China",
+      "South Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correct_index": 2,
+    "explanation": "Japan is known as the Land of the Rising Sun because it is located to the east of the Asian mainland."
+  },
+  {
+    "id": 68,
+    "question": "What is the largest lake in the world by surface area?",
+    "choices": [
+      "Lake Superior",
+      "Caspian Sea",
+      "Lake Victoria",
+      "Aral Sea"
+    ],
+    "correct_index": 1,
+    "explanation": "The Caspian Sea is technically the largest lake in the world by surface area, although it is saline."
+  },
+  {
+    "id": 69,
+    "question": "Which strait separates India and Sri Lanka?",
+    "choices": [
+      "Bering Strait",
+      "Palk Strait",
+      "Strait of Hormuz",
+      "Strait of Malacca"
+    ],
+    "correct_index": 1,
+    "explanation": "The Palk Strait connects the Bay of Bengal with the Palk Bay and separates Tamil Nadu (India) from Sri Lanka."
+  },
+  {
+    "id": 70,
+    "question": "What is the capital of Australia?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct_index": 2,
+    "explanation": "Canberra is the capital city of Australia, not Sydney or Melbourne."
+  },
+  {
+    "id": 71,
+    "question": "Which mountain range separates Europe and Asia?",
+    "choices": [
+      "Himalayas",
+      "Andes",
+      "Ural Mountains",
+      "Rockies"
+    ],
+    "correct_index": 2,
+    "explanation": "The Ural Mountains form a natural boundary between the continents of Europe and Asia."
+  },
+  {
+    "id": 72,
+    "question": "What is the driest place on Earth?",
+    "choices": [
+      "Sahara Desert",
+      "Atacama Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "correct_index": 1,
+    "explanation": "The Atacama Desert in Chile is the driest non-polar desert in the world."
+  },
+  {
+    "id": 73,
+    "question": "Which country has the most time zones?",
+    "choices": [
+      "Russia",
+      "United States",
+      "France",
+      "China"
+    ],
+    "correct_index": 2,
+    "explanation": "France has the most time zones (12) due to its numerous overseas territories, followed by Russia (11)."
+  },
+  {
+    "id": 74,
+    "question": "What is the largest delta in the world?",
+    "choices": [
+      "Nile Delta",
+      "Mississippi Delta",
+      "Ganges-Brahmaputra Delta",
+      "Mekong Delta"
+    ],
+    "correct_index": 2,
+    "explanation": "The Ganges-Brahmaputra Delta, also known as the Sundarbans Delta, is the largest delta in the world."
+  },
+  {
+    "id": 75,
+    "question": "Which planet is closest to the Sun?",
+    "choices": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "correct_index": 2,
+    "explanation": "Mercury is the closest planet to the Sun in our solar system."
+  },
+  {
+    "id": 76,
+    "question": "What is the capital of Canada?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correct_index": 2,
+    "explanation": "Ottawa is the capital city of Canada."
+  },
+  {
+    "id": 77,
+    "question": "Which African country has the largest population?",
+    "choices": [
+      "Egypt",
+      "Nigeria",
+      "Ethiopia",
+      "South Africa"
+    ],
+    "correct_index": 1,
+    "explanation": "Nigeria is the most populous country in Africa."
+  },
+  {
+    "id": 78,
+    "question": "What is the longest mountain range in the world?",
+    "choices": [
+      "Himalayas",
+      "Rockies",
+      "Andes",
+      "Alps"
+    ],
+    "correct_index": 2,
+    "explanation": "The Andes Mountains in South America are the longest continental mountain range in the world."
+  },
+  {
+    "id": 79,
+    "question": "Which sea is the saltiest natural body of water?",
+    "choices": [
+      "Dead Sea",
+      "Red Sea",
+      "Mediterranean Sea",
+      "Black Sea"
+    ],
+    "correct_index": 0,
+    "explanation": "The Dead Sea, located between Jordan and Israel, is one of the saltiest bodies of water in the world."
+  },
+  {
+    "id": 80,
+    "question": "What is the capital of Brazil?",
+    "choices": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "correct_index": 2,
+    "explanation": "Brasilia is the federal capital of Brazil."
+  },
+  {
+    "id": 81,
+    "question": "Which wind blows from the west towards the east in the middle latitudes?",
+    "choices": [
+      "Trade Winds",
+      "Westerlies",
+      "Polar Easterlies",
+      "Monsoon"
+    ],
+    "correct_index": 1,
+    "explanation": "The Westerlies are prevailing winds that blow from the west towards the east in the middle latitudes."
+  },
+  {
+    "id": 82,
+    "question": "What is the largest archipelago in the world?",
+    "choices": [
+      "Philippines",
+      "Indonesia",
+      "Japan",
+      "Malaysia"
+    ],
+    "correct_index": 1,
+    "explanation": "Indonesia is the largest archipelago in the world, consisting of over 17,000 islands."
+  },
+  {
+    "id": 83,
+    "question": "Which river is known as the Sorrow of China?",
+    "choices": [
+      "Yangtze",
+      "Yellow River",
+      "Mekong",
+      "Pearl River"
+    ],
+    "correct_index": 1,
+    "explanation": "The Yellow River (Huang He) is known as the Sorrow of China due to its frequent and devastating floods."
+  },
+  {
+    "id": 84,
+    "question": "What is the capital of Egypt?",
+    "choices": [
+      "Alexandria",
+      "Cairo",
+      "Giza",
+      "Luxor"
+    ],
+    "correct_index": 2,
+    "explanation": "Cairo is the capital and largest city of Egypt."
+  },
+  {
+    "id": 85,
+    "question": "Which layer of the atmosphere contains the ozone layer?",
+    "choices": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct_index": 1,
+    "explanation": "The ozone layer is located in the lower portion of the stratosphere."
+  },
+  {
+    "id": 86,
+    "question": "What is the largest country in the world by area?",
+    "choices": [
+      "China",
+      "United States",
+      "Russia",
+      "Canada"
+    ],
+    "correct_index": 2,
+    "explanation": "Russia is the largest country in the world, spanning across Eastern Europe and Northern Asia."
+  },
+  {
+    "id": 87,
+    "question": "Which river flows through London?",
+    "choices": [
+      "Seine",
+      "Thames",
+      "Danube",
+      "Rhine"
+    ],
+    "correct_index": 1,
+    "explanation": "The River Thames flows through London, England."
+  },
+  {
+    "id": 88,
+    "question": "What is the highest plateau in the world?",
+    "choices": [
+      "Deccan Plateau",
+      "Tibetan Plateau",
+      "Colorado Plateau",
+      "Iranian Plateau"
+    ],
+    "correct_index": 1,
+    "explanation": "The Tibetan Plateau, often called the Roof of the World, is the highest and largest plateau in the world."
+  },
+  {
+    "id": 89,
+    "question": "Which country is landlocked?",
+    "choices": [
+      "Brazil",
+      "Mongolia",
+      "India",
+      "Italy"
+    ],
+    "correct_index": 1,
+    "explanation": "Mongolia is a landlocked country situated between Russia and China."
+  },
+  {
+    "id": 90,
+    "question": "What is the capital of Russia?",
+    "choices": [
+      "St Petersburg",
+      "Moscow",
+      "Kiev",
+      "Minsk"
+    ],
+    "correct_index": 1,
+    "explanation": "Moscow is the capital and largest city of Russia."
+  },
+  {
+    "id": 91,
+    "question": "Which gulf is the largest in the world?",
+    "choices": [
+      "Gulf of Mexico",
+      "Persian Gulf",
+      "Gulf of Carpentaria",
+      "Gulf of Aden"
+    ],
+    "correct_index": 0,
+    "explanation": "The Gulf of Mexico is the largest gulf in the world."
+  },
+  {
+    "id": 92,
+    "question": "What is the imaginary line that runs from the North Pole to the South Pole?",
+    "choices": [
+      "Equator",
+      "Prime Meridian",
+      "Tropic of Cancer",
+      "International Date Line"
+    ],
+    "correct_index": 1,
+    "explanation": "The Prime Meridian (0 degrees longitude) runs from the North Pole to the South Pole, passing through Greenwich, London."
+  },
+  {
+    "id": 93,
+    "question": "Which country is known as the Land of Thousand Lakes?",
+    "choices": [
+      "Sweden",
+      "Finland",
+      "Norway",
+      "Denmark"
+    ],
+    "correct_index": 1,
+    "explanation": "Finland is known as the Land of a Thousand Lakes because it has approximately 188,000 lakes."
+  },
+  {
+    "id": 94,
+    "question": "What is the capital of Italy?",
+    "choices": [
+      "Venice",
+      "Milan",
+      "Rome",
+      "Naples"
+    ],
+    "correct_index": 2,
+    "explanation": "Rome is the capital city of Italy."
+  },
+  {
+    "id": 95,
+    "question": "Which desert is located in India?",
+    "choices": [
+      "Gobi",
+      "Sahara",
+      "Thar",
+      "Kalahari"
+    ],
+    "correct_index": 2,
+    "explanation": "The Thar Desert, also known as the Great Indian Desert, is located in northwestern India."
+  },
+  {
+    "id": 96,
+    "question": "What is the deepest point in the ocean?",
+    "choices": [
+      "Mariana Trench",
+      "Puerto Rico Trench",
+      "Java Trench",
+      "Tonga Trench"
+    ],
+    "correct_index": 0,
+    "explanation": "The Challenger Deep in the Mariana Trench is the deepest known point in Earth's oceans."
+  },
+  {
+    "id": 97,
+    "question": "Which country has the longest coastline in the world?",
+    "choices": [
+      "Russia",
+      "Australia",
+      "Canada",
+      "United States"
+    ],
+    "correct_index": 2,
+    "explanation": "Canada has the longest coastline in the world due to its numerous islands and intricate shorelines."
+  },
+  {
+    "id": 98,
+    "question": "What is the capital of Germany?",
+    "choices": [
+      "Munich",
+      "Hamburg",
+      "Berlin",
+      "Frankfurt"
+    ],
+    "correct_index": 2,
+    "explanation": "Berlin is the capital and largest city of Germany."
+  },
+  {
+    "id": 99,
+    "question": "Which river is the longest in Europe?",
+    "choices": [
+      "Danube",
+      "Rhine",
+      "Volga",
+      "Seine"
+    ],
+    "correct_index": 2,
+    "explanation": "The Volga River in Russia is the longest river in Europe."
+  },
+  {
+    "id": 100,
+    "question": "What is the largest peninsula in the world?",
+    "choices": [
+      "Indian Peninsula",
+      "Arabian Peninsula",
+      "Iberian Peninsula",
+      "Scandinavian Peninsula"
+    ],
+    "correct_index": 1,
+    "explanation": "The Arabian Peninsula is the largest peninsula in the world."
+  },
+  {
+    "id": 101,
+    "question": "Which country is an archipelago?",
+    "choices": [
+      "Nepal",
+      "Philippines",
+      "Mongolia",
+      "Afghanistan"
+    ],
+    "correct_index": 1,
+    "explanation": "The Philippines is an archipelago consisting of more than 7,000 islands."
+  },
+  {
+    "id": 102,
+    "question": "What is the capital of Spain?",
+    "choices": [
+      "Barcelona",
+      "Madrid",
+      "Valencia",
+      "Seville"
+    ],
+    "correct_index": 1,
+    "explanation": "Madrid is the capital and largest city of Spain."
+  },
+  {
+    "id": 103,
+    "question": "Which mountain is the highest in Africa?",
+    "choices": [
+      "Mount Kenya",
+      "Mount Kilimanjaro",
+      "Mount Stanley",
+      "Mount Meru"
+    ],
+    "correct_index": 1,
+    "explanation": "Mount Kilimanjaro in Tanzania is the highest mountain in Africa."
+  },
+  {
+    "id": 104,
+    "question": "What is the imaginary line at 23.5 degrees North latitude?",
+    "choices": [
+      "Equator",
+      "Tropic of Cancer",
+      "Tropic of Capricorn",
+      "Arctic Circle"
+    ],
+    "correct_index": 1,
+    "explanation": "The Tropic of Cancer is located at approximately 23.5 degrees North latitude."
+  },
+  {
+    "id": 105,
+    "question": "Which country shares the longest border with India?",
+    "choices": [
+      "Pakistan",
+      "China",
+      "Bangladesh",
+      "Nepal"
+    ],
+    "correct_index": 2,
+    "explanation": "Bangladesh shares the longest land border with India."
+  },
+  {
+    "id": 106,
+    "question": "What is the capital of Argentina?",
+    "choices": [
+      "Santiago",
+      "Buenos Aires",
+      "Lima",
+      "Bogota"
+    ],
+    "correct_index": 1,
+    "explanation": "Buenos Aires is the capital and largest city of Argentina."
+  },
+  {
+    "id": 107,
+    "question": "Which ocean is the smallest?",
+    "choices": [
+      "Atlantic",
+      "Indian",
+      "Arctic",
+      "Pacific"
+    ],
+    "correct_index": 2,
+    "explanation": "The Arctic Ocean is the smallest and shallowest of the world's five major oceans."
+  },
+  {
+    "id": 108,
+    "question": "What is the largest bay in the world?",
+    "choices": [
+      "Hudson Bay",
+      "Bay of Bengal",
+      "Gulf of Mexico",
+      "Persian Gulf"
+    ],
+    "correct_index": 1,
+    "explanation": "The Bay of Bengal is the largest bay in the world."
+  },
+  {
+    "id": 109,
+    "question": "Which country is known as the Rainbow Nation?",
+    "choices": [
+      "Brazil",
+      "South Africa",
+      "Australia",
+      "New Zealand"
+    ],
+    "correct_index": 1,
+    "explanation": "South Africa is known as the Rainbow Nation, a term coined by Archbishop Desmond Tutu."
+  },
+  {
+    "id": 110,
+    "question": "What is the capital of Turkey?",
+    "choices": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+    ],
+    "correct_index": 1,
+    "explanation": "Ankara is the capital of Turkey, while Istanbul is the largest city."
+  },
+  {
+    "id": 111,
+    "question": "Which river flows through Paris?",
+    "choices": [
+      "Thames",
+      "Seine",
+      "Danube",
+      "Rhine"
+    ],
+    "correct_index": 1,
+    "explanation": "The Seine River flows through Paris, France."
+  },
+  {
+    "id": 112,
+    "question": "What is the highest mountain in North America?",
+    "choices": [
+      "Mount McKinley (Denali)",
+      "Mount Logan",
+      "Pico de Orizaba",
+      "Mount Saint Elias"
+    ],
+    "correct_index": 0,
+    "explanation": "Denali (formerly Mount McKinley) in Alaska is the highest peak in North America."
+  },
+  {
+    "id": 113,
+    "question": "Which country has the most volcanoes?",
+    "choices": [
+      "Japan",
+      "Indonesia",
+      "United States",
+      "Iceland"
+    ],
+    "correct_index": 1,
+    "explanation": "Indonesia has the most active volcanoes in the world due to its location on the Ring of Fire."
+  },
+  {
+    "id": 114,
+    "question": "What is the capital of South Korea?",
+    "choices": [
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Daegu"
+    ],
+    "correct_index": 1,
+    "explanation": "Seoul is the capital and largest city of South Korea."
+  },
+  {
+    "id": 115,
+    "question": "Which strait connects the Mediterranean Sea and the Atlantic Ocean?",
+    "choices": [
+      "Bosphorus Strait",
+      "Strait of Gibraltar",
+      "Strait of Hormuz",
+      "Dardanelles"
+    ],
+    "correct_index": 1,
+    "explanation": "The Strait of Gibraltar connects the Mediterranean Sea to the Atlantic Ocean."
+  },
+  {
+    "id": 116,
+    "question": "What is the largest freshwater lake by volume?",
+    "choices": [
+      "Lake Superior",
+      "Lake Baikal",
+      "Lake Victoria",
+      "Lake Tanganyika"
+    ],
+    "correct_index": 1,
+    "explanation": "Lake Baikal in Russia is the deepest and largest freshwater lake by volume."
+  },
+  {
+    "id": 117,
+    "question": "Which country is located entirely in the Southern Hemisphere?",
+    "choices": [
+      "India",
+      "Australia",
+      "United States",
+      "China"
+    ],
+    "correct_index": 1,
+    "explanation": "Australia is located entirely in the Southern Hemisphere."
+  },
+  {
+    "id": 118,
+    "question": "What is the capital of Mexico?",
+    "choices": [
+      "Guadalajara",
+      "Mexico City",
+      "Monterrey",
+      "Cancun"
+    ],
+    "correct_index": 1,
+    "explanation": "Mexico City is the capital and largest city of Mexico."
+  },
+  {
+    "id": 119,
+    "question": "Which river is known as the Yellow River?",
+    "choices": [
+      "Yangtze",
+      "Huang He",
+      "Mekong",
+      "Irrawaddy"
+    ],
+    "correct_index": 1,
+    "explanation": "The Huang He is known as the Yellow River due to the yellow silt it carries."
+  },
+  {
+    "id": 120,
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "choices": [
+      "Corsica",
+      "Sardinia",
+      "Sicily",
+      "Crete"
+    ],
+    "correct_index": 2,
+    "explanation": "Sicily is the largest island in the Mediterranean Sea."
+  },
+  {
+    "id": 121,
+    "question": "Which country is known as the Land of Fire and Ice?",
+    "choices": [
+      "Norway",
+      "Iceland",
+      "Greenland",
+      "Finland"
+    ],
+    "correct_index": 1,
+    "explanation": "Iceland is known as the Land of Fire and Ice due to its volcanoes and glaciers."
+  },
+  {
+    "id": 122,
+    "question": "What is the capital of Thailand?",
+    "choices": [
+      "Phuket",
+      "Bangkok",
+      "Chiang Mai",
+      "Pattaya"
+    ],
+    "correct_index": 1,
+    "explanation": "Bangkok is the capital and largest city of Thailand."
+  },
+  {
+    "id": 123,
+    "question": "Which mountain range is located in South America?",
+    "choices": [
+      "Himalayas",
+      "Andes",
+      "Rockies",
+      "Alps"
+    ],
+    "correct_index": 1,
+    "explanation": "The Andes Mountains run along the western edge of South America."
+  },
+  {
+    "id": 124,
+    "question": "What is the largest coral reef system in the world?",
+    "choices": [
+      "Belize Barrier Reef",
+      "Great Barrier Reef",
+      "Red Sea Coral Reef",
+      "New Caledonia Barrier Reef"
+    ],
+    "correct_index": 1,
+    "explanation": "The Great Barrier Reef in Australia is the world's largest coral reef system."
+  },
+  {
+    "id": 125,
+    "question": "Which country shares a border with both India and China?",
+    "choices": [
+      "Nepal",
+      "Bhutan",
+      "Myanmar",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "Nepal, Bhutan, and Myanmar all share borders with both India and China."
+  },
+  {
+    "id": 126,
+    "question": "What is the capital of Iran?",
+    "choices": [
+      "Tehran",
+      "Isfahan",
+      "Shiraz",
+      "Mashhad"
+    ],
+    "correct_index": 0,
+    "explanation": "Tehran is the capital and largest city of Iran."
+  },
+  {
+    "id": 127,
+    "question": "Which sea lies between Europe and Africa?",
+    "choices": [
+      "Red Sea",
+      "Mediterranean Sea",
+      "Black Sea",
+      "Caspian Sea"
+    ],
+    "correct_index": 1,
+    "explanation": "The Mediterranean Sea separates Europe from Africa."
+  },
+  {
+    "id": 128,
+    "question": "What is the highest waterfall in India?",
+    "choices": [
+      "Jog Falls",
+      "Kunchikal Falls",
+      "Nohkalikai Falls",
+      "Dudhsagar Falls"
+    ],
+    "correct_index": 1,
+    "explanation": "Kunchikal Falls in Karnataka is the highest waterfall in India."
+  },
+  {
+    "id": 129,
+    "question": "Which country is the largest producer of coffee?",
+    "choices": [
+      "Colombia",
+      "Vietnam",
+      "Brazil",
+      "Ethiopia"
+    ],
+    "correct_index": 2,
+    "explanation": "Brazil is the world's largest producer of coffee."
+  },
+  {
+    "id": 130,
+    "question": "What is the capital of Poland?",
+    "choices": [
+      "Krakow",
+      "Warsaw",
+      "Gdansk",
+      "Poznan"
+    ],
+    "correct_index": 1,
+    "explanation": "Warsaw is the capital and largest city of Poland."
+  },
+  {
+    "id": 131,
+    "question": "Which river flows through Berlin?",
+    "choices": [
+      "Elbe",
+      "Spree",
+      "Danube",
+      "Rhine"
+    ],
+    "correct_index": 1,
+    "explanation": "The Spree River flows through Berlin, Germany."
+  },
+  {
+    "id": 132,
+    "question": "What is the largest canyon in the world?",
+    "choices": [
+      "Grand Canyon",
+      "Fish River Canyon",
+      "Yarlung Tsangpo Grand Canyon",
+      "Copper Canyon"
+    ],
+    "correct_index": 2,
+    "explanation": "The Yarlung Tsangpo Grand Canyon in Tibet is arguably the deepest and largest canyon in the world."
+  },
+  {
+    "id": 133,
+    "question": "Which country is known as the Land of White Elephants?",
+    "choices": [
+      "India",
+      "Thailand",
+      "Myanmar",
+      "Laos"
+    ],
+    "correct_index": 1,
+    "explanation": "Thailand is known as the Land of White Elephants, which are considered sacred."
+  },
+  {
+    "id": 134,
+    "question": "What is the capital of Vietnam?",
+    "choices": [
+      "Ho Chi Minh City",
+      "Hanoi",
+      "Da Nang",
+      "Hue"
+    ],
+    "correct_index": 1,
+    "explanation": "Hanoi is the capital of Vietnam."
+  },
+  {
+    "id": 135,
+    "question": "Which ocean current warms the western coast of Europe?",
+    "choices": [
+      "Labrador Current",
+      "Gulf Stream",
+      "Canary Current",
+      "Benguela Current"
+    ],
+    "correct_index": 1,
+    "explanation": "The Gulf Stream (North Atlantic Drift) brings warm water to the western coast of Europe."
+  },
+  {
+    "id": 136,
+    "question": "What is the largest river island in the world?",
+    "choices": [
+      "Majuli",
+      "Marajo",
+      "Tupinambarana",
+      "Bananal"
+    ],
+    "correct_index": 1,
+    "explanation": "Marajo Island in Brazil is often cited as the largest fluvial island, though Majuli in India is the largest inhabited river island."
+  },
+  {
+    "id": 137,
+    "question": "Which country has the most natural lakes?",
+    "choices": [
+      "United States",
+      "Canada",
+      "Russia",
+      "Finland"
+    ],
+    "correct_index": 1,
+    "explanation": "Canada has more natural lakes than the rest of the world combined."
+  },
+  {
+    "id": 138,
+    "question": "What is the capital of Sweden?",
+    "choices": [
+      "Oslo",
+      "Stockholm",
+      "Helsinki",
+      "Copenhagen"
+    ],
+    "correct_index": 1,
+    "explanation": "Stockholm is the capital and largest city of Sweden."
+  },
+  {
+    "id": 139,
+    "question": "Which desert is the coldest in the world?",
+    "choices": [
+      "Sahara",
+      "Gobi",
+      "Antarctica",
+      "Arctic"
+    ],
+    "correct_index": 2,
+    "explanation": "Antarctica is technically a desert (polar desert) and is the coldest place on Earth."
+  },
+  {
+    "id": 140,
+    "question": "What is the largest inland sea in the world?",
+    "choices": [
+      "Mediterranean Sea",
+      "Caspian Sea",
+      "Black Sea",
+      "Red Sea"
+    ],
+    "correct_index": 1,
+    "explanation": "The Caspian Sea is the largest enclosed inland body of water on Earth."
+  },
+  {
+    "id": 141,
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "choices": [
+      "Sweden",
+      "Norway",
+      "Finland",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "Countries within the Arctic Circle, including Norway, Sweden, and Finland, experience the Midnight Sun."
+  },
+  {
+    "id": 142,
+    "question": "What is the capital of Greece?",
+    "choices": [
+      "Athens",
+      "Sparta",
+      "Thessaloniki",
+      "Crete"
+    ],
+    "correct_index": 0,
+    "explanation": "Athens is the capital and largest city of Greece."
+  },
+  {
+    "id": 143,
+    "question": "Which river forms the border between the US and Mexico?",
+    "choices": [
+      "Mississippi",
+      "Rio Grande",
+      "Colorado",
+      "Missouri"
+    ],
+    "correct_index": 1,
+    "explanation": "The Rio Grande forms a significant part of the border between the United States and Mexico."
+  },
+  {
+    "id": 144,
+    "question": "What is the highest peak in the Alps?",
+    "choices": [
+      "Matterhorn",
+      "Mont Blanc",
+      "Eiger",
+      "Jungfrau"
+    ],
+    "correct_index": 1,
+    "explanation": "Mont Blanc is the highest mountain in the Alps and Western Europe."
+  },
+  {
+    "id": 145,
+    "question": "Which country is the largest exporter of oil?",
+    "choices": [
+      "Saudi Arabia",
+      "Russia",
+      "United States",
+      "Iraq"
+    ],
+    "correct_index": 2,
+    "explanation": "The United States has recently become the largest exporter of crude oil, surpassing Saudi Arabia and Russia."
+  },
+  {
+    "id": 146,
+    "question": "What is the capital of Portugal?",
+    "choices": [
+      "Madrid",
+      "Lisbon",
+      "Barcelona",
+      "Porto"
+    ],
+    "correct_index": 1,
+    "explanation": "Lisbon is the capital and largest city of Portugal."
+  },
+  {
+    "id": 147,
+    "question": "Which strait separates Asia and North America?",
+    "choices": [
+      "Bering Strait",
+      "Palk Strait",
+      "Strait of Hormuz",
+      "Strait of Malacca"
+    ],
+    "correct_index": 0,
+    "explanation": "The Bering Strait separates Russia (Asia) from Alaska (North America)."
+  },
+  {
+    "id": 148,
+    "question": "What is the largest tropical rainforest in the world?",
+    "choices": [
+      "Congo Rainforest",
+      "Amazon Rainforest",
+      "Daintree Rainforest",
+      "Southeast Asian Rainforest"
+    ],
+    "correct_index": 1,
+    "explanation": "The Amazon Rainforest in South America is the largest tropical rainforest in the world."
+  },
+  {
+    "id": 149,
+    "question": "Which country is known as the Land of Roses?",
+    "choices": [
+      "Bulgaria",
+      "Turkey",
+      "Netherlands",
+      "France"
+    ],
+    "correct_index": 0,
+    "explanation": "Bulgaria is known as the Land of Roses due to its large production of rose oil."
+  },
+  {
+    "id": 150,
+    "question": "What is the capital of Ireland?",
+    "choices": [
+      "Dublin",
+      "Belfast",
+      "Cork",
+      "Galway"
+    ],
+    "correct_index": 0,
+    "explanation": "Dublin is the capital and largest city of Ireland."
+  },
+  {
+    "id": 151,
+    "question": "Which mountain range separates Spain and France?",
+    "choices": [
+      "Alps",
+      "Pyrenees",
+      "Apennines",
+      "Carpathians"
+    ],
+    "correct_index": 1,
+    "explanation": "The Pyrenees mountains form a natural border between Spain and France."
+  },
+  {
+    "id": 152,
+    "question": "What is the largest glacier in the world?",
+    "choices": [
+      "Lambert Glacier",
+      "Siachen Glacier",
+      "Hubbard Glacier",
+      "Perito Moreno Glacier"
+    ],
+    "correct_index": 0,
+    "explanation": "The Lambert Glacier in Antarctica is the largest glacier in the world."
+  },
+  {
+    "id": 153,
+    "question": "Which country is the largest producer of tea?",
+    "choices": [
+      "India",
+      "China",
+      "Kenya",
+      "Sri Lanka"
+    ],
+    "correct_index": 1,
+    "explanation": "China is the largest producer of tea in the world."
+  },
+  {
+    "id": 154,
+    "question": "What is the capital of Belgium?",
+    "choices": [
+      "Amsterdam",
+      "Brussels",
+      "Paris",
+      "Berlin"
+    ],
+    "correct_index": 1,
+    "explanation": "Brussels is the capital of Belgium and the de facto capital of the European Union."
+  },
+  {
+    "id": 155,
+    "question": "Which river flows through Baghdad?",
+    "choices": [
+      "Euphrates",
+      "Tigris",
+      "Nile",
+      "Jordan"
+    ],
+    "correct_index": 1,
+    "explanation": "The Tigris River flows through Baghdad, Iraq."
+  },
+  {
+    "id": 156,
+    "question": "What is the highest peak in Australia?",
+    "choices": [
+      "Mount Kosciuszko",
+      "Mount Wilhelm",
+      "Puncak Jaya",
+      "Mount Cook"
+    ],
+    "correct_index": 0,
+    "explanation": "Mount Kosciuszko is the highest peak on the Australian mainland."
+  },
+  {
+    "id": 157,
+    "question": "Which country is known as the Land of Thousand Islands?",
+    "choices": [
+      "Indonesia",
+      "Philippines",
+      "Finland",
+      "Sweden"
+    ],
+    "correct_index": 1,
+    "explanation": "Indonesia is often referred to as the Land of Thousand Islands, though it has far more."
+  },
+  {
+    "id": 158,
+    "question": "What is the capital of Austria?",
+    "choices": [
+      "Vienna",
+      "Zurich",
+      "Berlin",
+      "Prague"
+    ],
+    "correct_index": 0,
+    "explanation": "Vienna is the capital and largest city of Austria."
+  },
+  {
+    "id": 159,
+    "question": "Which sea is located between Italy and the Balkan Peninsula?",
+    "choices": [
+      "Tyrrhenian Sea",
+      "Adriatic Sea",
+      "Ionian Sea",
+      "Aegean Sea"
+    ],
+    "correct_index": 1,
+    "explanation": "The Adriatic Sea separates the Italian Peninsula from the Balkan Peninsula."
+  },
+  {
+    "id": 160,
+    "question": "What is the largest man-made lake in the world?",
+    "choices": [
+      "Lake Mead",
+      "Lake Volta",
+      "Bratsk Reservoir",
+      "Rybinsk Reservoir"
+    ],
+    "correct_index": 1,
+    "explanation": "Lake Volta in Ghana is the largest man-made lake by surface area."
+  },
+  {
+    "id": 161,
+    "question": "Which country is the largest producer of wheat?",
+    "choices": [
+      "India",
+      "China",
+      "Russia",
+      "United States"
+    ],
+    "correct_index": 2,
+    "explanation": "China and India are top producers, but Russia has recently been the largest exporter. In terms of production, China and India compete for the top spot. Often China is cited as largest producer."
+  },
+  {
+    "id": 162,
+    "question": "What is the capital of Switzerland?",
+    "choices": [
+      "Geneva",
+      "Bern",
+      "Zurich",
+      "Basel"
+    ],
+    "correct_index": 1,
+    "explanation": "Bern is the de facto capital (federal city) of Switzerland."
+  },
+  {
+    "id": 163,
+    "question": "Which river is known as the Father of Waters?",
+    "choices": [
+      "Amazon",
+      "Mississippi",
+      "Nile",
+      "Yangtze"
+    ],
+    "correct_index": 1,
+    "explanation": "The Mississippi River is often referred to as the Father of Waters."
+  },
+  {
+    "id": 164,
+    "question": "What is the highest peak in Antarctica?",
+    "choices": [
+      "Vinson Massif",
+      "Mount Erebus",
+      "Mount Terror",
+      "Mount Sidley"
+    ],
+    "correct_index": 0,
+    "explanation": "Vinson Massif is the highest peak in Antarctica."
+  },
+  {
+    "id": 165,
+    "question": "Which country is known as the Land of Snow?",
+    "choices": [
+      "Norway",
+      "Iceland",
+      "Canada",
+      "Russia"
+    ],
+    "correct_index": 1,
+    "explanation": "Iceland is often associated with snow and ice, though Norway and Canada also fit. However, Iceland's name literally means Land of Ice."
+  },
+  {
+    "id": 166,
+    "question": "What is the capital of Denmark?",
+    "choices": [
+      "Oslo",
+      "Copenhagen",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "correct_index": 1,
+    "explanation": "Copenhagen is the capital and largest city of Denmark."
+  },
+  {
+    "id": 167,
+    "question": "Which strait connects the Black Sea and the Mediterranean Sea?",
+    "choices": [
+      "Bosphorus and Dardanelles",
+      "Strait of Gibraltar",
+      "Strait of Hormuz",
+      "Palk Strait"
+    ],
+    "correct_index": 0,
+    "explanation": "The Bosphorus and Dardanelles straits connect the Black Sea to the Mediterranean Sea via the Sea of Marmara."
+  },
+  {
+    "id": 168,
+    "question": "What is the largest freshwater lake by surface area?",
+    "choices": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Lake Huron",
+      "Lake Michigan"
+    ],
+    "correct_index": 0,
+    "explanation": "Lake Superior is the largest freshwater lake by surface area in the world."
+  },
+  {
+    "id": 169,
+    "question": "Which country is the largest producer of rice?",
+    "choices": [
+      "India",
+      "China",
+      "Indonesia",
+      "Bangladesh"
+    ],
+    "correct_index": 1,
+    "explanation": "China is the largest producer of rice in the world."
+  },
+  {
+    "id": 170,
+    "question": "What is the capital of Norway?",
+    "choices": [
+      "Oslo",
+      "Stockholm",
+      "Helsinki",
+      "Copenhagen"
+    ],
+    "correct_index": 0,
+    "explanation": "Oslo is the capital and largest city of Norway."
+  },
+  {
+    "id": 171,
+    "question": "Which river flows through New York City?",
+    "choices": [
+      "Hudson River",
+      "Delaware River",
+      "Potomac River",
+      "Connecticut River"
+    ],
+    "correct_index": 0,
+    "explanation": "The Hudson River flows through New York State and forms part of the border of New York City."
+  },
+  {
+    "id": 172,
+    "question": "What is the highest peak in Europe?",
+    "choices": [
+      "Mont Blanc",
+      "Mount Elbrus",
+      "Matterhorn",
+      "Ben Nevis"
+    ],
+    "correct_index": 1,
+    "explanation": "Mount Elbrus in Russia is generally considered the highest peak in Europe."
+  },
+  {
+    "id": 173,
+    "question": "Which country is known as the Land of Maple Leaf?",
+    "choices": [
+      "United States",
+      "Canada",
+      "Australia",
+      "New Zealand"
+    ],
+    "correct_index": 1,
+    "explanation": "Canada is known as the Land of the Maple Leaf, featured on its flag."
+  },
+  {
+    "id": 174,
+    "question": "What is the capital of Finland?",
+    "choices": [
+      "Oslo",
+      "Helsinki",
+      "Stockholm",
+      "Copenhagen"
+    ],
+    "correct_index": 1,
+    "explanation": "Helsinki is the capital and largest city of Finland."
+  },
+  {
+    "id": 175,
+    "question": "Which ocean is located between Africa and Australia?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 1,
+    "explanation": "The Indian Ocean is bounded by Africa to the west and Australia to the east."
+  },
+  {
+    "id": 176,
+    "question": "What is the largest saltwater lake in the world?",
+    "choices": [
+      "Caspian Sea",
+      "Dead Sea",
+      "Great Salt Lake",
+      "Aral Sea"
+    ],
+    "correct_index": 0,
+    "explanation": "The Caspian Sea is the largest saltwater lake (inland body of water) in the world."
+  },
+  {
+    "id": 177,
+    "question": "Which country is the largest producer of cotton?",
+    "choices": [
+      "India",
+      "China",
+      "United States",
+      "Brazil"
+    ],
+    "correct_index": 1,
+    "explanation": "China and India are the top producers, with China often leading in total production."
+  },
+  {
+    "id": 178,
+    "question": "What is the capital of Ukraine?",
+    "choices": [
+      "Kiev (Kyiv)",
+      "Minsk",
+      "Warsaw",
+      "Bucharest"
+    ],
+    "correct_index": 0,
+    "explanation": "Kyiv (Kiev) is the capital and largest city of Ukraine."
+  },
+  {
+    "id": 179,
+    "question": "Which river is the longest in South America?",
+    "choices": [
+      "Orinoco",
+      "Amazon",
+      "Parana",
+      "Magdalena"
+    ],
+    "correct_index": 1,
+    "explanation": "The Amazon River is the longest and largest river in South America."
+  },
+  {
+    "id": 180,
+    "question": "What is the highest peak in Japan?",
+    "choices": [
+      "Mount Fuji",
+      "Mount Kita",
+      "Mount Hotaka",
+      "Mount Tate"
+    ],
+    "correct_index": 0,
+    "explanation": "Mount Fuji is the highest peak in Japan."
+  },
+  {
+    "id": 181,
+    "question": "Which country is known as the Land of Thunder Dragon?",
+    "choices": [
+      "Nepal",
+      "Bhutan",
+      "Tibet",
+      "Mongolia"
+    ],
+    "correct_index": 1,
+    "explanation": "Bhutan is known as the Land of the Thunder Dragon (Druk Yul)."
+  },
+  {
+    "id": 182,
+    "question": "What is the capital of Kenya?",
+    "choices": [
+      "Nairobi",
+      "Mombasa",
+      "Kisumu",
+      "Nakuru"
+    ],
+    "correct_index": 0,
+    "explanation": "Nairobi is the capital and largest city of Kenya."
+  },
+  {
+    "id": 183,
+    "question": "Which sea is the smallest in the world?",
+    "choices": [
+      "Sea of Marmara",
+      "Baltic Sea",
+      "Red Sea",
+      "Caribbean Sea"
+    ],
+    "correct_index": 0,
+    "explanation": "The Sea of Marmara is often cited as the smallest sea."
+  },
+  {
+    "id": 184,
+    "question": "What is the largest island in the Caribbean?",
+    "choices": [
+      "Cuba",
+      "Hispaniola",
+      "Jamaica",
+      "Puerto Rico"
+    ],
+    "correct_index": 0,
+    "explanation": "Cuba is the largest island in the Caribbean Sea."
+  },
+  {
+    "id": 185,
+    "question": "Which country is the largest producer of gold?",
+    "choices": [
+      "China",
+      "Australia",
+      "Russia",
+      "United States"
+    ],
+    "correct_index": 0,
+    "explanation": "China is the largest producer of gold in the world."
+  },
+  {
+    "id": 186,
+    "question": "What is the capital of Peru?",
+    "choices": [
+      "Lima",
+      "Cusco",
+      "Arequipa",
+      "Trujillo"
+    ],
+    "correct_index": 0,
+    "explanation": "Lima is the capital and largest city of Peru."
+  },
+  {
+    "id": 187,
+    "question": "Which river flows through Rome?",
+    "choices": [
+      "Po",
+      "Tiber",
+      "Arno",
+      "Adige"
+    ],
+    "correct_index": 1,
+    "explanation": "The Tiber River flows through Rome, Italy."
+  },
+  {
+    "id": 188,
+    "question": "What is the highest peak in the Andes?",
+    "choices": [
+      "Aconcagua",
+      "Ojos del Salado",
+      "Monte Pissis",
+      "Huascaran"
+    ],
+    "correct_index": 0,
+    "explanation": "Aconcagua in Argentina is the highest peak in the Andes and the highest outside of Asia."
+  },
+  {
+    "id": 189,
+    "question": "Which country is known as the Land of Smiles?",
+    "choices": [
+      "Thailand",
+      "Cambodia",
+      "Laos",
+      "Vietnam"
+    ],
+    "correct_index": 0,
+    "explanation": "Thailand is known as the Land of Smiles due to the friendly nature of its people."
+  },
+  {
+    "id": 190,
+    "question": "What is the capital of Colombia?",
+    "choices": [
+      "Bogota",
+      "Medellin",
+      "Cali",
+      "Cartagena"
+    ],
+    "correct_index": 0,
+    "explanation": "Bogota is the capital and largest city of Colombia."
+  },
+  {
+    "id": 191,
+    "question": "Which strait separates Europe and Africa?",
+    "choices": [
+      "Bosphorus",
+      "Strait of Gibraltar",
+      "Strait of Hormuz",
+      "Palk Strait"
+    ],
+    "correct_index": 1,
+    "explanation": "The Strait of Gibraltar separates Spain (Europe) from Morocco (Africa)."
+  },
+  {
+    "id": 192,
+    "question": "What is the largest freshwater island in the world?",
+    "choices": [
+      "Manitoulin Island",
+      "Marajo Island",
+      "Bananal Island",
+      "Tupinambarana"
+    ],
+    "correct_index": 0,
+    "explanation": "Manitoulin Island in Lake Huron, Canada, is the largest freshwater island in the world."
+  },
+  {
+    "id": 193,
+    "question": "Which country is the largest producer of silver?",
+    "choices": [
+      "Mexico",
+      "Peru",
+      "China",
+      "Russia"
+    ],
+    "correct_index": 0,
+    "explanation": "Mexico is the largest producer of silver in the world."
+  },
+  {
+    "id": 194,
+    "question": "What is the capital of Chile?",
+    "choices": [
+      "Santiago",
+      "Valparaiso",
+      "Concepcion",
+      "Antofagasta"
+    ],
+    "correct_index": 0,
+    "explanation": "Santiago is the capital and largest city of Chile."
+  },
+  {
+    "id": 195,
+    "question": "Which river flows through Budapest?",
+    "choices": [
+      "Danube",
+      "Rhine",
+      "Elbe",
+      "Vistula"
+    ],
+    "correct_index": 0,
+    "explanation": "The Danube River flows through Budapest, Hungary."
+  },
+  {
+    "id": 196,
+    "question": "What is the highest peak in the Rockies?",
+    "choices": [
+      "Mount Elbert",
+      "Mount Massive",
+      "Mount Harvard",
+      "Blanca Peak"
+    ],
+    "correct_index": 0,
+    "explanation": "Mount Elbert in Colorado is the highest peak in the Rocky Mountains."
+  },
+  {
+    "id": 197,
+    "question": "Which country is known as the Land of Blue Sky?",
+    "choices": [
+      "Mongolia",
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan"
+    ],
+    "correct_index": 0,
+    "explanation": "Mongolia is known as the Land of the Eternal Blue Sky."
+  },
+  {
+    "id": 198,
+    "question": "What is the capital of Venezuela?",
+    "choices": [
+      "Caracas",
+      "Maracaibo",
+      "Valencia",
+      "Barquisimeto"
+    ],
+    "correct_index": 0,
+    "explanation": "Caracas is the capital and largest city of Venezuela."
+  },
+  {
+    "id": 199,
+    "question": "Which sea is located between Sweden and Finland?",
+    "choices": [
+      "Baltic Sea",
+      "North Sea",
+      "Norwegian Sea",
+      "Barents Sea"
+    ],
+    "correct_index": 0,
+    "explanation": "The Baltic Sea is located between Sweden and Finland."
+  },
+  {
+    "id": 200,
+    "question": "What is the largest island in the Philippines?",
+    "choices": [
+      "Mindanao",
+      "Luzon",
+      "Palawan",
+      "Negros"
+    ],
+    "correct_index": 1,
+    "explanation": "Luzon is the largest and most populous island in the Philippines."
+  },
+  {
+    "id": 201,
+    "question": "Which country is the largest producer of diamonds?",
+    "choices": [
+      "Russia",
+      "Botswana",
+      "Democratic Republic of Congo",
+      "Australia"
+    ],
+    "correct_index": 0,
+    "explanation": "Russia is the largest producer of diamonds by carat weight."
+  },
+  {
+    "id": 202,
+    "question": "What is the capital of Ecuador?",
+    "choices": [
+      "Quito",
+      "Guayaquil",
+      "Cuenca",
+      "Ambato"
+    ],
+    "correct_index": 0,
+    "explanation": "Quito is the capital of Ecuador."
+  },
+  {
+    "id": 203,
+    "question": "Which river flows through Vienna?",
+    "choices": [
+      "Danube",
+      "Rhine",
+      "Elbe",
+      "Oder"
+    ],
+    "correct_index": 0,
+    "explanation": "The Danube River flows through Vienna, Austria."
+  },
+  {
+    "id": 204,
+    "question": "What is the highest peak in the Alps?",
+    "choices": [
+      "Mont Blanc",
+      "Matterhorn",
+      "Eiger",
+      "Jungfrau"
+    ],
+    "correct_index": 0,
+    "explanation": "Mont Blanc is the highest peak in the Alps."
+  },
+  {
+    "id": 205,
+    "question": "Which country is known as the Land of Fire?",
+    "choices": [
+      "Iceland",
+      "Azerbaijan",
+      "New Zealand",
+      "Indonesia"
+    ],
+    "correct_index": 1,
+    "explanation": "Azerbaijan is known as the Land of Fire due to its natural gas fires."
+  },
+  {
+    "id": 206,
+    "question": "What is the capital of Uruguay?",
+    "choices": [
+      "Montevideo",
+      "Punta del Este",
+      "Salto",
+      "Paysandu"
+    ],
+    "correct_index": 0,
+    "explanation": "Montevideo is the capital and largest city of Uruguay."
+  },
+  {
+    "id": 207,
+    "question": "Which ocean is the busiest in terms of trade?",
+    "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 1,
+    "explanation": "The Atlantic Ocean is the busiest in terms of international trade and shipping."
+  },
+  {
+    "id": 208,
+    "question": "What is the largest island in the Mediterranean?",
+    "choices": [
+      "Sicily",
+      "Sardinia",
+      "Cyprus",
+      "Corsica"
+    ],
+    "correct_index": 0,
+    "explanation": "Sicily is the largest island in the Mediterranean Sea."
+  },
+  {
+    "id": 209,
+    "question": "Which country is the largest producer of rubber?",
+    "choices": [
+      "Thailand",
+      "Indonesia",
+      "Vietnam",
+      "India"
+    ],
+    "correct_index": 0,
+    "explanation": "Thailand is the largest producer of natural rubber."
+  },
+  {
+    "id": 210,
+    "question": "What is the capital of Bolivia?",
+    "choices": [
+      "La Paz",
+      "Sucre",
+      "Both A and B",
+      "Santa Cruz"
+    ],
+    "correct_index": 2,
+    "explanation": "Sucre is the constitutional capital, while La Paz is the seat of government."
+  },
+  {
+    "id": 211,
+    "question": "Which river flows through Prague?",
+    "choices": [
+      "Elbe",
+      "Vltava",
+      "Oder",
+      "Morava"
+    ],
+    "correct_index": 1,
+    "explanation": "The Vltava River flows through Prague, Czech Republic."
+  },
+  {
+    "id": 212,
+    "question": "What is the highest peak in the Caucasus?",
+    "choices": [
+      "Mount Elbrus",
+      "Mount Kazbek",
+      "Mount Shkhara",
+      "Mount Dykh-Tau"
+    ],
+    "correct_index": 0,
+    "explanation": "Mount Elbrus is the highest peak in the Caucasus Mountains."
+  },
+  {
+    "id": 213,
+    "question": "Which country is known as the Land of Thousand Temples?",
+    "choices": [
+      "India",
+      "Bali (Indonesia)",
+      "Thailand",
+      "Cambodia"
+    ],
+    "correct_index": 1,
+    "explanation": "Bali, an island in Indonesia, is known as the Land of a Thousand Temples."
+  },
+  {
+    "id": 214,
+    "question": "What is the capital of Paraguay?",
+    "choices": [
+      "Asuncion",
+      "Ciudad del Este",
+      "Encarnacion",
+      "Luque"
+    ],
+    "correct_index": 0,
+    "explanation": "Asuncion is the capital and largest city of Paraguay."
+  },
+  {
+    "id": 215,
+    "question": "Which sea is located between Italy and Greece?",
+    "choices": [
+      "Adriatic Sea",
+      "Ionian Sea",
+      "Aegean Sea",
+      "Tyrrhenian Sea"
+    ],
+    "correct_index": 1,
+    "explanation": "The Ionian Sea is located between southern Italy and western Greece."
+  },
+  {
+    "id": 216,
+    "question": "What is the largest island in the Hawaiian chain?",
+    "choices": [
+      "Maui",
+      "Oahu",
+      "Hawaii (Big Island)",
+      "Kauai"
+    ],
+    "correct_index": 2,
+    "explanation": "The Big Island (Hawaii) is the largest island in the Hawaiian archipelago."
+  },
+  {
+    "id": 217,
+    "question": "Which country is the largest producer of bananas?",
+    "choices": [
+      "India",
+      "China",
+      "Philippines",
+      "Ecuador"
+    ],
+    "correct_index": 0,
+    "explanation": "India is the largest producer of bananas in the world."
+  },
+  {
+    "id": 218,
+    "question": "What is the capital of Costa Rica?",
+    "choices": [
+      "San Jose",
+      "Limon",
+      "Alajuela",
+      "Cartago"
+    ],
+    "correct_index": 0,
+    "explanation": "San Jose is the capital and largest city of Costa Rica."
+  },
+  {
+    "id": 219,
+    "question": "Which river flows through Warsaw?",
+    "choices": [
+      "Oder",
+      "Vistula",
+      "Bug",
+      "Narew"
+    ],
+    "correct_index": 1,
+    "explanation": "The Vistula River flows through Warsaw, Poland."
+  },
+  {
+    "id": 220,
+    "question": "What is the highest peak in the Pyrenees?",
+    "choices": [
+      "Aneto",
+      "Monte Perdido",
+      "Vignemale",
+      "Pic du Midi"
+    ],
+    "correct_index": 0,
+    "explanation": "Aneto is the highest peak in the Pyrenees."
+  },
+  {
+    "id": 221,
+    "question": "Which country is known as the Land of Golden Fleece?",
+    "choices": [
+      "Georgia",
+      "Greece",
+      "Australia",
+      "New Zealand"
+    ],
+    "correct_index": 0,
+    "explanation": "Georgia is historically associated with the myth of the Golden Fleece."
+  },
+  {
+    "id": 222,
+    "question": "What is the capital of Panama?",
+    "choices": [
+      "Panama City",
+      "Colon",
+      "David",
+      "Santiago"
+    ],
+    "correct_index": 0,
+    "explanation": "Panama City is the capital and largest city of Panama."
+  },
+  {
+    "id": 223,
+    "question": "Which ocean current cools the western coast of South America?",
+    "choices": [
+      "Humboldt Current",
+      "Brazil Current",
+      "Gulf Stream",
+      "Agulhas Current"
+    ],
+    "correct_index": 0,
+    "explanation": "The Humboldt Current (Peru Current) brings cold water to the western coast of South America."
+  },
+  {
+    "id": 224,
+    "question": "What is the largest island in the Caribbean after Cuba?",
+    "choices": [
+      "Hispaniola",
+      "Jamaica",
+      "Puerto Rico",
+      "Trinidad"
+    ],
+    "correct_index": 0,
+    "explanation": "Hispaniola (shared by Haiti and Dominican Republic) is the second largest island in the Caribbean."
+  },
+  {
+    "id": 225,
+    "question": "Which country is the largest producer of cocoa?",
+    "choices": [
+      "Ivory Coast",
+      "Ghana",
+      "Indonesia",
+      "Nigeria"
+    ],
+    "correct_index": 0,
+    "explanation": "Ivory Coast (Cote d'Ivoire) is the largest producer of cocoa beans."
+  },
+  {
+    "id": 226,
+    "question": "What is the capital of Guatemala?",
+    "choices": [
+      "Guatemala City",
+      "Antigua",
+      "Quetzaltenango",
+      "Escuintla"
+    ],
+    "correct_index": 0,
+    "explanation": "Guatemala City is the capital and largest city of Guatemala."
+  },
+  {
+    "id": 227,
+    "question": "Which river flows through Lisbon?",
+    "choices": [
+      "Douro",
+      "Tagus",
+      "Guadiana",
+      "Minho"
+    ],
+    "correct_index": 1,
+    "explanation": "The Tagus River flows through Lisbon, Portugal."
+  },
+  {
+    "id": 228,
+    "question": "What is the highest peak in the Balkans?",
+    "choices": [
+      "Musala",
+      "Olympus",
+      "Triglav",
+      "Rila"
+    ],
+    "correct_index": 0,
+    "explanation": "Musala in Bulgaria is the highest peak in the Balkan Peninsula."
+  },
+  {
+    "id": 229,
+    "question": "Which country is known as the Land of Spice Islands?",
+    "choices": [
+      "Indonesia",
+      "India",
+      "Sri Lanka",
+      "Madagascar"
+    ],
+    "correct_index": 0,
+    "explanation": "The Maluku Islands in Indonesia are historically known as the Spice Islands."
+  },
+  {
+    "id": 230,
+    "question": "What is the capital of Honduras?",
+    "choices": [
+      "Tegucigalpa",
+      "San Pedro Sula",
+      "La Ceiba",
+      "Comayagua"
+    ],
+    "correct_index": 0,
+    "explanation": "Tegucigalpa is the capital and largest city of Honduras."
+  },
+  {
+    "id": 231,
+    "question": "Which sea is located between Turkey and Greece?",
+    "choices": [
+      "Aegean Sea",
+      "Ionian Sea",
+      "Marmara Sea",
+      "Black Sea"
+    ],
+    "correct_index": 0,
+    "explanation": "The Aegean Sea is located between Turkey and Greece."
+  },
+  {
+    "id": 232,
+    "question": "What is the largest island in the Bahamas?",
+    "choices": [
+      "Andros",
+      "Grand Bahama",
+      "New Providence",
+      "Abaco"
+    ],
+    "correct_index": 0,
+    "explanation": "Andros is the largest island in the Bahamas."
+  },
+  {
+    "id": 233,
+    "question": "Which country is the largest producer of palm oil?",
+    "choices": [
+      "Indonesia",
+      "Malaysia",
+      "Thailand",
+      "Nigeria"
+    ],
+    "correct_index": 0,
+    "explanation": "Indonesia is the largest producer of palm oil in the world."
+  },
+  {
+    "id": 234,
+    "question": "What is the capital of Nicaragua?",
+    "choices": [
+      "Managua",
+      "Leon",
+      "Granada",
+      "Masaya"
+    ],
+    "correct_index": 0,
+    "explanation": "Managua is the capital and largest city of Nicaragua."
+  },
+  {
+    "id": 235,
+    "question": "Which river flows through Budapest and Belgrade?",
+    "choices": [
+      "Danube",
+      "Sava",
+      "Tisza",
+      "Drava"
+    ],
+    "correct_index": 0,
+    "explanation": "The Danube River flows through both Budapest (Hungary) and Belgrade (Serbia)."
+  },
+  {
+    "id": 236,
+    "question": "What is the highest peak in the Scottish Highlands?",
+    "choices": [
+      "Ben Nevis",
+      "Ben Macdui",
+      "Braeriach",
+      "Cairn Toul"
+    ],
+    "correct_index": 0,
+    "explanation": "Ben Nevis is the highest mountain in the British Isles."
+  },
+  {
+    "id": 237,
+    "question": "Which country is known as the Land of the Long White Cloud?",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "Fiji",
+      "Samoa"
+    ],
+    "correct_index": 1,
+    "explanation": "New Zealand is known as Aotearoa, meaning Land of the Long White Cloud."
+  },
+  {
+    "id": 238,
+    "question": "What is the capital of El Salvador?",
+    "choices": [
+      "San Salvador",
+      "Santa Ana",
+      "San Miguel",
+      "Sonsonate"
+    ],
+    "correct_index": 0,
+    "explanation": "San Salvador is the capital and largest city of El Salvador."
+  },
+  {
+    "id": 239,
+    "question": "Which ocean is located between Africa and South America?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 0,
+    "explanation": "The Atlantic Ocean separates Africa from South America."
+  },
+  {
+    "id": 240,
+    "question": "What is the largest island in the Seychelles?",
+    "choices": [
+      "Mahe",
+      "Praslin",
+      "La Digue",
+      "Silhouette"
+    ],
+    "correct_index": 0,
+    "explanation": "Mahe is the largest island in the Seychelles."
+  },
+  {
+    "id": 241,
+    "question": "Which country is the largest producer of olives?",
+    "choices": [
+      "Spain",
+      "Italy",
+      "Greece",
+      "Turkey"
+    ],
+    "correct_index": 0,
+    "explanation": "Spain is the largest producer of olives and olive oil."
+  },
+  {
+    "id": 242,
+    "question": "What is the capital of Haiti?",
+    "choices": [
+      "Port-au-Prince",
+      "Cap-Haitien",
+      "Gonaives",
+      "Les Cayes"
+    ],
+    "correct_index": 0,
+    "explanation": "Port-au-Prince is the capital and largest city of Haiti."
+  },
+  {
+    "id": 243,
+    "question": "Which river flows through Cologne?",
+    "choices": [
+      "Rhine",
+      "Elbe",
+      "Danube",
+      "Weser"
+    ],
+    "correct_index": 0,
+    "explanation": "The Rhine River flows through Cologne, Germany."
+  },
+  {
+    "id": 244,
+    "question": "What is the highest peak in the Sierra Nevada?",
+    "choices": [
+      "Mount Whitney",
+      "Mount Williamson",
+      "White Mountain Peak",
+      "North Palisade"
+    ],
+    "correct_index": 0,
+    "explanation": "Mount Whitney is the highest peak in the contiguous United States, located in the Sierra Nevada."
+  },
+  {
+    "id": 245,
+    "question": "Which country is known as the Land of the Free?",
+    "choices": [
+      "Thailand",
+      "Liberia",
+      "United States",
+      "France"
+    ],
+    "correct_index": 0,
+    "explanation": "Thailand is known as the Land of the Free, as it was never colonized."
+  },
+  {
+    "id": 246,
+    "question": "What is the capital of the Dominican Republic?",
+    "choices": [
+      "Santo Domingo",
+      "Santiago",
+      "La Romana",
+      "Puerto Plata"
+    ],
+    "correct_index": 0,
+    "explanation": "Santo Domingo is the capital and largest city of the Dominican Republic."
+  },
+  {
+    "id": 247,
+    "question": "Which sea is located between Korea and Japan?",
+    "choices": [
+      "Sea of Japan (East Sea)",
+      "Yellow Sea",
+      "East China Sea",
+      "Philippine Sea"
+    ],
+    "correct_index": 0,
+    "explanation": "The Sea of Japan (also known as the East Sea) is located between Korea and Japan."
+  },
+  {
+    "id": 248,
+    "question": "What is the largest island in the Fiji group?",
+    "choices": [
+      "Viti Levu",
+      "Vanua Levu",
+      "Taveuni",
+      "Kadavu"
+    ],
+    "correct_index": 0,
+    "explanation": "Viti Levu is the largest island in Fiji."
+  },
+  {
+    "id": 249,
+    "question": "Which country is the largest producer of wool?",
+    "choices": [
+      "Australia",
+      "China",
+      "New Zealand",
+      "Argentina"
+    ],
+    "correct_index": 0,
+    "explanation": "Australia is the largest producer of wool in the world."
+  },
+  {
+    "id": 250,
+    "question": "What is the capital of Jamaica?",
+    "choices": [
+      "Kingston",
+      "Montego Bay",
+      "Spanish Town",
+      "Portmore"
+    ],
+    "correct_index": 0,
+    "explanation": "Kingston is the capital and largest city of Jamaica."
+  },
+  {
+    "id": 251,
+    "question": "Which river flows through Hamburg?",
+    "choices": [
+      "Elbe",
+      "Rhine",
+      "Danube",
+      "Oder"
+    ],
+    "correct_index": 0,
+    "explanation": "The Elbe River flows through Hamburg, Germany."
+  },
+  {
+    "id": 252,
+    "question": "What is the highest peak in the Atlas Mountains?",
+    "choices": [
+      "Toubkal",
+      "M'Goun",
+      "Aksoual",
+      "Azourki"
+    ],
+    "correct_index": 0,
+    "explanation": "Mount Toubkal is the highest peak in the Atlas Mountains and North Africa."
+  },
+  {
+    "id": 253,
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "choices": [
+      "Japan",
+      "China",
+      "Korea",
+      "Vietnam"
+    ],
+    "correct_index": 0,
+    "explanation": "Japan is known as the Land of the Rising Sun."
+  },
+  {
+    "id": 254,
+    "question": "What is the capital of Trinidad and Tobago?",
+    "choices": [
+      "Port of Spain",
+      "San Fernando",
+      "Chaguanas",
+      "Arima"
+    ],
+    "correct_index": 0,
+    "explanation": "Port of Spain is the capital of Trinidad and Tobago."
+  },
+  {
+    "id": 255,
+    "question": "Which ocean is located between Asia and North America?",
+    "choices": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 0,
+    "explanation": "The Pacific Ocean separates Asia from North America."
+  },
+  {
+    "id": 256,
+    "question": "What is the largest island in the Maldives?",
+    "choices": [
+      "Gan",
+      "Male",
+      "Addu",
+      "Hithadhoo"
+    ],
+    "correct_index": 0,
+    "explanation": "Gan is one of the largest islands, though Male is the capital. The question is tricky as Maldives consists of many small islands. Gan is often cited as the largest single landmass."
+  },
+  {
+    "id": 257,
+    "question": "Which country is the largest producer of sugarcane?",
+    "choices": [
+      "Brazil",
+      "India",
+      "China",
+      "Thailand"
+    ],
+    "correct_index": 0,
+    "explanation": "Brazil is the largest producer of sugarcane in the world."
+  },
+  {
+    "id": 258,
+    "question": "What is the capital of Barbados?",
+    "choices": [
+      "Bridgetown",
+      "Speightstown",
+      "Oistins",
+      "Holetown"
+    ],
+    "correct_index": 0,
+    "explanation": "Bridgetown is the capital and largest city of Barbados."
+  },
+  {
+    "id": 259,
+    "question": "Which river flows through Rotterdam?",
+    "choices": [
+      "Rhine",
+      "Meuse",
+      "Scheldt",
+      "Both A and B"
+    ],
+    "correct_index": 3,
+    "explanation": "Both the Rhine and Meuse rivers flow through Rotterdam, Netherlands."
+  },
+  {
+    "id": 260,
+    "question": "What is the highest peak in the Ural Mountains?",
+    "choices": [
+      "Mount Narodnaya",
+      "Mount Yamantau",
+      "Mount Telpos-Iz",
+      "Mount Sablya"
+    ],
+    "correct_index": 0,
+    "explanation": "Mount Narodnaya is the highest peak in the Ural Mountains."
+  },
+  {
+    "id": 261,
+    "question": "Which country is known as the Land of the Midnight Sun?",
+    "choices": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "Norway, Sweden, and Finland all experience the Midnight Sun phenomenon."
+  },
+  {
+    "id": 262,
+    "question": "What is the capital of the Bahamas?",
+    "choices": [
+      "Nassau",
+      "Freeport",
+      "West End",
+      "Marsh Harbour"
+    ],
+    "correct_index": 0,
+    "explanation": "Nassau is the capital and largest city of the Bahamas."
   }
 ]

@@ -1678,5 +1678,1205 @@
     ],
     "correct_index": 0,
     "explanation": "India is planning a Saturn Explorer mission as part of its long-term space exploration program to study the ringed planet."
+  },
+  {
+    "id": 141,
+    "question": "Who was appointed as the new Chief Justice of India in November 2024?",
+    "choices": [
+      "Justice D Y Chandrachud",
+      "Justice Sanjiv Khanna",
+      "Justice B R Gavai",
+      "Justice Surya Kant"
+    ],
+    "correct_index": 1,
+    "explanation": "Justice Sanjiv Khanna succeeded Justice D Y Chandrachud as the 51st Chief Justice of India in November 2024."
+  },
+  {
+    "id": 142,
+    "question": "Which country hosted the G20 Summit in 2023?",
+    "choices": [
+      "Indonesia",
+      "India",
+      "Brazil",
+      "South Africa"
+    ],
+    "correct_index": 1,
+    "explanation": "India hosted the G20 Summit in New Delhi in September 2023 under the presidency of Prime Minister Narendra Modi."
+  },
+  {
+    "id": 143,
+    "question": "Who won the Nobel Peace Prize in 2023?",
+    "choices": [
+      "Malala Yousafzai",
+      "Narges Mohammadi",
+      "Maria Ressa",
+      "Dmitri Muratov"
+    ],
+    "correct_index": 1,
+    "explanation": "Iranian human rights activist Narges Mohammadi was awarded the Nobel Peace Prize in 2023 for her fight against the oppression of women in Iran."
+  },
+  {
+    "id": 144,
+    "question": "Which Indian spacecraft successfully landed on the lunar south pole in August 2023?",
+    "choices": [
+      "Chandrayaan-2",
+      "Chandrayaan-3",
+      "Mangalyaan",
+      "Gaganyaan"
+    ],
+    "correct_index": 1,
+    "explanation": "ISRO's Chandrayaan-3 mission successfully landed on the Moon's south pole on August 23, 2023, making India the fourth country to achieve a soft landing."
+  },
+  {
+    "id": 145,
+    "question": "Who won the ICC Men's Cricket World Cup in 2023?",
+    "choices": [
+      "India",
+      "Australia",
+      "England",
+      "New Zealand"
+    ],
+    "correct_index": 1,
+    "explanation": "Australia defeated India in the final to win the ICC Men's Cricket World Cup 2023 held in India."
+  },
+  {
+    "id": 146,
+    "question": "Which city will host the 2024 Summer Olympics?",
+    "choices": [
+      "Tokyo",
+      "Paris",
+      "Los Angeles",
+      "Brisbane"
+    ],
+    "correct_index": 1,
+    "explanation": "Paris, France is hosting the 2024 Summer Olympics, marking the third time the city has hosted the Games."
+  },
+  {
+    "id": 147,
+    "question": "Who is the current Secretary-General of the United Nations?",
+    "choices": [
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "Antonio Guterres",
+      "Boutros Boutros-Ghali"
+    ],
+    "correct_index": 2,
+    "explanation": "Antonio Guterres of Portugal is serving his second term as the UN Secretary-General, which began in January 2022."
+  },
+  {
+    "id": 148,
+    "question": "Which Indian state launched the 'Mukhyamantri Seekho Kamao Yojana' in 2023?",
+    "choices": [
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "correct_index": 1,
+    "explanation": "The Madhya Pradesh government launched this scheme to provide skill training and financial assistance to unemployed youth."
+  },
+  {
+    "id": 149,
+    "question": "Who were conferred with the Bharat Ratna in 2024?",
+    "choices": [
+      "Sachin Tendulkar and Lata Mangeshkar",
+      "Karpoori Thakur, L K Advani, P V Narasimha Rao, and Chaudhary Charan Singh",
+      "Atal Bihari Vajpayee and Pranab Mukherjee",
+      "M S Swaminathan and Nanaji Deshmukh"
+    ],
+    "correct_index": 1,
+    "explanation": "In 2024, the Bharat Ratna was awarded to four eminent personalities: Karpoori Thakur, L K Advani, P V Narasimha Rao, and Chaudhary Charan Singh."
+  },
+  {
+    "id": 150,
+    "question": "Which country became the 32nd member of NATO in March 2024?",
+    "choices": [
+      "Finland",
+      "Sweden",
+      "Ukraine",
+      "Georgia"
+    ],
+    "correct_index": 1,
+    "explanation": "Sweden officially joined NATO as its 32nd member state in March 2024, ending its long-standing policy of military non-alignment."
+  },
+  {
+    "id": 151,
+    "question": "Who won the Booker Prize in 2023?",
+    "choices": [
+      "Geetanjali Shree",
+      "Paul Lynch",
+      "Shehan Karunatilaka",
+      "Damon Galgut"
+    ],
+    "correct_index": 1,
+    "explanation": "Irish author Paul Lynch won the 2023 Booker Prize for his novel 'Prophet Song'."
+  },
+  {
+    "id": 152,
+    "question": "Which Indian site was inscribed as a UNESCO World Heritage Site in 2023?",
+    "choices": [
+      "Kakatiya Rudreshwara Temple",
+      "Santiniketan",
+      "Hoysala Temples",
+      "Sacred Ensembles of the Hoysalas"
+    ],
+    "correct_index": 1,
+    "explanation": "Santiniketan, founded by Rabindranath Tagore in West Bengal, was added to the UNESCO World Heritage List in September 2023."
+  },
+  {
+    "id": 153,
+    "question": "Who assumed office as the Governor of the Reserve Bank of India in December 2024?",
+    "choices": [
+      "Shaktikanta Das",
+      "Urjit Patel",
+      "Sanjay Malhotra",
+      "Raghuram Rajan"
+    ],
+    "correct_index": 2,
+    "explanation": "Sanjay Malhotra took charge as the 26th Governor of the Reserve Bank of India, succeeding Shaktikanta Das."
+  },
+  {
+    "id": 154,
+    "question": "Who won the Men's Singles title at the French Open 2024?",
+    "choices": [
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Carlos Alcaraz",
+      "Jannik Sinner"
+    ],
+    "correct_index": 2,
+    "explanation": "Spain's Carlos Alcaraz defeated Novak Djokovic in the final to win the Men's Singles title at Roland Garros in 2024."
+  },
+  {
+    "id": 155,
+    "question": "What was the theme of International Women's Day 2024?",
+    "choices": [
+      "Choose to Challenge",
+      "Break the Bias",
+      "Invest in Women: Accelerate Progress",
+      "Gender Equality Today for a Sustainable Tomorrow"
+    ],
+    "correct_index": 2,
+    "explanation": "The UN theme for International Women's Day 2024 was 'Invest in Women: Accelerate Progress'."
+  },
+  {
+    "id": 156,
+    "question": "Which Indian mission was launched to study the Sun in September 2023?",
+    "choices": [
+      "Aditya-L1",
+      "Surya-1",
+      "Helios",
+      "Solar Orbiter"
+    ],
+    "correct_index": 0,
+    "explanation": "ISRO launched Aditya-L1, India's first solar mission, to study the solar corona and space weather from the Lagrange point 1."
+  },
+  {
+    "id": 157,
+    "question": "Who received the Jnanpith Award for 2023?",
+    "choices": [
+      "Amitav Ghosh",
+      "Jagadguru Rambhadracharya",
+      "Gulzar",
+      "Pratibha Ray"
+    ],
+    "correct_index": 1,
+    "explanation": "Jagadguru Rambhadracharya was selected for the Jnanpith Award for 2023 for his contribution to Sanskrit literature."
+  },
+  {
+    "id": 158,
+    "question": "Where was the COP28 Climate Summit held in 2023?",
+    "choices": [
+      "Egypt",
+      "United Arab Emirates",
+      "Germany",
+      "United Kingdom"
+    ],
+    "correct_index": 1,
+    "explanation": "The 28th Conference of the Parties (COP28) to the UN Framework Convention on Climate Change was held in Dubai, UAE."
+  },
+  {
+    "id": 159,
+    "question": "Who is the current President of India?",
+    "choices": [
+      "Ram Nath Kovind",
+      "Droupadi Murmu",
+      "Pranab Mukherjee",
+      "Venkaiah Naidu"
+    ],
+    "correct_index": 1,
+    "explanation": "Droupadi Murmu is the 15th President of India, having taken office in July 2022."
+  },
+  {
+    "id": 160,
+    "question": "Which Indian state introduced the 'Gruha Lakshmi' scheme in 2023?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Kerala"
+    ],
+    "correct_index": 2,
+    "explanation": "The Karnataka government launched the Gruha Lakshmi scheme to provide monthly financial assistance to women heads of families."
+  },
+  {
+    "id": 161,
+    "question": "Who won the ICC Women's T20 World Cup in 2024?",
+    "choices": [
+      "India",
+      "Australia",
+      "England",
+      "South Africa"
+    ],
+    "correct_index": 1,
+    "explanation": "Australia defeated South Africa in the final to win the ICC Women's T20 World Cup 2024 held in Bangladesh."
+  },
+  {
+    "id": 162,
+    "question": "Which city was named the UNESCO World Book Capital for 2024?",
+    "choices": [
+      "Sharjah",
+      "Accra",
+      "Guadalajara",
+      "Strasbourg"
+    ],
+    "correct_index": 1,
+    "explanation": "Accra, the capital of Ghana, was designated as the UNESCO World Book Capital for 2024."
+  },
+  {
+    "id": 163,
+    "question": "Who is the current Vice President of India?",
+    "choices": [
+      "M Venkaiah Naidu",
+      "Jagdeep Dhankhar",
+      "Hamid Ansari",
+      "Bhairon Singh Shekhawat"
+    ],
+    "correct_index": 1,
+    "explanation": "Jagdeep Dhankhar serves as the 14th Vice President of India, elected in August 2022."
+  },
+  {
+    "id": 164,
+    "question": "Which Indian athlete won a silver medal in Javelin Throw at the 2023 World Athletics Championships?",
+    "choices": [
+      "Neeraj Chopra",
+      "Kishore Jena",
+      "Shivpal Singh",
+      "Annu Rani"
+    ],
+    "correct_index": 0,
+    "explanation": "Neeraj Chopra won the silver medal at the World Athletics Championships in Budapest with a throw of 88.17m."
+  },
+  {
+    "id": 165,
+    "question": "What is the name of India's first indigenous aircraft carrier commissioned in 2022?",
+    "choices": [
+      "INS Vikramaditya",
+      "INS Vikrant",
+      "INS Viraat",
+      "INS Vishal"
+    ],
+    "correct_index": 1,
+    "explanation": "INS Vikrant is India's first indigenously designed and built aircraft carrier, commissioned in September 2022."
+  },
+  {
+    "id": 166,
+    "question": "Which state topped the Swachh Survekshan 2023 rankings among states?",
+    "choices": [
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "correct_index": 2,
+    "explanation": "Maharashtra was ranked as the cleanest state in the Swachh Survekshan 2023 results."
+  },
+  {
+    "id": 167,
+    "question": "Who won the Nobel Prize in Literature in 2023?",
+    "choices": [
+      "Annie Ernaux",
+      "Jon Fosse",
+      "Abdulrazak Gurnah",
+      "Louise Glück"
+    ],
+    "correct_index": 1,
+    "explanation": "Norwegian author Jon Fosse was awarded the Nobel Prize in Literature in 2023 for his innovative plays and prose."
+  },
+  {
+    "id": 168,
+    "question": "Which Indian city hosted the IOC Session in 2023 where Mumbai was announced as an applicant for the 2036 Olympics?",
+    "choices": [
+      "New Delhi",
+      "Mumbai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correct_index": 1,
+    "explanation": "The 141st IOC Session was held in Mumbai in October 2023."
+  },
+  {
+    "id": 169,
+    "question": "Who is the current Chief Minister of Karnataka?",
+    "choices": [
+      "Basavaraj Bommai",
+      "Siddaramaiah",
+      "H D Kumaraswamy",
+      "B S Yediyurappa"
+    ],
+    "correct_index": 1,
+    "explanation": "Siddaramaiah assumed office as the Chief Minister of Karnataka in May 2023 after the Congress party won the state elections."
+  },
+  {
+    "id": 170,
+    "question": "Which Indian state launched the 'Yuva Nestham' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "correct_index": 0,
+    "explanation": "The Andhra Pradesh government launched the Yuva Nestham scheme to provide unemployment allowance to educated youth."
+  },
+  {
+    "id": 171,
+    "question": "Who won the Men's Singles title at Wimbledon 2024?",
+    "choices": [
+      "Novak Djokovic",
+      "Carlos Alcaraz",
+      "Daniil Medvedev",
+      "Alexander Zverev"
+    ],
+    "correct_index": 1,
+    "explanation": "Carlos Alcaraz defended his title by defeating Novak Djokovic in the Wimbledon 2024 final."
+  },
+  {
+    "id": 172,
+    "question": "Which Indian space mission is aimed at studying the Sun?",
+    "choices": [
+      "Chandrayaan-3",
+      "Aditya-L1",
+      "Gaganyaan",
+      "Mangalyaan-2"
+    ],
+    "correct_index": 1,
+    "explanation": "Aditya-L1 is India's solar observatory mission launched to study the Sun's outermost layers."
+  },
+  {
+    "id": 173,
+    "question": "Who was awarded the Padma Vibhushan in 2024 for contributions to literature?",
+    "choices": [
+      "Ruskin Bond",
+      "Sudha Murty",
+      "Chiranjeevi",
+      "Vyjayanthimala Bali"
+    ],
+    "correct_index": 0,
+    "explanation": "Renowned author Ruskin Bond was conferred the Padma Vibhushan, India's second-highest civilian award, in 2024."
+  },
+  {
+    "id": 174,
+    "question": "Which country hosted the BRICS Summit in 2023?",
+    "choices": [
+      "Brazil",
+      "Russia",
+      "South Africa",
+      "China"
+    ],
+    "correct_index": 2,
+    "explanation": "The 15th BRICS Summit was held in Johannesburg, South Africa, in August 2023."
+  },
+  {
+    "id": 175,
+    "question": "Who became the Prime Minister of the United Kingdom in July 2024?",
+    "choices": [
+      "Rishi Sunak",
+      "Boris Johnson",
+      "Keir Starmer",
+      "Liz Truss"
+    ],
+    "correct_index": 2,
+    "explanation": "Keir Starmer became the UK Prime Minister after the Labour Party won a landslide victory in the general election."
+  },
+  {
+    "id": 176,
+    "question": "Which Indian state launched the 'Kalyana Lakshmi' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correct_index": 1,
+    "explanation": "The Telangana government runs the Kalyana Lakshmi scheme to provide financial aid for the marriage of girls from minority and backward communities."
+  },
+  {
+    "id": 177,
+    "question": "Who won the Women's Singles title at the Australian Open 2024?",
+    "choices": [
+      "Serena Williams",
+      "Aryna Sabalenka",
+      "Iga Swiatek",
+      "Coco Gauff"
+    ],
+    "correct_index": 1,
+    "explanation": "Aryna Sabalenka of Belarus won the Women's Singles title at the Australian Open 2024."
+  },
+  {
+    "id": 178,
+    "question": "Has a specific Indian city been officially finalized as the candidate for the 2036 Olympics yet?",
+    "choices": [
+      "Yes, Ahmedabad",
+      "Yes, Mumbai",
+      "No, but India has expressed interest",
+      "Yes, New Delhi"
+    ],
+    "correct_index": 2,
+    "explanation": "While India has expressed strong interest and formed a committee to bid for the 2036 Olympics, no specific city has been officially finalized as the sole candidate by the IOC yet."
+  },
+  {
+    "id": 179,
+    "question": "Who took over as the Chief of Army Staff in June 2024?",
+    "choices": [
+      "General Manoj Pande",
+      "General Upendra Dwivedi",
+      "General M M Naravane",
+      "General Bipin Rawat"
+    ],
+    "correct_index": 1,
+    "explanation": "General Upendra Dwivedi succeeded General Manoj Pande as the Chief of Army Staff."
+  },
+  {
+    "id": 180,
+    "question": "Which state topped the Ease of Doing Business rankings in recent assessments?",
+    "choices": [
+      "Gujarat",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Telangana"
+    ],
+    "correct_index": 1,
+    "explanation": "Andhra Pradesh has consistently ranked high, often topping the Ease of Doing Business rankings released by the DPIIT."
+  },
+  {
+    "id": 181,
+    "question": "Who won the Nobel Prize in Physics in 2023?",
+    "choices": [
+      "Alain Aspect, John Clauser, and Anton Zeilinger",
+      "Pierre Agostini, Ferenc Krausz, and Anne L'Huillier",
+      "Roger Penrose, Reinhard Genzel, and Andrea Ghez",
+      "David Julius and Ardem Patapoutian"
+    ],
+    "correct_index": 1,
+    "explanation": "The 2023 Nobel Prize in Physics was awarded for experimental methods that generate attosecond pulses of light."
+  },
+  {
+    "id": 182,
+    "question": "Where was the World Economic Forum India Summit 2023 held?",
+    "choices": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correct_index": 1,
+    "explanation": "The WEF India Summit 2023 was held in New Delhi."
+  },
+  {
+    "id": 183,
+    "question": "Who is the current Chief Minister of Telangana?",
+    "choices": [
+      "K Chandrashekar Rao",
+      "Revanth Reddy",
+      "K T Rama Rao",
+      "Bhatti Vikramarka"
+    ],
+    "correct_index": 1,
+    "explanation": "Revanth Reddy became the Chief Minister of Telangana in December 2023 after the Congress party won the assembly elections."
+  },
+  {
+    "id": 184,
+    "question": "Which Indian state launched the 'Rythu Bandhu' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correct_index": 1,
+    "explanation": "Telangana launched the Rythu Bandhu scheme to provide investment support to farmers for each crop season."
+  },
+  {
+    "id": 185,
+    "question": "Who won the Men's Singles title at the US Open 2024?",
+    "choices": [
+      "Novak Djokovic",
+      "Carlos Alcaraz",
+      "Jannik Sinner",
+      "Daniil Medvedev"
+    ],
+    "correct_index": 2,
+    "explanation": "Jannik Sinner of Italy won his first Grand Slam title at the US Open 2024."
+  },
+  {
+    "id": 186,
+    "question": "Which upcoming Indian mission is designed for human spaceflight?",
+    "choices": [
+      "Chandrayaan-4",
+      "Gaganyaan",
+      "Mangalyaan-3",
+      "Aditya-L2"
+    ],
+    "correct_index": 1,
+    "explanation": "Gaganyaan is ISRO's ambitious human spaceflight mission aimed at sending Indian astronauts to low Earth orbit."
+  },
+  {
+    "id": 187,
+    "question": "Who was awarded the Padma Shri in 2024 for social work and education in Ladakh?",
+    "choices": [
+      "Sonam Wangchuk",
+      "Kailash Satyarthi",
+      "Ela Bhatt",
+      "Arvind Kejriwal"
+    ],
+    "correct_index": 0,
+    "explanation": "Educationist and environmental activist Sonam Wangchuk was awarded the Padma Shri in 2024."
+  },
+  {
+    "id": 188,
+    "question": "Which country hosted the Commonwealth Heads of Government Meeting (CHOGM) in 2024?",
+    "choices": [
+      "Rwanda",
+      "Samoa",
+      "Australia",
+      "India"
+    ],
+    "correct_index": 1,
+    "explanation": "Samoa hosted the CHOGM in October 2024, the first time a Pacific island nation hosted the event."
+  },
+  {
+    "id": 189,
+    "question": "Who won the US Presidential Election in 2024?",
+    "choices": [
+      "Joe Biden",
+      "Donald Trump",
+      "Kamala Harris",
+      "Mike Pence"
+    ],
+    "correct_index": 2,
+    "explanation": "Kamala Harris won the 2024 US Presidential Election, becoming the first woman President of the United States."
+  },
+  {
+    "id": 190,
+    "question": "Which Indian state launched the 'Amma Vodi' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "correct_index": 0,
+    "explanation": "The Andhra Pradesh government launched Amma Vodi to provide financial assistance to mothers for their children's education."
+  },
+  {
+    "id": 191,
+    "question": "Who won the Women's Singles title at the French Open 2024?",
+    "choices": [
+      "Serena Williams",
+      "Iga Swiatek",
+      "Coco Gauff",
+      "Elena Rybakina"
+    ],
+    "correct_index": 1,
+    "explanation": "Iga Swiatek of Poland won her fourth French Open title in 2024."
+  },
+  {
+    "id": 192,
+    "question": "Which Indian city was designated as a UNESCO Creative City of Gastronomy?",
+    "choices": [
+      "Jaipur",
+      "Hyderabad",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "correct_index": 1,
+    "explanation": "Hyderabad was included in the UNESCO Creative Cities Network for Gastronomy in 2019."
+  },
+  {
+    "id": 193,
+    "question": "Who served as the Chief Justice of India immediately before Justice Sanjiv Khanna?",
+    "choices": [
+      "Justice N V Ramana",
+      "Justice D Y Chandrachud",
+      "Justice S A Bobde",
+      "Justice Ranjan Gogoi"
+    ],
+    "correct_index": 1,
+    "explanation": "Justice D Y Chandrachud served as the CJI from November 2022 until November 2024."
+  },
+  {
+    "id": 194,
+    "question": "Which state topped the NITI Aayog Export Preparedness Index 2023?",
+    "choices": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Maharashtra",
+      "Karnataka"
+    ],
+    "correct_index": 1,
+    "explanation": "Gujarat retained the top position in the Export Preparedness Index due to its robust export infrastructure."
+  },
+  {
+    "id": 195,
+    "question": "Who won the Nobel Prize in Chemistry in 2023?",
+    "choices": [
+      "Carolyn Bertozzi, Morten Meldal, and K Barry Sharpless",
+      "Moungi Bawendi, Louis Brus, and Alexei Ekimov",
+      "Benjamin List and David MacMillan",
+      "Emmanuelle Charpentier and Jennifer Doudna"
+    ],
+    "correct_index": 1,
+    "explanation": "The prize was awarded for the discovery and synthesis of quantum dots."
+  },
+  {
+    "id": 196,
+    "question": "Where were the main International Yoga Day celebrations held in 2023?",
+    "choices": [
+      "New Delhi",
+      "Mysuru",
+      "Rishikesh",
+      "Varanasi"
+    ],
+    "correct_index": 1,
+    "explanation": "The central event for International Yoga Day 2023 was held in Mysuru, Karnataka."
+  },
+  {
+    "id": 197,
+    "question": "Who is the current Chief Minister of Rajasthan?",
+    "choices": [
+      "Ashok Gehlot",
+      "Bhajan Lal Sharma",
+      "Vasundhara Raje",
+      "Sachin Pilot"
+    ],
+    "correct_index": 1,
+    "explanation": "Bhajan Lal Sharma became the Chief Minister of Rajasthan in December 2023 after the BJP won the state elections."
+  },
+  {
+    "id": 198,
+    "question": "Which Indian state launched the 'KCR Kit' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correct_index": 1,
+    "explanation": "The Telangana government launched the KCR Kit to provide essential items to pregnant women and newborns."
+  },
+  {
+    "id": 199,
+    "question": "Who won the Women's Singles title at Wimbledon 2024?",
+    "choices": [
+      "Ons Jabeur",
+      "Barbora Krejcikova",
+      "Marketa Vondrousova",
+      "Elena Rybakina"
+    ],
+    "correct_index": 1,
+    "explanation": "Barbora Krejcikova of the Czech Republic won the Wimbledon 2024 Women's Singles title."
+  },
+  {
+    "id": 200,
+    "question": "Which proposed Indian mission aims to explore Venus?",
+    "choices": [
+      "Mangalyaan-2",
+      "Shukrayaan-1",
+      "Aditya-L2",
+      "Chandrayaan-4"
+    ],
+    "correct_index": 1,
+    "explanation": "Shukrayaan-1 is ISRO's planned orbiter mission to study the surface and atmosphere of Venus."
+  },
+  {
+    "id": 201,
+    "question": "Who received the Dadasaheb Phalke Award in 2024?",
+    "choices": [
+      "Waheeda Rehman",
+      "Mithun Chakraborty",
+      "Asha Parekh",
+      "Hema Malini"
+    ],
+    "correct_index": 1,
+    "explanation": "Veteran actor Mithun Chakraborty was honored with the Dadasaheb Phalke Award, India's highest award in cinema."
+  },
+  {
+    "id": 202,
+    "question": "Which country hosted the ASEAN Summit in 2023?",
+    "choices": [
+      "Thailand",
+      "Indonesia",
+      "Vietnam",
+      "Malaysia"
+    ],
+    "correct_index": 1,
+    "explanation": "Indonesia hosted the ASEAN Summit in Jakarta in September 2023."
+  },
+  {
+    "id": 203,
+    "question": "Who is the current Chief Minister of Madhya Pradesh?",
+    "choices": [
+      "Shivraj Singh Chouhan",
+      "Mohan Yadav",
+      "Kamal Nath",
+      "Jyotiraditya Scindia"
+    ],
+    "correct_index": 1,
+    "explanation": "Mohan Yadav assumed office as the Chief Minister of Madhya Pradesh in December 2023."
+  },
+  {
+    "id": 204,
+    "question": "Which Indian state launched the 'YSR Aasara' pension scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "correct_index": 0,
+    "explanation": "The Andhra Pradesh government revamped and continued the YSR Aasara pension schemes for various sections of society."
+  },
+  {
+    "id": 205,
+    "question": "Who won the Men's Singles title at the Australian Open 2024?",
+    "choices": [
+      "Novak Djokovic",
+      "Jannik Sinner",
+      "Daniil Medvedev",
+      "Stefanos Tsitsipas"
+    ],
+    "correct_index": 1,
+    "explanation": "Jannik Sinner won his first Grand Slam title at the Australian Open 2024."
+  },
+  {
+    "id": 206,
+    "question": "Which country is scheduled to host the G20 Summit in 2025?",
+    "choices": [
+      "Brazil",
+      "South Africa",
+      "India",
+      "Italy"
+    ],
+    "correct_index": 1,
+    "explanation": "South Africa is set to host the G20 Summit in 2025, following India's presidency in 2023 and Brazil's in 2024."
+  },
+  {
+    "id": 207,
+    "question": "Who took over as the Chief of Naval Staff in April 2024?",
+    "choices": [
+      "Admiral R Hari Kumar",
+      "Admiral Dinesh K Tripathi",
+      "Admiral Karambir Singh",
+      "Admiral Sunil Lanba"
+    ],
+    "correct_index": 1,
+    "explanation": "Admiral Dinesh K Tripathi succeeded Admiral R Hari Kumar as the Chief of Naval Staff."
+  },
+  {
+    "id": 208,
+    "question": "Which state topped the NITI Aayog School Education Quality Index?",
+    "choices": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Gujarat"
+    ],
+    "correct_index": 0,
+    "explanation": "Kerala has consistently topped the SEQI rankings for its performance in access, equity, and learning outcomes."
+  },
+  {
+    "id": 209,
+    "question": "Who won the Nobel Prize in Physiology or Medicine in 2023?",
+    "choices": [
+      "Svante Pääbo",
+      "Katalin Karikó and Drew Weissman",
+      "David Julius and Ardem Patapoutian",
+      "Harvey Alter, Michael Houghton, and Charles Rice"
+    ],
+    "correct_index": 1,
+    "explanation": "They were awarded for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19."
+  },
+  {
+    "id": 210,
+    "question": "Where was the International Film Festival of India (IFFI) 2023 held?",
+    "choices": [
+      "Mumbai",
+      "Goa",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correct_index": 1,
+    "explanation": "IFFI 2023 was held in Goa, its permanent venue."
+  },
+  {
+    "id": 211,
+    "question": "Who is the current Chief Minister of Chhattisgarh?",
+    "choices": [
+      "Bhupesh Baghel",
+      "Vishnu Deo Sai",
+      "Raman Singh",
+      "T S Singh Deo"
+    ],
+    "correct_index": 1,
+    "explanation": "Vishnu Deo Sai became the Chief Minister of Chhattisgarh in December 2023."
+  },
+  {
+    "id": 212,
+    "question": "Which Indian state launched the 'Kalaignar Magalir Urimai Thogai' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "correct_index": 2,
+    "explanation": "The Tamil Nadu government launched this scheme to provide monthly financial assistance to women."
+  },
+  {
+    "id": 213,
+    "question": "Who won the Women's Singles title at the US Open 2024?",
+    "choices": [
+      "Aryna Sabalenka",
+      "Coco Gauff",
+      "Iga Swiatek",
+      "Jessica Pegula"
+    ],
+    "correct_index": 1,
+    "explanation": "Coco Gauff won the US Open 2024 Women's Singles title."
+  },
+  {
+    "id": 214,
+    "question": "Which proposed Indian mission aims to study exoplanets?",
+    "choices": [
+      "Exoworlds",
+      "Astrosat-2",
+      "Mangalyaan-3",
+      "Chandrayaan-4"
+    ],
+    "correct_index": 0,
+    "explanation": "ISRO is planning the Exoworlds mission to characterize exoplanets and their atmospheres."
+  },
+  {
+    "id": 215,
+    "question": "Who received the Ramon Magsaysay Award in 2023 from India?",
+    "choices": [
+      "Ravi Kannan R",
+      "Sonam Wangchuk",
+      "Both A and B",
+      "Neither"
+    ],
+    "correct_index": 2,
+    "explanation": "Dr. Ravi Kannan R (for public health) and Sonam Wangchuk (for education and environment) were among the 2023 awardees."
+  },
+  {
+    "id": 216,
+    "question": "Which country hosted the Shanghai Cooperation Organisation (SCO) Summit in 2023?",
+    "choices": [
+      "China",
+      "India",
+      "Kazakhstan",
+      "Russia"
+    ],
+    "correct_index": 1,
+    "explanation": "India hosted the SCO Heads of State Council meeting in virtual format in July 2023."
+  },
+  {
+    "id": 217,
+    "question": "Who is the current Chief Minister of Himachal Pradesh?",
+    "choices": [
+      "Jai Ram Thakur",
+      "Sukhvinder Singh Sukhu",
+      "Virbhadra Singh",
+      "Prem Kumar Dhumal"
+    ],
+    "correct_index": 1,
+    "explanation": "Sukhvinder Singh Sukhu has been serving as the Chief Minister since December 2022."
+  },
+  {
+    "id": 218,
+    "question": "Which Indian state launched the 'Dr. Muthulakshmi Reddy Maternity Benefit' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "correct_index": 2,
+    "explanation": "Tamil Nadu renamed and continues its maternity benefit scheme in honor of Dr. Muthulakshmi Reddy."
+  },
+  {
+    "id": 219,
+    "question": "Who won the Men's Doubles title at Wimbledon 2024?",
+    "choices": [
+      "Rajeev Ram and Joe Salisbury",
+      "Harri Heliovaara and Henry Patten",
+      "Wesley Koolhof and Neal Skupski",
+      "Marcel Granollers and Horacio Zeballos"
+    ],
+    "correct_index": 1,
+    "explanation": "Harri Heliovaara and Henry Patten won the Men's Doubles title at Wimbledon 2024."
+  },
+  {
+    "id": 220,
+    "question": "Which proposed Indian mission aims for a lunar sample return?",
+    "choices": [
+      "Chandrayaan-4",
+      "Chandrayaan-3",
+      "Mangalyaan-2",
+      "Aditya-L2"
+    ],
+    "correct_index": 0,
+    "explanation": "Chandrayaan-4 is the proposed mission to bring back lunar soil samples to Earth."
+  },
+  {
+    "id": 221,
+    "question": "Who won the Sahitya Akademi Award for English Literature in 2023?",
+    "choices": [
+      "Jerry Pinto",
+      "Mamang Dai",
+      "Easterine Kire",
+      "Jeet Thayil"
+    ],
+    "correct_index": 0,
+    "explanation": "Jerry Pinto won the award for his novel 'Em and the Big Hoom'."
+  },
+  {
+    "id": 222,
+    "question": "Which country hosted the Quad Summit in 2023?",
+    "choices": [
+      "India",
+      "Japan",
+      "Australia",
+      "USA"
+    ],
+    "correct_index": 1,
+    "explanation": "The Quad Leaders' Summit was held in Hiroshima, Japan, in May 2023 on the sidelines of the G7 Summit."
+  },
+  {
+    "id": 223,
+    "question": "Who is the current Chief Minister of Uttarakhand?",
+    "choices": [
+      "Tirath Singh Rawat",
+      "Pushkar Singh Dhami",
+      "Trivendra Singh Rawat",
+      "Harish Rawat"
+    ],
+    "correct_index": 1,
+    "explanation": "Pushkar Singh Dhami has been serving as the Chief Minister of Uttarakhand since 2021."
+  },
+  {
+    "id": 224,
+    "question": "Which Indian state launched the 'Gruha Jyothi' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correct_index": 2,
+    "explanation": "Karnataka launched Gruha Jyothi to provide free electricity up to 200 units to households."
+  },
+  {
+    "id": 225,
+    "question": "Who won the Women's Doubles title at the French Open 2024?",
+    "choices": [
+      "Coco Gauff and Katerina Siniakova",
+      "Sara Errani and Jasmine Paolini",
+      "Elise Mertens and Storm Hunter",
+      "Barbora Krejcikova and Katerina Siniakova"
+    ],
+    "correct_index": 1,
+    "explanation": "Sara Errani and Jasmine Paolini won the Women's Doubles title at the French Open 2024."
+  },
+  {
+    "id": 226,
+    "question": "Which proposed Indian mission aims to explore asteroids?",
+    "choices": [
+      "Asteroid Explorer",
+      "Mangalyaan-3",
+      "Chandrayaan-5",
+      "Aditya-L3"
+    ],
+    "correct_index": 0,
+    "explanation": "ISRO is planning a mission to study near-Earth asteroids."
+  },
+  {
+    "id": 227,
+    "question": "Who was awarded the ICC Men's Cricketer of the Year in 2023?",
+    "choices": [
+      "Virat Kohli",
+      "Babar Azam",
+      "Travis Head",
+      "Pat Cummins"
+    ],
+    "correct_index": 2,
+    "explanation": "Travis Head of Australia was named the ICC Men's Cricketer of the Year for his outstanding performances in 2023."
+  },
+  {
+    "id": 228,
+    "question": "Did the IBSA Summit take place in 2023?",
+    "choices": [
+      "Yes, in India",
+      "Yes, in Brazil",
+      "No",
+      "Yes, in South Africa"
+    ],
+    "correct_index": 2,
+    "explanation": "There was no IBSA Summit in 2023; the last one was held in 2017."
+  },
+  {
+    "id": 229,
+    "question": "Who is the current Chief Minister of Goa?",
+    "choices": [
+      "Pramod Sawant",
+      "Manohar Parrikar",
+      "Laxmikant Parsekar",
+      "Digambar Kamat"
+    ],
+    "correct_index": 0,
+    "explanation": "Pramod Sawant has been serving as the Chief Minister of Goa since 2019."
+  },
+  {
+    "id": 230,
+    "question": "Which Indian state launched the 'Yuva Nidhi' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correct_index": 2,
+    "explanation": "Karnataka launched the Yuva Nidhi scheme to provide unemployment allowance to educated youth."
+  },
+  {
+    "id": 231,
+    "question": "Who won the Mixed Doubles title at Wimbledon 2024?",
+    "choices": [
+      "Neal Skupski and Desirae Krawczyk",
+      "Jan Zielinski and Hsieh Su-wei",
+      "Mate Pavic and Lyudmyla Kichenok",
+      "Santiago Gonzalez and Giuliana Olmos"
+    ],
+    "correct_index": 1,
+    "explanation": "Jan Zielinski and Hsieh Su-wei won the Mixed Doubles title at Wimbledon 2024."
+  },
+  {
+    "id": 232,
+    "question": "Which proposed Indian mission aims to study Earth's magnetosphere?",
+    "choices": [
+      "Magnetosphere Explorer",
+      "Aditya-L2",
+      "Chandrayaan-5",
+      "Mangalyaan-3"
+    ],
+    "correct_index": 0,
+    "explanation": "ISRO is planning a mission to study Earth's magnetic field and its interaction with solar wind."
+  },
+  {
+    "id": 233,
+    "question": "Who was awarded the ICC Women's Cricketer of the Year in 2023?",
+    "choices": [
+      "Smriti Mandhana",
+      "Nat Sciver-Brunt",
+      "Ashleigh Gardner",
+      "Beth Mooney"
+    ],
+    "correct_index": 1,
+    "explanation": "Nat Sciver-Brunt of England was named the ICC Women's Cricketer of the Year."
+  },
+  {
+    "id": 234,
+    "question": "Which country hosted the African Union Summit in early 2024?",
+    "choices": [
+      "South Africa",
+      "Ethiopia",
+      "Egypt",
+      "Kenya"
+    ],
+    "correct_index": 1,
+    "explanation": "The African Union Summit was held in Addis Ababa, Ethiopia, in February 2024."
+  },
+  {
+    "id": 235,
+    "question": "Who is the current Lieutenant Governor of Delhi?",
+    "choices": [
+      "Anil Baijal",
+      "Vinai Kumar Saxena",
+      "Najeeb Jung",
+      "Tejendra Khanna"
+    ],
+    "correct_index": 1,
+    "explanation": "Vinai Kumar Saxena has been serving as the Lieutenant Governor of Delhi since May 2022."
+  },
+  {
+    "id": 236,
+    "question": "Which Indian state launched the 'Six Guarantees' scheme?",
+    "choices": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correct_index": 2,
+    "explanation": "The Karnataka Congress government implemented its 'Six Guarantees' welfare schemes after winning the 2023 elections."
+  },
+  {
+    "id": 237,
+    "question": "Who won the Men's Doubles title at the French Open 2024?",
+    "choices": [
+      "Rajeev Ram and Joe Salisbury",
+      "Simone Bolelli and Andrea Vavassori",
+      "Elise Mertens and Storm Hunter",
+      "Kevin Krawietz and Tim Puetz"
+    ],
+    "correct_index": 1,
+    "explanation": "Simone Bolelli and Andrea Vavassori won the Men's Doubles title at the French Open 2024."
+  },
+  {
+    "id": 238,
+    "question": "Which proposed Indian mission aims to explore Jupiter?",
+    "choices": [
+      "Jupiter Explorer",
+      "Mangalyaan-4",
+      "Chandrayaan-6",
+      "Aditya-L3"
+    ],
+    "correct_index": 0,
+    "explanation": "ISRO has conceptualized a mission to explore Jupiter and its moons."
+  },
+  {
+    "id": 239,
+    "question": "Who was awarded the Dhyanchand Award in 2023 for Hockey?",
+    "choices": [
+      "PR Sreejesh",
+      "Sardar Singh",
+      "Viren Rasquinha",
+      "Dhanraj Pillay"
+    ],
+    "correct_index": 1,
+    "explanation": "Former Indian hockey captain Sardar Singh was conferred the Major Dhyanchand Khel Ratna Award in 2023."
+  },
+  {
+    "id": 240,
+    "question": "Which country hosted the Pacific Islands Forum in 2024?",
+    "choices": [
+      "Fiji",
+      "Tonga",
+      "Samoa",
+      "Vanuatu"
+    ],
+    "correct_index": 1,
+    "explanation": "Tonga hosted the Pacific Islands Forum in August 2024."
   }
 ]

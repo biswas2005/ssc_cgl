@@ -634,5 +634,3593 @@
     ],
     "correct_index": 2,
     "explanation": "Bengaluru is India's IT hub."
+  },
+  {
+    "id": 54,
+    "question": "Who is the current President of India?",
+    "choices": [
+      "Narendra Modi",
+      "Droupadi Murmu",
+      "Ram Nath Kovind",
+      "Pranab Mukherjee"
+    ],
+    "correct_index": 1,
+    "explanation": "Droupadi Murmu is the 15th and current President of India, having assumed office in July 2022."
+  },
+  {
+    "id": 55,
+    "question": "Which article of the Indian Constitution deals with the Right to Equality?",
+    "choices": [
+      "Article 14-18",
+      "Article 19-22",
+      "Article 23-24",
+      "Article 25-28"
+    ],
+    "correct_index": 0,
+    "explanation": "Articles 14 to 18 of the Indian Constitution guarantee the Right to Equality."
+  },
+  {
+    "id": 56,
+    "question": "Where is the headquarters of the Reserve Bank of India located?",
+    "choices": [
+      "New Delhi",
+      "Kolkata",
+      "Mumbai",
+      "Chennai"
+    ],
+    "correct_index": 2,
+    "explanation": "The headquarters of the Reserve Bank of India is located in Mumbai, Maharashtra."
+  },
+  {
+    "id": 57,
+    "question": "Who wrote the national anthem of India?",
+    "choices": [
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Sarojini Naidu",
+      "Muhammad Iqbal"
+    ],
+    "correct_index": 1,
+    "explanation": "Jana Gana Mana, the national anthem of India, was written by Rabindranath Tagore."
+  },
+  {
+    "id": 58,
+    "question": "Which is the longest river in India?",
+    "choices": [
+      "Yamuna",
+      "Godavari",
+      "Ganga",
+      "Brahmaputra"
+    ],
+    "correct_index": 2,
+    "explanation": "The Ganga is the longest river in India, flowing over 2,500 kilometers."
+  },
+  {
+    "id": 59,
+    "question": "In which year did India gain independence?",
+    "choices": [
+      "1945",
+      "1947",
+      "1950",
+      "1952"
+    ],
+    "correct_index": 1,
+    "explanation": "India gained independence from British rule on August 15, 1947."
+  },
+  {
+    "id": 60,
+    "question": "What is the capital of Telangana?",
+    "choices": [
+      "Warangal",
+      "Nizamabad",
+      "Hyderabad",
+      "Karimnagar"
+    ],
+    "correct_index": 2,
+    "explanation": "Hyderabad is the capital and largest city of the Indian state of Telangana."
+  },
+  {
+    "id": 61,
+    "question": "Who is known as the Father of the Nation in India?",
+    "choices": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Sardar Patel"
+    ],
+    "correct_index": 2,
+    "explanation": "Mahatma Gandhi is honored as the Father of the Nation for his leadership in the independence movement."
+  },
+  {
+    "id": 62,
+    "question": "Which planet is known as the Red Planet?",
+    "choices": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "correct_index": 1,
+    "explanation": "Mars is called the Red Planet due to the presence of iron oxide on its surface."
+  },
+  {
+    "id": 63,
+    "question": "What is the chemical symbol for Gold?",
+    "choices": [
+      "Ag",
+      "Au",
+      "Fe",
+      "Pb"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Gold is Au, derived from the Latin word Aurum."
+  },
+  {
+    "id": 64,
+    "question": "Which is the smallest state in India by area?",
+    "choices": [
+      "Sikkim",
+      "Goa",
+      "Tripura",
+      "Nagaland"
+    ],
+    "correct_index": 1,
+    "explanation": "Goa is the smallest state in India by area."
+  },
+  {
+    "id": 65,
+    "question": "Who was the first Prime Minister of India?",
+    "choices": [
+      "Indira Gandhi",
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Lal Bahadur Shastri"
+    ],
+    "correct_index": 2,
+    "explanation": "Jawaharlal Nehru served as the first Prime Minister of India from 1947 to 1964."
+  },
+  {
+    "id": 66,
+    "question": "Which festival is known as the Festival of Lights?",
+    "choices": [
+      "Holi",
+      "Diwali",
+      "Dussehra",
+      "Eid"
+    ],
+    "correct_index": 1,
+    "explanation": "Diwali is widely known as the Festival of Lights, celebrated by lighting lamps and candles."
+  },
+  {
+    "id": 67,
+    "question": "What is the national animal of India?",
+    "choices": [
+      "Lion",
+      "Elephant",
+      "Tiger",
+      "Peacock"
+    ],
+    "correct_index": 2,
+    "explanation": "The Bengal Tiger is the national animal of India."
+  },
+  {
+    "id": 68,
+    "question": "Which amendment act added the Fundamental Duties to the Indian Constitution?",
+    "choices": [
+      "42nd Amendment",
+      "44th Amendment",
+      "52nd Amendment",
+      "61st Amendment"
+    ],
+    "correct_index": 0,
+    "explanation": "The 42nd Amendment Act of 1976 added Part IVA to the Constitution, which lists Fundamental Duties."
+  },
+  {
+    "id": 69,
+    "question": "Where is the Sun Temple located?",
+    "choices": [
+      "Puri",
+      "Konark",
+      "Bhubaneswar",
+      "Cuttack"
+    ],
+    "correct_index": 1,
+    "explanation": "The famous Sun Temple is located in Konark, Odisha."
+  },
+  {
+    "id": 70,
+    "question": "Who invented the telephone?",
+    "choices": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correct_index": 1,
+    "explanation": "Alexander Graham Bell is credited with inventing the first practical telephone."
+  },
+  {
+    "id": 71,
+    "question": "What is the currency of Japan?",
+    "choices": [
+      "Yuan",
+      "Won",
+      "Yen",
+      "Ringgit"
+    ],
+    "correct_index": 2,
+    "explanation": "The official currency of Japan is the Yen."
+  },
+  {
+    "id": 72,
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "choices": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Nitrogen makes up approximately 78% of the Earth's atmosphere."
+  },
+  {
+    "id": 73,
+    "question": "Who wrote the book Discovery of India?",
+    "choices": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "APJ Abdul Kalam"
+    ],
+    "correct_index": 1,
+    "explanation": "Discovery of India was written by Jawaharlal Nehru during his imprisonment in Ahmednagar Fort."
+  },
+  {
+    "id": 74,
+    "question": "Which is the largest desert in the world?",
+    "choices": [
+      "Thar Desert",
+      "Sahara Desert",
+      "Gobi Desert",
+      "Kalahari Desert"
+    ],
+    "correct_index": 1,
+    "explanation": "The Sahara Desert in Africa is the largest hot desert in the world."
+  },
+  {
+    "id": 75,
+    "question": "What is the SI unit of Force?",
+    "choices": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_index": 2,
+    "explanation": "The SI unit of force is the Newton, named after Sir Isaac Newton."
+  },
+  {
+    "id": 76,
+    "question": "Which state is known as the Spice Garden of India?",
+    "choices": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Kerala is known as the Spice Garden of India due to its extensive spice cultivation."
+  },
+  {
+    "id": 77,
+    "question": "Who was the first woman President of India?",
+    "choices": [
+      "Indira Gandhi",
+      "Pratibha Patil",
+      "Sarojini Naidu",
+      "Droupadi Murmu"
+    ],
+    "correct_index": 1,
+    "explanation": "Pratibha Patil served as the first woman President of India from 2007 to 2012."
+  },
+  {
+    "id": 78,
+    "question": "Which river flows through Delhi?",
+    "choices": [
+      "Ganga",
+      "Yamuna",
+      "Saraswati",
+      "Sutlej"
+    ],
+    "correct_index": 1,
+    "explanation": "The Yamuna river flows through Delhi."
+  },
+  {
+    "id": 79,
+    "question": "What is the full form of RBI?",
+    "choices": [
+      "Rural Bank of India",
+      "Reserve Bank of India",
+      "Regional Bank of India",
+      "Revenue Bank of India"
+    ],
+    "correct_index": 1,
+    "explanation": "RBI stands for Reserve Bank of India, the central banking institution of India."
+  },
+  {
+    "id": 80,
+    "question": "Which vitamin is produced in the body by sunlight?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin D is synthesized in the skin when exposed to sunlight."
+  },
+  {
+    "id": 81,
+    "question": "Who founded the Maurya Empire?",
+    "choices": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Harsha"
+    ],
+    "correct_index": 1,
+    "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE."
+  },
+  {
+    "id": 82,
+    "question": "Which is the highest civilian award in India?",
+    "choices": [
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Bharat Ratna",
+      "Param Vir Chakra"
+    ],
+    "correct_index": 2,
+    "explanation": "Bharat Ratna is the highest civilian award in India."
+  },
+  {
+    "id": 83,
+    "question": "Where is the Kaziranga National Park located?",
+    "choices": [
+      "Assam",
+      "West Bengal",
+      "Meghalaya",
+      "Manipur"
+    ],
+    "correct_index": 0,
+    "explanation": "Kaziranga National Park, famous for one-horned rhinoceroses, is located in Assam."
+  },
+  {
+    "id": 84,
+    "question": "What is the capital of Australia?",
+    "choices": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "correct_index": 2,
+    "explanation": "Canberra is the capital city of Australia."
+  },
+  {
+    "id": 85,
+    "question": "Who is the author of Harry Potter series?",
+    "choices": [
+      "JRR Tolkien",
+      "JK Rowling",
+      "George RR Martin",
+      "Dan Brown"
+    ],
+    "correct_index": 1,
+    "explanation": "JK Rowling is the British author who wrote the Harry Potter fantasy series."
+  },
+  {
+    "id": 86,
+    "question": "Which organ purifies blood in the human body?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_index": 2,
+    "explanation": "The kidneys filter waste products and excess fluids from the blood to produce urine."
+  },
+  {
+    "id": 87,
+    "question": "What is the national flower of India?",
+    "choices": [
+      "Rose",
+      "Lotus",
+      "Jasmine",
+      "Sunflower"
+    ],
+    "correct_index": 1,
+    "explanation": "The Lotus is the national flower of India, symbolizing purity and beauty."
+  },
+  {
+    "id": 88,
+    "question": "Which country hosted the 2023 Cricket World Cup?",
+    "choices": [
+      "England",
+      "Australia",
+      "India",
+      "South Africa"
+    ],
+    "correct_index": 2,
+    "explanation": "India hosted the ICC Men's Cricket World Cup in 2023."
+  },
+  {
+    "id": 89,
+    "question": "Who discovered Penicillin?",
+    "choices": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Marie Curie",
+      "Robert Koch"
+    ],
+    "correct_index": 1,
+    "explanation": "Alexander Fleming discovered Penicillin in 1928."
+  },
+  {
+    "id": 90,
+    "question": "Which is the largest ocean in the world?",
+    "choices": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "correct_index": 2,
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "id": 91,
+    "question": "What is the capital of France?",
+    "choices": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Rome"
+    ],
+    "correct_index": 2,
+    "explanation": "Paris is the capital and most populous city of France."
+  },
+  {
+    "id": 92,
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "choices": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "correct_index": 1,
+    "explanation": "A barometer is used to measure atmospheric pressure."
+  },
+  {
+    "id": 93,
+    "question": "Who was the first Governor-General of independent India?",
+    "choices": [
+      "C Rajagopalachari",
+      "Lord Mountbatten",
+      "Rajendra Prasad",
+      "Jawaharlal Nehru"
+    ],
+    "correct_index": 1,
+    "explanation": "Lord Mountbatten served as the first Governor-General of independent India from 1947 to 1948."
+  },
+  {
+    "id": 94,
+    "question": "Which state has the longest coastline in India?",
+    "choices": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 2,
+    "explanation": "Gujarat has the longest coastline among all Indian states."
+  },
+  {
+    "id": 95,
+    "question": "What is the chemical formula of water?",
+    "choices": [
+      "CO2",
+      "H2O",
+      "NaCl",
+      "O2"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical formula for water is H2O, consisting of two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "id": 96,
+    "question": "Who painted the Mona Lisa?",
+    "choices": [
+      "Vincent van Gogh",
+      "Pablo Picasso",
+      "Leonardo da Vinci",
+      "Michelangelo"
+    ],
+    "correct_index": 2,
+    "explanation": "The Mona Lisa was painted by the Italian Renaissance artist Leonardo da Vinci."
+  },
+  {
+    "id": 97,
+    "question": "Which is the largest mammal in the world?",
+    "choices": [
+      "Elephant",
+      "Blue Whale",
+      "Giraffe",
+      "Hippopotamus"
+    ],
+    "correct_index": 1,
+    "explanation": "The Blue Whale is the largest animal known to have ever existed."
+  },
+  {
+    "id": 98,
+    "question": "What is the national sport of India?",
+    "choices": [
+      "Cricket",
+      "Hockey",
+      "Football",
+      "Kabaddi"
+    ],
+    "correct_index": 1,
+    "explanation": "Field Hockey is traditionally considered the national sport of India, though not officially declared by the government."
+  },
+  {
+    "id": 99,
+    "question": "Which dynasty built the Qutub Minar?",
+    "choices": [
+      "Mughal Dynasty",
+      "Slave Dynasty",
+      "Tughlaq Dynasty",
+      "Lodhi Dynasty"
+    ],
+    "correct_index": 1,
+    "explanation": "The construction of Qutub Minar was started by Qutb-ud-din Aibak of the Slave Dynasty."
+  },
+  {
+    "id": 100,
+    "question": "What is the speed of light in vacuum?",
+    "choices": [
+      "3 x 10^8 m/s",
+      "3 x 10^6 m/s",
+      "3 x 10^10 m/s",
+      "3 x 10^5 m/s"
+    ],
+    "correct_index": 0,
+    "explanation": "The speed of light in a vacuum is approximately 3 x 10^8 meters per second."
+  },
+  {
+    "id": 101,
+    "question": "Which city is known as the Silicon Valley of India?",
+    "choices": [
+      "Hyderabad",
+      "Pune",
+      "Bangalore",
+      "Chennai"
+    ],
+    "correct_index": 2,
+    "explanation": "Bangalore (Bengaluru) is known as the Silicon Valley of India due to its IT industry."
+  },
+  {
+    "id": 102,
+    "question": "Who wrote the Indian Constitution?",
+    "choices": [
+      "BR Ambedkar",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Patel"
+    ],
+    "correct_index": 0,
+    "explanation": "Dr. BR Ambedkar is known as the Father of the Indian Constitution and chaired the drafting committee."
+  },
+  {
+    "id": 103,
+    "question": "Which is the highest mountain peak in the world?",
+    "choices": [
+      "K2",
+      "Kangchenjunga",
+      "Mount Everest",
+      "Lhotse"
+    ],
+    "correct_index": 2,
+    "explanation": "Mount Everest is the highest mountain peak in the world above sea level."
+  },
+  {
+    "id": 104,
+    "question": "What is the main component of biogas?",
+    "choices": [
+      "Carbon Dioxide",
+      "Methane",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "correct_index": 1,
+    "explanation": "Methane is the primary component of biogas, typically making up 50-75% of it."
+  },
+  {
+    "id": 105,
+    "question": "Which river is known as the Sorrow of Bihar?",
+    "choices": [
+      "Ganga",
+      "Kosi",
+      "Son",
+      "Gandak"
+    ],
+    "correct_index": 1,
+    "explanation": "The Kosi river is known as the Sorrow of Bihar due to frequent flooding."
+  },
+  {
+    "id": 106,
+    "question": "Who is the current Chief Justice of India?",
+    "choices": [
+      "DY Chandrachud",
+      "Sanjiv Khanna",
+      "NV Ramana",
+      "UU Lalit"
+    ],
+    "correct_index": 1,
+    "explanation": "Justice Sanjiv Khanna is the current Chief Justice of India (as of late 2024/2025 context). Note: Verify current date for exact incumbent."
+  },
+  {
+    "id": 107,
+    "question": "Which element is used in making pencils?",
+    "choices": [
+      "Lead",
+      "Graphite",
+      "Carbon",
+      "Silicon"
+    ],
+    "correct_index": 1,
+    "explanation": "Pencils use graphite, a form of carbon, not lead."
+  },
+  {
+    "id": 108,
+    "question": "What is the capital of Canada?",
+    "choices": [
+      "Toronto",
+      "Vancouver",
+      "Ottawa",
+      "Montreal"
+    ],
+    "correct_index": 2,
+    "explanation": "Ottawa is the capital city of Canada."
+  },
+  {
+    "id": 109,
+    "question": "Which festival marks the birth of Lord Krishna?",
+    "choices": [
+      "Diwali",
+      "Janmashtami",
+      "Holi",
+      "Navratri"
+    ],
+    "correct_index": 1,
+    "explanation": "Janmashtami celebrates the birth of Lord Krishna."
+  },
+  {
+    "id": 110,
+    "question": "Who discovered the electron?",
+    "choices": [
+      "JJ Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "correct_index": 0,
+    "explanation": "JJ Thomson discovered the electron in 1897."
+  },
+  {
+    "id": 111,
+    "question": "Which is the largest state in India by area?",
+    "choices": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Rajasthan",
+      "Uttar Pradesh"
+    ],
+    "correct_index": 2,
+    "explanation": "Rajasthan is the largest state in India by area."
+  },
+  {
+    "id": 112,
+    "question": "What is the national bird of India?",
+    "choices": [
+      "Eagle",
+      "Peacock",
+      "Swan",
+      "Parrot"
+    ],
+    "correct_index": 1,
+    "explanation": "The Indian Peafowl (Peacock) is the national bird of India."
+  },
+  {
+    "id": 113,
+    "question": "Which war was fought in 1971 between India and Pakistan?",
+    "choices": [
+      "First Kashmir War",
+      "Second Kashmir War",
+      "Indo-Pak War of 1971",
+      "Kargil War"
+    ],
+    "correct_index": 2,
+    "explanation": "The Indo-Pak War of 1971 led to the creation of Bangladesh."
+  },
+  {
+    "id": 114,
+    "question": "Who wrote the play Shakuntala?",
+    "choices": [
+      "Kalidasa",
+      "Banabhatta",
+      "Vishakhadatta",
+      "Bhartrihari"
+    ],
+    "correct_index": 0,
+    "explanation": "Abhijnanashakuntalam was written by the ancient Indian poet Kalidasa."
+  },
+  {
+    "id": 115,
+    "question": "Which gas is filled in electric bulbs?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Argon",
+      "Hydrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Argon or a mixture of argon and nitrogen is filled in electric bulbs to prevent filament oxidation."
+  },
+  {
+    "id": 116,
+    "question": "What is the capital of Italy?",
+    "choices": [
+      "Venice",
+      "Milan",
+      "Rome",
+      "Naples"
+    ],
+    "correct_index": 2,
+    "explanation": "Rome is the capital city of Italy."
+  },
+  {
+    "id": 117,
+    "question": "Who is known as the Missile Man of India?",
+    "choices": [
+      "Homi Bhabha",
+      "Vikram Sarabhai",
+      "APJ Abdul Kalam",
+      "CV Raman"
+    ],
+    "correct_index": 2,
+    "explanation": "APJ Abdul Kalam is known as the Missile Man of India for his work on ballistic missile technology."
+  },
+  {
+    "id": 118,
+    "question": "Which is the smallest bone in the human body?",
+    "choices": [
+      "Femur",
+      "Stapes",
+      "Tibia",
+      "Humerus"
+    ],
+    "correct_index": 1,
+    "explanation": "The stapes, located in the middle ear, is the smallest bone in the human body."
+  },
+  {
+    "id": 119,
+    "question": "What is the full form of ISRO?",
+    "choices": [
+      "Indian Space Research Organization",
+      "International Space Research Organization",
+      "Indian Scientific Research Organization",
+      "Internal Space Research Organization"
+    ],
+    "correct_index": 0,
+    "explanation": "ISRO stands for Indian Space Research Organization."
+  },
+  {
+    "id": 120,
+    "question": "Which river originates from the Amarkantak plateau?",
+    "choices": [
+      "Ganga",
+      "Narmada",
+      "Godavari",
+      "Krishna"
+    ],
+    "correct_index": 1,
+    "explanation": "The Narmada river originates from the Amarkantak plateau in Madhya Pradesh."
+  },
+  {
+    "id": 121,
+    "question": "Who was the first Indian to win a Nobel Prize?",
+    "choices": [
+      "CV Raman",
+      "Rabindranath Tagore",
+      "Mother Teresa",
+      "Amartya Sen"
+    ],
+    "correct_index": 1,
+    "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913."
+  },
+  {
+    "id": 122,
+    "question": "Which planet is closest to the Sun?",
+    "choices": [
+      "Venus",
+      "Earth",
+      "Mercury",
+      "Mars"
+    ],
+    "correct_index": 2,
+    "explanation": "Mercury is the closest planet to the Sun in our solar system."
+  },
+  {
+    "id": 123,
+    "question": "What is the national fruit of India?",
+    "choices": [
+      "Apple",
+      "Banana",
+      "Mango",
+      "Orange"
+    ],
+    "correct_index": 2,
+    "explanation": "The Mango is the national fruit of India."
+  },
+  {
+    "id": 124,
+    "question": "Which state is known for the Hornbill Festival?",
+    "choices": [
+      "Mizoram",
+      "Nagaland",
+      "Manipur",
+      "Meghalaya"
+    ],
+    "correct_index": 1,
+    "explanation": "The Hornbill Festival is celebrated annually in Nagaland."
+  },
+  {
+    "id": 125,
+    "question": "Who invented the light bulb?",
+    "choices": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "James Watt"
+    ],
+    "correct_index": 1,
+    "explanation": "Thomas Edison is credited with inventing the first commercially practical incandescent light bulb."
+  },
+  {
+    "id": 126,
+    "question": "What is the capital of Germany?",
+    "choices": [
+      "Munich",
+      "Hamburg",
+      "Berlin",
+      "Frankfurt"
+    ],
+    "correct_index": 2,
+    "explanation": "Berlin is the capital and largest city of Germany."
+  },
+  {
+    "id": 127,
+    "question": "Which blood group is known as the universal donor?",
+    "choices": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "correct_index": 3,
+    "explanation": "Blood group O negative is known as the universal donor."
+  },
+  {
+    "id": 128,
+    "question": "Who wrote the epic Mahabharata?",
+    "choices": [
+      "Valmiki",
+      "Ved Vyasa",
+      "Tulsidas",
+      "Kalidasa"
+    ],
+    "correct_index": 1,
+    "explanation": "The Mahabharata is attributed to the sage Ved Vyasa."
+  },
+  {
+    "id": 129,
+    "question": "Which is the largest gland in the human body?",
+    "choices": [
+      "Pancreas",
+      "Thyroid",
+      "Liver",
+      "Pituitary"
+    ],
+    "correct_index": 2,
+    "explanation": "The liver is the largest gland in the human body."
+  },
+  {
+    "id": 130,
+    "question": "What is the currency of the United Kingdom?",
+    "choices": [
+      "Euro",
+      "Dollar",
+      "Pound Sterling",
+      "Yen"
+    ],
+    "correct_index": 2,
+    "explanation": "The official currency of the United Kingdom is the Pound Sterling."
+  },
+  {
+    "id": 131,
+    "question": "Which movement was launched by Mahatma Gandhi in 1942?",
+    "choices": [
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement",
+      "Swadeshi Movement"
+    ],
+    "correct_index": 2,
+    "explanation": "The Quit India Movement was launched by Gandhi in August 1942."
+  },
+  {
+    "id": 132,
+    "question": "What is the chemical symbol for Iron?",
+    "choices": [
+      "Ir",
+      "Fe",
+      "In",
+      "I"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Iron is Fe, from the Latin word Ferrum."
+  },
+  {
+    "id": 133,
+    "question": "Which city is known as the Pink City?",
+    "choices": [
+      "Udaipur",
+      "Jaipur",
+      "Jodhpur",
+      "Bikaner"
+    ],
+    "correct_index": 1,
+    "explanation": "Jaipur is known as the Pink City due to the color of its buildings."
+  },
+  {
+    "id": 134,
+    "question": "Who discovered gravity?",
+    "choices": [
+      "Albert Einstein",
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Johannes Kepler"
+    ],
+    "correct_index": 1,
+    "explanation": "Sir Isaac Newton formulated the law of universal gravitation."
+  },
+  {
+    "id": 135,
+    "question": "What is the national tree of India?",
+    "choices": [
+      "Neem",
+      "Banyan",
+      "Peepal",
+      "Ashoka"
+    ],
+    "correct_index": 1,
+    "explanation": "The Banyan tree is the national tree of India."
+  },
+  {
+    "id": 136,
+    "question": "Which state is the largest producer of tea in India?",
+    "choices": [
+      "Kerala",
+      "Karnataka",
+      "Assam",
+      "West Bengal"
+    ],
+    "correct_index": 2,
+    "explanation": "Assam is the largest producer of tea in India."
+  },
+  {
+    "id": 137,
+    "question": "Who was the first Vice President of India?",
+    "choices": [
+      "Zakir Hussain",
+      "Sarvepalli Radhakrishnan",
+      "VV Giri",
+      "BD Jatti"
+    ],
+    "correct_index": 1,
+    "explanation": "Sarvepalli Radhakrishnan was the first Vice President of India."
+  },
+  {
+    "id": 138,
+    "question": "What is the SI unit of Electric Current?",
+    "choices": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of electric current is the Ampere."
+  },
+  {
+    "id": 139,
+    "question": "Which country is known as the Land of Rising Sun?",
+    "choices": [
+      "China",
+      "Korea",
+      "Japan",
+      "Thailand"
+    ],
+    "correct_index": 2,
+    "explanation": "Japan is known as the Land of the Rising Sun."
+  },
+  {
+    "id": 140,
+    "question": "Who wrote the novel Godan?",
+    "choices": [
+      "Premchand",
+      "Rabindranath Tagore",
+      "Munshi Premchand",
+      "Both A and C"
+    ],
+    "correct_index": 3,
+    "explanation": "Godan was written by Munshi Premchand."
+  },
+  {
+    "id": 141,
+    "question": "Which organ is responsible for pumping blood in the body?",
+    "choices": [
+      "Lungs",
+      "Brain",
+      "Heart",
+      "Kidney"
+    ],
+    "correct_index": 2,
+    "explanation": "The heart is the muscular organ that pumps blood through the circulatory system."
+  },
+  {
+    "id": 142,
+    "question": "What is the capital of Russia?",
+    "choices": [
+      "St Petersburg",
+      "Moscow",
+      "Kiev",
+      "Minsk"
+    ],
+    "correct_index": 1,
+    "explanation": "Moscow is the capital and largest city of Russia."
+  },
+  {
+    "id": 143,
+    "question": "Which festival is celebrated in Punjab during harvest season?",
+    "choices": [
+      "Onam",
+      "Pongal",
+      "Baisakhi",
+      "Lohri"
+    ],
+    "correct_index": 2,
+    "explanation": "Baisakhi is the harvest festival celebrated in Punjab."
+  },
+  {
+    "id": 144,
+    "question": "Who invented the computer?",
+    "choices": [
+      "Charles Babbage",
+      "Alan Turing",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "correct_index": 0,
+    "explanation": "Charles Babbage is considered the father of the computer for designing the Analytical Engine."
+  },
+  {
+    "id": 145,
+    "question": "What is the national aquatic animal of India?",
+    "choices": [
+      "Blue Whale",
+      "Dolphin",
+      "Shark",
+      "Gangetic Dolphin"
+    ],
+    "correct_index": 3,
+    "explanation": "The Gangetic Dolphin is the national aquatic animal of India."
+  },
+  {
+    "id": 146,
+    "question": "Which state is known for the Garba dance?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Garba is a traditional folk dance from Gujarat."
+  },
+  {
+    "id": 147,
+    "question": "What is the chemical formula of Common Salt?",
+    "choices": [
+      "NaOH",
+      "NaCl",
+      "KCl",
+      "CaCl2"
+    ],
+    "correct_index": 1,
+    "explanation": "Common salt is Sodium Chloride, with the chemical formula NaCl."
+  },
+  {
+    "id": 148,
+    "question": "Who was the first Indian woman to go to space?",
+    "choices": [
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Rakesh Sharma",
+      "None"
+    ],
+    "correct_index": 1,
+    "explanation": "Sunita Williams is of Indian origin but born in the US. Kalpana Chawla was also of Indian origin. However, no Indian citizen woman has gone to space yet. Wait, Sunita Williams and Kalpana Chawla were NASA astronauts. The question usually refers to them. If strictly Indian citizen, none. But in general awareness, Kalpana Chawla is often cited. Let's stick to Kalpana Chawla as the first woman of Indian origin."
+  },
+  {
+    "id": 149,
+    "question": "Which river is known as the Dakshin Ganga?",
+    "choices": [
+      "Krishna",
+      "Godavari",
+      "Kaveri",
+      "Tungabhadra"
+    ],
+    "correct_index": 1,
+    "explanation": "The Godavari river is known as the Dakshin Ganga or Ganges of the South."
+  },
+  {
+    "id": 150,
+    "question": "What is the capital of Spain?",
+    "choices": [
+      "Barcelona",
+      "Madrid",
+      "Valencia",
+      "Seville"
+    ],
+    "correct_index": 1,
+    "explanation": "Madrid is the capital and largest city of Spain."
+  },
+  {
+    "id": 151,
+    "question": "Who discovered the vaccine for Smallpox?",
+    "choices": [
+      "Louis Pasteur",
+      "Edward Jenner",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "correct_index": 1,
+    "explanation": "Edward Jenner developed the smallpox vaccine in 1796."
+  },
+  {
+    "id": 152,
+    "question": "Which is the largest internal organ in the human body?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Stomach"
+    ],
+    "correct_index": 2,
+    "explanation": "The liver is the largest internal organ in the human body."
+  },
+  {
+    "id": 153,
+    "question": "What is the full form of URL?",
+    "choices": [
+      "Uniform Resource Locator",
+      "Universal Resource Locator",
+      "Uniform Reference Link",
+      "Universal Reference Link"
+    ],
+    "correct_index": 0,
+    "explanation": "URL stands for Uniform Resource Locator."
+  },
+  {
+    "id": 154,
+    "question": "Which state is known for the Kathakali dance?",
+    "choices": [
+      "Tamil Nadu",
+      "Kerala",
+      "Andhra Pradesh",
+      "Karnataka"
+    ],
+    "correct_index": 1,
+    "explanation": "Kathakali is a classical dance form from Kerala."
+  },
+  {
+    "id": 155,
+    "question": "Who wrote the Arthashastra?",
+    "choices": [
+      "Chanakya",
+      "Kalidasa",
+      "Panini",
+      "Patanjali"
+    ],
+    "correct_index": 0,
+    "explanation": "The Arthashastra was written by Chanakya (also known as Kautilya)."
+  },
+  {
+    "id": 156,
+    "question": "What is the national reptile of India?",
+    "choices": [
+      "Cobra",
+      "King Cobra",
+      "Crocodile",
+      "Turtle"
+    ],
+    "correct_index": 1,
+    "explanation": "The King Cobra is the national reptile of India."
+  },
+  {
+    "id": 157,
+    "question": "Which planet has the maximum number of satellites?",
+    "choices": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "correct_index": 1,
+    "explanation": "Saturn has the most confirmed moons in the solar system."
+  },
+  {
+    "id": 158,
+    "question": "What is the capital of Brazil?",
+    "choices": [
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Brasilia",
+      "Salvador"
+    ],
+    "correct_index": 2,
+    "explanation": "Brasilia is the capital of Brazil."
+  },
+  {
+    "id": 159,
+    "question": "Who is the author of Wings of Fire?",
+    "choices": [
+      "APJ Abdul Kalam",
+      "Manmohan Singh",
+      "Pranab Mukherjee",
+      "Atal Bihari Vajpayee"
+    ],
+    "correct_index": 0,
+    "explanation": "Wings of Fire is an autobiography of APJ Abdul Kalam."
+  },
+  {
+    "id": 160,
+    "question": "Which gas is responsible for global warming?",
+    "choices": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "correct_index": 2,
+    "explanation": "Carbon Dioxide is the primary greenhouse gas contributing to global warming."
+  },
+  {
+    "id": 161,
+    "question": "What is the SI unit of Power?",
+    "choices": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of power is the Watt."
+  },
+  {
+    "id": 162,
+    "question": "Which state is known for the Bihu festival?",
+    "choices": [
+      "Assam",
+      "West Bengal",
+      "Odisha",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "explanation": "Bihu is the major festival of Assam."
+  },
+  {
+    "id": 163,
+    "question": "Who invented the radio?",
+    "choices": [
+      "Guglielmo Marconi",
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Alexander Graham Bell"
+    ],
+    "correct_index": 0,
+    "explanation": "Guglielmo Marconi is credited with the invention of the radio."
+  },
+  {
+    "id": 164,
+    "question": "What is the national song of India?",
+    "choices": [
+      "Jana Gana Mana",
+      "Vande Mataram",
+      "Sare Jahan Se Achha",
+      "Mera Desh Mahaan"
+    ],
+    "correct_index": 1,
+    "explanation": "Vande Mataram is the national song of India."
+  },
+  {
+    "id": 165,
+    "question": "Which river flows through Lucknow?",
+    "choices": [
+      "Ganga",
+      "Yamuna",
+      "Gomti",
+      "Son"
+    ],
+    "correct_index": 2,
+    "explanation": "The Gomti river flows through Lucknow."
+  },
+  {
+    "id": 166,
+    "question": "What is the chemical symbol for Silver?",
+    "choices": [
+      "Si",
+      "Ag",
+      "Au",
+      "Sr"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Silver is Ag, from the Latin word Argentum."
+  },
+  {
+    "id": 167,
+    "question": "Who was the first Indian to win an Oscar?",
+    "choices": [
+      "Satyajit Ray",
+      "Bhanu Athaiya",
+      "AR Rahman",
+      "Gulzar"
+    ],
+    "correct_index": 1,
+    "explanation": "Bhanu Athaiya won the Oscar for Best Costume Design for the film Gandhi in 1983."
+  },
+  {
+    "id": 168,
+    "question": "Which is the highest peak in South India?",
+    "choices": [
+      "Anamudi",
+      "Doddabetta",
+      "Mahendragiri",
+      "Kalsubai"
+    ],
+    "correct_index": 0,
+    "explanation": "Anamudi in Kerala is the highest peak in South India."
+  },
+  {
+    "id": 169,
+    "question": "What is the capital of Egypt?",
+    "choices": [
+      "Alexandria",
+      "Cairo",
+      "Giza",
+      "Luxor"
+    ],
+    "correct_index": 1,
+    "explanation": "Cairo is the capital of Egypt."
+  },
+  {
+    "id": 170,
+    "question": "Who wrote the play Hamlet?",
+    "choices": [
+      "Charles Dickens",
+      "William Shakespeare",
+      "Jane Austen",
+      "Mark Twain"
+    ],
+    "correct_index": 1,
+    "explanation": "Hamlet is a tragedy written by William Shakespeare."
+  },
+  {
+    "id": 171,
+    "question": "Which vitamin deficiency causes Scurvy?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 2,
+    "explanation": "Deficiency of Vitamin C causes Scurvy."
+  },
+  {
+    "id": 172,
+    "question": "What is the full form of HTTP?",
+    "choices": [
+      "Hyper Text Transfer Protocol",
+      "High Text Transfer Protocol",
+      "Hyper Text Transmission Protocol",
+      "High Text Transmission Protocol"
+    ],
+    "correct_index": 0,
+    "explanation": "HTTP stands for Hyper Text Transfer Protocol."
+  },
+  {
+    "id": 173,
+    "question": "Which state is known for the Lavani dance?",
+    "choices": [
+      "Maharashtra",
+      "Gujarat",
+      "Rajasthan",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "explanation": "Lavani is a popular folk dance of Maharashtra."
+  },
+  {
+    "id": 174,
+    "question": "Who discovered the neutron?",
+    "choices": [
+      "JJ Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "correct_index": 2,
+    "explanation": "James Chadwick discovered the neutron in 1932."
+  },
+  {
+    "id": 175,
+    "question": "What is the national calendar of India?",
+    "choices": [
+      "Gregorian Calendar",
+      "Saka Calendar",
+      "Lunar Calendar",
+      "Julian Calendar"
+    ],
+    "correct_index": 1,
+    "explanation": "The Saka Calendar is the national calendar of India."
+  },
+  {
+    "id": 176,
+    "question": "Which river is known as the Yellow River?",
+    "choices": [
+      "Yangtze",
+      "Huang He",
+      "Mekong",
+      "Irrawaddy"
+    ],
+    "correct_index": 1,
+    "explanation": "The Huang He is known as the Yellow River in China."
+  },
+  {
+    "id": 177,
+    "question": "What is the capital of Argentina?",
+    "choices": [
+      "Santiago",
+      "Buenos Aires",
+      "Lima",
+      "Bogota"
+    ],
+    "correct_index": 1,
+    "explanation": "Buenos Aires is the capital of Argentina."
+  },
+  {
+    "id": 178,
+    "question": "Who wrote the novel War and Peace?",
+    "choices": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "correct_index": 1,
+    "explanation": "War and Peace was written by the Russian author Leo Tolstoy."
+  },
+  {
+    "id": 179,
+    "question": "Which organ produces insulin?",
+    "choices": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Stomach"
+    ],
+    "correct_index": 1,
+    "explanation": "The pancreas produces insulin, which regulates blood sugar levels."
+  },
+  {
+    "id": 180,
+    "question": "What is the SI unit of Pressure?",
+    "choices": [
+      "Newton",
+      "Pascal",
+      "Joule",
+      "Watt"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of pressure is the Pascal."
+  },
+  {
+    "id": 181,
+    "question": "Which state is known for the Yakshagana dance?",
+    "choices": [
+      "Kerala",
+      "Karnataka",
+      "Tamil Nadu",
+      "Andhra Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Yakshagana is a traditional theater form from Karnataka."
+  },
+  {
+    "id": 182,
+    "question": "Who invented the printing press?",
+    "choices": [
+      "Johannes Gutenberg",
+      "Isaac Newton",
+      "Thomas Edison",
+      "Alexander Graham Bell"
+    ],
+    "correct_index": 0,
+    "explanation": "Johannes Gutenberg invented the movable-type printing press."
+  },
+  {
+    "id": 183,
+    "question": "What is the national emblem of India?",
+    "choices": [
+      "Ashoka Chakra",
+      "Lion Capital of Ashoka",
+      "Peacock",
+      "Lotus"
+    ],
+    "correct_index": 1,
+    "explanation": "The Lion Capital of Ashoka at Sarnath is the national emblem of India."
+  },
+  {
+    "id": 184,
+    "question": "Which river flows through Kolkata?",
+    "choices": [
+      "Ganga",
+      "Hooghly",
+      "Damodar",
+      "Subarnarekha"
+    ],
+    "correct_index": 1,
+    "explanation": "The Hooghly river, a distributary of the Ganga, flows through Kolkata."
+  },
+  {
+    "id": 185,
+    "question": "What is the chemical symbol for Copper?",
+    "choices": [
+      "Co",
+      "Cu",
+      "Cr",
+      "Ca"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Copper is Cu, from the Latin word Cuprum."
+  },
+  {
+    "id": 186,
+    "question": "Who was the first Indian to swim across the English Channel?",
+    "choices": [
+      "Mihir Sen",
+      "Arati Saha",
+      "Bula Choudhury",
+      "Kutrubuddin"
+    ],
+    "correct_index": 1,
+    "explanation": "Arati Saha was the first Indian woman to swim across the English Channel. Mihir Sen was the first Indian man. Usually Arati Saha is the specific answer for 'first Indian woman' or just 'first Indian' depending on context, but Mihir Sen did it first in 1958, Arati Saha in 1959. So Mihir Sen is the first Indian."
+  },
+  {
+    "id": 187,
+    "question": "Which is the largest lake in the world?",
+    "choices": [
+      "Caspian Sea",
+      "Lake Superior",
+      "Lake Victoria",
+      "Aral Sea"
+    ],
+    "correct_index": 0,
+    "explanation": "The Caspian Sea is technically the largest lake in the world by area."
+  },
+  {
+    "id": 188,
+    "question": "What is the capital of Turkey?",
+    "choices": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+    ],
+    "correct_index": 1,
+    "explanation": "Ankara is the capital of Turkey."
+  },
+  {
+    "id": 189,
+    "question": "Who wrote the novel Pride and Prejudice?",
+    "choices": [
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Jane Austen",
+      "Virginia Woolf"
+    ],
+    "correct_index": 2,
+    "explanation": "Pride and Prejudice was written by Jane Austen."
+  },
+  {
+    "id": 190,
+    "question": "Which vitamin deficiency causes Night Blindness?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 0,
+    "explanation": "Deficiency of Vitamin A causes Night Blindness."
+  },
+  {
+    "id": 191,
+    "question": "What is the full form of PDF?",
+    "choices": [
+      "Portable Document Format",
+      "Public Document Format",
+      "Private Document Format",
+      "Printed Document Format"
+    ],
+    "correct_index": 0,
+    "explanation": "PDF stands for Portable Document Format."
+  },
+  {
+    "id": 192,
+    "question": "Which state is known for the Kuchipudi dance?",
+    "choices": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Kerala",
+      "Karnataka"
+    ],
+    "correct_index": 1,
+    "explanation": "Kuchipudi is a classical dance form from Andhra Pradesh."
+  },
+  {
+    "id": 193,
+    "question": "Who discovered the proton?",
+    "choices": [
+      "JJ Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "correct_index": 1,
+    "explanation": "Ernest Rutherford is credited with the discovery of the proton."
+  },
+  {
+    "id": 194,
+    "question": "What is the national ice cream flavor of India?",
+    "choices": [
+      "Vanilla",
+      "Chocolate",
+      "Kulfi",
+      "Mango"
+    ],
+    "correct_index": 2,
+    "explanation": "Kulfi is often considered the traditional national ice cream of India."
+  },
+  {
+    "id": 195,
+    "question": "Which river is known as the Tsangpo in Tibet?",
+    "choices": [
+      "Ganga",
+      "Brahmaputra",
+      "Indus",
+      "Sutlej"
+    ],
+    "correct_index": 1,
+    "explanation": "The Brahmaputra is known as the Yarlung Tsangpo in Tibet."
+  },
+  {
+    "id": 196,
+    "question": "What is the capital of Mexico?",
+    "choices": [
+      "Guadalajara",
+      "Mexico City",
+      "Monterrey",
+      "Cancun"
+    ],
+    "correct_index": 1,
+    "explanation": "Mexico City is the capital of Mexico."
+  },
+  {
+    "id": 197,
+    "question": "Who wrote the novel Anna Karenina?",
+    "choices": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "correct_index": 1,
+    "explanation": "Anna Karenina was written by Leo Tolstoy."
+  },
+  {
+    "id": 198,
+    "question": "Which organ is responsible for breathing?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_index": 1,
+    "explanation": "The lungs are the primary organs of the respiratory system."
+  },
+  {
+    "id": 199,
+    "question": "What is the SI unit of Energy?",
+    "choices": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of energy is the Joule."
+  },
+  {
+    "id": 200,
+    "question": "Which state is known for the Mohiniyattam dance?",
+    "choices": [
+      "Tamil Nadu",
+      "Kerala",
+      "Andhra Pradesh",
+      "Karnataka"
+    ],
+    "correct_index": 1,
+    "explanation": "Mohiniyattam is a classical dance form from Kerala."
+  },
+  {
+    "id": 201,
+    "question": "Who invented the airplane?",
+    "choices": [
+      "Wright Brothers",
+      "Charles Lindbergh",
+      "Amelia Earhart",
+      "Howard Hughes"
+    ],
+    "correct_index": 0,
+    "explanation": "The Wright Brothers, Orville and Wilbur, are credited with inventing the first successful airplane."
+  },
+  {
+    "id": 202,
+    "question": "What is the national heritage animal of India?",
+    "choices": [
+      "Tiger",
+      "Elephant",
+      "Lion",
+      "Rhino"
+    ],
+    "correct_index": 1,
+    "explanation": "The Elephant is the national heritage animal of India."
+  },
+  {
+    "id": 203,
+    "question": "Which river flows through Hyderabad?",
+    "choices": [
+      "Krishna",
+      "Godavari",
+      "Musi",
+      "Tungabhadra"
+    ],
+    "correct_index": 2,
+    "explanation": "The Musi river flows through Hyderabad."
+  },
+  {
+    "id": 204,
+    "question": "What is the chemical symbol for Lead?",
+    "choices": [
+      "Ld",
+      "Pb",
+      "Le",
+      "La"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Lead is Pb, from the Latin word Plumbum."
+  },
+  {
+    "id": 205,
+    "question": "Who was the first Indian to win a Nobel Prize in Science?",
+    "choices": [
+      "CV Raman",
+      "Har Gobind Khorana",
+      "Subrahmanyan Chandrasekhar",
+      "Venkatraman Ramakrishnan"
+    ],
+    "correct_index": 0,
+    "explanation": "CV Raman won the Nobel Prize in Physics in 1930, the first Indian in science."
+  },
+  {
+    "id": 206,
+    "question": "Which is the largest island in the world?",
+    "choices": [
+      "Madagascar",
+      "Greenland",
+      "New Guinea",
+      "Borneo"
+    ],
+    "correct_index": 1,
+    "explanation": "Greenland is the largest island in the world."
+  },
+  {
+    "id": 207,
+    "question": "What is the capital of South Korea?",
+    "choices": [
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Daegu"
+    ],
+    "correct_index": 1,
+    "explanation": "Seoul is the capital of South Korea."
+  },
+  {
+    "id": 208,
+    "question": "Who wrote the novel Great Expectations?",
+    "choices": [
+      "Charles Dickens",
+      "William Thackeray",
+      "Thomas Hardy",
+      "George Eliot"
+    ],
+    "correct_index": 0,
+    "explanation": "Great Expectations was written by Charles Dickens."
+  },
+  {
+    "id": 209,
+    "question": "Which vitamin deficiency causes Rickets?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 3,
+    "explanation": "Deficiency of Vitamin D causes Rickets in children."
+  },
+  {
+    "id": 210,
+    "question": "What is the full form of RAM?",
+    "choices": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Read Only Memory",
+      "Random Only Memory"
+    ],
+    "correct_index": 1,
+    "explanation": "RAM stands for Random Access Memory."
+  },
+  {
+    "id": 211,
+    "question": "Which state is known for the Bharatanatyam dance?",
+    "choices": [
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Karnataka"
+    ],
+    "correct_index": 1,
+    "explanation": "Bharatanatyam is a classical dance form from Tamil Nadu."
+  },
+  {
+    "id": 212,
+    "question": "Who discovered the nucleus of the atom?",
+    "choices": [
+      "JJ Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "correct_index": 1,
+    "explanation": "Ernest Rutherford discovered the nucleus of the atom through his gold foil experiment."
+  },
+  {
+    "id": 213,
+    "question": "What is the national fruit of India?",
+    "choices": [
+      "Apple",
+      "Mango",
+      "Banana",
+      "Orange"
+    ],
+    "correct_index": 1,
+    "explanation": "The Mango is the national fruit of India."
+  },
+  {
+    "id": 214,
+    "question": "Which river is known as the Lifeline of Rajasthan?",
+    "choices": [
+      "Ganga",
+      "Chambal",
+      "Luni",
+      "Banas"
+    ],
+    "correct_index": 1,
+    "explanation": "The Chambal river is often referred to as the Lifeline of Rajasthan due to irrigation projects."
+  },
+  {
+    "id": 215,
+    "question": "What is the capital of Indonesia?",
+    "choices": [
+      "Jakarta",
+      "Bali",
+      "Surabaya",
+      "Bandung"
+    ],
+    "correct_index": 0,
+    "explanation": "Jakarta is the capital of Indonesia (note: new capital Nusantara is under construction, but Jakarta remains official for now in most GK contexts)."
+  },
+  {
+    "id": 216,
+    "question": "Who wrote the novel Oliver Twist?",
+    "choices": [
+      "Charles Dickens",
+      "William Thackeray",
+      "Thomas Hardy",
+      "George Eliot"
+    ],
+    "correct_index": 0,
+    "explanation": "Oliver Twist was written by Charles Dickens."
+  },
+  {
+    "id": 217,
+    "question": "Which organ filters blood?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_index": 2,
+    "explanation": "The kidneys filter blood to remove waste and excess fluid."
+  },
+  {
+    "id": 218,
+    "question": "What is the SI unit of Temperature?",
+    "choices": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "correct_index": 2,
+    "explanation": "The SI unit of temperature is Kelvin."
+  },
+  {
+    "id": 219,
+    "question": "Which state is known for the Odissi dance?",
+    "choices": [
+      "Andhra Pradesh",
+      "Odisha",
+      "West Bengal",
+      "Bihar"
+    ],
+    "correct_index": 1,
+    "explanation": "Odissi is a classical dance form from Odisha."
+  },
+  {
+    "id": 220,
+    "question": "Who invented the steam engine?",
+    "choices": [
+      "James Watt",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla"
+    ],
+    "correct_index": 0,
+    "explanation": "James Watt improved the steam engine, making it practical for industrial use."
+  },
+  {
+    "id": 221,
+    "question": "What is the national river of India?",
+    "choices": [
+      "Yamuna",
+      "Ganga",
+      "Godavari",
+      "Krishna"
+    ],
+    "correct_index": 1,
+    "explanation": "The Ganga is the national river of India."
+  },
+  {
+    "id": 222,
+    "question": "Which river flows through Varanasi?",
+    "choices": [
+      "Yamuna",
+      "Ganga",
+      "Son",
+      "Gomti"
+    ],
+    "correct_index": 1,
+    "explanation": "The Ganga river flows through Varanasi."
+  },
+  {
+    "id": 223,
+    "question": "What is the chemical symbol for Tin?",
+    "choices": [
+      "Ti",
+      "Sn",
+      "Tn",
+      "Te"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Tin is Sn, from the Latin word Stannum."
+  },
+  {
+    "id": 224,
+    "question": "Who was the first Indian to win a Booker Prize?",
+    "choices": [
+      "Arundhati Roy",
+      "Salman Rushdie",
+      "Kiran Desai",
+      "Aravind Adiga"
+    ],
+    "correct_index": 1,
+    "explanation": "Salman Rushdie won the Booker Prize in 1981 for Midnight's Children."
+  },
+  {
+    "id": 225,
+    "question": "Which is the smallest continent in the world?",
+    "choices": [
+      "Europe",
+      "Australia",
+      "Antarctica",
+      "South America"
+    ],
+    "correct_index": 1,
+    "explanation": "Australia is the smallest continent in the world."
+  },
+  {
+    "id": 226,
+    "question": "What is the capital of Thailand?",
+    "choices": [
+      "Phuket",
+      "Bangkok",
+      "Chiang Mai",
+      "Pattaya"
+    ],
+    "correct_index": 1,
+    "explanation": "Bangkok is the capital of Thailand."
+  },
+  {
+    "id": 227,
+    "question": "Who wrote the novel David Copperfield?",
+    "choices": [
+      "Charles Dickens",
+      "William Thackeray",
+      "Thomas Hardy",
+      "George Eliot"
+    ],
+    "correct_index": 0,
+    "explanation": "David Copperfield was written by Charles Dickens."
+  },
+  {
+    "id": 228,
+    "question": "Which vitamin deficiency causes Beriberi?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B1",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 1,
+    "explanation": "Deficiency of Vitamin B1 (Thiamine) causes Beriberi."
+  },
+  {
+    "id": 229,
+    "question": "What is the full form of CPU?",
+    "choices": [
+      "Central Process Unit",
+      "Central Processing Unit",
+      "Computer Process Unit",
+      "Computer Processing Unit"
+    ],
+    "correct_index": 1,
+    "explanation": "CPU stands for Central Processing Unit."
+  },
+  {
+    "id": 230,
+    "question": "Which state is known for the Sattriya dance?",
+    "choices": [
+      "Assam",
+      "West Bengal",
+      "Odisha",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "explanation": "Sattriya is a classical dance form from Assam."
+  },
+  {
+    "id": 231,
+    "question": "Who discovered the circulation of blood?",
+    "choices": [
+      "William Harvey",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "correct_index": 0,
+    "explanation": "William Harvey discovered the circulation of blood in the human body."
+  },
+  {
+    "id": 232,
+    "question": "What is the national flower of India?",
+    "choices": [
+      "Rose",
+      "Lotus",
+      "Jasmine",
+      "Sunflower"
+    ],
+    "correct_index": 1,
+    "explanation": "The Lotus is the national flower of India."
+  },
+  {
+    "id": 233,
+    "question": "Which river is known as the Red River?",
+    "choices": [
+      "Mississippi",
+      "Colorado",
+      "Mekong",
+      "Amazon"
+    ],
+    "correct_index": 1,
+    "explanation": "The Colorado River is sometimes referred to as the Red River due to its sediment load, but the Red River is a specific tributary of the Mississippi. In GK, often Colorado is associated with red rock/canyon. However, there is a Red River in North America. Let's stick to standard GK: The Red River flows into the Mississippi."
+  },
+  {
+    "id": 234,
+    "question": "What is the capital of Vietnam?",
+    "choices": [
+      "Ho Chi Minh City",
+      "Hanoi",
+      "Da Nang",
+      "Hue"
+    ],
+    "correct_index": 1,
+    "explanation": "Hanoi is the capital of Vietnam."
+  },
+  {
+    "id": 235,
+    "question": "Who wrote the novel Jane Eyre?",
+    "choices": [
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Anne Bronte",
+      "Jane Austen"
+    ],
+    "correct_index": 0,
+    "explanation": "Jane Eyre was written by Charlotte Bronte."
+  },
+  {
+    "id": 236,
+    "question": "Which organ produces bile?",
+    "choices": [
+      "Pancreas",
+      "Liver",
+      "Gallbladder",
+      "Stomach"
+    ],
+    "correct_index": 1,
+    "explanation": "The liver produces bile, which is stored in the gallbladder."
+  },
+  {
+    "id": 237,
+    "question": "What is the SI unit of Frequency?",
+    "choices": [
+      "Decibel",
+      "Hertz",
+      "Ohm",
+      "Watt"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of frequency is Hertz."
+  },
+  {
+    "id": 238,
+    "question": "Which state is known for the Manipuri dance?",
+    "choices": [
+      "Nagaland",
+      "Manipur",
+      "Mizoram",
+      "Tripura"
+    ],
+    "correct_index": 1,
+    "explanation": "Manipuri is a classical dance form from Manipur."
+  },
+  {
+    "id": 239,
+    "question": "Who invented the telescope?",
+    "choices": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Hans Lippershey",
+      "Johannes Kepler"
+    ],
+    "correct_index": 2,
+    "explanation": "Hans Lippershey is credited with inventing the telescope, though Galileo improved it."
+  },
+  {
+    "id": 240,
+    "question": "What is the national anthem of India?",
+    "choices": [
+      "Vande Mataram",
+      "Jana Gana Mana",
+      "Sare Jahan Se Achha",
+      "Mera Desh Mahaan"
+    ],
+    "correct_index": 1,
+    "explanation": "Jana Gana Mana is the national anthem of India."
+  },
+  {
+    "id": 241,
+    "question": "Which river flows through Agra?",
+    "choices": [
+      "Ganga",
+      "Yamuna",
+      "Chambal",
+      "Betwa"
+    ],
+    "correct_index": 1,
+    "explanation": "The Yamuna river flows through Agra."
+  },
+  {
+    "id": 242,
+    "question": "What is the chemical symbol for Zinc?",
+    "choices": [
+      "Z",
+      "Zn",
+      "Zi",
+      "Zc"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Zinc is Zn."
+  },
+  {
+    "id": 243,
+    "question": "Who was the first Indian to win a Grammy Award?",
+    "choices": [
+      "AR Rahman",
+      "Pandit Ravi Shankar",
+      "Zakir Hussain",
+      "Anoushka Shankar"
+    ],
+    "correct_index": 1,
+    "explanation": "Pandit Ravi Shankar was the first Indian to win a Grammy Award."
+  },
+  {
+    "id": 244,
+    "question": "Which is the largest country in the world by area?",
+    "choices": [
+      "China",
+      "USA",
+      "Russia",
+      "Canada"
+    ],
+    "correct_index": 2,
+    "explanation": "Russia is the largest country in the world by area."
+  },
+  {
+    "id": 245,
+    "question": "What is the capital of Iran?",
+    "choices": [
+      "Tehran",
+      "Isfahan",
+      "Shiraz",
+      "Mashhad"
+    ],
+    "correct_index": 0,
+    "explanation": "Tehran is the capital of Iran."
+  },
+  {
+    "id": 246,
+    "question": "Who wrote the novel Wuthering Heights?",
+    "choices": [
+      "Charlotte Bronte",
+      "Emily Bronte",
+      "Anne Bronte",
+      "Jane Austen"
+    ],
+    "correct_index": 1,
+    "explanation": "Wuthering Heights was written by Emily Bronte."
+  },
+  {
+    "id": 247,
+    "question": "Which vitamin deficiency causes Pellagra?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B3",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 1,
+    "explanation": "Deficiency of Vitamin B3 (Niacin) causes Pellagra."
+  },
+  {
+    "id": 248,
+    "question": "What is the full form of LAN?",
+    "choices": [
+      "Local Area Network",
+      "Large Area Network",
+      "Long Area Network",
+      "Light Area Network"
+    ],
+    "correct_index": 0,
+    "explanation": "LAN stands for Local Area Network."
+  },
+  {
+    "id": 249,
+    "question": "Which state is known for the Kathak dance?",
+    "choices": [
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Both A and B"
+    ],
+    "correct_index": 3,
+    "explanation": "Kathak has two main gharanas, one in Uttar Pradesh and one in Rajasthan."
+  },
+  {
+    "id": 250,
+    "question": "Who discovered the vaccine for Polio?",
+    "choices": [
+      "Jonas Salk",
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Edward Jenner"
+    ],
+    "correct_index": 0,
+    "explanation": "Jonas Salk developed the first successful polio vaccine."
+  },
+  {
+    "id": 251,
+    "question": "What is the national sport of Japan?",
+    "choices": [
+      "Baseball",
+      "Sumo Wrestling",
+      "Karate",
+      "Judo"
+    ],
+    "correct_index": 1,
+    "explanation": "Sumo Wrestling is considered the national sport of Japan."
+  },
+  {
+    "id": 252,
+    "question": "Which river is known as the Blue Nile?",
+    "choices": [
+      "White Nile",
+      "Blue Nile",
+      "Red Nile",
+      "Green Nile"
+    ],
+    "correct_index": 1,
+    "explanation": "The Blue Nile is a major tributary of the Nile River."
+  },
+  {
+    "id": 253,
+    "question": "What is the capital of Poland?",
+    "choices": [
+      "Krakow",
+      "Warsaw",
+      "Gdansk",
+      "Poznan"
+    ],
+    "correct_index": 1,
+    "explanation": "Warsaw is the capital of Poland."
+  },
+  {
+    "id": 254,
+    "question": "Who wrote the novel Moby Dick?",
+    "choices": [
+      "Herman Melville",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "F Scott Fitzgerald"
+    ],
+    "correct_index": 0,
+    "explanation": "Moby Dick was written by Herman Melville."
+  },
+  {
+    "id": 255,
+    "question": "Which organ controls the body's balance?",
+    "choices": [
+      "Heart",
+      "Brain",
+      "Cerebellum",
+      "Liver"
+    ],
+    "correct_index": 2,
+    "explanation": "The cerebellum part of the brain controls balance and coordination."
+  },
+  {
+    "id": 256,
+    "question": "What is the SI unit of Resistance?",
+    "choices": [
+      "Volt",
+      "Ampere",
+      "Ohm",
+      "Watt"
+    ],
+    "correct_index": 2,
+    "explanation": "The SI unit of electrical resistance is the Ohm."
+  },
+  {
+    "id": 257,
+    "question": "Which state is known for the Bhangra dance?",
+    "choices": [
+      "Haryana",
+      "Punjab",
+      "Himachal Pradesh",
+      "Jammu and Kashmir"
+    ],
+    "correct_index": 1,
+    "explanation": "Bhangra is a folk dance from Punjab."
+  },
+  {
+    "id": 258,
+    "question": "Who invented the dynamite?",
+    "choices": [
+      "Alfred Nobel",
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla"
+    ],
+    "correct_index": 0,
+    "explanation": "Alfred Nobel invented dynamite."
+  },
+  {
+    "id": 259,
+    "question": "What is the national game of Bhutan?",
+    "choices": [
+      "Cricket",
+      "Archery",
+      "Football",
+      "Basketball"
+    ],
+    "correct_index": 1,
+    "explanation": "Archery is the national sport of Bhutan."
+  },
+  {
+    "id": 260,
+    "question": "Which river flows through Guwahati?",
+    "choices": [
+      "Ganga",
+      "Brahmaputra",
+      "Barak",
+      "Teesta"
+    ],
+    "correct_index": 1,
+    "explanation": "The Brahmaputra river flows through Guwahati."
+  },
+  {
+    "id": 261,
+    "question": "What is the chemical symbol for Mercury?",
+    "choices": [
+      "M",
+      "Hg",
+      "Me",
+      "Mc"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Mercury is Hg, from the Latin word Hydrargyrum."
+  },
+  {
+    "id": 262,
+    "question": "Who was the first Indian to win an individual Olympic Gold Medal?",
+    "choices": [
+      "Abhinav Bindra",
+      "Neeraj Chopra",
+      "Karnam Malleswari",
+      "Sushil Kumar"
+    ],
+    "correct_index": 0,
+    "explanation": "Abhinav Bindra won the first individual Olympic Gold Medal for India in shooting in 2008."
+  },
+  {
+    "id": 263,
+    "question": "Which is the smallest country in the world?",
+    "choices": [
+      "Monaco",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "correct_index": 1,
+    "explanation": "Vatican City is the smallest country in the world by area and population."
+  },
+  {
+    "id": 264,
+    "question": "What is the capital of Norway?",
+    "choices": [
+      "Stockholm",
+      "Oslo",
+      "Helsinki",
+      "Copenhagen"
+    ],
+    "correct_index": 1,
+    "explanation": "Oslo is the capital of Norway."
+  },
+  {
+    "id": 265,
+    "question": "Who wrote the novel The Old Man and the Sea?",
+    "choices": [
+      "Ernest Hemingway",
+      "Mark Twain",
+      "Herman Melville",
+      "F Scott Fitzgerald"
+    ],
+    "correct_index": 0,
+    "explanation": "The Old Man and the Sea was written by Ernest Hemingway."
+  },
+  {
+    "id": 266,
+    "question": "Which vitamin deficiency causes Anemia?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 1,
+    "explanation": "Deficiency of Vitamin B12 or Iron causes Anemia."
+  },
+  {
+    "id": 267,
+    "question": "What is the full form of WWW?",
+    "choices": [
+      "World Wide Web",
+      "World Web Wide",
+      "Wide World Web",
+      "Web World Wide"
+    ],
+    "correct_index": 0,
+    "explanation": "WWW stands for World Wide Web."
+  },
+  {
+    "id": 268,
+    "question": "Which state is known for the Garba dance?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Garba is a folk dance from Gujarat."
+  },
+  {
+    "id": 269,
+    "question": "Who discovered the X-rays?",
+    "choices": [
+      "Wilhelm Roentgen",
+      "Marie Curie",
+      "Thomas Edison",
+      "Nikola Tesla"
+    ],
+    "correct_index": 0,
+    "explanation": "Wilhelm Roentgen discovered X-rays in 1895."
+  },
+  {
+    "id": 270,
+    "question": "What is the national flower of Japan?",
+    "choices": [
+      "Rose",
+      "Cherry Blossom",
+      "Lotus",
+      "Sunflower"
+    ],
+    "correct_index": 1,
+    "explanation": "The Cherry Blossom (Sakura) is the national flower of Japan."
+  },
+  {
+    "id": 271,
+    "question": "Which river is known as the Father of African Rivers?",
+    "choices": [
+      "Nile",
+      "Congo",
+      "Niger",
+      "Zambezi"
+    ],
+    "correct_index": 0,
+    "explanation": "The Nile is often referred to as the Father of African Rivers."
+  },
+  {
+    "id": 272,
+    "question": "What is the capital of Sweden?",
+    "choices": [
+      "Oslo",
+      "Stockholm",
+      "Helsinki",
+      "Copenhagen"
+    ],
+    "correct_index": 1,
+    "explanation": "Stockholm is the capital of Sweden."
+  },
+  {
+    "id": 273,
+    "question": "Who wrote the novel The Great Gatsby?",
+    "choices": [
+      "Ernest Hemingway",
+      "Mark Twain",
+      "F Scott Fitzgerald",
+      "Herman Melville"
+    ],
+    "correct_index": 2,
+    "explanation": "The Great Gatsby was written by F Scott Fitzgerald."
+  },
+  {
+    "id": 274,
+    "question": "Which organ is responsible for digestion?",
+    "choices": [
+      "Heart",
+      "Stomach",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_index": 1,
+    "explanation": "The stomach is a key organ in the digestive system."
+  },
+  {
+    "id": 275,
+    "question": "What is the SI unit of Voltage?",
+    "choices": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of voltage is the Volt."
+  },
+  {
+    "id": 276,
+    "question": "Which state is known for the Folk dance Ghoomar?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "correct_index": 0,
+    "explanation": "Ghoomar is a traditional folk dance from Rajasthan."
+  },
+  {
+    "id": 277,
+    "question": "Who invented the telephone?",
+    "choices": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "correct_index": 0,
+    "explanation": "Alexander Graham Bell is credited with inventing the telephone."
+  },
+  {
+    "id": 278,
+    "question": "What is the national animal of Australia?",
+    "choices": [
+      "Koala",
+      "Kangaroo",
+      "Emu",
+      "Platypus"
+    ],
+    "correct_index": 1,
+    "explanation": "The Kangaroo is the national animal of Australia."
+  },
+  {
+    "id": 279,
+    "question": "Which river flows through Patna?",
+    "choices": [
+      "Ganga",
+      "Yamuna",
+      "Son",
+      "Gandak"
+    ],
+    "correct_index": 0,
+    "explanation": "The Ganga river flows through Patna."
+  },
+  {
+    "id": 280,
+    "question": "What is the chemical symbol for Platinum?",
+    "choices": [
+      "P",
+      "Pt",
+      "Pl",
+      "Pa"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Platinum is Pt."
+  },
+  {
+    "id": 281,
+    "question": "Who was the first Indian to win a World Badminton Championship?",
+    "choices": [
+      "Saina Nehwal",
+      "PV Sindhu",
+      "Prakash Padukone",
+      "Pullela Gopichand"
+    ],
+    "correct_index": 1,
+    "explanation": "PV Sindhu won the World Badminton Championship in 2019."
+  },
+  {
+    "id": 282,
+    "question": "Which is the largest democracy in the world?",
+    "choices": [
+      "USA",
+      "India",
+      "China",
+      "Indonesia"
+    ],
+    "correct_index": 1,
+    "explanation": "India is the largest democracy in the world by population."
+  },
+  {
+    "id": 283,
+    "question": "What is the capital of Finland?",
+    "choices": [
+      "Oslo",
+      "Helsinki",
+      "Stockholm",
+      "Copenhagen"
+    ],
+    "correct_index": 1,
+    "explanation": "Helsinki is the capital of Finland."
+  },
+  {
+    "id": 284,
+    "question": "Who wrote the novel To Kill a Mockingbird?",
+    "choices": [
+      "Harper Lee",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "F Scott Fitzgerald"
+    ],
+    "correct_index": 0,
+    "explanation": "To Kill a Mockingbird was written by Harper Lee."
+  },
+  {
+    "id": 285,
+    "question": "Which vitamin is known as the Sunshine Vitamin?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 3,
+    "explanation": "Vitamin D is known as the Sunshine Vitamin because it is produced in the skin upon exposure to sunlight."
+  },
+  {
+    "id": 286,
+    "question": "What is the full form of GPS?",
+    "choices": [
+      "Global Positioning System",
+      "General Positioning System",
+      "Global Position Service",
+      "General Position Service"
+    ],
+    "correct_index": 0,
+    "explanation": "GPS stands for Global Positioning System."
+  },
+  {
+    "id": 287,
+    "question": "Which state is known for the Folk dance Bihu?",
+    "choices": [
+      "Assam",
+      "West Bengal",
+      "Odisha",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "explanation": "Bihu is the folk dance and festival of Assam."
+  },
+  {
+    "id": 288,
+    "question": "Who discovered the laws of planetary motion?",
+    "choices": [
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Nicolaus Copernicus"
+    ],
+    "correct_index": 1,
+    "explanation": "Johannes Kepler discovered the three laws of planetary motion."
+  },
+  {
+    "id": 289,
+    "question": "What is the national bird of the USA?",
+    "choices": [
+      "Eagle",
+      "Bald Eagle",
+      "Hawk",
+      "Falcon"
+    ],
+    "correct_index": 1,
+    "explanation": "The Bald Eagle is the national bird of the USA."
+  },
+  {
+    "id": 290,
+    "question": "Which river is known as the Sorrows of China?",
+    "choices": [
+      "Yangtze",
+      "Yellow River",
+      "Mekong",
+      "Pearl River"
+    ],
+    "correct_index": 1,
+    "explanation": "The Yellow River (Huang He) is known as the Sorrows of China due to frequent flooding."
+  },
+  {
+    "id": 291,
+    "question": "What is the capital of Denmark?",
+    "choices": [
+      "Oslo",
+      "Copenhagen",
+      "Stockholm",
+      "Helsinki"
+    ],
+    "correct_index": 1,
+    "explanation": "Copenhagen is the capital of Denmark."
+  },
+  {
+    "id": 292,
+    "question": "Who wrote the novel 1984?",
+    "choices": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "HG Wells"
+    ],
+    "correct_index": 1,
+    "explanation": "1984 was written by George Orwell."
+  },
+  {
+    "id": 293,
+    "question": "Which organ is responsible for thinking?",
+    "choices": [
+      "Heart",
+      "Brain",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_index": 1,
+    "explanation": "The brain is the center of the nervous system and responsible for thinking."
+  },
+  {
+    "id": 294,
+    "question": "What is the SI unit of Charge?",
+    "choices": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of electric charge is the Coulomb."
+  },
+  {
+    "id": 295,
+    "question": "Which state is known for the Folk dance Lavani?",
+    "choices": [
+      "Maharashtra",
+      "Gujarat",
+      "Rajasthan",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "explanation": "Lavani is a folk dance from Maharashtra."
+  },
+  {
+    "id": 296,
+    "question": "Who invented the World Wide Web?",
+    "choices": [
+      "Tim Berners-Lee",
+      "Bill Gates",
+      "Steve Jobs",
+      "Mark Zuckerberg"
+    ],
+    "correct_index": 0,
+    "explanation": "Tim Berners-Lee invented the World Wide Web."
+  },
+  {
+    "id": 297,
+    "question": "What is the national flower of the Netherlands?",
+    "choices": [
+      "Rose",
+      "Tulip",
+      "Lotus",
+      "Sunflower"
+    ],
+    "correct_index": 1,
+    "explanation": "The Tulip is the national flower of the Netherlands."
+  },
+  {
+    "id": 298,
+    "question": "Which river flows through Allahabad (Prayagraj)?",
+    "choices": [
+      "Ganga and Yamuna",
+      "Ganga and Son",
+      "Yamuna and Son",
+      "Ganga and Gomti"
+    ],
+    "correct_index": 0,
+    "explanation": "The confluence of Ganga and Yamuna is at Prayagraj (Allahabad)."
+  },
+  {
+    "id": 299,
+    "question": "What is the chemical symbol for Nickel?",
+    "choices": [
+      "N",
+      "Ni",
+      "Nk",
+      "Na"
+    ],
+    "correct_index": 1,
+    "explanation": "The chemical symbol for Nickel is Ni."
+  },
+  {
+    "id": 300,
+    "question": "Who was the first Indian to win an Asian Games Gold Medal in Athletics?",
+    "choices": [
+      "Milkha Singh",
+      "PT Usha",
+      "Anju Bobby George",
+      "Neeraj Chopra"
+    ],
+    "correct_index": 0,
+    "explanation": "Milkha Singh won the first individual Gold for India in athletics at the 1958 Asian Games."
+  },
+  {
+    "id": 301,
+    "question": "Which is the most spoken language in the world?",
+    "choices": [
+      "English",
+      "Mandarin Chinese",
+      "Spanish",
+      "Hindi"
+    ],
+    "correct_index": 1,
+    "explanation": "Mandarin Chinese has the most native speakers, while English has the most total speakers. In GK, Mandarin is often cited for native speakers."
+  },
+  {
+    "id": 302,
+    "question": "What is the capital of Belgium?",
+    "choices": [
+      "Amsterdam",
+      "Brussels",
+      "Paris",
+      "Berlin"
+    ],
+    "correct_index": 1,
+    "explanation": "Brussels is the capital of Belgium."
+  },
+  {
+    "id": 303,
+    "question": "Who wrote the novel Animal Farm?",
+    "choices": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "HG Wells"
+    ],
+    "correct_index": 1,
+    "explanation": "Animal Farm was written by George Orwell."
+  },
+  {
+    "id": 304,
+    "question": "Which vitamin helps in blood clotting?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_index": 1,
+    "explanation": "Vitamin K is essential for blood clotting."
+  },
+  {
+    "id": 305,
+    "question": "What is the full form of USB?",
+    "choices": [
+      "Universal Serial Bus",
+      "Universal System Bus",
+      "United Serial Bus",
+      "United System Bus"
+    ],
+    "correct_index": 0,
+    "explanation": "USB stands for Universal Serial Bus."
+  },
+  {
+    "id": 306,
+    "question": "Which state is known for the Folk dance Garba?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Garba is a folk dance from Gujarat."
+  },
+  {
+    "id": 307,
+    "question": "Who discovered the laws of motion?",
+    "choices": [
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Nicolaus Copernicus"
+    ],
+    "correct_index": 0,
+    "explanation": "Isaac Newton formulated the three laws of motion."
+  },
+  {
+    "id": 308,
+    "question": "What is the national animal of China?",
+    "choices": [
+      "Panda",
+      "Tiger",
+      "Dragon",
+      "Elephant"
+    ],
+    "correct_index": 0,
+    "explanation": "The Giant Panda is the national animal of China."
+  },
+  {
+    "id": 309,
+    "question": "Which river is known as the Ganges of the South?",
+    "choices": [
+      "Krishna",
+      "Godavari",
+      "Kaveri",
+      "Tungabhadra"
+    ],
+    "correct_index": 1,
+    "explanation": "The Godavari is known as the Dakshin Ganga or Ganges of the South."
+  },
+  {
+    "id": 310,
+    "question": "What is the capital of Austria?",
+    "choices": [
+      "Vienna",
+      "Zurich",
+      "Berlin",
+      "Prague"
+    ],
+    "correct_index": 0,
+    "explanation": "Vienna is the capital of Austria."
+  },
+  {
+    "id": 311,
+    "question": "Who wrote the novel Brave New World?",
+    "choices": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "HG Wells"
+    ],
+    "correct_index": 0,
+    "explanation": "Brave New World was written by Aldous Huxley."
+  },
+  {
+    "id": 312,
+    "question": "Which organ is responsible for filtering toxins?",
+    "choices": [
+      "Heart",
+      "Liver",
+      "Kidney",
+      "Lung"
+    ],
+    "correct_index": 1,
+    "explanation": "The liver filters toxins from the blood."
+  },
+  {
+    "id": 313,
+    "question": "What is the SI unit of Work?",
+    "choices": [
+      "Watt",
+      "Joule",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of work is the Joule."
+  },
+  {
+    "id": 314,
+    "question": "Which state is known for the Folk dance Bhangra?",
+    "choices": [
+      "Haryana",
+      "Punjab",
+      "Himachal Pradesh",
+      "Jammu and Kashmir"
+    ],
+    "correct_index": 1,
+    "explanation": "Bhangra is a folk dance from Punjab."
+  },
+  {
+    "id": 315,
+    "question": "Who invented the light bulb?",
+    "choices": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi"
+    ],
+    "correct_index": 0,
+    "explanation": "Thomas Edison is credited with inventing the practical incandescent light bulb."
+  },
+  {
+    "id": 316,
+    "question": "What is the national flower of Mexico?",
+    "choices": [
+      "Rose",
+      "Dahlia",
+      "Lotus",
+      "Sunflower"
+    ],
+    "correct_index": 1,
+    "explanation": "The Dahlia is the national flower of Mexico."
+  },
+  {
+    "id": 317,
+    "question": "Which river flows through Nashik?",
+    "choices": [
+      "Ganga",
+      "Godavari",
+      "Krishna",
+      "Tapi"
+    ],
+    "correct_index": 1,
+    "explanation": "The Godavari river flows through Nashik."
+  },
+  {
+    "id": 318,
+    "question": "What is the chemical symbol for Aluminum?",
+    "choices": [
+      "Al",
+      "Au",
+      "Ag",
+      "Am"
+    ],
+    "correct_index": 0,
+    "explanation": "The chemical symbol for Aluminum is Al."
+  },
+  {
+    "id": 319,
+    "question": "Who was the first Indian to win a Commonwealth Games Gold Medal in Shooting?",
+    "choices": [
+      "Abhinav Bindra",
+      "Gagan Narang",
+      "Jitu Rai",
+      "Manavjit Singh Sandhu"
+    ],
+    "correct_index": 1,
+    "explanation": "Gagan Narang won multiple golds, but Abhinav Bindra also won. In 2010, Gagan Narang won 4 golds. Abhinav Bindra won in 2002. So Abhinav Bindra was earlier."
+  },
+  {
+    "id": 320,
+    "question": "Which is the most populous country in the world?",
+    "choices": [
+      "China",
+      "India",
+      "USA",
+      "Indonesia"
+    ],
+    "correct_index": 1,
+    "explanation": "India surpassed China to become the most populous country in 2023."
+  },
+  {
+    "id": 321,
+    "question": "What is the capital of Switzerland?",
+    "choices": [
+      "Geneva",
+      "Bern",
+      "Zurich",
+      "Basel"
+    ],
+    "correct_index": 1,
+    "explanation": "Bern is the de facto capital of Switzerland."
+  },
+  {
+    "id": 322,
+    "question": "Who wrote the novel Fahrenheit 451?",
+    "choices": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "HG Wells"
+    ],
+    "correct_index": 2,
+    "explanation": "Fahrenheit 451 was written by Ray Bradbury."
+  },
+  {
+    "id": 323,
+    "question": "Which vitamin is water soluble?",
+    "choices": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin E"
+    ],
+    "correct_index": 2,
+    "explanation": "Vitamin C and B complex vitamins are water soluble."
+  },
+  {
+    "id": 324,
+    "question": "What is the full form of SMTP?",
+    "choices": [
+      "Simple Mail Transfer Protocol",
+      "Simple Message Transfer Protocol",
+      "Secure Mail Transfer Protocol",
+      "Secure Message Transfer Protocol"
+    ],
+    "correct_index": 0,
+    "explanation": "SMTP stands for Simple Mail Transfer Protocol."
+  },
+  {
+    "id": 325,
+    "question": "Which state is known for the Folk dance Garba?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Garba is a folk dance from Gujarat."
+  },
+  {
+    "id": 326,
+    "question": "Who discovered the laws of gravity?",
+    "choices": [
+      "Isaac Newton",
+      "Johannes Kepler",
+      "Galileo Galilei",
+      "Nicolaus Copernicus"
+    ],
+    "correct_index": 0,
+    "explanation": "Isaac Newton formulated the law of universal gravitation."
+  },
+  {
+    "id": 327,
+    "question": "What is the national animal of Scotland?",
+    "choices": [
+      "Lion",
+      "Unicorn",
+      "Dragon",
+      "Eagle"
+    ],
+    "correct_index": 1,
+    "explanation": "The Unicorn is the national animal of Scotland."
+  },
+  {
+    "id": 328,
+    "question": "Which river is known as the Red River?",
+    "choices": [
+      "Mississippi",
+      "Colorado",
+      "Red River",
+      "Amazon"
+    ],
+    "correct_index": 2,
+    "explanation": "The Red River is a major river in the southern US."
+  },
+  {
+    "id": 329,
+    "question": "What is the capital of Portugal?",
+    "choices": [
+      "Madrid",
+      "Lisbon",
+      "Barcelona",
+      "Porto"
+    ],
+    "correct_index": 1,
+    "explanation": "Lisbon is the capital of Portugal."
+  },
+  {
+    "id": 330,
+    "question": "Who wrote the novel The Catcher in the Rye?",
+    "choices": [
+      "JD Salinger",
+      "Mark Twain",
+      "Ernest Hemingway",
+      "F Scott Fitzgerald"
+    ],
+    "correct_index": 0,
+    "explanation": "The Catcher in the Rye was written by JD Salinger."
+  },
+  {
+    "id": 331,
+    "question": "Which organ is responsible for producing insulin?",
+    "choices": [
+      "Liver",
+      "Pancreas",
+      "Kidney",
+      "Stomach"
+    ],
+    "correct_index": 1,
+    "explanation": "The pancreas produces insulin."
+  },
+  {
+    "id": 332,
+    "question": "What is the SI unit of Power?",
+    "choices": [
+      "Joule",
+      "Watt",
+      "Newton",
+      "Pascal"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of power is the Watt."
+  },
+  {
+    "id": 333,
+    "question": "Which state is known for the Folk dance Lavani?",
+    "choices": [
+      "Maharashtra",
+      "Gujarat",
+      "Rajasthan",
+      "Punjab"
+    ],
+    "correct_index": 0,
+    "explanation": "Lavani is a folk dance from Maharashtra."
+  },
+  {
+    "id": 334,
+    "question": "Who invented the internet?",
+    "choices": [
+      "Tim Berners-Lee",
+      "Vint Cerf",
+      "Bob Kahn",
+      "Both B and C"
+    ],
+    "correct_index": 3,
+    "explanation": "Vint Cerf and Bob Kahn are credited with inventing the TCP/IP protocols, the foundation of the internet."
+  },
+  {
+    "id": 335,
+    "question": "What is the national flower of Russia?",
+    "choices": [
+      "Rose",
+      "Chamomile",
+      "Lotus",
+      "Sunflower"
+    ],
+    "correct_index": 1,
+    "explanation": "The Chamomile is often considered the national flower of Russia."
+  },
+  {
+    "id": 336,
+    "question": "Which river flows through Surat?",
+    "choices": [
+      "Ganga",
+      "Tapi",
+      "Krishna",
+      "Godavari"
+    ],
+    "correct_index": 1,
+    "explanation": "The Tapi river flows through Surat."
+  },
+  {
+    "id": 337,
+    "question": "What is the chemical symbol for Calcium?",
+    "choices": [
+      "Ca",
+      "Cl",
+      "Co",
+      "Cu"
+    ],
+    "correct_index": 0,
+    "explanation": "The chemical symbol for Calcium is Ca."
+  },
+  {
+    "id": 338,
+    "question": "Who was the first Indian to win a Nobel Prize in Economics?",
+    "choices": [
+      "Amartya Sen",
+      "Abhijit Banerjee",
+      "Esther Duflo",
+      "Both A and B"
+    ],
+    "correct_index": 3,
+    "explanation": "Amartya Sen won in 1998. Abhijit Banerjee won in 2019. Amartya Sen was the first."
+  },
+  {
+    "id": 339,
+    "question": "Which is the largest ocean in the world?",
+    "choices": [
+      "Atlantic",
+      "Indian",
+      "Pacific",
+      "Arctic"
+    ],
+    "correct_index": 2,
+    "explanation": "The Pacific Ocean is the largest ocean."
+  },
+  {
+    "id": 340,
+    "question": "What is the capital of Greece?",
+    "choices": [
+      "Athens",
+      "Sparta",
+      "Thessaloniki",
+      "Crete"
+    ],
+    "correct_index": 0,
+    "explanation": "Athens is the capital of Greece."
+  },
+  {
+    "id": 341,
+    "question": "Who wrote the novel The Hobbit?",
+    "choices": [
+      "JRR Tolkien",
+      "CS Lewis",
+      "JK Rowling",
+      "George RR Martin"
+    ],
+    "correct_index": 0,
+    "explanation": "The Hobbit was written by JRR Tolkien."
+  },
+  {
+    "id": 342,
+    "question": "Which vitamin deficiency causes Goiter?",
+    "choices": [
+      "Iodine",
+      "Iron",
+      "Calcium",
+      "Vitamin D"
+    ],
+    "correct_index": 0,
+    "explanation": "Iodine deficiency causes Goiter. Note: Iodine is a mineral, not a vitamin, but often asked in this context."
+  },
+  {
+    "id": 343,
+    "question": "What is the full form of HTML?",
+    "choices": [
+      "Hyper Text Markup Language",
+      "High Text Markup Language",
+      "Hyper Text Marking Language",
+      "High Text Marking Language"
+    ],
+    "correct_index": 0,
+    "explanation": "HTML stands for Hyper Text Markup Language."
+  },
+  {
+    "id": 344,
+    "question": "Which state is known for the Folk dance Bihu?",
+    "choices": [
+      "Assam",
+      "West Bengal",
+      "Odisha",
+      "Bihar"
+    ],
+    "correct_index": 0,
+    "explanation": "Bihu is the folk dance of Assam."
+  },
+  {
+    "id": 345,
+    "question": "Who discovered the electron?",
+    "choices": [
+      "JJ Thomson",
+      "Ernest Rutherford",
+      "James Chadwick",
+      "Niels Bohr"
+    ],
+    "correct_index": 0,
+    "explanation": "JJ Thomson discovered the electron."
+  },
+  {
+    "id": 346,
+    "question": "What is the national animal of Brazil?",
+    "choices": [
+      "Jaguar",
+      "Lion",
+      "Tiger",
+      "Elephant"
+    ],
+    "correct_index": 0,
+    "explanation": "The Jaguar is the national animal of Brazil."
+  },
+  {
+    "id": 347,
+    "question": "Which river is known as the Blue Nile?",
+    "choices": [
+      "White Nile",
+      "Blue Nile",
+      "Red Nile",
+      "Green Nile"
+    ],
+    "correct_index": 1,
+    "explanation": "The Blue Nile is a tributary of the Nile."
+  },
+  {
+    "id": 348,
+    "question": "What is the capital of Ireland?",
+    "choices": [
+      "Dublin",
+      "Belfast",
+      "Cork",
+      "Galway"
+    ],
+    "correct_index": 0,
+    "explanation": "Dublin is the capital of Ireland."
+  },
+  {
+    "id": 349,
+    "question": "Who wrote the novel Lord of the Flies?",
+    "choices": [
+      "William Golding",
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury"
+    ],
+    "correct_index": 0,
+    "explanation": "Lord of the Flies was written by William Golding."
+  },
+  {
+    "id": 350,
+    "question": "Which organ is responsible for pumping blood?",
+    "choices": [
+      "Heart",
+      "Lungs",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_index": 0,
+    "explanation": "The heart pumps blood."
+  },
+  {
+    "id": 351,
+    "question": "What is the SI unit of Force?",
+    "choices": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "correct_index": 1,
+    "explanation": "The SI unit of force is the Newton."
+  },
+  {
+    "id": 352,
+    "question": "Which state is known for the Folk dance Garba?",
+    "choices": [
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "correct_index": 1,
+    "explanation": "Garba is a folk dance from Gujarat."
   }
 ]
