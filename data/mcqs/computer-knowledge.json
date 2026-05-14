@@ -610,5 +610,1205 @@
     ],
     "correct_index": 1,
     "explanation": "CPU speed is measured in Hertz."
+  },
+  {
+    "id": 52,
+    "question": "What is the brain of the computer?",
+    "choices": [
+      "Monitor",
+      "CPU",
+      "Keyboard",
+      "Mouse"
+    ],
+    "correct_index": 1,
+    "explanation": "The Central Processing Unit (CPU) is considered the brain of the computer as it processes instructions."
+  },
+  {
+    "id": 53,
+    "question": "What does RAM stand for?",
+    "choices": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Read Only Memory",
+      "Random Only Memory"
+    ],
+    "correct_index": 1,
+    "explanation": "RAM stands for Random Access Memory, which is volatile memory used for temporary storage."
+  },
+  {
+    "id": 54,
+    "question": "Which of the following is an input device?",
+    "choices": [
+      "Printer",
+      "Monitor",
+      "Scanner",
+      "Speaker"
+    ],
+    "correct_index": 2,
+    "explanation": "A scanner is an input device that converts physical documents into digital format."
+  },
+  {
+    "id": 55,
+    "question": "What is the full form of URL?",
+    "choices": [
+      "Uniform Resource Locator",
+      "Universal Resource Locator",
+      "Uniform Reference Link",
+      "Universal Reference Link"
+    ],
+    "correct_index": 0,
+    "explanation": "URL stands for Uniform Resource Locator, which is the address of a resource on the internet."
+  },
+  {
+    "id": 56,
+    "question": "Who is known as the father of the computer?",
+    "choices": [
+      "Alan Turing",
+      "Charles Babbage",
+      "Bill Gates",
+      "Steve Jobs"
+    ],
+    "correct_index": 1,
+    "explanation": "Charles Babbage is known as the father of the computer for designing the Analytical Engine."
+  },
+  {
+    "id": 57,
+    "question": "What is the smallest unit of data in a computer?",
+    "choices": [
+      "Byte",
+      "Bit",
+      "Kilobyte",
+      "Nibble"
+    ],
+    "correct_index": 1,
+    "explanation": "A bit (binary digit) is the smallest unit of data, representing a 0 or 1."
+  },
+  {
+    "id": 58,
+    "question": "How many bits make one byte?",
+    "choices": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correct_index": 1,
+    "explanation": "One byte consists of 8 bits."
+  },
+  {
+    "id": 59,
+    "question": "Which memory is non-volatile?",
+    "choices": [
+      "RAM",
+      "ROM",
+      "Cache",
+      "Register"
+    ],
+    "correct_index": 1,
+    "explanation": "ROM (Read Only Memory) is non-volatile, meaning it retains data even when power is off."
+  },
+  {
+    "id": 60,
+    "question": "What does HTTP stand for?",
+    "choices": [
+      "Hyper Text Transfer Protocol",
+      "High Text Transfer Protocol",
+      "Hyper Text Transmission Protocol",
+      "High Text Transmission Protocol"
+    ],
+    "correct_index": 0,
+    "explanation": "HTTP stands for Hyper Text Transfer Protocol, used for transmitting web pages."
+  },
+  {
+    "id": 61,
+    "question": "Which key is used to refresh a webpage?",
+    "choices": [
+      "F1",
+      "F5",
+      "F10",
+      "F12"
+    ],
+    "correct_index": 1,
+    "explanation": "The F5 key is commonly used to refresh or reload a webpage in browsers."
+  },
+  {
+    "id": 62,
+    "question": "What is the extension of a Microsoft Word file?",
+    "choices": [
+      ".xls",
+      ".ppt",
+      ".docx",
+      ".txt"
+    ],
+    "correct_index": 2,
+    "explanation": "The default file extension for Microsoft Word documents is .docx."
+  },
+  {
+    "id": 63,
+    "question": "What does GUI stand for?",
+    "choices": [
+      "Graphical User Interface",
+      "General User Interface",
+      "Graphical User Interaction",
+      "General User Interaction"
+    ],
+    "correct_index": 0,
+    "explanation": "GUI stands for Graphical User Interface, allowing users to interact with electronic devices using graphical icons."
+  },
+  {
+    "id": 64,
+    "question": "Which of the following is an operating system?",
+    "choices": [
+      "Oracle",
+      "Linux",
+      "Java",
+      "Python"
+    ],
+    "correct_index": 1,
+    "explanation": "Linux is an open-source operating system. Oracle is a database, Java and Python are programming languages."
+  },
+  {
+    "id": 65,
+    "question": "What is the shortcut key for Copy?",
+    "choices": [
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + C",
+      "Ctrl + P"
+    ],
+    "correct_index": 2,
+    "explanation": "Ctrl + C is the universal shortcut key for copying selected items."
+  },
+  {
+    "id": 66,
+    "question": "What does WWW stand for?",
+    "choices": [
+      "World Wide Web",
+      "World Web Wide",
+      "Wide World Web",
+      "Web World Wide"
+    ],
+    "correct_index": 0,
+    "explanation": "WWW stands for World Wide Web, a system of interlinked hypertext documents accessed via the internet."
+  },
+  {
+    "id": 67,
+    "question": "Which device is used to connect multiple computers in a network?",
+    "choices": [
+      "Modem",
+      "Router",
+      "Switch",
+      "All of these"
+    ],
+    "correct_index": 3,
+    "explanation": "Modems, routers, and switches are all networking devices used to connect computers."
+  },
+  {
+    "id": 68,
+    "question": "What is the full form of PDF?",
+    "choices": [
+      "Portable Document Format",
+      "Public Document Format",
+      "Private Document Format",
+      "Printed Document Format"
+    ],
+    "correct_index": 0,
+    "explanation": "PDF stands for Portable Document Format, used to present documents independent of software and hardware."
+  },
+  {
+    "id": 69,
+    "question": "Which generation of computers used vacuum tubes?",
+    "choices": [
+      "First Generation",
+      "Second Generation",
+      "Third Generation",
+      "Fourth Generation"
+    ],
+    "correct_index": 0,
+    "explanation": "First-generation computers (1940-1956) used vacuum tubes for circuitry."
+  },
+  {
+    "id": 70,
+    "question": "What is the main function of an ALU?",
+    "choices": [
+      "Store data",
+      "Control input/output",
+      "Perform arithmetic and logical operations",
+      "Manage memory"
+    ],
+    "correct_index": 2,
+    "explanation": "The Arithmetic Logic Unit (ALU) performs arithmetic and logical operations within the CPU."
+  },
+  {
+    "id": 71,
+    "question": "What does LAN stand for?",
+    "choices": [
+      "Local Area Network",
+      "Large Area Network",
+      "Long Area Network",
+      "Light Area Network"
+    ],
+    "correct_index": 0,
+    "explanation": "LAN stands for Local Area Network, connecting computers within a limited area."
+  },
+  {
+    "id": 72,
+    "question": "Which of the following is a search engine?",
+    "choices": [
+      "Windows",
+      "Google",
+      "Android",
+      "Linux"
+    ],
+    "correct_index": 1,
+    "explanation": "Google is a widely used search engine for finding information on the internet."
+  },
+  {
+    "id": 73,
+    "question": "What is the shortcut key for Paste?",
+    "choices": [
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + X",
+      "Ctrl + Z"
+    ],
+    "correct_index": 1,
+    "explanation": "Ctrl + V is the universal shortcut key for pasting copied or cut items."
+  },
+  {
+    "id": 74,
+    "question": "What does SMTP stand for?",
+    "choices": [
+      "Simple Mail Transfer Protocol",
+      "Simple Message Transfer Protocol",
+      "Secure Mail Transfer Protocol",
+      "Secure Message Transfer Protocol"
+    ],
+    "correct_index": 0,
+    "explanation": "SMTP stands for Simple Mail Transfer Protocol, used for sending emails."
+  },
+  {
+    "id": 75,
+    "question": "Which of the following is not a programming language?",
+    "choices": [
+      "C++",
+      "Java",
+      "HTML",
+      "Python"
+    ],
+    "correct_index": 2,
+    "explanation": "HTML is a markup language, not a programming language. C++, Java, and Python are programming languages."
+  },
+  {
+    "id": 76,
+    "question": "What is the full form of USB?",
+    "choices": [
+      "Universal Serial Bus",
+      "Universal System Bus",
+      "United Serial Bus",
+      "United System Bus"
+    ],
+    "correct_index": 0,
+    "explanation": "USB stands for Universal Serial Bus, a standard for connecting peripherals to computers."
+  },
+  {
+    "id": 77,
+    "question": "Which key combination is used to lock a Windows computer?",
+    "choices": [
+      "Windows + L",
+      "Windows + D",
+      "Windows + E",
+      "Windows + R"
+    ],
+    "correct_index": 0,
+    "explanation": "Windows + L locks the computer screen immediately."
+  },
+  {
+    "id": 78,
+    "question": "What is the brain of a computer network?",
+    "choices": [
+      "Server",
+      "Client",
+      "Hub",
+      "Switch"
+    ],
+    "correct_index": 0,
+    "explanation": "A server provides resources and services to other computers (clients) in a network."
+  },
+  {
+    "id": 79,
+    "question": "What does IP stand for in IP Address?",
+    "choices": [
+      "Internet Protocol",
+      "Internal Protocol",
+      "International Protocol",
+      "Interconnected Protocol"
+    ],
+    "correct_index": 0,
+    "explanation": "IP stands for Internet Protocol, which governs how data is sent over the internet."
+  },
+  {
+    "id": 80,
+    "question": "Which of the following is a database management system?",
+    "choices": [
+      "MS Excel",
+      "Oracle",
+      "MS PowerPoint",
+      "Photoshop"
+    ],
+    "correct_index": 1,
+    "explanation": "Oracle is a popular relational database management system (RDBMS)."
+  },
+  {
+    "id": 81,
+    "question": "What is the shortcut key for Undo?",
+    "choices": [
+      "Ctrl + Y",
+      "Ctrl + Z",
+      "Ctrl + U",
+      "Ctrl + X"
+    ],
+    "correct_index": 1,
+    "explanation": "Ctrl + Z is used to undo the last action."
+  },
+  {
+    "id": 82,
+    "question": "What does FTP stand for?",
+    "choices": [
+      "File Transfer Protocol",
+      "File Transmission Protocol",
+      "Fast Transfer Protocol",
+      "Fast Transmission Protocol"
+    ],
+    "correct_index": 0,
+    "explanation": "FTP stands for File Transfer Protocol, used for transferring files between computers."
+  },
+  {
+    "id": 83,
+    "question": "Which of the following is an example of system software?",
+    "choices": [
+      "MS Word",
+      "Windows 10",
+      "Chrome",
+      "Photoshop"
+    ],
+    "correct_index": 1,
+    "explanation": "Windows 10 is an operating system, which is a type of system software. MS Word, Chrome, and Photoshop are application software."
+  },
+  {
+    "id": 84,
+    "question": "What is the full form of BIOS?",
+    "choices": [
+      "Basic Input Output System",
+      "Binary Input Output System",
+      "Basic Internal Output System",
+      "Binary Internal Output System"
+    ],
+    "correct_index": 0,
+    "explanation": "BIOS stands for Basic Input Output System, firmware used to perform hardware initialization during booting."
+  },
+  {
+    "id": 85,
+    "question": "Which of the following is a web browser?",
+    "choices": [
+      "Google",
+      "Firefox",
+      "Yahoo",
+      "Bing"
+    ],
+    "correct_index": 1,
+    "explanation": "Firefox is a web browser. Google, Yahoo, and Bing are search engines."
+  },
+  {
+    "id": 86,
+    "question": "What is the shortcut key for Print?",
+    "choices": [
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + O",
+      "Ctrl + N"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl + P opens the print dialog box."
+  },
+  {
+    "id": 87,
+    "question": "What does DNS stand for?",
+    "choices": [
+      "Domain Name System",
+      "Data Name System",
+      "Domain Network System",
+      "Data Network System"
+    ],
+    "correct_index": 0,
+    "explanation": "DNS stands for Domain Name System, which translates domain names into IP addresses."
+  },
+  {
+    "id": 88,
+    "question": "Which of the following is a secondary storage device?",
+    "choices": [
+      "RAM",
+      "Hard Disk Drive",
+      "Cache",
+      "Register"
+    ],
+    "correct_index": 1,
+    "explanation": "A Hard Disk Drive (HDD) is a secondary storage device used for long-term data storage. RAM, Cache, and Registers are primary or temporary storage."
+  },
+  {
+    "id": 89,
+    "question": "What is the full form of SQL?",
+    "choices": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "Structured Question Language"
+    ],
+    "correct_index": 0,
+    "explanation": "SQL stands for Structured Query Language, used for managing relational databases."
+  },
+  {
+    "id": 90,
+    "question": "Which key is used to delete a character to the left of the cursor?",
+    "choices": [
+      "Delete",
+      "Backspace",
+      "Enter",
+      "Space"
+    ],
+    "correct_index": 1,
+    "explanation": "The Backspace key deletes characters to the left of the cursor."
+  },
+  {
+    "id": 91,
+    "question": "What does Wi-Fi stand for?",
+    "choices": [
+      "Wireless Fidelity",
+      "Wired Fidelity",
+      "Wireless Field",
+      "Wired Field"
+    ],
+    "correct_index": 0,
+    "explanation": "Wi-Fi stands for Wireless Fidelity, a technology for wireless local area networking."
+  },
+  {
+    "id": 92,
+    "question": "Which of the following is an output device?",
+    "choices": [
+      "Keyboard",
+      "Mouse",
+      "Printer",
+      "Scanner"
+    ],
+    "correct_index": 2,
+    "explanation": "A printer is an output device that produces hard copies of digital documents."
+  },
+  {
+    "id": 93,
+    "question": "What is the shortcut key for Save?",
+    "choices": [
+      "Ctrl + S",
+      "Ctrl + A",
+      "Ctrl + D",
+      "Ctrl + F"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl + S is the universal shortcut key for saving a file."
+  },
+  {
+    "id": 94,
+    "question": "What does ISP stand for?",
+    "choices": [
+      "Internet Service Provider",
+      "Internal Service Provider",
+      "International Service Provider",
+      "Internet Security Provider"
+    ],
+    "correct_index": 0,
+    "explanation": "ISP stands for Internet Service Provider, a company that provides access to the internet."
+  },
+  {
+    "id": 95,
+    "question": "Which of the following is a social media platform?",
+    "choices": [
+      "Google",
+      "Facebook",
+      "Amazon",
+      "eBay"
+    ],
+    "correct_index": 1,
+    "explanation": "Facebook is a social media platform. Google is a search engine, Amazon and eBay are e-commerce platforms."
+  },
+  {
+    "id": 96,
+    "question": "What is the full form of HTML?",
+    "choices": [
+      "Hyper Text Markup Language",
+      "High Text Markup Language",
+      "Hyper Text Marking Language",
+      "High Text Marking Language"
+    ],
+    "correct_index": 0,
+    "explanation": "HTML stands for Hyper Text Markup Language, the standard markup language for creating web pages."
+  },
+  {
+    "id": 97,
+    "question": "Which of the following is a virus?",
+    "choices": [
+      "Trojan Horse",
+      "Firewall",
+      "Antivirus",
+      "Browser"
+    ],
+    "correct_index": 0,
+    "explanation": "A Trojan Horse is a type of malicious software (malware) that disguises itself as legitimate software."
+  },
+  {
+    "id": 98,
+    "question": "What is the shortcut key for Select All?",
+    "choices": [
+      "Ctrl + A",
+      "Ctrl + S",
+      "Ctrl + X",
+      "Ctrl + V"
+    ],
+    "correct_index": 0,
+    "explanation": "Ctrl + A selects all items or text in a document or window."
+  },
+  {
+    "id": 99,
+    "question": "What does VoIP stand for?",
+    "choices": [
+      "Voice over Internet Protocol",
+      "Video over Internet Protocol",
+      "Voice on Internet Protocol",
+      "Video on Internet Protocol"
+    ],
+    "correct_index": 0,
+    "explanation": "VoIP stands for Voice over Internet Protocol, technology for voice calls over the internet."
+  },
+  {
+    "id": 100,
+    "question": "Which of the following is a cloud storage service?",
+    "choices": [
+      "Google Drive",
+      "MS Paint",
+      "Notepad",
+      "Calculator"
+    ],
+    "correct_index": 0,
+    "explanation": "Google Drive is a cloud storage service. MS Paint, Notepad, and Calculator are local applications."
+  },
+  {
+    "id": 101,
+    "question": "What is the full form of JPEG?",
+    "choices": [
+      "Joint Photographic Experts Group",
+      "Joint Picture Experts Group",
+      "Joint Photographic Encoding Group",
+      "Joint Picture Encoding Group"
+    ],
+    "correct_index": 0,
+    "explanation": "JPEG stands for Joint Photographic Experts Group, a common image file format."
+  },
+  {
+    "id": 102,
+    "question": "What is the size of an IPv6 address?",
+    "choices": [
+      "32 bits",
+      "64 bits",
+      "128 bits",
+      "256 bits"
+    ],
+    "correct_index": 2,
+    "explanation": "IPv6 addresses are 128 bits long, represented in hexadecimal format, whereas IPv4 addresses are 32 bits."
+  },
+  {
+    "id": 103,
+    "question": "Which layer of the OSI model is responsible for routing and logical addressing?",
+    "choices": [
+      "Data Link Layer",
+      "Network Layer",
+      "Transport Layer",
+      "Session Layer"
+    ],
+    "correct_index": 1,
+    "explanation": "The Network Layer (Layer 3) handles logical addressing (IP addresses) and routing of packets across networks."
+  },
+  {
+    "id": 104,
+    "question": "What is the default port number for HTTPS?",
+    "choices": [
+      "80",
+      "443",
+      "21",
+      "25"
+    ],
+    "correct_index": 1,
+    "explanation": "HTTPS uses port 443 by default. HTTP uses port 80, FTP uses 21, and SMTP uses 25."
+  },
+  {
+    "id": 105,
+    "question": "In computer memory, what does 'volatile' mean?",
+    "choices": [
+      "Data is retained without power",
+      "Data is lost when power is turned off",
+      "Data cannot be modified",
+      "Data is stored permanently"
+    ],
+    "correct_index": 1,
+    "explanation": "Volatile memory, such as RAM, requires power to maintain the stored information. If power is lost, the data is erased."
+  },
+  {
+    "id": 106,
+    "question": "Which normal form eliminates transitive dependency?",
+    "choices": [
+      "1NF",
+      "2NF",
+      "3NF",
+      "BCNF"
+    ],
+    "correct_index": 2,
+    "explanation": "Third Normal Form (3NF) ensures that there are no transitive dependencies, meaning non-prime attributes depend only on the primary key."
+  },
+  {
+    "id": 107,
+    "question": "What is the function of the Control Unit in the CPU?",
+    "choices": [
+      "Performs arithmetic operations",
+      "Stores data temporarily",
+      "Directs the operation of the processor",
+      "Connects to external devices"
+    ],
+    "correct_index": 2,
+    "explanation": "The Control Unit (CU) directs the flow of data within the CPU and coordinates the activities of the ALU, memory, and I/O devices."
+  },
+  {
+    "id": 108,
+    "question": "Which protocol is used to resolve IP addresses to MAC addresses?",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "ARP",
+      "RARP"
+    ],
+    "correct_index": 2,
+    "explanation": "ARP (Address Resolution Protocol) maps an IP address to a physical machine address (MAC address) on a local network."
+  },
+  {
+    "id": 109,
+    "question": "What is the time complexity of binary search in a sorted array?",
+    "choices": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "correct_index": 1,
+    "explanation": "Binary search divides the search interval in half with each step, resulting in a logarithmic time complexity of O(log n)."
+  },
+  {
+    "id": 110,
+    "question": "Which of the following is NOT a type of cloud service model?",
+    "choices": [
+      "IaaS",
+      "PaaS",
+      "SaaS",
+      "DaaS"
+    ],
+    "correct_index": 3,
+    "explanation": "The three main cloud service models are IaaS (Infrastructure as a Service), PaaS (Platform as a Service), and SaaS (Software as a Service). DaaS is not a standard primary model."
+  },
+  {
+    "id": 111,
+    "question": "What is the purpose of a deadlock in operating systems?",
+    "choices": [
+      "To speed up processing",
+      "A situation where processes are blocked waiting for each other",
+      "To secure data",
+      "To manage memory efficiently"
+    ],
+    "correct_index": 1,
+    "explanation": "A deadlock occurs when a set of processes are blocked because each process is holding a resource and waiting for another resource acquired by some other process."
+  },
+  {
+    "id": 112,
+    "question": "Which data structure uses LIFO (Last In First Out) principle?",
+    "choices": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Tree"
+    ],
+    "correct_index": 1,
+    "explanation": "A Stack follows the LIFO principle, where the last element added is the first one to be removed. Queues follow FIFO."
+  },
+  {
+    "id": 113,
+    "question": "What is the full form of RAID in storage systems?",
+    "choices": [
+      "Redundant Array of Independent Disks",
+      "Rapid Access of Integrated Disks",
+      "Redundant Access of Internal Disks",
+      "Rapid Array of Independent Disks"
+    ],
+    "correct_index": 0,
+    "explanation": "RAID stands for Redundant Array of Independent Disks, used to combine multiple physical disk drives into one or more logical units for data redundancy or performance improvement."
+  },
+  {
+    "id": 114,
+    "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+    "choices": [
+      "Merge Sort",
+      "Heap Sort",
+      "Quick Sort",
+      "Bubble Sort"
+    ],
+    "correct_index": 3,
+    "explanation": "Bubble Sort has a worst-case and average time complexity of O(n^2). Merge Sort and Heap Sort are O(n log n). Quick Sort is O(n^2) in worst case but O(n log n) on average."
+  },
+  {
+    "id": 115,
+    "question": "What is the role of a Compiler?",
+    "choices": [
+      "Executes code line by line",
+      "Converts high-level language to machine code all at once",
+      "Debugs the program",
+      "Manages memory allocation"
+    ],
+    "correct_index": 1,
+    "explanation": "A compiler translates the entire source code written in a high-level language into machine code (object code) in one go, unlike an interpreter which executes line by line."
+  },
+  {
+    "id": 116,
+    "question": "Which IEEE standard defines Wi-Fi?",
+    "choices": [
+      "802.3",
+      "802.5",
+      "802.11",
+      "802.15"
+    ],
+    "correct_index": 2,
+    "explanation": "IEEE 802.11 is the set of standards that define communication for wireless local area networks (WLANs), commonly known as Wi-Fi. 802.3 is Ethernet."
+  },
+  {
+    "id": 117,
+    "question": "What is a 'Thunk' in computer science?",
+    "choices": [
+      "A type of virus",
+      "A subroutine used to inject a calculation into another subroutine",
+      "A hardware component",
+      "A database query"
+    ],
+    "correct_index": 1,
+    "explanation": "A thunk is a subroutine that is created, often automatically, to assist a call to another subroutine. It is often used to delay a calculation until its result is needed."
+  },
+  {
+    "id": 118,
+    "question": "In DBMS, what is a 'Candidate Key'?",
+    "choices": [
+      "A key that uniquely identifies a record",
+      "A primary key",
+      "A foreign key",
+      "A composite key"
+    ],
+    "correct_index": 0,
+    "explanation": "A candidate key is a minimal superkey, meaning it is a set of attributes that can uniquely identify a tuple in a relation, and no proper subset of it can do so. One candidate key is chosen as the Primary Key."
+  },
+  {
+    "id": 119,
+    "question": "Which logic gate outputs true only if both inputs are different?",
+    "choices": [
+      "AND",
+      "OR",
+      "XOR",
+      "NAND"
+    ],
+    "correct_index": 2,
+    "explanation": "The XOR (Exclusive OR) gate outputs true (1) only when the inputs are different (one is 0 and the other is 1)."
+  },
+  {
+    "id": 120,
+    "question": "What is the maximum data transfer rate of USB 3.0?",
+    "choices": [
+      "480 Mbps",
+      "5 Gbps",
+      "10 Gbps",
+      "20 Gbps"
+    ],
+    "correct_index": 1,
+    "explanation": "USB 3.0 (SuperSpeed) supports a maximum data transfer rate of 5 Gbps. USB 2.0 is 480 Mbps."
+  },
+  {
+    "id": 121,
+    "question": "What is 'Spooling' in operating systems?",
+    "choices": [
+      "Simultaneous Peripheral Operation On-Line",
+      "Simple Process Output Line",
+      "System Power On Line",
+      "Serial Port Operation Logic"
+    ],
+    "correct_index": 0,
+    "explanation": "Spooling stands for Simultaneous Peripheral Operation On-Line. It is a process where data is temporarily held to be used and executed by a device, program, or system."
+  },
+  {
+    "id": 122,
+    "question": "Which of the following is a lossy compression format?",
+    "choices": [
+      "PNG",
+      "GIF",
+      "JPEG",
+      "BMP"
+    ],
+    "correct_index": 2,
+    "explanation": "JPEG uses lossy compression, meaning some data is lost to reduce file size. PNG, GIF, and BMP are generally lossless (though GIF has limited colors)."
+  },
+  {
+    "id": 123,
+    "question": "What is the purpose of the 'Handshake' protocol in networking?",
+    "choices": [
+      "To encrypt data",
+      "To establish a connection between two devices",
+      "To terminate a session",
+      "To route packets"
+    ],
+    "correct_index": 1,
+    "explanation": "A handshake is an automated process that negotiates the parameters of a connection between two devices before normal communication begins (e.g., TCP 3-way handshake)."
+  },
+  {
+    "id": 124,
+    "question": "In Python, which data type is immutable?",
+    "choices": [
+      "List",
+      "Dictionary",
+      "Tuple",
+      "Set"
+    ],
+    "correct_index": 2,
+    "explanation": "Tuples are immutable, meaning their elements cannot be changed after creation. Lists, dictionaries, and sets are mutable."
+  },
+  {
+    "id": 125,
+    "question": "What is the function of the 'Arithmetic Logic Unit' (ALU)?",
+    "choices": [
+      "Controls input/output",
+      "Performs arithmetic and logical operations",
+      "Stores instructions",
+      "Decodes instructions"
+    ],
+    "correct_index": 1,
+    "explanation": "The ALU is a digital circuit within the CPU that performs integer arithmetic and bitwise logic operations."
+  },
+  {
+    "id": 126,
+    "question": "Which of the following is a NoSQL database?",
+    "choices": [
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Oracle"
+    ],
+    "correct_index": 2,
+    "explanation": "MongoDB is a NoSQL (Not Only SQL) document-oriented database. MySQL, PostgreSQL, and Oracle are relational (SQL) databases."
+  },
+  {
+    "id": 127,
+    "question": "What is the default subnet mask for a Class C IP address?",
+    "choices": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "correct_index": 2,
+    "explanation": "Class C networks use a default subnet mask of 255.255.255.0, allowing for 254 hosts per network."
+  },
+  {
+    "id": 128,
+    "question": "What is 'Thrashing' in operating systems?",
+    "choices": [
+      "High CPU utilization",
+      "Excessive paging causing low performance",
+      "Disk fragmentation",
+      "Memory leak"
+    ],
+    "correct_index": 1,
+    "explanation": "Thrashing occurs when the operating system spends more time swapping pages in and out of memory than executing processes, leading to severe performance degradation."
+  },
+  {
+    "id": 129,
+    "question": "Which protocol is used for secure shell access?",
+    "choices": [
+      "Telnet",
+      "FTP",
+      "SSH",
+      "HTTP"
+    ],
+    "correct_index": 2,
+    "explanation": "SSH (Secure Shell) is a cryptographic network protocol for operating network services securely over an unsecured network. Telnet is insecure."
+  },
+  {
+    "id": 130,
+    "question": "What is the size of a 'Nibble'?",
+    "choices": [
+      "4 bits",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "correct_index": 0,
+    "explanation": "A nibble consists of 4 bits. Two nibbles make one byte (8 bits)."
+  },
+  {
+    "id": 131,
+    "question": "In Java, which keyword is used to inherit a class?",
+    "choices": [
+      "implements",
+      "extends",
+      "inherits",
+      "using"
+    ],
+    "correct_index": 1,
+    "explanation": "In Java, the 'extends' keyword is used to create a subclass that inherits properties and methods from a superclass."
+  },
+  {
+    "id": 132,
+    "question": "What is the primary function of a 'Firewall'?",
+    "choices": [
+      "To speed up internet",
+      "To monitor and control incoming and outgoing network traffic",
+      "To store data",
+      "To encrypt emails"
+    ],
+    "correct_index": 1,
+    "explanation": "A firewall is a network security device that monitors and filters incoming and outgoing network traffic based on an organization's previously established security policies."
+  },
+  {
+    "id": 133,
+    "question": "Which data structure is best suited for implementing a priority queue?",
+    "choices": [
+      "Array",
+      "Linked List",
+      "Heap",
+      "Stack"
+    ],
+    "correct_index": 2,
+    "explanation": "A Heap (specifically a Binary Heap) is the most efficient data structure for implementing a priority queue, allowing O(log n) insertion and deletion."
+  },
+  {
+    "id": 134,
+    "question": "What does 'ACID' stand for in database transactions?",
+    "choices": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Accuracy, Consistency, Integrity, Durability",
+      "Atomicity, Clarity, Isolation, Data",
+      "Access, Consistency, Isolation, Durability"
+    ],
+    "correct_index": 0,
+    "explanation": "ACID properties ensure reliable processing of database transactions: Atomicity, Consistency, Isolation, and Durability."
+  },
+  {
+    "id": 135,
+    "question": "Which of the following is a symmetric key encryption algorithm?",
+    "choices": [
+      "RSA",
+      "AES",
+      "ECC",
+      "Diffie-Hellman"
+    ],
+    "correct_index": 1,
+    "explanation": "AES (Advanced Encryption Standard) is a symmetric key algorithm, meaning the same key is used for encryption and decryption. RSA and ECC are asymmetric."
+  },
+  {
+    "id": 136,
+    "question": "What is the purpose of a 'Cache Memory'?",
+    "choices": [
+      "To store large files",
+      "To bridge the speed gap between CPU and RAM",
+      "To store permanent data",
+      "To backup data"
+    ],
+    "correct_index": 1,
+    "explanation": "Cache memory is a small, fast memory located close to the CPU that stores frequently accessed data to reduce the time needed to access data from the main memory (RAM)."
+  },
+  {
+    "id": 137,
+    "question": "In C programming, what is the size of an 'int' data type on a 32-bit system?",
+    "choices": [
+      "2 bytes",
+      "4 bytes",
+      "8 bytes",
+      "1 byte"
+    ],
+    "correct_index": 1,
+    "explanation": "On most modern 32-bit and 64-bit systems, an 'int' is typically 4 bytes (32 bits). On older 16-bit systems, it was 2 bytes."
+  },
+  {
+    "id": 138,
+    "question": "Which layer of the TCP/IP model corresponds to the Network Layer of the OSI model?",
+    "choices": [
+      "Application Layer",
+      "Transport Layer",
+      "Internet Layer",
+      "Network Access Layer"
+    ],
+    "correct_index": 2,
+    "explanation": "The Internet Layer in the TCP/IP model handles routing and logical addressing, corresponding to the Network Layer (Layer 3) of the OSI model."
+  },
+  {
+    "id": 139,
+    "question": "What is a 'Daemon' in Unix/Linux?",
+    "choices": [
+      "A user application",
+      "A background process",
+      "A hardware driver",
+      "A security protocol"
+    ],
+    "correct_index": 1,
+    "explanation": "A daemon is a computer program that runs as a background process, rather than being under the direct control of an interactive user."
+  },
+  {
+    "id": 140,
+    "question": "Which of the following is NOT a valid IPv4 address?",
+    "choices": [
+      "192.168.1.1",
+      "255.255.255.255",
+      "256.1.1.1",
+      "10.0.0.1"
+    ],
+    "correct_index": 2,
+    "explanation": "IPv4 octets range from 0 to 255. 256 is out of range, making 256.1.1.1 invalid."
+  },
+  {
+    "id": 141,
+    "question": "What is the function of the 'Program Counter' (PC) register?",
+    "choices": [
+      "Stores the result of arithmetic operations",
+      "Holds the address of the next instruction to be executed",
+      "Stores the current instruction",
+      "Holds the status flags"
+    ],
+    "correct_index": 1,
+    "explanation": "The Program Counter (PC) holds the memory address of the next instruction to be fetched and executed by the CPU."
+  },
+  {
+    "id": 142,
+    "question": "Which sorting algorithm is stable?",
+    "choices": [
+      "Quick Sort",
+      "Heap Sort",
+      "Merge Sort",
+      "Selection Sort"
+    ],
+    "correct_index": 2,
+    "explanation": "Merge Sort is a stable sorting algorithm, meaning it preserves the relative order of records with equal keys. Quick Sort and Heap Sort are generally unstable."
+  },
+  {
+    "id": 143,
+    "question": "What is 'Virtual Memory'?",
+    "choices": [
+      "Physical RAM",
+      "Hard disk space used as an extension of RAM",
+      "Cache memory",
+      "ROM"
+    ],
+    "correct_index": 1,
+    "explanation": "Virtual memory is a memory management technique that uses hard disk space to simulate additional RAM, allowing systems to run larger applications than physical memory would allow."
+  },
+  {
+    "id": 144,
+    "question": "Which protocol is used for dynamic IP address assignment?",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "ARP",
+      "ICMP"
+    ],
+    "correct_index": 1,
+    "explanation": "DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses and other network configuration parameters to devices on a network."
+  },
+  {
+    "id": 145,
+    "question": "In Object-Oriented Programming, what is 'Polymorphism'?",
+    "choices": [
+      "Hiding data",
+      "Creating new classes from existing ones",
+      "The ability of an object to take many forms",
+      "Binding data and functions together"
+    ],
+    "correct_index": 2,
+    "explanation": "Polymorphism allows objects of different classes to be treated as objects of a common super class, often through method overriding or overloading."
+  },
+  {
+    "id": 146,
+    "question": "What is the maximum length of a CAT5e Ethernet cable for reliable transmission?",
+    "choices": [
+      "50 meters",
+      "100 meters",
+      "200 meters",
+      "500 meters"
+    ],
+    "correct_index": 1,
+    "explanation": "The maximum recommended length for a CAT5e Ethernet cable segment is 100 meters (328 feet) to maintain signal integrity and speed."
+  },
+  {
+    "id": 147,
+    "question": "What is a 'Zero-Day Exploit'?",
+    "choices": [
+      "An exploit that takes zero seconds to run",
+      "An attack that occurs on the same day a vulnerability is discovered",
+      "An exploit with no code",
+      "A virus that deletes zero files"
+    ],
+    "correct_index": 1,
+    "explanation": "A zero-day exploit targets a software vulnerability that is unknown to the vendor or public, meaning there are \"zero days\" of notice to fix it before it is exploited."
+  },
+  {
+    "id": 148,
+    "question": "Which of the following is a character encoding standard?",
+    "choices": [
+      "UTF-8",
+      "JPEG",
+      "MP3",
+      "MPEG"
+    ],
+    "correct_index": 0,
+    "explanation": "UTF-8 is a variable-width character encoding used for electronic communication, capable of encoding all possible characters (code points) in Unicode."
+  },
+  {
+    "id": 149,
+    "question": "What is the purpose of the 'Stack Pointer' (SP)?",
+    "choices": [
+      "Points to the top of the stack",
+      "Points to the bottom of the stack",
+      "Points to the next instruction",
+      "Points to the data segment"
+    ],
+    "correct_index": 0,
+    "explanation": "The Stack Pointer (SP) register holds the address of the top element of the stack, allowing the CPU to push and pop data efficiently."
+  },
+  {
+    "id": 150,
+    "question": "Which of the following is a 'Lossless' image format?",
+    "choices": [
+      "JPEG",
+      "PNG",
+      "MP4",
+      "AVI"
+    ],
+    "correct_index": 1,
+    "explanation": "PNG (Portable Network Graphics) uses lossless compression, preserving all image data. JPEG is lossy. MP4 and AVI are video formats."
+  },
+  {
+    "id": 151,
+    "question": "What is the function of a 'Load Balancer'?",
+    "choices": [
+      "To increase storage capacity",
+      "To distribute network traffic across multiple servers",
+      "To encrypt data",
+      "To backup data"
+    ],
+    "correct_index": 1,
+    "explanation": "A load balancer distributes incoming network traffic across a group of backend servers to ensure no single server becomes overwhelmed, improving responsiveness and availability."
   }
 ]
